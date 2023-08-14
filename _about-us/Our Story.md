@@ -29,36 +29,3 @@ Phase II was launched in 2020 and aims to generate the genomes of 100,000 health
 
 Phase III will implement precision medicine in Singapore on a large scale and Phase III is expected to span from 2024 to 2027. Besides genomic sequencing of up to 1 million people, the genomic data will be linked with clinical and lifestyle data to create large Singaporean databases. Ultimately, doctors and scientists can use these valuable resources to reach a deeper understanding of how diseases develop, and discover better ways to prevent and treat them.
 
-2017 - 2021
------------
-
-*   Generated whole genome sequences of >10,000 Singaporeans
-*   Established Singapore Reference Genome
-*   Developed Innovative Clinical Pathways
-*   Seeded Industry Interest
-  
-
-![What is Precision Medicine?](https://www.npm.sg/wp-content/uploads/2020/12/Phases-e1609167448999.png)
-
-![What is Precision Medicine?](https://www.npm.sg/wp-content/uploads/2020/12/Phases-1-e1609167513591.png)
-
-2021 - 2024
------------
-
-*   Established PRECISE 
-*   Generate whole genome sequences of 100,000 Singaporeans 
-*   Embed genetics in the clinics
-*   Capture economic value
-
-2024 - 2027
------------
-
-*   Establish population scale genomics 
-*   Responsible use of precision medicine 
-*   Export “made-in-Singapore” tools
-  
-  
-  
-  
-
-![What is Precision Medicine?](https://www.npm.sg/wp-content/uploads/2020/12/Phases-2-e1609167543715.png)
