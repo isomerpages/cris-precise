@@ -13,7 +13,8 @@ Transforming Health in Singapore through Precision Medicine
 ## Mission
 
 Coordinate a whole of government effort to implement Singapore’s National Precision Medicine programme, to drive at the national level: data-driven healthcare, improved patient outcomes and economic value capture.
-### Precision Medicine is one of the key goals of Singapore’s Research, Innovation and Enterprise (RIE) 2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
+
+Precision Medicine is one of the key goals of Singapore’s Research, Innovation and Enterprise (RIE) 2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
 
 ![Our Story](https://www.npm.sg/wp-content/uploads/2021/01/2-Im.v1.png)
 
