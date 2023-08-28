@@ -30,4 +30,12 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: What is Precision Medicine?
+      description: Instead of treating all patients the same way, precision medicine
+        takes individual variations in genetics, environmental and lifestyle
+        factors into account ...
+      button: Learn More
+      url: /about-us/why-we-do-it/
+      alt: Image alt text
 ---
