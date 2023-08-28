@@ -24,12 +24,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: What is Precision Medicine?
       description: Instead of treating all patients the same way, precision medicine
