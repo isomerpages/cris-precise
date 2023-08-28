@@ -9,9 +9,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Welcome To PRECISE
+      subtitle: Transforming Health In Singapore Through Precision Medicine
+      background: /images/landing-page-banner_humans-1.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -38,4 +38,5 @@ sections:
       button: Learn More
       url: /about-us/why-we-do-it/
       alt: Image alt text
+      image: /images/About Us/homepage-what-is-the-precision-section.png
 ---
