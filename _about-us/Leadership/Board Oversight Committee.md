@@ -27,7 +27,7 @@ third_nav_title: Leadership
 
 <table>
 	<tbody>
-		<tr height="350">
+		<tr height="300">
 			<td width="25%">
 				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
 						<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-angelique-chan.jpg">
