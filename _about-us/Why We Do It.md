@@ -81,3 +81,29 @@ Most of these national programmes, however, are focused on Western or European p
 <img src="/images/About%20Us/Why%20We%20Do%20It/precise-logo.png" style="width:150px" align="center">
 
 With its multi-ethnic population that captures the diversity of Asia's genomes and strong research capabilities, Singapore is in an ideal position to address our lack of understanding of Asian-specific genetic conditions. Precision Health Research, Singapore (PRECISE) is the central entity coordinating a whole of government effort to implement phase II of Singapore's 10-year National Precision Medicine strategy.
+
+![](/images/About%20Us/Why%20We%20Do%20It/strategy-1161px-1%20(1).jpg)
+
+### HOW WILL MY DATA BE USED?
+
+To realise the potential of precision medicine, genetic data needs to be linked to lifestyle and health information. Scientists can then use this data to find out the significance of each genetic variant and how different treatments or behaviours can change clinical outcomes.
+
+However, there are hundreds of thousands of genetic variants which can each occur in different populations at different levels. To identify the relevant variants, large databases are required. In other words, the more people that participate, the more accurate the predictions can be.
+
+![](/images/About%20Us/Why%20We%20Do%20It/genetic-data-1161px.jpg)
+
+### [Public Engagement Efforts](https://www.researchsquare.com/article/rs-24953/v3)
+
+Our work will not succeed without a vital ingredient: your trust and participation. Here are some activities we have conducted over the years to get your input on what precision medicine can do for Singapore and how we should go about doing it:
+
+![](/images/About%20Us/Why%20We%20Do%20It/public-engagement-efforts_1.gif)
+
+**Your valuable feedback has shaped the way PRECISE is run, including how the data collected  
+is stored, secured and retrieved.**
+
+![](/images/About%20Us/Why%20We%20Do%20It/the-way-precise-run2-1161px.jpg)
+
+### MAKING THE FUTURE OF MEDICINE A REALITY
+
+
+Healthcare has made great strides in the last hundred years. But the next hundred years promise to be even more exciting. Precision medicine will not only improve the lives of patients but will also have a profound impact on the way research is conducted and shape our future economy.
