@@ -13,8 +13,9 @@ third_nav_title: Leadership
 				<a href="/leaders/prof-chng-wee-joo/" target="_blank">
 					<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
 				</a>
-				<div align="center"><b>Prof Chng Wee Joo</b></div>
-				<div align="center">Executive Director</div>
+				<div align="center"><b>Professor
+Patrick Tan</b></div>
+				<div align="center">EXECUTIVE DIRECTOR, PRECISE</div>
 			</td>
 		</tr>
 		<tr>
