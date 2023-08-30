@@ -6,6 +6,8 @@ links:
     collection: research
   - title: Collaborate
     collection: collaborate
+  - title: News and Events
+    resource_room: true
   - title: FAQs
     collection: faqs
   - title: Contact Us
