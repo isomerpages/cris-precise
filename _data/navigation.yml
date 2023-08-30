@@ -1,6 +1,10 @@
 logo: /images/Logos/precise logo - transparent.png
 links:
+  - title: About Us
+    collection: about-us
+  - title: Collaborate
+    collection: collaborate
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: FAQs
+    collection: faqs
