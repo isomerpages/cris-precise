@@ -7,6 +7,17 @@ third_nav_title: Leadership
 <table>
 	<tbody>
 		<tr>
+			<td>
+			</td>
+			<td width="33%">
+				<a href="/leaders/prof-chng-wee-joo/" target="_blank">
+					<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
+				</a>
+				<div align="center"><b>Prof Chng Wee Joo</b></div>
+				<div align="center">Executive Director</div>
+			</td>
+		</tr>
+		<tr>
 			<td width="25%">
 				<a href="/leaders/prof-chng-wee-joo/" target="_blank">
 					<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
