@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Clinical Implementation Pilots.md
-      - Example Title.md
       - Research Highlights.md
