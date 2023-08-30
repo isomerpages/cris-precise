@@ -49,15 +49,14 @@ Instead of treating all patients the same way, precision medicine takes individu
 			<td width="25%">
 				<img src="/images/About%20Us/po-3-image.jpg">
 				<div align="center"><b>OPTIMISED TREATMENTS</b></div>
-				<div align="center">Deputy Director-General of Health,  
-Public Health Group, Ministry of Health</div>
+				<div align="center">Patients receive the right drug at the right time,&nbsp;**improving efficacy**&nbsp;and reducing side-effects</div>
 			</td>
 			<td width="25%">
 				<img src="/images/About%20Us/po-4-image.jpg">
-				<div align="center"><b>Mr Simranjit Singh</b></div>
+				<div align="center"><b>New Treatingmeny 
 				<div align="center">Chief Executive Officer, Asia, Middle East &amp; Africa (AMEA)  
 Guardant Health Pte Ltd</div>
-			</td>
+			</b></div></td>
 		</tr>
 	</tbody>
 </table>
