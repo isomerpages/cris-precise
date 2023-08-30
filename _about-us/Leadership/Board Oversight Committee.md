@@ -30,27 +30,28 @@ third_nav_title: Leadership
 		<tr height="350">
 			<td width="25%">
 				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
-					<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-angelique-chan.jpg">
+						<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-angelique-chan.jpg">
 				</a>
-				<div align="center">A/Prof Angelique Chan<b></b></div>
+				<div align="center"><b>A/Prof Angelique Chan</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-barry-halliwell/" target="_blank">
-					<img src="/images/Leaders/barry-halliwell__stcc.png">
+					<img src="/images/Bio/Board%20Oversight%20Committee/prof-aung-tin.jpg">
 				</a>
-				<div align="center"><b>Prof Barry Halliwell</b></div>
+				<div align="center"><b>Prof Aung Tin</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/dr-vincent-ho/" target="_blank">
-					<img src="/images/Leaders/dr%20vicent%20ho.png">
+					<img src="/images/Bio/Board%20Oversight%20Committee/ds-cheong-wei-yang-1.jpg">
 				</a>
-				<div align="center"><b>Dr Vincent Ho</b></div>
+				<div align="center"><b>Dr Cheong
+Wei Yang</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-william-hwang/" target="_blank">
-					<img src="/images/Leaders/professor%20william%20hwang.png">
+					<img src="/images/Bio/Board%20Oversight%20Committee/aprof-dan-young-nusmed.jpg">
 				</a>
-				<div align="center"><b>Prof William Hwang</b></div>
+				<div align="center"><b>A/Prof Dan Yock Young</b></div>
 			</td>
 		</tr>
 		<tr> <!-- Row 2 -->
