@@ -107,3 +107,11 @@ is stored, secured and retrieved.**
 
 
 Healthcare has made great strides in the last hundred years. But the next hundred years promise to be even more exciting. Precision medicine will not only improve the lives of patients but will also have a profound impact on the way research is conducted and shape our future economy.
+
+![](/images/About%20Us/Why%20We%20Do%20It/mtf-image.png)
+
+### HOW CAN I TAKE PART?
+
+Whether you are a researcher, company representative or ordinary citizen, we want to work with you. Get in touch with us today by emailing&nbsp;[contact@precise.cris.sg](mailto:contact@precise.cris.sg)&nbsp;to find out more about how you can participate in this landmark project.
+
+![](/images/About%20Us/Why%20We%20Do%20It/take-part.jpg)
