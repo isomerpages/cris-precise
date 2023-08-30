@@ -77,3 +77,6 @@ world have initiated national genomics programmes.
 Most of these national programmes, however, are focused on Western or European populations. Asian people—who make up 60% of the world population—are under-represented in these databases.
 
 ### SINGAPORE’S CONTRIBUTION TO PRECISION MEDICINE
+
+<img src="/images/About%20Us/Why%20We%20Do%20It/precise-logo.png" style="width:150px" align="center">
+
