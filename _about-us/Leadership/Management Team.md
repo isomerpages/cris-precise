@@ -21,24 +21,26 @@ Patrick Tan</b></div>
 		<tr>
 			<td width="25%">
 				<a href="/leaders/prof-chng-wee-joo/" target="_blank">
-					<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
+					<img src="/images/Bio/Management%20Team/professor%20tai%20e%20shyong.jpg">
 				</a>
-				<div align="center"><b>Prof Chng Wee Joo</b></div>
-				<div align="center">Executive Director</div>
+				<div align="center"><b>Professor
+Tai E Shyong</b></div>
+				<div align="center">CHIEF MEDICAL OFFICER, PRECISE</div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-lim-soon-thye/" target="_blank">
-					<img src="/images/Leaders/prof%20lim%20soon%20thye.png">
+					<img src="/images/Bio/Management%20Team/professor%20john%20chambers.jpg">
 				</a>
-				<div align="center"><b>Prof Lim Soon Thye</b></div>
-				<div align="center">Co-Director</div>
+				<div align="center"><b>Professor
+John Chambers</b></div>
+				<div align="center">CHIEF SCIENTIFIC OFFICER, PRECISE</div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/mr-clarence-khoo/" target="_blank">
-					<img src="/images/Leaders/mr-clarence-khoo.png">
+					<img src="/images/Bio/Management%20Team/dr%20seow%20shih%20wee.jpg">
 				</a>
-				<div align="center"><b>Mr Clarence Khoo</b></div>
-				<div align="center">Director of Operations and Strategy</div>
+				<div align="center"><b>Dr Seow Shih Wee</b></div>
+				<div align="center">DIRECTOR (CORPORATE SERVICES), PRECISE</div>
 			</td>
 			<td>
 			</td>
