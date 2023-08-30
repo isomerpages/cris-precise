@@ -34,8 +34,14 @@ Instead of treating all patients the same way, precision medicine takes individu
 <table>
 	<tbody>
 		<tr>
-			<td width="25%">
-				<img src="/images/About%20Us/homepage-what-is-the-precision-section.png">
+			<td width="60%">
+Instead of treating all patients the same way, precision medicine takes individual variations in genetics, environmental and lifestyle factors into account, allowing doctors to more accurately predict which treatment and prevention strategies will work in different groups of people. Enabled by tools to analyse data on a large scale and with DNA sequencing becoming more affordable, precision medicine can improve healthcare by giving doctors a more detailed understanding of each patient. 
+			</td>
+			<td><img src="/images/About%20Us/homepage-what-is-the-precision-section.png">
+			</td>
+		</tr>
+	</tbody>
+	</table>
 
 ### Positive Outcomes of Precision Medicine
 
@@ -70,4 +76,4 @@ PRECISION MEDICINE EFFORTS AROUND THE WORLD
 ---------------------------------------------
 
 To help harness the benefits of precision medicine for their people, governments around the  
-world have initiated national genomics programmes.</td></tr></tbody></table>
+world have initiated national genomics programmes.
