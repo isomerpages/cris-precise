@@ -53,10 +53,9 @@ Instead of treating all patients the same way, precision medicine takes individu
 			</td>
 			<td width="25%">
 				<img src="/images/About%20Us/po-4-image.jpg">
-				<div align="center"><b>New Treatingmeny 
-				<div align="center">Chief Executive Officer, Asia, Middle East &amp; Africa (AMEA)  
-Guardant Health Pte Ltd</div>
-			</b></div></td>
+				<div align="center"><b>New Treatment</b></div>
+				<div align="center">Understanding the basis of disease will inform the development of&nbsp;<b>new drugs and therapies</b></div>
+			</td>
 		</tr>
 	</tbody>
 </table>
