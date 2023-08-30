@@ -11,7 +11,7 @@ third_nav_title: Leadership
 			</td>
 			<td width="33%">
 				<a href="/leaders/prof-chng-wee-joo/" target="_blank">
-					<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
+					<img src="/images/Bio/Management%20Team/professor%20patrick%20tan.jpg">
 				</a>
 				<div align="center"><b>Professor
 Patrick Tan</b></div>
