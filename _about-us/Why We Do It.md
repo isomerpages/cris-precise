@@ -80,3 +80,4 @@ Most of these national programmes, however, are focused on Western or European p
 
 <img src="/images/About%20Us/Why%20We%20Do%20It/precise-logo.png" style="width:150px" align="center">
 
+With its multi-ethnic population that captures the diversity of Asia's genomes and strong research capabilities, Singapore is in an ideal position to address our lack of understanding of Asian-specific genetic conditions. Precision Health Research, Singapore (PRECISE) is the central entity coordinating a whole of government effort to implement phase II of Singapore's 10-year National Precision Medicine strategy.
