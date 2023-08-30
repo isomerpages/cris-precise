@@ -12,11 +12,11 @@ third_nav_title: Leadership
 
 <div align="center">
 	<a href="/leaders/dr-benjamin-koh/" target="_blank">
-		<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
+		<img style="width:200px" src="/images/Bio/Board%20Oversight%20Committee/mr-peter-ho-chairman.jpg">
 	</a>
 </div>
 <div align="center">
-	<b>Dr Benjamin Koh</b>
+	<b>Mr Peter Ho (Chairman)</b>
 </div>
 
 <div align="left">
@@ -30,9 +30,9 @@ third_nav_title: Leadership
 		<tr height="350">
 			<td width="25%">
 				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
-					<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
+					<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-angelique-chan.jpg">
 				</a>
-				<div align="center"><b>Prof Chong Yap Seng</b></div>
+				<div align="center">A/Prof Angelique Chan<b></b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-barry-halliwell/" target="_blank">
