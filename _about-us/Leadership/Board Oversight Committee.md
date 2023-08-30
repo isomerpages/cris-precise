@@ -27,7 +27,7 @@ third_nav_title: Leadership
 
 <table>
 	<tbody>
-		<tr height="300">
+		<tr height="350">
 			<td width="25%">
 				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
 						<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-angelique-chan.jpg">
@@ -54,7 +54,7 @@ Wei Yang</b></div>
 				<div align="center"><b>A/Prof Dan Yock Young</b></div>
 			</td>
 		</tr>
-		<tr height="300"> <!-- Row 2 -->
+		<tr height="350"> <!-- Row 2 -->
 			<td width="25%">
 				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
 					<img src="/images/Bio/Board%20Oversight%20Committee/dr-daphne-khoo-2.jpg">
