@@ -60,3 +60,9 @@ Guardant Health Pte Ltd</div>
 		</tr>
 	</tbody>
 </table>
+
+PRECISION MEDICINE EFFORTS AROUND THE WORLD
+---------------------------------------------
+
+To help harness the benefits of precision medicine for their people, governments around the  
+world have initiated national genomics programmes.
