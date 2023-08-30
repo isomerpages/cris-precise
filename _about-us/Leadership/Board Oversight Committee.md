@@ -57,21 +57,27 @@ Wei Yang</b></div>
 		<tr> <!-- Row 2 -->
 			<td width="25%">
 				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
-					<img src="/images/Leaders/professor%20ng%20huck%20hui.png">
+					<img src="/images/Bio/Board%20Oversight%20Committee/dr-daphne-khoo-2.jpg">
 				</a>
-				<div align="center"><b>Prof Ng Huck Hui</b></div>
+				<div align="center"><b>Dr Daphne Khoo</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/ms-elaine-teo/" target="_blank">
-					<img src="/images/Leaders/ms%20elaine%20teo.png">
+					<img src="/images/Bio/Board%20Oversight%20Committee/dr-fidah-alsagoff-photo2.png">
 				</a>
-				<div align="center"><b>Ms. Elaine Teo</b></div>
+				<div align="center"><b>Dr Fidah Alsagoff</b></div>
 			</td>
 			<td width="25%">
 				<a href="/leaders/prof-ashok-venkitaraman/" target="_blank">
-					<img src="/images/Leaders/professor%20ashok%20venkitaraman.png">
+					<img src="/images/Bio/Board%20Oversight%20Committee/prof-joseph-j-y-sung-1.jpg">
 				</a>
-				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
+				<div align="center"><b>Prof Joseph Sung</b></div>
+			</td>
+			<td width="25%">
+				<a href="/leaders/prof-ashok-venkitaraman/" target="_blank">
+					<img src="/images/Bio/Board%20Oversight%20Committee/prof-ng-huck-hui.jpg">
+				</a>
+				<div align="center"><b>Prof Ng Huck Hui</b></div>
 			</td>
 		</tr>		
 	</tbody>
