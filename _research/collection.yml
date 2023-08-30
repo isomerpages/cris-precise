@@ -2,5 +2,5 @@ collections:
   research:
     output: true
     order:
-      - Clinical Implementation Pilots.md
       - Research Highlights.md
+      - Clinical Implementation Pilots.md
