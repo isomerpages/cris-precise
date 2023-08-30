@@ -4,74 +4,32 @@ permalink: /about-us/leadership/scientific-advisory-board/
 description: ""
 third_nav_title: Leadership
 ---
-<div align="left">
-	<h4>Chairman</h4>
-</div>
-
---- 
-
-<div align="center">
-	<a href="/leaders/dr-benjamin-koh/" target="_blank">
-		<img style="width:200px" src="/images/Leaders/dr%20benjamin%20koh.png">
-	</a>
-</div>
-<div align="center">
-	<b>Dr Benjamin Koh</b>
-</div>
-
-<div align="left">
-	<h4>Members</h4>
-</div>
-
----
-
 <table>
 	<tbody>
-		<tr height="350">
+		<tr>
 			<td width="25%">
-				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
-					<img src="/images/Leaders/prof%20chong%20yap%20seng.png">
+				<a href="/leaders/prof-chng-wee-joo/" target="_blank">
+					<img src="/images/Leaders/prof%20chng%20wee%20joo.png">
 				</a>
-				<div align="center"><b>Prof Chong Yap Seng</b></div>
+				<div align="center"><b>Prof Chng Wee Joo</b></div>
+				<div align="center">Executive Director</div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/prof-barry-halliwell/" target="_blank">
-					<img src="/images/Leaders/barry-halliwell__stcc.png">
+				<a href="/leaders/prof-lim-soon-thye/" target="_blank">
+					<img src="/images/Leaders/prof%20lim%20soon%20thye.png">
 				</a>
-				<div align="center"><b>Prof Barry Halliwell</b></div>
+				<div align="center"><b>Prof Lim Soon Thye</b></div>
+				<div align="center">Co-Director</div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/dr-vincent-ho/" target="_blank">
-					<img src="/images/Leaders/dr%20vicent%20ho.png">
+				<a href="/leaders/mr-clarence-khoo/" target="_blank">
+					<img src="/images/Leaders/mr-clarence-khoo.png">
 				</a>
-				<div align="center"><b>Dr Vincent Ho</b></div>
+				<div align="center"><b>Mr Clarence Khoo</b></div>
+				<div align="center">Director of Operations and Strategy</div>
 			</td>
-			<td width="25%">
-				<a href="/leaders/prof-william-hwang/" target="_blank">
-					<img src="/images/Leaders/professor%20william%20hwang.png">
-				</a>
-				<div align="center"><b>Prof William Hwang</b></div>
+			<td>
 			</td>
 		</tr>
-		<tr> <!-- Row 2 -->
-			<td width="25%">
-				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
-					<img src="/images/Leaders/professor%20ng%20huck%20hui.png">
-				</a>
-				<div align="center"><b>Prof Ng Huck Hui</b></div>
-			</td>
-			<td width="25%">
-				<a href="/leaders/ms-elaine-teo/" target="_blank">
-					<img src="/images/Leaders/ms%20elaine%20teo.png">
-				</a>
-				<div align="center"><b>Ms. Elaine Teo</b></div>
-			</td>
-			<td width="25%">
-				<a href="/leaders/prof-ashok-venkitaraman/" target="_blank">
-					<img src="/images/Leaders/professor%20ashok%20venkitaraman.png">
-				</a>
-				<div align="center"><b>Prof Ashok Venkitaraman</b></div>
-			</td>
-		</tr>		
 	</tbody>
 </table>
