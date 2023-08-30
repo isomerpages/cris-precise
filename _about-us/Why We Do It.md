@@ -3,8 +3,8 @@ title: Why We Do It
 permalink: /about-us/why-we-do-it/
 description: ""
 ---
-What is Precision Medicine and Why it Matters
-===============================================
+# What is Precision Medicine and Why it Matters
+
 
 ### What is DNA?
 
@@ -67,8 +67,13 @@ Instead of treating all patients the same way, precision medicine takes individu
 	</tbody>
 </table>
 
-PRECISION MEDICINE EFFORTS AROUND THE WORLD
----------------------------------------------
+### PRECISION MEDICINE EFFORTS AROUND THE WORLD
 
 To help harness the benefits of precision medicine for their people, governments around the  
 world have initiated national genomics programmes.
+
+![](/images/About%20Us/map-1161px%20(1).jpg)
+
+Most of these national programmes, however, are focused on Western or European populations. Asian people—who make up 60% of the world population—are under-represented in these databases.
+
+### SINGAPORE’S CONTRIBUTION TO PRECISION MEDICINE
