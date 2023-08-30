@@ -2,6 +2,8 @@ logo: /images/Logos/precise logo - transparent.png
 links:
   - title: About Us
     collection: about-us
+  - title: Research
+    collection: research
   - title: Collaborate
     collection: collaborate
   - title: FAQs
