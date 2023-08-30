@@ -4,7 +4,7 @@ links:
     collection: about-us
   - title: Collaborate
     collection: collaborate
-  - title: Contact Us
-    url: /contact-us/
   - title: FAQs
     collection: faqs
+  - title: Contact Us
+    url: /contact-us/
