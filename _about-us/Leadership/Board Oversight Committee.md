@@ -54,7 +54,7 @@ Wei Yang</b></div>
 				<div align="center"><b>A/Prof Dan Yock Young</b></div>
 			</td>
 		</tr>
-		<tr> <!-- Row 2 -->
+		<tr height="300"> <!-- Row 2 -->
 			<td width="25%">
 				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
 					<img src="/images/Bio/Board%20Oversight%20Committee/dr-daphne-khoo-2.jpg">
@@ -79,6 +79,19 @@ Wei Yang</b></div>
 				</a>
 				<div align="center"><b>Prof Ng Huck Hui</b></div>
 			</td>
-		</tr>		
-	</tbody>
+		</tr>
+		<tr>
+			<td width="25%">
+				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
+					<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-dr-raymond-chua-photo2.jpg">
+				</a>
+				<div align="center"><b>Adjunct A/Prof Raymond Chua</b></div>
+			</td>
+			<td width="25%">
+				<a href="/leaders/ms-elaine-teo/" target="_blank">
+					<img src="/images/Bio/Board%20Oversight%20Committee/prof-roger-foo.jpg">
+				</a>
+				<div align="center"><b>Prof Roger Foo</b></div>
+			</td>
+	</tr></tbody>
 </table>
