@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
+      - Our Story.md
+      - Why We Do It.md
       - Leadership/.keep
       - Leadership/Board Oversight Committee.md
       - Leadership/Management Team.md
       - Leadership/Scientific Advisory Board.md
-      - Our Story.md
-      - Why We Do It.md
