@@ -43,13 +43,12 @@ Instead of treating all patients the same way, precision medicine takes individu
 			</td>
 			<td width="25%">
 									<img src="/images/About%20Us/po-2-image.jpg">
-				<div align="<div align=">Director  
-Centre for Innovation in Healthcare  
-National University Health System (NUHS)</div>
+					<div align="center"><b> FASTER DIAGNOSES</b></div>
+				<div align="center">De-mystify the causes of rare diseases and accelerate the search for potential treatments</div>
 			</td>
 			<td width="25%">
 				<img src="/images/About%20Us/po-3-image.jpg">
-				<div align="center"><b>Prof Derrick Heng</b></div>
+				<div align="center"><b>OPTIMISED TREATMENTS</b></div>
 				<div align="center">Deputy Director-General of Health,  
 Public Health Group, Ministry of Health</div>
 			</td>
@@ -62,4 +61,3 @@ Guardant Health Pte Ltd</div>
 		</tr>
 	</tbody>
 </table>
-
