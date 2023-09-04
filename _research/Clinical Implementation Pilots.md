@@ -63,4 +63,22 @@ National University of Singapore
 **Scientific Co-PI:**  
 Dr Li Jingmei  
 Group Leader, Genome Institute of Singapore  
-Agency for Science, Technology and Research (A\*STAR)</td></tr></tbody></table>
+Agency for Science, Technology and Research (A\*STAR)
+			</td>
+			<td>
+				This pilot aims to integrate breast cancer risk prediction tools, incorporating both genetic and non-genetic factors, to stratify participants to differing risks of developing breast cancer with the corresponding breast health recommendations. The feasibility of a personal risk-based breast cancer screening paradigm will be assessed, with the aim to ultimately empower educated decisions in screening frequencies to suit personal risk levels to increase participation in routine screening and to optimise efficiency and cost.
+			</td>
+			<td>
+				Alexandra Hospital  
+Bukit Batok Polyclinic  
+Choa Chu Kang Polyclinic  
+Genome Institute of Singapore, A\*STAR  
+Jurong Medical Centre, National University Hospital  
+National Cancer Centre Singapore  
+Ng Teng Fong General Hospital  
+Saw Swee Hock School of Public Health, National University of Singapore  
+Yong Loo Lin School of Medicine, National University of Singapore
+			</td>
+		</tr>
+	</tbody>
+</table>
