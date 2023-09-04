@@ -80,5 +80,33 @@ Saw Swee Hock School of Public Health, National University of Singapore
 Yong Loo Lin School of Medicine, National University of Singapore
 			</td>
 		</tr>
+		<tr>
+			<td>
+				2. Improving access for clinical hereditary cancer genetic testing in Singapore (“HC”)
+
+Clinical Co-PI:
+A/Prof Joanne Ngeow
+Head and Senior Consultant, Cancer Genetics Service, National Cancer Centre Singapore; Genomic Medicine, Lee Kong Chian School of Medicine
+
+Health Economist Co-PI:
+A/Prof Ken Redekop
+Erasmus School of Health Policy and Management, Erasmus University Rotterdam
+				</td>
+			<td>
+				This pilot aims to improve access to clinical hereditary cancer genetic testing in probands (index cases) and First-Degree Relatives (FDRs) in Singapore. This will be done through addressing key barriers such as the identification and ascertainment of individuals with genetic risks of cancer, costs, shortcomings in the conventional proband-mediated process of cascade testing; and understanding reasons behind declining genetic testing.
+			</td>
+			<td>
+				Changi General Hospital
+KK Women’s and Children’s Hospital
+National Cancer Centre Singapore
+National Healthcare Group
+National University Health System
+National University Cancer Institute, Singapore
+Sengkang General Hospital
+Singapore General Hospital
+SingHealth
+Tan Tock Seng Hospital
+			</td>
+		</tr>
 	</tbody>
 </table>
