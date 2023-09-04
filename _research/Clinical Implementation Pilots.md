@@ -108,5 +108,17 @@ SingHealth
 Tan Tock Seng Hospital
 			</td>
 		</tr>
-	</tbody>
+		<tr>
+			<td>
+				3. Addressing the challenges in Case identification, Cascade Screening, Genetic testing and Treatment in Familial Hypercholesterolemia – a cross-cluster clinical implementation program by FHCARE
+(“FH”)
+<br>
+				<b>Clinical Co-PI:</b>
+A/Prof Tavintharan Subramaniam
+Director, Diabetes Centre, Admiralty Medical Centre; Senior Consultant, Department of Medicine, Khoo Teck Puat Hospital;
+<br>
+				<b>Health Economist Co-PI:</b>
+A/Prof Wee Hwee Lin
+Saw Swee Hock School of Public Health, National University of Singapore
+	</td></tr></tbody>
 </table>
