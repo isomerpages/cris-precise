@@ -88,10 +88,10 @@ Yong Loo Lin School of Medicine, National University of Singapore
 A/Prof Joanne Ngeow
 Head and Senior Consultant, Cancer Genetics Service, National Cancer Centre Singapore; Genomic Medicine, Lee Kong Chian School of Medicine
 <br>
-				<b>Health Economist Co-PI:<br>
+				<b>Health Economist Co-PI:</b>
 A/Prof Ken Redekop
 Erasmus School of Health Policy and Management, Erasmus University Rotterdam
-				</b></td>
+				</td>
 			<td>
 				This pilot aims to improve access to clinical hereditary cancer genetic testing in probands (index cases) and First-Degree Relatives (FDRs) in Singapore. This will be done through addressing key barriers such as the identification and ascertainment of individuals with genetic risks of cancer, costs, shortcomings in the conventional proband-mediated process of cascade testing; and understanding reasons behind declining genetic testing.
 			</td>
