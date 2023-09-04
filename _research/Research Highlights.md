@@ -10,8 +10,8 @@ Our research will focus on accelerating health research by combining genetic, li
 We hope to generate new findings that will inform healthcare practices with the goal of improving the efficiency and effectiveness of disease prevention, diagnosis and treatment.
 
 
-Research Highlights
-===================
+### Research Highlights
+
 
 <table>
 	<tbody>
@@ -54,4 +54,3 @@ Research Highlights
 			</td>
 		</tr>
 	</tbody></table>
-	
