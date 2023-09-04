@@ -156,11 +156,11 @@ Programme in Health Services and Systems Research, Duke-NUS Medical School, Sing
 				This pilot aims to implement genetic testing for glomerular diseases in the clinics for Singapore. It also aims to evaluate the cost-effectiveness of genetic testing for glomerular diseases in the local context set against international guidelines. International guidelines have highly recommended genetic testing early in the workup of selected glomerular diseases in adults and children. Genetic testing will be provided to individuals with glomerular diseases, where the treatment plans can be better adjusted, thereby reducing unnecessary risks of immunosuppression to those will not benefit. Specific early interventions, made possible only by early genetic diagnosis, can also be instituted as a result of genetic testing, and they have also been shown to potentially delay kidney failure by more than 2 decades.
 			</td>
 			<td>
-				Duke-NUS Medical School
-KK Women’s and Children’s Hospital
-National University Hospital
-National University of Singapore
-Singapore General Hospital
+				Duke-NUS Medical School<br> 
+KK Women’s and Children’s Hospital<br> 
+National University Hospital<br> 
+National University of Singapore<br> 
+Singapore General Hospital<br> 
 Tan Tock Seng Hospital
 			</td>
 		</tr>
@@ -180,10 +180,10 @@ Saw Swee Hock School of Public Health, National University of Singapore
 				This pilot aims to study the cost-effectiveness and implementation barriers of incorporating pre-emptive multi-drug/multi-gene PGx testing as a pre-emptive precision medicine clinical tool in routine clinical practice. It will also seek to identify the target population most likely to benefit from pre-emptive PGx, and prioritise the clinically actionable drug-gene pairs that should be incorporated into the genotyping platform.
 			</td>
 			<td>
-				Khoo Teck Puat Hospital
-National University Hospital
-Ng Teng Fong General Hospital
-Singapore General Hospital
+				Khoo Teck Puat Hospital<br> 
+National University Hospital<br> 
+Ng Teng Fong General Hospital<br> 
+Singapore General Hospital<br> 
 Tan Tock Seng Hospital
 			</td>
 		</tr>
