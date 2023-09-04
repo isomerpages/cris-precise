@@ -31,15 +31,12 @@ Research Highlights
 				<img src="/images/Research/Research%20Highlights/nature_gene.jpg"><b>Genetic Variation Influencing DNA Methylation Provides Insights into Molecular Mechanisms Regulating Genomic Function</b>
 			</td>
 			<td style="width:33%">
-				<img src="/images/Research/Research%20Highlights/cell%20genomics.jpg"><b>Analysis of clinically relevant variants from ancestrally diverse Asian genomes</b>
+				<img src="/images/Research/Research%20Highlights/cell%20genomics.jpg"><b>GA4GH: International Policies and Standards for Data Sharing across Genomic Research and Healthcare</b>
 			</td>
 			<td style="width:33%">
-				<img src="/images/Research/Research%20Highlights/science%20cover.jpg"><b>Sharing precision medicine data with private industry: Outcomes of a citizens’ jury in Singapore</b>
+				<img src="/images/Research/Research%20Highlights/science%20cover.jpg"><b>Mapping Genomic and Epigenomic Evolution in Cancer Ecosystems</b>
 			</td>
 		</tr>
 		
 	</tbody></table>
 	
-	![](/images/Research/Research%20Highlights/nature_gene.jpg)![](/images/Research/Research%20Highlights/nature_gene.jpg)
-![](/images/Research/Research%20Highlights/cell%20genomics.jpg)
-![](/images/Research/Research%20Highlights/science%20cover.jpg)
