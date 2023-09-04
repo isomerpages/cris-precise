@@ -83,15 +83,15 @@ Yong Loo Lin School of Medicine, National University of Singapore
 		<tr>
 			<td>
 				2. Improving access for clinical hereditary cancer genetic testing in Singapore (“HC”)
-
-Clinical Co-PI:
+<br>
+				<b>Clinical Co-PI:</b>
 A/Prof Joanne Ngeow
 Head and Senior Consultant, Cancer Genetics Service, National Cancer Centre Singapore; Genomic Medicine, Lee Kong Chian School of Medicine
-
-Health Economist Co-PI:
+<br>
+				<b>Health Economist Co-PI:<br>
 A/Prof Ken Redekop
 Erasmus School of Health Policy and Management, Erasmus University Rotterdam
-				</td>
+				</b></td>
 			<td>
 				This pilot aims to improve access to clinical hereditary cancer genetic testing in probands (index cases) and First-Degree Relatives (FDRs) in Singapore. This will be done through addressing key barriers such as the identification and ascertainment of individuals with genetic risks of cancer, costs, shortcomings in the conventional proband-mediated process of cascade testing; and understanding reasons behind declining genetic testing.
 			</td>
