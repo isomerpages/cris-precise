@@ -96,14 +96,14 @@ Erasmus School of Health Policy and Management, Erasmus University Rotterdam
 				This pilot aims to improve access to clinical hereditary cancer genetic testing in probands (index cases) and First-Degree Relatives (FDRs) in Singapore. This will be done through addressing key barriers such as the identification and ascertainment of individuals with genetic risks of cancer, costs, shortcomings in the conventional proband-mediated process of cascade testing; and understanding reasons behind declining genetic testing.
 			</td>
 			<td>
-				Changi General Hospital
-KK Women’s and Children’s Hospital
-National Cancer Centre Singapore
-National Healthcare Group
-National University Health System
-National University Cancer Institute, Singapore
-Sengkang General Hospital
-Singapore General Hospital
+				Changi General Hospital<br> 
+KK Women’s and Children’s Hospital<br> 
+National Cancer Centre Singapore<br> 
+National Healthcare Group<br> 
+National University Health System<br> 
+National University Cancer Institute, Singapore<br> 
+Sengkang General Hospital<br> 
+Singapore General Hospital<br> 
 SingHealth
 Tan Tock Seng Hospital
 			</td>
