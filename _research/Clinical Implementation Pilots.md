@@ -50,16 +50,16 @@ PRECISE has awarded 5 CIPs in :&nbsp;**Breast Cancer, Hereditary &amp; Familial 
 		<tr>
 			<td>
 				1. <b>BREA</b>st Screening&nbsp;<b>T</b>ailored for&nbsp;<b>HE</b>r (BREATHE) – Pilot study of a risk-based breast cancer screening approach in Singapore (“BREATHE”)
-
+<br>
 **Clinical Co-PI:**  
 A/Prof Mikael Hartman  
 Department of Surgery, National University Hospital
-
+<br>
 **Health Economist Co-PI:**  
 Dr Wang Yi  
 Senior Research Fellow, Saw Swee Hock School of Public Health,  
 National University of Singapore
-
+<br>
 **Scientific Co-PI:**  
 Dr Li Jingmei  
 Group Leader, Genome Institute of Singapore  
