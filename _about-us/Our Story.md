@@ -14,9 +14,9 @@ Transforming Health in Singapore through Precision Medicine
 
 Coordinate a whole of government effort to implement Singapore’s National Precision Medicine programme, to drive at the national level: data-driven healthcare, improved patient outcomes and economic value capture.
 
-Precision Medicine is one of the key goals of Singapore’s Research, Innovation and Enterprise (RIE) 2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
+Precision Medicine is one of the key goals of Singapore’s&nbsp;Research, Innovation and Enterprise (RIE)&nbsp;2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
 
-![Our Story](https://www.npm.sg/wp-content/uploads/2021/01/2-Im.v1.png)
+<img src="/images/About%20Us/Our%20Story/our%20story.png" style="width:400px">
 
 Our Story
 ---------
@@ -28,4 +28,3 @@ Phase I of Singapore’s National Precision Medicine (NPM) programme set the sta
 Phase II was launched in 2020 and aims to generate the genomes of 100,000 healthy Singaporeans and 50,000 people with specific diseases. Phase II will pilot clinical implementation of precision medicine approaches and establish data infrastructure for the linkage of genomic data with electronic health records and other data types. Precision Health Research, Singapore (PRECISE) is the central entity incorporated to coordinate Phase II.
 
 Phase III will implement precision medicine in Singapore on a large scale and Phase III is expected to span from 2024 to 2027. Besides genomic sequencing of up to 1 million people, the genomic data will be linked with clinical and lifestyle data to create large Singaporean databases. Ultimately, doctors and scientists can use these valuable resources to reach a deeper understanding of how diseases develop, and discover better ways to prevent and treat them.
-
