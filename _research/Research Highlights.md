@@ -37,6 +37,21 @@ Research Highlights
 				<img src="/images/Research/Research%20Highlights/science%20cover.jpg"><b>Mapping Genomic and Epigenomic Evolution in Cancer Ecosystems</b>
 			</td>
 		</tr>
-		
+		<tr>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/trust%20and%20trade-offs.png"><b>Trust and Trade-Offs in Sharing Data for Precision Medicine: A National Survey of Singapore</b>
+			</td>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/springerv3.png"><b>Religious Perspectives on Precision Medicine in Singapore</b>
+			</td>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/bmc-icon.png"><b>Family history assessment significantly enhances delivery of precision medicine in the genomics era</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/istock-916107606-2-e1609900445301.jpg"><b>“Who is watching the watchdog?”: ethical perspectives of sharing health-related data for precision medicine in Singapore</b>
+			</td>
+		</tr>
 	</tbody></table>
 	
