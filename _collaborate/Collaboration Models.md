@@ -25,14 +25,14 @@ We will ensure that our approaches are anchored on equity of access, data securi
 	<tbody>
 		<tr>
 			<td style="width:50%">
-				<img src="/images/Collaborate/Collaboration%20Models/collaborationmodelpic1.jpg">
 				<b>Public-Private Partnerships</b>
 				We look to form multiple public-private partnerships to scale and strengthen our precision medicine programme, gather larger datasets and support the development of various precision medicine applications.
+				<img src="/images/Collaborate/Collaboration%20Models/collaborationmodelpic1.jpg">
 			</td>
 			<td style="width:50%">
-				<img src="/images/Collaborate/Collaboration%20Models/istock-79334347-e1618302147925.jpg">
 				<b>Research Collaborations</b>
 				Singapore’s precision medicine programme presents novel opportunities for research collaborations across academia and corporate to test prototypes and pilot novel genetic testing programmes.
+				<img src="/images/Collaborate/Collaboration%20Models/istock-79334347-e1618302147925.jpg">
 			</td>
 		</tr>
 	</tbody>
