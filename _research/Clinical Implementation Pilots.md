@@ -143,12 +143,12 @@ Tan Tock Seng Hospital
 		<tr>
 			<td>
 				4. Health and Economic Impact of Next Generation Sequencing in Primary Glomerular Diseases in Singapore (“PGD”)
-
-Clinical Co-PI:
+<br><br>
+<b>Clinical Co-PI:</b>
 A/Prof Ng Kar Hui
 Senior Consultant, Division of Paediatric Nephrology, Dialysis and Renal Transplantation, National University Hospital; National University of Singapore
-
-Health Economist Co-PI:
+<br><br>
+<b>Health Economist Co-PI:</b>
 Prof David Matchar
 Programme in Health Services and Systems Research, Duke-NUS Medical School, Singapore
 			</td>
@@ -167,12 +167,12 @@ Tan Tock Seng Hospital
 		<tr>
 			<td>
 				5. Clinical Implementation of Pre-emptive Pharmacogenomic Testing as a Precision Medicine Tool in Routine Clinical Practice in Singapore (“PGx”)
-
-Clinical Co-PI:
+<br><br>
+				<b>Clinical Co-PI:</b>
 Prof Goh Boon Cher
 Department of Haematology-Oncology, National University Cancer Institute, Singapore
-
-Health Economist Co-PI:
+<br><br>
+				<b>Health Economist Co-PI:</b>
 A/Prof Wee Hwee Lin
 Saw Swee Hock School of Public Health, National University of Singapore
 				</td>
