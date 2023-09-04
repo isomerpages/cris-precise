@@ -83,11 +83,11 @@ Yong Loo Lin School of Medicine, National University of Singapore
 		<tr>
 			<td>
 				2. Improving access for clinical hereditary cancer genetic testing in Singapore (“HC”)
-<br>
+<br><br>
 				<b>Clinical Co-PI:</b>
 A/Prof Joanne Ngeow
 Head and Senior Consultant, Cancer Genetics Service, National Cancer Centre Singapore; Genomic Medicine, Lee Kong Chian School of Medicine
-<br>
+<br><br>
 				<b>Health Economist Co-PI:</b>
 A/Prof Ken Redekop
 Erasmus School of Health Policy and Management, Erasmus University Rotterdam
@@ -112,11 +112,11 @@ Tan Tock Seng Hospital
 			<td>
 				3. Addressing the challenges in Case identification, Cascade Screening, Genetic testing and Treatment in Familial Hypercholesterolemia – a cross-cluster clinical implementation program by FHCARE
 (“FH”)
-<br>
+<br><br>
 				<b>Clinical Co-PI:</b>
 A/Prof Tavintharan Subramaniam
 Director, Diabetes Centre, Admiralty Medical Centre; Senior Consultant, Department of Medicine, Khoo Teck Puat Hospital;
-<br>
+<br><br>
 				<b>Health Economist Co-PI:</b>
 A/Prof Wee Hwee Lin
 Saw Swee Hock School of Public Health, National University of Singapore
