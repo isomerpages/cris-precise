@@ -125,18 +125,18 @@ Saw Swee Hock School of Public Health, National University of Singapore
 				This pilot aims to address the frequent underdiagnosis and undertreatment of Familial Hypercholesterolemia (FH) patients in Singapore through introducing interventions at multiple points from increasing case identification, reducing barriers to maximise cascade screening of First Degree Relatives (FDRs) and adopting a registry approach to address treatment adherence and gaps.
 			</td>
 			<td>
-				Admiralty Medical Centre
-Alexandra Hospital
-Changi General Hospital
-KK Women’s and Children’s Hospital
-Khoo Teck Puat Hospital
-National Healthcare Group Polyclinics
-National University Polyclinics
-National Heart Centre of Singapore
-National University Hospital
-Ng Teng Fong General Hospital
-Sengkang General Hospital
-Singapore General Hospital
+				Admiralty Medical Centre<br> 
+Alexandra Hospital<br> 
+Changi General Hospital<br> 
+KK Women’s and Children’s Hospital<br> 
+Khoo Teck Puat Hospital<br> 
+National Healthcare Group Polyclinics<br> 
+National University Polyclinics<br> 
+National Heart Centre of Singapore<br> 
+National University Hospital<br> 
+Ng Teng Fong General Hospital<br> 
+Sengkang General Hospital<br> 
+Singapore General Hospital<br> 
 Tan Tock Seng Hospital
 			</td>
 		</tr>
