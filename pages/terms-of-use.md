@@ -2,7 +2,32 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-le copyright, trademark and/or other intellectual property laws. All rights, title and/or interests in the Contents are owned by, licensed to or controlled by PRECISE.
+Terms & Conditions
+==================
+
+1\. Thank you for visiting the Precision Health Research, Singapore (PRECISE) website. Access to any page in [www.npm.sg](https://www.npm.sg/) (henceforth known as “Web Site”) is governed by the terms and conditions stipulated below (“Terms”). Your access and use of this Web Site constitutes your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Web Site. In addition, the use of Datasets (as defined in the Singapore Open Data License set out below) contained in this Website is subject to the Singapore Open Data License; in the event of any inconsistency between these Terms of Use and the Singapore Open Data License, the former shall prevail.
+
+2\. This Web Site is maintained by and belongs to PRECISE.
+
+3\. In case of any violation of these Terms of Use, we reserve the right to seek all remedies available under the law and in equity for such violations. These Terms of Use apply in respect of any and all visits to this Web Site, both now and in the future.
+
+4\. In these Terms, any reference to “we”, “our” and “us” refers to PRECISE.
+
+##### Variation
+
+5\. PRECISE may, from time to time and at its sole and absolute discretion, amend these Terms of Use without prior notice. The amended Terms of Use will be posted on this Web Site. Your access and use of this Web Site after the amended Terms of Use have been posted, will constitute your acceptance and agreement to be bound by the amended Terms of Use. To avoid doubt, references to these “Terms of Use” shall include such Terms of Use as amended from time to time by PRECISE and posted on this Web Site.
+
+##### Relying On Information
+
+6\. PRECISE provides this Web Site as a general information source only and is not involved in giving professional advice here. The Web Site may not cover all information available on a particular issue. Before relying on this Web Site, you should do your own checks or obtain professional advice relevant to your particular circumstances.
+
+##### Security
+
+7\. Where appropriate, PRECISE uses available technology to protect the security of communications made through this Web Site. However, PRECISE does not accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through the Web Site. Internet communications may be susceptible to interference or interception by third parties. Despite best efforts, PRECISE makes no warranties that the Web Site is free of infection by computer viruses or other unauthorised software. You should take appropriate steps to keep your information, software and equipment secure. This includes clearing your Internet browser cookies and cache before and after using any services on the Web Site. You should keep your passwords confidential. Please note that we will never ask you for your Sing Pass or any other login password.
+
+##### Proprietary Rights
+
+8\. All materials contained in this Web Site (the “Contents”), including without limitation text, images, music, computer programmers and all other kinds of works, are protected by applicable copyright, trademark and/or other intellectual property laws. All rights, title and/or interests in the Contents are owned by, licensed to or controlled by PRECISE.
 
 ##### Restrictions on Use
 
