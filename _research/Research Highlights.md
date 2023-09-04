@@ -25,5 +25,21 @@ Research Highlights
 			<td style="width:33%">
 				<img src="/images/Research/Research%20Highlights/big-data_cover.png"><b>Sharing precision medicine data with private industry: Outcomes of a citizens’ jury in Singapore</b>
 			</td>
-			
-</tr></tbody></table>
+		</tr>
+		<tr>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/nature_gene.jpg"><b>Genetic Variation Influencing DNA Methylation Provides Insights into Molecular Mechanisms Regulating Genomic Function</b>
+			</td>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/cell%20genomics.jpg"><b>Analysis of clinically relevant variants from ancestrally diverse Asian genomes</b>
+			</td>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/science%20cover.jpg"><b>Sharing precision medicine data with private industry: Outcomes of a citizens’ jury in Singapore</b>
+			</td>
+		</tr>
+		
+	</tbody></table>
+	
+	![](/images/Research/Research%20Highlights/nature_gene.jpg)![](/images/Research/Research%20Highlights/nature_gene.jpg)
+![](/images/Research/Research%20Highlights/cell%20genomics.jpg)
+![](/images/Research/Research%20Highlights/science%20cover.jpg)
