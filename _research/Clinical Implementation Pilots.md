@@ -120,5 +120,25 @@ Director, Diabetes Centre, Admiralty Medical Centre; Senior Consultant, Departme
 				<b>Health Economist Co-PI:</b>
 A/Prof Wee Hwee Lin
 Saw Swee Hock School of Public Health, National University of Singapore
-	</td></tr></tbody>
+			</td>
+			<td>
+				This pilot aims to address the frequent underdiagnosis and undertreatment of Familial Hypercholesterolemia (FH) patients in Singapore through introducing interventions at multiple points from increasing case identification, reducing barriers to maximise cascade screening of First Degree Relatives (FDRs) and adopting a registry approach to address treatment adherence and gaps.
+			</td>
+			<td>
+				Admiralty Medical Centre
+Alexandra Hospital
+Changi General Hospital
+KK Women’s and Children’s Hospital
+Khoo Teck Puat Hospital
+National Healthcare Group Polyclinics
+National University Polyclinics
+National Heart Centre of Singapore
+National University Hospital
+Ng Teng Fong General Hospital
+Sengkang General Hospital
+Singapore General Hospital
+Tan Tock Seng Hospital
+			</td>
+		</tr>
+	</tbody>
 </table>
