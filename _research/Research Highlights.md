@@ -13,4 +13,17 @@ We hope to generate new findings that will inform healthcare practices with the 
 Research Highlights
 ===================
 
-We hope to generate new findings that will inform healthcare practices with the goal of improving the efficiency and effectiveness of disease prevention, diagnosis and treatment.
+<table>
+	<tbody>
+		<tr>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/nature.png"><b>The Singapore National Precision Medicine Strategy</b>
+			</td>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/nature_communications_-_journal_cover.jpeg"><b>The Singapore National Precision Medicine Strategy</b>
+			</td>
+			<td style="width:33%">
+				<img src="/images/Research/Research%20Highlights/big-data_cover.png"><b>The Singapore National Precision Medicine Strategy</b>
+			</td>
+			
+</tr></tbody></table>
