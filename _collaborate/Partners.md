@@ -17,4 +17,7 @@ description: ""
 			<td style="width:33%">
 				<img src="/images/Collaborate/Partners/ilmn_logo_2021_bw.png">
 				<b>ILLUMINA</b>
-			</td></tr></tbody></table>
+			</td>
+		</tr>
+	</tbody>
+</table>
