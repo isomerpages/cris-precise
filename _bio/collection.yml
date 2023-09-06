@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Dr Cheong Wei Yang.md
       - Prof Aung Tin.md
       - A'Prof Angelique Chan.md
       - Mr Peter Ho (Chairman).md
