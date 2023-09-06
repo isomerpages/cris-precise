@@ -2,4 +2,5 @@ collections:
   bio:
     output: true
     order:
+      - A'Prof Angelique Chan.md
       - Mr Peter Ho (Chairman).md
