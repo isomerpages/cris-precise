@@ -11,9 +11,7 @@ sections:
   - hero:
       title: Welcome To PRECISE
       subtitle: Transforming Health In Singapore Through Precision Medicine
-      background: /images/landing-page-banner_humans-1.jpg
-      button: Contact Us
-      url: /contact-us/
+      background: /images/landing-page-accurate-prediction_edit-1 (1).jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
