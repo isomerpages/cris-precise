@@ -11,7 +11,7 @@ third_nav_title: Leadership
 --- 
 
 <div align="center">
-	<a href="/leaders/dr-benjamin-koh/" target="_blank">
+	<a href="/bio/mr-peter-ho/" target="_blank">
 		<img style="width:200px" src="/images/Bio/Board%20Oversight%20Committee/mr-peter-ho-chairman.jpg">
 	</a>
 </div>
