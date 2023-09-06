@@ -2,5 +2,6 @@ collections:
   bio:
     output: true
     order:
+      - Prof Aung Tin.md
       - A'Prof Angelique Chan.md
       - Mr Peter Ho (Chairman).md
