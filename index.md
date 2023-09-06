@@ -13,15 +13,15 @@ sections:
       subtitle: Transforming Health In Singapore Through Precision Medicine
       background: /images/Homepage/landing-page-accurate-prediction_edit-1 (1).jpg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Our Story
+          description: Vision and Mission
+          url: /about-us/our-story/
+        - title: Collaboration Models
+          description: Collaborate With Us
+          url: /collaborate/collaboration-models/
+        - title: Contact Us
+          description: Get in touch with us
+          url: /contact-us/
   - infopic:
       title: What is Precision Medicine?
       description: Instead of treating all patients the same way, precision medicine
