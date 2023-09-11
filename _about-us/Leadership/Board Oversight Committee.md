@@ -35,7 +35,7 @@ third_nav_title: Leadership
 				<div align="center"><b>A/Prof Angelique Chan</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/prof-barry-halliwell/" target="_blank">
+				<a href="/leaders/prof-barry-halliwell/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/prof-aung-tin.jpg">
 				</a>
 				<div align="center"><b>Prof Aung Tin</b></div>
@@ -48,7 +48,7 @@ third_nav_title: Leadership
 Wei Yang</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/prof-william-hwang/" target="_blank">
+				<a href="/leaders/prof-william-hwang/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/aprof-dan-young-nusmed.jpg">
 				</a>
 				<div align="center"><b>A/Prof Dan Yock Young</b></div>
@@ -62,7 +62,7 @@ Wei Yang</b></div>
 				<div align="center"><b>Dr Daphne Khoo</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/ms-elaine-teo/" target="_blank">
+				<a href="/leaders/ms-elaine-teo/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/dr-fidah-alsagoff-photo2.png">
 				</a>
 				<div align="center"><b>Dr Fidah Alsagoff</b></div>
