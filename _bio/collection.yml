@@ -2,15 +2,6 @@ collections:
   bio:
     output: true
     order:
-      - Scientific Advisory Board/Professor Victor J Dzau (Chairman).md
-      - Scientific Advisory Board/Professor Kathryn North AC.md
-      - Scientific Advisory Board/Professor Masayuki Yamamoto.md
-      - Scientific Advisory Board/.keep
-      - Management Team/.keep
-      - Management Team/Professor Patrick Tan.md
-      - Management Team/Professor Tai E Shyong.md
-      - Management Team/Professor John Chambers.md
-      - Management Team/Dr Seow Shih Wee.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Mr Peter Ho (Chairman).md
       - Board Oversight Committee/A'Prof Angelique Chan.md
@@ -23,3 +14,12 @@ collections:
       - Board Oversight Committee/Prof Ng Huck Hui.md
       - Board Oversight Committee/Adjunct A'Prof Raymond Chua.md
       - Board Oversight Committee/Prof Roger Foo.md
+      - Management Team/.keep
+      - Management Team/Professor Patrick Tan.md
+      - Management Team/Professor Tai E Shyong.md
+      - Management Team/Professor John Chambers.md
+      - Management Team/Dr Seow Shih Wee.md
+      - Scientific Advisory Board/.keep
+      - Scientific Advisory Board/Professor Victor J Dzau (Chairman).md
+      - Scientific Advisory Board/Professor Kathryn North AC.md
+      - Scientific Advisory Board/Professor Masayuki Yamamoto.md
