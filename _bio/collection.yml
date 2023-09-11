@@ -2,11 +2,11 @@ collections:
   bio:
     output: true
     order:
-      - Prof Joseph Sung.md
-      - Dr Fidah Alsagoff.md
-      - Dr Daphne Khoo.md
       - Mr Peter Ho (Chairman).md
       - A'Prof Angelique Chan.md
       - Prof Aung Tin.md
       - Dr Cheong Wei Yang.md
       - A'Prof Dan Yock Young.md
+      - Dr Daphne Khoo.md
+      - Dr Fidah Alsagoff.md
+      - Prof Joseph Sung.md
