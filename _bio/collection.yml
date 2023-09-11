@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Board Oversight Committee/Dr Daphne Khoo.md
       - Board Oversight Committee/Prof Aung Tin.md
       - Board Oversight Committee/A'Prof Angelique Chan.md
       - Board Oversight Committee/Mr Peter Ho (Chairman).md
