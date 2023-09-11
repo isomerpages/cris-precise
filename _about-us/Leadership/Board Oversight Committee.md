@@ -11,7 +11,7 @@ third_nav_title: Leadership
 --- 
 
 <div align="center">
-	<a href="/bio/mr-peter-ho/" target="_blank">
+	<a href="/bio/mr-peter-ho/">
 		<img style="width:200px" src="/images/Bio/Board%20Oversight%20Committee/mr-peter-ho-chairman.jpg">
 	</a>
 </div>
@@ -29,7 +29,7 @@ third_nav_title: Leadership
 	<tbody>
 		<tr height="350">
 			<td width="25%">
-				<a href="/leaders/prof-chong-yap-seng/" target="_blank">
+				<a href="/leaders/prof-chong-yap-seng/">
 						<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-angelique-chan.jpg">
 				</a>
 				<div align="center"><b>A/Prof Angelique Chan</b></div>
@@ -41,7 +41,7 @@ third_nav_title: Leadership
 				<div align="center"><b>Prof Aung Tin</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/dr-vincent-ho/" target="_blank">
+				<a href="/leaders/dr-vincent-ho/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/ds-cheong-wei-yang-1.jpg">
 				</a>
 				<div align="center"><b>Dr Cheong
@@ -56,7 +56,7 @@ Wei Yang</b></div>
 		</tr>
 		<tr height="350"> <!-- Row 2 -->
 			<td width="25%">
-				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
+				<a href="/leaders/prof-ng-huck-hui/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/dr-daphne-khoo-2.jpg">
 				</a>
 				<div align="center"><b>Dr Daphne Khoo</b></div>
@@ -68,13 +68,13 @@ Wei Yang</b></div>
 				<div align="center"><b>Dr Fidah Alsagoff</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/prof-ashok-venkitaraman/" target="_blank">
+				<a href="/leaders/prof-ashok-venkitaraman/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/prof-joseph-j-y-sung-1.jpg">
 				</a>
 				<div align="center"><b>Prof Joseph Sung</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/prof-ashok-venkitaraman/" target="_blank">
+				<a href="/leaders/prof-ashok-venkitaraman/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/prof-ng-huck-hui.jpg">
 				</a>
 				<div align="center"><b>Prof Ng Huck Hui</b></div>
@@ -82,13 +82,13 @@ Wei Yang</b></div>
 		</tr>
 		<tr>
 			<td width="25%">
-				<a href="/leaders/prof-ng-huck-hui/" target="_blank">
+				<a href="/leaders/prof-ng-huck-hui/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-dr-raymond-chua-photo2.jpg">
 				</a>
 				<div align="center"><b>Adjunct A/Prof Raymond Chua</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/ms-elaine-teo/" target="_blank">
+				<a href="/leaders/ms-elaine-teo/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/prof-roger-foo.jpg">
 				</a>
 				<div align="center"><b>Prof Roger Foo</b></div>
