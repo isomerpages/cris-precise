@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Dr Fidah Alsagoff.md
       - Dr Daphne Khoo.md
       - Mr Peter Ho (Chairman).md
       - A'Prof Angelique Chan.md
