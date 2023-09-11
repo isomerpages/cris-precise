@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Board Oversight Committee/Prof Roger Foo.md
       - Board Oversight Committee/Adjunct A'Prof Raymond Chua.md
       - Board Oversight Committee/Prof Ng Huck Hui.md
       - Board Oversight Committee/.keep
