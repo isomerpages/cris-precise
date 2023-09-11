@@ -2,9 +2,6 @@ collections:
   bio:
     output: true
     order:
-      - Board Oversight Committee/Prof Roger Foo.md
-      - Board Oversight Committee/Adjunct A'Prof Raymond Chua.md
-      - Board Oversight Committee/Prof Ng Huck Hui.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Mr Peter Ho (Chairman).md
       - Board Oversight Committee/A'Prof Angelique Chan.md
@@ -14,3 +11,6 @@ collections:
       - Board Oversight Committee/Dr Daphne Khoo.md
       - Board Oversight Committee/Dr Fidah Alsagoff.md
       - Board Oversight Committee/Prof Joseph Sung.md
+      - Board Oversight Committee/Prof Ng Huck Hui.md
+      - Board Oversight Committee/Adjunct A'Prof Raymond Chua.md
+      - Board Oversight Committee/Prof Roger Foo.md
