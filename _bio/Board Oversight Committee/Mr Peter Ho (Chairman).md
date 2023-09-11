@@ -6,7 +6,7 @@ third_nav_title: Board Oversight Committee
 ---
 <img src="/images/Bio/Board%20Oversight%20Committee/mr-peter-ho-chairman.jpg" align="center" style="width:300px">
 
-Peter Ho is the Senior Advisor to the Centre for Strategic Futures and a Senior Fellow in the Civil Service College.
+**Peter Ho** is the Senior Advisor to the Centre for Strategic Futures and a Senior Fellow in the Civil Service College.
 
 Peter Ho is Chairman of the Urban Redevelopment Authority of Singapore (URA), Chairman of the Social Science Research Council (SSRC), Chairman of the Singapore Centre on Environmental Life Sciences Engineering (SCELSE), Chairman of the National Supercomputing Centre (NSCC) Steering Committee, Chairman of the Campus for Research Excellence and Technological Enterprise (CREATE) Governing Council, Chairman of the Office for Space Technology &amp; Industry (OSTIn) Board, and Chairman of PRECIsion Health Research, SingaporE (PRECISE) Board Oversight Committee. He is a member of the Board of Trustees of the National University of Singapore (NUS), and a board member of the National Research Foundation (NRF) and of the National Gallery Singapore (NGS), a member of the Board of Governors of the S Rajaratnam School of International Studies (RSIS), and of the Lee Kuan Yew School of Public Policy (LKYSPP).
 
