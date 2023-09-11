@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Board Oversight Committee/Dr Fidah Alsagoff.md
       - Board Oversight Committee/Dr Cheong Wei Yang.md
       - Board Oversight Committee/A'Prof Dan Yock Young.md
       - Board Oversight Committee/Dr Daphne Khoo.md
