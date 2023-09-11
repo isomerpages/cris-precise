@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Scientific Advisory Board/Professor Victor J Dzau (Chairman).md
       - Scientific Advisory Board/Professor Kathryn North AC.md
       - Scientific Advisory Board/Professor Masayuki Yamamoto.md
       - Scientific Advisory Board/.keep
