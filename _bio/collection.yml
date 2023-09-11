@@ -2,11 +2,11 @@ collections:
   bio:
     output: true
     order:
+      - Management Team/.keep
+      - Management Team/Professor Patrick Tan.md
       - Management Team/Professor Tai E Shyong.md
       - Management Team/Professor John Chambers.md
       - Management Team/Dr Seow Shih Wee.md
-      - Management Team/Professor Patrick Tan.md
-      - Management Team/.keep
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Mr Peter Ho (Chairman).md
       - Board Oversight Committee/A'Prof Angelique Chan.md
