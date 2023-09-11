@@ -6,12 +6,12 @@ third_nav_title: Board Oversight Committee
 ---
 <img src="/images/Bio/Board%20Oversight%20Committee/prof-aung-tin.jpg" align="center" style="width:300px">
 
-1.  Chief Executive Officer / Medical Director, Singapore National Eye Centre
-2.  Chair,&nbsp;Ophthalmology &amp; Visual Sciences Academic Clinical Program, Duke-NUS Medical School
-3.  Kwan Im Thong Hood Cho Temple Professor of Ophthalmology and Associate Dean, Duke-NUS Medical School
-4.  Group Director, Research (Scientific), SingHealth
-5.  Chairman of Board, Singapore Eye Research Institute
-6.  Senior Consultant, Glaucoma Department, Singapore National Eye Centre
+1.   Chief Executive Officer / Medical Director, Singapore National Eye Centre
+2.   Chair,&nbsp;Ophthalmology &amp; Visual Sciences Academic Clinical Program, Duke-NUS Medical School
+3.   Kwan Im Thong Hood Cho Temple Professor of Ophthalmology and Associate Dean, Duke-NUS Medical School
+4.   Group Director, Research (Scientific), SingHealth
+5.   Chairman of Board, Singapore Eye Research Institute
+6.   Senior Consultant, Glaucoma Department, Singapore National Eye Centre
 
 Professor Aung is a clinician scientist whose research has secured more than S$20 million in competitive research grant funding, and he is currently the Lead PI of the Large Collaborative Grant (LCG), “Tackling and Reducing Glaucoma Blindness with Emerging Technologies (TARGET), a $25 million multi-disciplinary and multicenter program grant awarded by the National Medical Research Council, Singapore in 2022. Prof Aung was awarded the Nakajima Award (2007) and De Campo Award (2013) by the Asia Pacific Academy of Ophthalmology, the Alcon Research Institute Award (2013), the Singapore Translational Research (STaR) Investigator Award (2014, and 2020), the Robert Ritch Award for Excellence and Innovation in Ophthalmology by the Glaucoma Foundation (2017), as well as numerous other awards/medals.
 
