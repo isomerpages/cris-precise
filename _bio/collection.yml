@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Scientific Advisory Board/Professor Masayuki Yamamoto.md
       - Scientific Advisory Board/.keep
       - Management Team/.keep
       - Management Team/Professor Patrick Tan.md
