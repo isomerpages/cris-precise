@@ -4,7 +4,7 @@ permalink: /bio/angelique-chan/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
-<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-angelique-chan.jpg" align="center" style="width:300px">
+<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-angelique-chan.jpg" align="center" style="width:200px">
 
 **Dr. Angelique Chan** holds joint appointments as Associate Professor in the Signature Program in Health Services &amp; Systems Research, Duke-NUS Medical School and the Department of Sociology, NUS. She is the Inaugural Executive Director of the Centre for Ageing Research &amp; Education (CARE, Duke-NUS). Dr Chan obtained her undergraduate degree, BA (Sociology) from Reed College, her PhD (Sociology) from the University of California at Los Angeles as a Rockefeller Foundation PhD fellowship awardee, and a US National Institute of Aging Post-Doctoral degree at the University of Michigan.
 
