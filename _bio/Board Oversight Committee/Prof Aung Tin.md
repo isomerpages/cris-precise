@@ -4,7 +4,7 @@ permalink: /bio/aung-tin/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
-<img src="/images/Bio/Board%20Oversight%20Committee/prof-aung-tin.jpg" align="center" style="width:300px">
+<img src="/images/Bio/Board%20Oversight%20Committee/prof-aung-tin.jpg" align="center" style="width:200px">
 
 1.   Chief Executive Officer / Medical Director, Singapore National Eye Centre
 2.   Chair,&nbsp;Ophthalmology &amp; Visual Sciences Academic Clinical Program, Duke-NUS Medical School
