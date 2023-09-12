@@ -4,6 +4,8 @@ permalink: /bio/scientific-advisory-board/kathryn-north-ac/
 description: ""
 third_nav_title: Scientific Advisory Board
 ---
+<img src="/images/Bio/Scientific%20Advisory%20Board/prof-kathryn-north.jpg" align="center" style="width:200px">
+
 **Professor Kathryn North AC** is Director of the Murdoch Children’s Research Institute and the David Danks Professor of Child Health Research at the University of Melbourne.
 
 Professor North trained as a paediatrician, neurologist and clinical geneticist and was awarded a research doctorate in neurogenetics. She completed a postdoctoral fellowship in the Harvard Genetics Program. She is one of Australia’s most influential clinician scientists, dedicated to driving Australian medical research towards real improvement in human health. At MCRI, Professor North leads a diverse team of over 1500 researchers focussed on improving the health and wellbeing of children and their families. MCRI’s overarching research strategy encompasses genomics, stem cell medicine, population health, global health, computational biology and clinical translation.
