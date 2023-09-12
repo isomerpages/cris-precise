@@ -4,7 +4,7 @@ permalink: /bio/mr-peter-ho/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
-<img src="/images/Bio/Board%20Oversight%20Committee/mr-peter-ho-chairman.jpg" align="center" style="width:300px">
+<img src="/images/Bio/Board%20Oversight%20Committee/mr-peter-ho-chairman.jpg" align="center" style="width:200px">
 
 **Peter Ho** is the Senior Advisor to the Centre for Strategic Futures and a Senior Fellow in the Civil Service College.
 
