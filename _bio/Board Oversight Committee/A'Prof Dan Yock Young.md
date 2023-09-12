@@ -4,7 +4,7 @@ permalink: /bio/dan-yock-young/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
-<img src="/images/Bio/Board%20Oversight%20Committee/aprof-dan-young-nusmed.jpg" align="center" style="width:300px">
+<img src="/images/Bio/Board%20Oversight%20Committee/aprof-dan-young-nusmed.jpg" align="center" style="width:200px">
 
 **A/Prof Dan Yock Young** is Deputy Director-General of Health (Health Services Group), Ministry of Health; Associate Professor, Dept of Medicine, National University Singapore; Senior Consultant, Division of Gastroenterology and Hepatology, National University Hospital; and is an Associate with the Cancer Science Institute, National University of Singapore and Genome Institute Singapore, Agency for Science, Technology &amp; Research.
 
