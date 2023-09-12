@@ -4,6 +4,8 @@ permalink: /bio/board-oversight-committee/ng-huck-hui/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
+<img src="/images/Bio/Board%20Oversight%20Committee/prof-ng-huck-hui.jpg" align="center" style="width:200px">
+
 **Professor Ng Huck Hui** is the Assistant Chief Executive of the Biomedical Research Council, under the Agency for Science, Technology and Research.
 
 Prof Ng is renowned in the field of gene regulation and genomics. His laboratory is developing diagnostic and therapeutics modalities for brain and liver diseases. Prof Ng had held several administrative positions. He was the Executive Director of the Genome Institute of Singapore and the Executive Director of the A\*STAR Graduate Academy.
