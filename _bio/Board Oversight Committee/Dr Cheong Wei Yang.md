@@ -4,7 +4,7 @@ permalink: /bio/cheong-wei-yang/
 description: ""
 third_nav_title: Board Oversight Committee
 ---
-<img src="/images/Bio/Board%20Oversight%20Committee/mr-peter-ho-chairman.jpg" align="center" style="width:200px">
+<img src="/images/Bio/Board%20Oversight%20Committee/ds-cheong-wei-yang-1.jpg" align="center" style="width:200px">
 
 As Deputy Secretary (Technology) at MOH, Dr Cheong deploys technology against COVID-19, and develops the health research and innovation ecosystem to achieve Healthier SG – i.e. population health, precision health and preventive health. He sits on the Board of Integrated Health Information Systems (IHiS).
 
