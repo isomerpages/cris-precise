@@ -6,14 +6,14 @@ description: ""
 <table>
    <tbody>
       <tr>
-         <td>
+         <td style="width:50%">
             <h4>Vision</h4>
             Transforming Health in Singapore through Precision Medicine
             <br><br>
             <h4>Mission</h4>
             Coordinate a whole of government effort to implement Singapore’s National Precision Medicine programme, to drive at the national level: data-driven healthcare, improved patient outcomes and economic value capture.
          </td>
-         <td>
+         <td style="width:50%">
             <b>Precision Health Research, Singapore (PRECISE)</b> is the central entity set up to coordinate a whole of government effort to implement Phase II of Singapore’s 10-year National Precision Medicine (NPM) strategy.
             NPM Phase II aims to transform healthcare in Singapore and improve patient outcomes through new insights into the Asian genome and data-driven healthcare solutions. NPM Phase II will also enhance the breadth and depth of the Precision Medicine-related industry by attracting and anchoring overseas companies in Singapore while yielding new opportunities for home-grown companies.
          </td>
