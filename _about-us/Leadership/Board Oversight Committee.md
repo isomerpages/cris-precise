@@ -29,26 +29,26 @@ third_nav_title: Leadership
 	<tbody>
 		<tr height="350">
 			<td width="25%">
-				<a href="/leaders/prof-chong-yap-seng/">
+				<a href="/bio/board-oversight-committee/angelique-chan/">
 						<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-angelique-chan.jpg">
 				</a>
 				<div align="center"><b>A/Prof Angelique Chan</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/prof-barry-halliwell/">
+				<a href="/bio/board-oversight-committee/aung-tin/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/prof-aung-tin.jpg">
 				</a>
 				<div align="center"><b>Prof Aung Tin</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/dr-vincent-ho/">
+				<a href="/bio/board-oversight-committee/cheong-wei-yang/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/ds-cheong-wei-yang-1.jpg">
 				</a>
 				<div align="center"><b>Dr Cheong
 Wei Yang</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/prof-william-hwang/">
+				<a href="/bio/board-oversight-committee/dan-yock-young/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/aprof-dan-young-nusmed.jpg">
 				</a>
 				<div align="center"><b>A/Prof Dan Yock Young</b></div>
@@ -56,25 +56,25 @@ Wei Yang</b></div>
 		</tr>
 		<tr height="350"> <!-- Row 2 -->
 			<td width="25%">
-				<a href="/leaders/prof-ng-huck-hui/">
+				<a href="/bio/board-oversight-committee/daphne-khoo/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/dr-daphne-khoo-2.jpg">
 				</a>
 				<div align="center"><b>Dr Daphne Khoo</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/ms-elaine-teo/">
+				<a href="/bio/board-oversight-committee/fidah-alsagoff/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/dr-fidah-alsagoff-photo2.png">
 				</a>
 				<div align="center"><b>Dr Fidah Alsagoff</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/prof-ashok-venkitaraman/">
+				<a href="/bio/board-oversight-committee/joseph-sung/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/prof-joseph-j-y-sung-1.jpg">
 				</a>
 				<div align="center"><b>Prof Joseph Sung</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/prof-ashok-venkitaraman/">
+				<a href="/bio/board-oversight-committee/ng-huck-hui/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/prof-ng-huck-hui.jpg">
 				</a>
 				<div align="center"><b>Prof Ng Huck Hui</b></div>
@@ -82,13 +82,13 @@ Wei Yang</b></div>
 		</tr>
 		<tr>
 			<td width="25%">
-				<a href="/leaders/prof-ng-huck-hui/">
+				<a href="/bio/board-oversight-committee/raymond-chua/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-dr-raymond-chua-photo2.jpg">
 				</a>
 				<div align="center"><b>Adjunct A/Prof Raymond Chua</b></div>
 			</td>
 			<td width="25%">
-				<a href="/leaders/ms-elaine-teo/">
+				<a href="/bio/board-oversight-committee/roger-foo/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/prof-roger-foo.jpg">
 				</a>
 				<div align="center"><b>Prof Roger Foo</b></div>
