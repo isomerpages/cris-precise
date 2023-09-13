@@ -26,7 +26,9 @@ We hope to generate new findings that will inform healthcare practices with the 
 				<img src="/images/Research/Research%20Highlights/nature_communications_-_journal_cover.jpeg"><b>Analysis of clinically relevant variants from ancestrally diverse Asian genomes</b>
 			</a></td>
 			<td style="width:33%">
+				<a href="https://journals.sagepub.com/doi/full/10.1177/20539517221108988">
 				<img src="/images/Research/Research%20Highlights/big-data_cover.png"><b>Sharing precision medicine data with private industry: Outcomes of a citizens’ jury in Singapore</b>
+				</a>
 			</td>
 		</tr>
 		<tr>
