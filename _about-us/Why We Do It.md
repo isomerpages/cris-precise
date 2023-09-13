@@ -29,7 +29,7 @@ not all experience benefits and some even face negative side effects.
 	<tbody>
 		<tr>
 			<td width="60%">
-				<a href="https://www.npm.sg/research/research-highlights/" target="_blank"><b>What is Precision Medicine?</b></a>
+				<a href="https://www.npm.sg/research/research-highlights/" target="_blank"><h4>What is Precision Medicine?</h4></a>
 				<br><br>Instead of treating all patients the same way, precision medicine takes individual variations in genetics, environmental and lifestyle factors into account, allowing doctors to more accurately predict which treatment and prevention strategies will work in different groups of people. Enabled by tools to analyse data on a large scale and with DNA sequencing becoming more affordable, precision medicine can improve healthcare by giving doctors a more detailed understanding of each patient. 
 			</td>
 			<td><img src="/images/About%20Us/Why%20We%20Do%20It/homepage-what-is-the-precision-section.png">
