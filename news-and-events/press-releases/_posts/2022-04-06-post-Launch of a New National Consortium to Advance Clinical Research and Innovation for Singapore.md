@@ -43,10 +43,10 @@ CRIS Chairman, Professor John Lim said: “With Singapore pivoting to a Healthie
 
 For media queries, please contact:
 
-**Charlene Tan  
-**Assistant Manager, Corporate Communications  
+**Charlene Tan**  
+**Assistant Manager, Corporate Communications**
 Email: [charlene.tan@cris.sg](mailto:charlene.tan@cris.sg)
 
-**Lynette Lan  
-**Senior Manager, Corporate Communications  
+**Lynette Lan**  
+**Senior Manager, Corporate Communications**  
 Email: [lynette.tan@cris.sg](mailto:lynette.tan@cris.sg)
