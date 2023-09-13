@@ -25,10 +25,10 @@ NPM Phase II aims to transform healthcare in Singapore and improve patient outco
 <table>
 	<tbody>
 		<tr>
-			<td>
+			<td style="width:60%">
 				Precision Medicine is one of the key goals of Singapore’s Research, Innovation and Enterprise (RIE) 2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
 			</td>
-			<td>
+			<td style="width:40%">
 				<img src="/images/About%20Us/Our%20Story/our%20story.png" style="width:400px">
 			</td>
 	</tr></tbody>
