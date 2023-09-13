@@ -4,35 +4,34 @@ permalink: /about-us/our-story/
 description: ""
 ---
 <table>
-	<tbody>
-		<tr>
-			<td>
-				<h4>Vision</h4>
-				Transforming Health in Singapore through Precision Medicine
-				<br><br>
-		<h4>Mission</h4>
-		Coordinate a whole of government effort to implement Singapore’s National Precision Medicine programme, to drive at the national level: data-driven healthcare, improved patient outcomes and economic value capture.
-		</td>
-		<td>
-	<b>Precision Health Research, Singapore (PRECISE)</b> is the central entity set up to coordinate a whole of government effort to implement Phase II of Singapore’s 10-year National Precision Medicine (NPM) strategy.
-
-NPM Phase II aims to transform healthcare in Singapore and improve patient outcomes through new insights into the Asian genome and data-driven healthcare solutions. NPM Phase II will also enhance the breadth and depth of the Precision Medicine-related industry by attracting and anchoring overseas companies in Singapore while yielding new opportunities for home-grown companies.
-</td>
-</tr>
-</tbody>
+   <tbody>
+      <tr>
+         <td>
+            <h4>Vision</h4>
+            Transforming Health in Singapore through Precision Medicine
+            <br><br>
+            <h4>Mission</h4>
+            Coordinate a whole of government effort to implement Singapore’s National Precision Medicine programme, to drive at the national level: data-driven healthcare, improved patient outcomes and economic value capture.
+         </td>
+         <td>
+            <b>Precision Health Research, Singapore (PRECISE)</b> is the central entity set up to coordinate a whole of government effort to implement Phase II of Singapore’s 10-year National Precision Medicine (NPM) strategy.
+            NPM Phase II aims to transform healthcare in Singapore and improve patient outcomes through new insights into the Asian genome and data-driven healthcare solutions. NPM Phase II will also enhance the breadth and depth of the Precision Medicine-related industry by attracting and anchoring overseas companies in Singapore while yielding new opportunities for home-grown companies.
+         </td>
+      </tr>
+   </tbody>
 </table>
-
 <table>
-	<tbody>
-		<tr>
-			<td style="width:60%">
-				Precision Medicine is one of the key goals of Singapore’s Research, Innovation and Enterprise (RIE) 2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
-			</td>
-			<td style="width:40%">
-				<img src="/images/About%20Us/Our%20Story/our%20story.png" style="width:400px">
-			</td>
-	</tr></tbody>
-	</table>
+   <tbody>
+      <tr>
+         <td style="width:60%">
+            Precision Medicine is one of the key goals of Singapore’s Research, Innovation and Enterprise (RIE) 2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
+         </td>
+         <td style="width:40%">
+            <img src="/images/About%20Us/Our%20Story/our%20story.png">
+         </td>
+      </tr>
+   </tbody>
+</table>
 
 ### Our Story
 			
