@@ -25,7 +25,8 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
+      - email: ""
+      - other: Click <a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/"> here
+          </a> to see our available positions.
     title: Careers
 ---
