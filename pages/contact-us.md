@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Precision Health Research, Singapore
 locations:
   - address:
       - "23 Rochester Park #06-01"
