@@ -85,4 +85,4 @@ CRIS aims to make a positive difference to Singapore patients and researchers by
 
 (Strategic Communications)
 
-**Email:** clarissa.ho@precise.cris.sg
+**Email:** [Clarissa.ho@precise.cris.sg](mailto:Clarissa.ho@precise.cris.sg)
