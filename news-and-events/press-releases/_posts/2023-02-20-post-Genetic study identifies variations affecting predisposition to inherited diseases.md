@@ -11,8 +11,7 @@ image: ""
 
 
 *   **_Genetic factors predisposing Singapore’s ethnic groups to prevalent disease conditions and responses to commonly used medications have been identified_**
-*   **_Many of these factors are under-represented in Western population studies  
-    _**
+*   **_Many of these factors are under-represented in Western population studies _**
 *   **_The studies are part of Singapore’s National Precision Medicine programme which seeks to harness precision medicine to improve the health of Singaporeans_**
 
 **SINGAPORE, 20 February 2023** – Precision Health Research, Singapore (PRECISE) today announced two multi-institutional studies of nearly 10,000 Singaporeans1 identifying genetic variations in ethnic Chinese, Malay and Indian individuals predisposing them to highly prevalent conditions with high disease burden and adverse responses to widely used drugs. The studies are among the first of their kind in Asian populations.
