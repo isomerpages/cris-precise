@@ -22,21 +22,20 @@ NPM Phase II aims to transform healthcare in Singapore and improve patient outco
 </tbody>
 </table>
 
-## Vision
+<table>
+	<tbody>
+		<tr>
+			<td>
+				Precision Medicine is one of the key goals of Singapore’s Research, Innovation and Enterprise (RIE) 2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
+			</td>
+			<td>
+				<img src="/images/About%20Us/Our%20Story/our%20story.png" style="width:400px">
+			</td>
+	</tr></tbody>
+	</table>
 
-Transforming Health in Singapore through Precision Medicine
-
-## Mission
-
-Coordinate a whole of government effort to implement Singapore’s National Precision Medicine programme, to drive at the national level: data-driven healthcare, improved patient outcomes and economic value capture.
-
-Precision Medicine is one of the key goals of Singapore’s&nbsp;Research, Innovation and Enterprise (RIE)&nbsp;2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
-
-<img src="/images/About%20Us/Our%20Story/our%20story.png" style="width:400px">
-
-Our Story
----------
-
+### Our Story
+			
 Making precision medicine in Singapore possible requires long-term commitments from both the government and private industries. This strategy will be implemented as three phases.
 
 Phase I of Singapore’s National Precision Medicine (NPM) programme set the stage by establishing a Singaporean reference database containing 10,000 genomes, and partnering with industry as co-investors in the NPM programme.
