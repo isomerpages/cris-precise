@@ -22,8 +22,9 @@ We hope to generate new findings that will inform healthcare practices with the 
 				</a>
 			</td>
 			<td style="width:33%">
+				<a href="https://www.nature.com/articles/s41467-022-34116-9.epdf?sharing_token=aFgaoBr2-jaDoCtzKV-d-9RgN0jAjWel9jnR3ZoTv0OLS_HLril_jWPK4sdA0kIg4PMPQEUsQul7wNMbFQMT5Ojl_QYu9Gn5jxGTm3D6-jC0yi1miHKNOYYQQnuoggOhSjtwiWW6zVeKfEGfDK80x1PrgqLBb8vIr0XWPEB87M8%3D"> 
 				<img src="/images/Research/Research%20Highlights/nature_communications_-_journal_cover.jpeg"><b>Analysis of clinically relevant variants from ancestrally diverse Asian genomes</b>
-			</td>
+			</a></td>
 			<td style="width:33%">
 				<img src="/images/Research/Research%20Highlights/big-data_cover.png"><b>Sharing precision medicine data with private industry: Outcomes of a citizens’ jury in Singapore</b>
 			</td>
