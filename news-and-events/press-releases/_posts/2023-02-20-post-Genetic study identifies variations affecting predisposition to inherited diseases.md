@@ -67,4 +67,4 @@ For more information, visit [www.npm.sg](https://www.npm.sg/)
 Precision Health Research, Singapore  
 Clarissa Ho  
 Strategic Communications  
-Email: clarissa.ho@precise.cris.sg
+Email: [Clarissa.ho@precise.cris.sg](mailto:Clarissa.ho@precise.cris.sg)
