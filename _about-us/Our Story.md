@@ -9,7 +9,7 @@ description: ""
          <td style="width:50%">
             <h4>Vision</h4>
             Transforming Health in Singapore through Precision Medicine
-            <br><br>
+            <br>
             <h4>Mission</h4>
             Coordinate a whole of government effort to implement Singapore’s National Precision Medicine programme, to drive at the national level: data-driven healthcare, improved patient outcomes and economic value capture.
          </td>
