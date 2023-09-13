@@ -11,7 +11,7 @@ third_nav_title: Leadership
 --- 
 
 <div align="center">
-	<a href="/bio/mr-peter-ho/">
+	<a href="/bio/board-oversight-committee/mr-peter-ho/">
 		<img style="width:200px" src="/images/Bio/Board%20Oversight%20Committee/mr-peter-ho-chairman.jpg">
 	</a>
 </div>
