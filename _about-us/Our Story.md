@@ -21,11 +21,13 @@ description: ""
    </tbody>
 </table>
 
+<br>
 
 <table>
    <tbody>
       <tr>
          <td style="width:50%">
+					 <br>
             Precision Medicine is one of the key goals of Singapore’s <b>Research, Innovation and Enterprise (RIE)</b> 2025 vision for Health and Biomedical Sciences. Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health for Singaporeans. Singapore’s National Precision Medicine Strategy is a 10-year research roadmap to accelerate biomedical research, improve health outcomes and enhance opportunities for economic value across sectors.
          </td>
          <td style="width:50%">
