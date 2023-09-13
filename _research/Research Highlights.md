@@ -17,7 +17,9 @@ We hope to generate new findings that will inform healthcare practices with the 
 	<tbody>
 		<tr>
 			<td style="width:33%">
+				<a href="https://drive.google.com/file/d/1ohjJJ5uK7BbAlqiS0LikQTLU5fMRvmi3/view">
 				<img src="/images/Research/Research%20Highlights/nature.png"><b>The Singapore National Precision Medicine Strategy</b>
+				</a>
 			</td>
 			<td style="width:33%">
 				<img src="/images/Research/Research%20Highlights/nature_communications_-_journal_cover.jpeg"><b>Analysis of clinically relevant variants from ancestrally diverse Asian genomes</b>
