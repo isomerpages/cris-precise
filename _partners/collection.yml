@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Health Intervention and Policy Evaluation Research (HIPER).md
       - SG10K HEALTH.md
       - SG100K.md
       - illumina.md
