@@ -7,7 +7,9 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:33%">
+				<a href="/partners/sg10k/">
 				<img src="/images/Collaborate/Partners/partnerlogo2.png">
+				</a>
 				<b>SG10K_HEALTH</b>
 			</td>
 			<td style="width:33%">
