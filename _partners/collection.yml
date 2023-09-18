@@ -1,4 +1,5 @@
 collections:
   partners:
     output: true
-    order: []
+    order:
+      - SG10K HEALTH.md
