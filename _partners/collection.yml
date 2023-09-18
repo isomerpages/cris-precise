@@ -2,9 +2,9 @@ collections:
   partners:
     output: true
     order:
-      - LifeStrands.md
-      - Trusted Research and Real World Data Utilisation (TRUST).md
-      - National Supercomputing Centre (NSCC).md
       - SG10K HEALTH.md
       - SG100K.md
       - illumina.md
+      - National Supercomputing Centre (NSCC).md
+      - Trusted Research and Real World Data Utilisation (TRUST).md
+      - LifeStrands.md
