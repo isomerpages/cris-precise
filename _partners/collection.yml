@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Health Intervention and Technology Assessment Program (HITAP).md
       - SG10K HEALTH.md
       - SG100K.md
       - illumina.md
@@ -10,6 +9,7 @@ collections:
       - Trusted Research and Real World Data Utilisation (TRUST).md
       - LifeStrands.md
       - Health Intervention and Policy Evaluation Research (HIPER).md
+      - Health Intervention and Technology Assessment Program (HITAP).md
       - Erasmus School of Health Policy & Management (ESHPM), Erasmus University
         Rotterdam.md
       - Global Economics and Evaluation of Clinical Genomics Sequencing Working
