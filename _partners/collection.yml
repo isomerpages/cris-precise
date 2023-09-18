@@ -2,14 +2,14 @@ collections:
   partners:
     output: true
     order:
-      - Global Economics and Evaluation of Clinical Genomics Sequencing Working
-        Group (GEECS).md
-      - Erasmus School of Health Policy & Management (ESHPM), Erasmus University
-        Rotterdam.md
-      - Health Intervention and Policy Evaluation Research (HIPER).md
       - SG10K HEALTH.md
       - SG100K.md
       - illumina.md
       - National Supercomputing Centre (NSCC).md
       - Trusted Research and Real World Data Utilisation (TRUST).md
       - LifeStrands.md
+      - Health Intervention and Policy Evaluation Research (HIPER).md
+      - Erasmus School of Health Policy & Management (ESHPM), Erasmus University
+        Rotterdam.md
+      - Global Economics and Evaluation of Clinical Genomics Sequencing Working
+        Group (GEECS).md
