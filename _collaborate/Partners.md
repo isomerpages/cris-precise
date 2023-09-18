@@ -7,7 +7,7 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:33%">
-				<img src="/images/Collaborate/Partners/sg10k-health.png">
+				<img src="/images/Collaborate/Partners/partnerlogo2.png">
 				<b>SG10K_HEALTH</b>
 			</td>
 			<td style="width:33%">
