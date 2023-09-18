@@ -55,5 +55,3 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-
-![](/images/Collaborate/Partners/sawsweehockschoolofpublichealth_v_no-background.png)![](/images/Collaborate/Partners/hitap-logo1.png)![](/images/Collaborate/Partners/eur_eshpm_endorse_rgb_2400_colour-1.jpg)![](/images/Collaborate/Partners/geecs_logo.jpg)
