@@ -2,6 +2,8 @@ collections:
   partners:
     output: true
     order:
+      - Erasmus School of Health Policy & Management (ESHPM), Erasmus University
+        Rotterdam.md
       - Health Intervention and Policy Evaluation Research (HIPER).md
       - SG10K HEALTH.md
       - SG100K.md
