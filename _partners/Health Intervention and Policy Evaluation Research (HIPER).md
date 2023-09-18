@@ -3,7 +3,7 @@ title: Health Intervention and Policy Evaluation Research (HIPER)
 permalink: /partners/health-intervention-and-policy-evaluation-research-hiper/
 description: ""
 ---
-  ### Evidence Empower Decisions
+### Evidence Empower Decisions
 
 TAGS:&nbsp;[SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH](https://sph.nus.edu.sg/research/hiper/)
 
