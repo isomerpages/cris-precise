@@ -53,7 +53,7 @@ description: ""
 				<b>HEALTH INTERVENTION AND POLICY EVALUATION RESEARCH (HIPER)</b>
 			</td>
 			<td style="width:33%">
-				<a href="/partners/lifestrands/">
+				<a href="/partners/health-intervention-and-technology-assessment-program-hitap/">
 				<img src="/images/Collaborate/Partners/hitap-logo1.png">
 				</a>
 				<b>HEALTH INTERVENTION AND TECHNOLOGY ASSESSMENT PROGRAM (HITAP)</b>
