@@ -42,7 +42,7 @@ The CIP may still be underway, but interest in genetics and genetic testing is s
 
 On the patient side, the CIP is also working on getting the genetic testing consent framework up and educational materials in place. A/Prof Ng said, “We are exploring various things—printed materials, chatbots or possibly even a series of videos that patients and their families can watch before they go for their genetic counselling sessions. The hope is that these initiatives enable us to increase the uptake of genetic testing, as well as streamline processes so that they are less labour-intensive, and more sustainable and scalable in the future.”
 
-_Click [here](https://www.npm.sg/genetic-testing-for-primary-glomerular-disease-life-changing-impact-for-patients-and-families/) to read how A/Prof Ng and Prof Matchar first embarked on their first steps to study the clinical implementation of genetic testing for primary glomerular disease._
+_Click [here](/news-and-events/editorial-features/genetic-testing-for-primary-glomerular-disease-life-changing/) to read how A/Prof Ng and Prof Matchar first embarked on their first steps to study the clinical implementation of genetic testing for primary glomerular disease._
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
