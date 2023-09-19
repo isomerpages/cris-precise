@@ -7,3 +7,5 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Resources/Editorial%20Features/2023/precise-sg100k-top.jpg)
+![](/images/Resources/Editorial%20Features/2023/precise-sg100k-bottom.jpg)
