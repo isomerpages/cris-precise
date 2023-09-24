@@ -32,7 +32,7 @@ This vast interconnectedness means that findings from SG10K can have transformat
 
 **Looking back to the future**
 
-Far from simply satisfying our deep curiosity about where we come from, understanding our ancestry can tell us how we have evolved into the people we are today, and in turn allow us to make predictions for the future, said Liu, who was recently awarded the [President’s Science Award](https://www.npm.sg/from-fruit-fly-scientist-to-founder-of-a-biotech-start-up/) for his contributions to genetics research in Asian population.
+Far from simply satisfying our deep curiosity about where we come from, understanding our ancestry can tell us how we have evolved into the people we are today, and in turn allow us to make predictions for the future, said Liu, who was recently awarded the [President’s Science Award](/news-and-events/editorial-features/from-fruit-fly-scientist-to-founder-of-a-biotech-start-up/) for his contributions to genetics research in Asian population.
 
 In Singapore’s three major ethnic groups, the SG10K pilot study identified 20 locations on chromosomes—known as loci—where gene sequences may have been altered due to natural selection. Fourteen of these 20 loci have links to human traits and disease, which may explain why some are more or less common among Asians than other populations.
 
