@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
+![](/images/Resources/Editorial%20Features/2021/editorial_pm-retrospective-editorial-feature_wtfinal.jpg)
 
 _From early insights into regional variations in drug response to an ambitious transnational project to consolidate genomic data, 2021 saw advances in precision medicine across the board._ 
 
