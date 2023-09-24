@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Resources/Editorial%20Features/2021/dna-molecules-man-and-women-holding-genes-genetics-genomics_1452399326-01_resized.jpg)
+
 _Singapore’s Undiagnosed Disease Program is leveraging genomic sequencing technology to provide a diagnosis to more patients, helping end their diagnostic odysseys._
 
 More than 350 million people around the world suffer from one of more than 6,000 known rare diseases.[\[1\]](https://www.npm.sg/bridging-the-diagnostic-gap/#_edn1) For many of these patients and their families, the journey to discovering the underlying cause, aptly called the diagnostic odyssey, is often a long and arduous process involving multiple specialists and misdiagnoses.
