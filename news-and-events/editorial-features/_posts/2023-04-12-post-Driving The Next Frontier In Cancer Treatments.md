@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Driving The Next Frontier In Cancer Treatments
-==============================================
-
-![](https://www.npm.sg/wp-content/uploads/2023/04/PRECISE-Banner4_1400x800_CHNG-1024x585.jpg)
+![](/images/Resources/Editorial%20Features/2023/precise-banner4_1400x800_chng.jpg)
 
 Cancer remains to be the leading cause of death in Singapore, accounting for over 28% of all deaths annually. But the good news is, compared to when the Singapore Cancer Registry first began tracking population-based cancer in 1968, the survival rate is decidedly higher today.
 
