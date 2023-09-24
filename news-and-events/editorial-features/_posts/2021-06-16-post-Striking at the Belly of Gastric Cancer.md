@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Resources/Editorial%20Features/2021/stomach_web-01.jpg)
+
 _Precision diagnostics could help detect gastric cancer early, buying patients crucial time to seek life-saving treatments._
 
 Every year, around 300 Singaporeans lose the battle against gastric cancer.1 This number is particularly tragic because gastric cancer can be treated—when caught early. The reality, however, is that most patients only find out when it is already too late.
