@@ -10,15 +10,15 @@ image: ""
 
 _Singapore’s Undiagnosed Disease Program is leveraging genomic sequencing technology to provide a diagnosis to more patients, helping end their diagnostic odysseys._
 
-More than 350 million people around the world suffer from one of more than 6,000 known rare diseases.[\[1\]](https://www.npm.sg/bridging-the-diagnostic-gap/#_edn1) For many of these patients and their families, the journey to discovering the underlying cause, aptly called the diagnostic odyssey, is often a long and arduous process involving multiple specialists and misdiagnoses.
+More than 350 million people around the world suffer from one of more than 6,000 known rare diseases.[1] For many of these patients and their families, the journey to discovering the underlying cause, aptly called the diagnostic odyssey, is often a long and arduous process involving multiple specialists and misdiagnoses.
 
 But what if we could reduce this odyssey to a short journey—from an average of seven years to just days? Clinicians and scientists in Singapore’s Undiagnosed Disease Program, [Bringing Research Innovations in Diagnosis of Genetic Diseases in Singapore (BRIDGES),](https://www.singhealthdukenus.com.sg/acp/paediatrics/clinical-overview-and-objectives) have shortened the journey to about 10 days, said Saumya Jamuar, a clinical geneticist at KK Women’s and Children’s Hospital and a Principal Investigator in BRIDGES. This is thanks to a test called RapidSeq, a technology made possible by decades of advances in genomic sequencing.
 
 **Opening the doors to diagnosis**
 
-While not all rare diseases are genetic diseases, the majority—about 80%[\[2\]](https://www.npm.sg/bridging-the-diagnostic-gap/#_edn2)—have their roots in our genes. As such, numerous research programs have been launched worldwide to explore the potential of genomic sequencing for diagnosing rare diseases.
+While not all rare diseases are genetic diseases, the majority—about 80%[2]—have their roots in our genes. As such, numerous research programs have been launched worldwide to explore the potential of genomic sequencing for diagnosing rare diseases.
 
-In Singapore, the BRIDGES team studied this potential in 196 children enrolled in the Singapore Undiagnosed Diseases Research Endeavour for Kids (SUREKids) study. Through genomic sequencing, the team was able to provide a diagnosis to 37.8%[\[3\]](https://www.npm.sg/bridging-the-diagnostic-gap/#_edn3) of the children, who had previously undergone genetics tests but remained undiagnosed or had symptoms that did not fit into any known genetic disorder. With similar programs showing a diagnostic yield ranging from 25 to 40%, these results are in the upper end of the global norm, Jamuar said.
+In Singapore, the BRIDGES team studied this potential in 196 children enrolled in the Singapore Undiagnosed Diseases Research Endeavour for Kids (SUREKids) study. Through genomic sequencing, the team was able to provide a diagnosis to 37.8% [3] of the children, who had previously undergone genetics tests but remained undiagnosed or had symptoms that did not fit into any known genetic disorder. With similar programs showing a diagnostic yield ranging from 25 to 40%, these results are in the upper end of the global norm, Jamuar said.
 
 The team could boost the yield further—above 50% in some cases—by sequencing three or more family members or grouping patients based on their visible symptoms or phenotype, like developmental delay or neuromuscular problems.
 
@@ -32,7 +32,7 @@ Much of the work performed under the BRIDGES program would not have been possibl
 
 “Over 60% of our patients would not have been diagnosed if we were just using public mutation databases which did not contain the variants seen in our patients. This shows the disparity that exists in genomics data, both from healthy individuals and patients,” Jamuar said, referring to the paucity of data from Asian and other ethnic groups in current European-centric public genetics databases.
 
-National Precision Medicine initiatives such as [SG10K\_Health](https://www.npm.sg/collaborate/partners/sg10k/) are proving essential for increasing the diversity of public genetics databases. The BRIDGES team found that 61% of variants in their multi-ethnic Asian population were novel, and have paid it forward by adding variants with predicted pathogenicity to public mutation databases such as ClinVar.
+National Precision Medicine initiatives such as [SG10K\_Health](/partners/sg10k/) are proving essential for increasing the diversity of public genetics databases. The BRIDGES team found that 61% of variants in their multi-ethnic Asian population were novel, and have paid it forward by adding variants with predicted pathogenicity to public mutation databases such as ClinVar.
 
 **Reading between the code for new solutions**
 
