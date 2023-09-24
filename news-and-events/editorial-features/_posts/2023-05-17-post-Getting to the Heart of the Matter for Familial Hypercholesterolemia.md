@@ -42,6 +42,6 @@ A/Prof Wee says, “Of course, the pilot also presents its share of challenges. 
 
 A/Prof Tavintharan says, “On the bright side, I think most stakeholders do see what we see—but it is up to us to prove to them that the numbers also add up!”
 
-Read more about the research behind FH [here](/news-and-events/editorial-features/a-family-affair-familial-hypercholesterolemia-and-the-need-for-early-detection/)
+Read more about the research behind FH [here](/news-and-events/editorial-features/a-family-affair-familial-hypercholesterolemia-and-the-need/)
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
