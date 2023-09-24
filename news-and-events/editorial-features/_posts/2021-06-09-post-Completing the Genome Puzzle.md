@@ -14,7 +14,7 @@ After more than a decade of research and nearly US$3 billion dollars, scientists
 
 While this iteration of the human genome was considered as complete as the technologies of the time could allow, some segments had in fact been left unassembled. Despite some additions from later sequencing efforts, the reference currently used by researchers around the world still lacked about eight percent of the genome.
 
-![](https://www.npm.sg/wp-content/uploads/2021/07/PRECISE_Genomic-Puzzle-Part-1-1024x596.jpg)
+![](/images/Resources/Editorial%20Features/2021/precise_genomic-puzzle-part-1-1024x596%20(1).jpg)
 
 Nearly two decades after the first draft, scientists have now filled in the blanks and completed the sequencing of the human genome in its entirety1.
 
@@ -26,7 +26,7 @@ At the time, state-of-the-art sequencing involved cutting up the human genome in
 
 Efficiency, however, came at the expense of sequencing length, with each segment limited to only a few hundred bases. Like fitting together puzzle pieces based on their edges and curves, the short DNA fragments were aligned and connected according to the overlapping ends of their sequences. This method worked well for reconstructing the majority of the genome, but found little success in regions with plenty of repetitive patterns.
 
-![](https://www.npm.sg/wp-content/uploads/2021/07/PRECISE_Genomic-Puzzle-Part-2-1024x546.jpg)
+![](/images/Resources/Editorial%20Features/2021/precise_genomic-puzzle-part-2-768x410.jpg)
 
 If the DNA is split at an area where there are lengthy repeats, the puzzle pieces either appear nearly identical or contain long overlapping patterns. It would be next to impossible to tell where one fragment ends and the other begins, highlighting the need for high-accuracy sequencing of longer segments that cover these repetitive parts in one go.
 
@@ -34,7 +34,7 @@ If the DNA is split at an area where there are lengthy repeats, the puzzle piece
 
 Aptly named after the ends of organised DNA structures called chromosomes, the international Telomere-to-Telomere consortium2 quite literally went end-to-end in sequencing the human genome, leveraging two recent developments in long-read sequencing methods—Oxford’s Nanopore technology and Pacific Biosciences’ HiFi reads.
 
-![](https://www.npm.sg/wp-content/uploads/2021/07/PRECISE_Genomic-Puzzle-Part-3-947x1024.jpg)
+![](/images/Resources/Editorial%20Features/2021/precise_genomic-puzzle-part-3-768x831.jpg)
 
 **Caption: New DNA sequencing technology from companies like Pacific Biosciences and Oxford Nanopore have enabled scientists to sequence previously missing segments of the human genome. Collectively, they have added 130 million new base pairs, including 115 protein-coding genes.**
 
