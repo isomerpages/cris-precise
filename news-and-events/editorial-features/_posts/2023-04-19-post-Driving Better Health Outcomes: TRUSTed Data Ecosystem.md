@@ -6,9 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-Driving Better Health Outcomes: TRUSTed Data Ecosystem
-======================================================
-
 ![](/images/Resources/Editorial%20Features/2023/precise-web-banner-02-1.jpg)
 
 Mention precision medicine and what probably comes to mind are cutting-edge technologies such as genome sequencing and pharmacogenomics. But without safe and expedient access to good data, these technologies remain promises.
