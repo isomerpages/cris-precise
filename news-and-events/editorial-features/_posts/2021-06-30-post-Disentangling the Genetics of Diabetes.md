@@ -28,7 +28,7 @@ But most diabetics are still able to produce insulin, just not well enough to ke
 
 **Working through complexity**
 
-With so many diabetes subtypes to consider and so many factors to look at, delivering an accurate diagnosis is a herculean task. Thankfully, [precision medicine](https://www.npm.sg/about-us/why-we-do-it/) can help tease apart the complexity of diabetes.
+With so many diabetes subtypes to consider and so many factors to look at, delivering an accurate diagnosis is a herculean task. Thankfully, [precision medicine](/about-us/why-we-do-it/) can help tease apart the complexity of diabetes.
 
 Rather than fixating just on sugar, precision medicine looks at diabetes holistically. Through traditional laboratory techniques, along with cutting-edge gene sequencing and computing technologies, doctors can take stock of a patient’s family history, lifestyle, genetics, diet and blood chemistry (or any combination of these) to efficiently and accurately identify a specific diabetes subtype.
 
@@ -42,7 +42,7 @@ In most cases, there isn’t a clear best choice for treatment, and often, patie
 
 In his opening address for the WHO’s Global Diabetes Compact, PM Lee made clear where the Singaporean government stands. “Tackling diabetes is a major priority for Singapore,” he said. In a bid to beat the disease, parks and fitness facilities have sprouted all throughout the island nation, and regulations around sugary drinks have tightened.
 
-The [National Precision Medicine (NPM)](https://www.npm.sg/about-us/our-story/) project is another frontier in this battle. Singapore recognises the immense value precision medicine can bring to its hospitals and thus has set lofty goals for itself. Through a 10-year whole-of-government development roadmap, its NPM strategy seeks to establish a robust multi-ethnic genomic database with deep phenotypic characterisation that seeks to eventually fully integrate genetics in clinical practice.
+The [National Precision Medicine (NPM)](/about-us/our-story/) project is another frontier in this battle. Singapore recognises the immense value precision medicine can bring to its hospitals and thus has set lofty goals for itself. Through a 10-year whole-of-government development roadmap, its NPM strategy seeks to establish a robust multi-ethnic genomic database with deep phenotypic characterisation that seeks to eventually fully integrate genetics in clinical practice.
 
 In the future, precision medicine will be widely adopted and embedded in clinical pathways as part of Singapore’s journey to transform healthcare for better outcomes. Diabetes is just one of many diseases that could benefit from a data-driven precision medicine approach.
 
