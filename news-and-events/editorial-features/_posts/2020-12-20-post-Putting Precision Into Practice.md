@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Resources/Editorial%20Features/2020/03_shutterstock_1378814072-converted-01-1.jpg)
 
-
-![](/images/Resources/Editorial%20Features/2020/03_shutterstock_1378814072-converted-01-1.jpg)#### _In light of the RIE2025’s recent launch, here’s how precision medicine and PRECISE will help Singapore achieve its goal to advance human health and potential across all fronts._
+#### _In light of the RIE2025’s recent launch, here’s how precision medicine and PRECISE will help Singapore achieve its goal to advance human health and potential across all fronts._
 
 * * *
 
