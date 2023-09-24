@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Resources/Editorial%20Features/2021/diabetes_shutterstock_491240008_resized.jpg)
+
 _The largest meta-analysis of people of East Asian origin to date is adding to a growing genetics resource on type 2 diabetes and bolstering precision medicine efforts in the region._
 
 In the early 20th century, diabetes was a death sentence, leaving sufferers an average of just one year to live. But in 1921, the discovery of insulin, the hormone that helps cells turn sugar into energy, turned this fatal disease into a manageable one.
