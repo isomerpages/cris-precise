@@ -6,9 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-Putting the Nation in Singapore’s NPM Programme
-===============================================
-
 ![](/images/Resources/Editorial%20Features/2023/precise-banner6_1400x800-1.jpg)
 
 By 2030, around one in four citizens in Singapore, or 23.8%, will be aged 65 and above. Naturally, when it comes to planning for the healthcare system, the implication of a rapidly ageing population is significant.
