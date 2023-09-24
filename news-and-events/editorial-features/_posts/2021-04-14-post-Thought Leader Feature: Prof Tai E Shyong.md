@@ -8,7 +8,7 @@ image: ""
 ---
 ![](/images/Resources/Editorial%20Features/2021/es-banner-1024x585.jpg)
 
-**Making Precision Medicine Mainstream**
+### Making Precision Medicine Mainstream
 
 Precision medicine is already impacting patients’ lives and could help doctors do more for their patients, says PRECISE’s Chief Medical Officer, Professor Tai E Shyong.
 
