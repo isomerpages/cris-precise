@@ -22,6 +22,8 @@ sections:
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
+      button: Our story
+      url: /about-us/our-story/
   - infopic:
       title: What is Precision Medicine?
       description: Instead of treating all patients the same way, precision medicine
