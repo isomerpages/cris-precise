@@ -22,8 +22,6 @@ sections:
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
-      button: Our story
-      url: /about-us/our-story/
       variant: center
   - infopic:
       title: What is Precision Medicine?
