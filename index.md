@@ -32,4 +32,8 @@ sections:
       url: /about-us/why-we-do-it/
       alt: Image alt text
       image: /images/Homepage/homepage-what-is-the-precision-section.png
+  - resources:
+      title: Latest News and Events
+      subtitle: BE in the know
+      id: resources
 ---
