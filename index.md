@@ -16,12 +16,12 @@ sections:
         - title: Our Story
           description: Vision and Mission
           url: /about-us/our-story/
-        - title: Collaboration Models
-          description: Collaborate With Us
+        - title: Collaboration with us
+          description: Find out how
           url: /collaborate/collaboration-models/
-        - title: Contact Us
-          description: Get in touch with us
-          url: /contact-us/
+        - title: Research Highlights
+          description: ""
+          url: /research/research-highlights
   - infopic:
       title: What is Precision Medicine?
       description: Instead of treating all patients the same way, precision medicine
