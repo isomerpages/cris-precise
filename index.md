@@ -34,6 +34,6 @@ sections:
       image: /images/Homepage/homepage-what-is-the-precision-section.png
   - resources:
       title: Latest News and Events
-      subtitle: BE in the know
+      subtitle: Be in the know
       id: resources
 ---
