@@ -16,7 +16,7 @@ sections:
         - title: Our Story
           description: Vision and Mission
           url: /about-us/our-story/
-        - title: Collaboration with us
+        - title: Collaborate with us
           description: Find out how
           url: /collaborate/collaboration-models/
         - title: Research Highlights
