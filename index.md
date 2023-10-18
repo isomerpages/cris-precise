@@ -2,8 +2,8 @@
 layout: homepage
 title: Precision Health Research, Singapore (PRECISE)
 description: Precision Health Research, Singapore (PRECISE) is the central
-  entity set up to coordinate a whole of government effort to implement Phase 2
-  of Singapore’s 10-year National Precision Medicine (NPM) strategy.
+  entity set up to coordinate a whole-of-government effort to implement Phase 2
+  of Singapore’s National Precision Medicine (NPM) programme.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
