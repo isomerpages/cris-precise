@@ -6,7 +6,7 @@ description: Precision Health Research, Singapore (PRECISE) is the central
   of Singapore’s National Precision Medicine (NPM) programme.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Welcome To PRECISE
