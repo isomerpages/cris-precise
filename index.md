@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Welcome To PRECISE
       subtitle: Transforming health in Singapore through Precision Medicine
-      background: /images/Homepage/landing-page-accurate-prediction_edit-1 (1).jpg
+      background: /images/landing-page-banner_humans-1.jpg
       key_highlights:
         - title: Our Story
           description: Vision and Mission
