@@ -42,7 +42,7 @@ Dr Lo said, “Yes—for instance, we try and show clinicians how PGx testing ca
 
 “To realise the full potential of pre-emptive PGx testing, we hope it can involve large proportion of the population. But we recognise that we are only at the beginning of this journey, and the team is assessing proactively where an investment of time and effort will yield the greatest payoffs and makes the most economic sense,” Prof Goh said.
 
-_Click [here](https://www.npm.sg/what-it-takes-bringing-pre-emptive-pharmacogenomic-testing-into-routine-clinical-practice/) to read more about how Prof Goh, A/Prof Wee and Dr Lo are bringing pre-emptive pharmacogenomic testing into routine clinical practice here (link to other article)._
+_Click [here](/news-and-events/editorial-features/what-it-takes-bringing-pre-emptive-pharmacogenomic-testing/) to read more about how Prof Goh, A/Prof Wee and Dr Lo are bringing pre-emptive pharmacogenomic testing into routine clinical practice here (link to other article)._
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
