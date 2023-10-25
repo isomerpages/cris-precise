@@ -12,7 +12,7 @@ image: ""
 
  **_In celebration of International Women’s Day, meet women who are advancing precision medicine in Singapore._** **_This is Part One of our four-part series celebrating the achievements of women in STEM._**
 
-Precision medicine, integrated into healthcare, has the potential to yield more precise diagnoses, predict disease risk before symptoms occur, and design customised treatment plans that maximise safety and efficiency.[\[1\]](https://www.npm.sg/growing-precision-meds-role-in-paediatrics-and-beyond/#_ftn1) But how far are we from realising these gains in paediatrics—and medicine?
+Precision medicine, integrated into healthcare, has the potential to yield more precise diagnoses, predict disease risk before symptoms occur, and design customised treatment plans that maximise safety and efficiency. But how far are we from realising these gains in paediatrics—and medicine?
 
 Associate Professor Tan Ee Shien who holds concurrent appointments as Head & Senior Consultant, Genetics Service, KK Women’s and Children’s Hospital (KKH), and Deputy Chief Medical Officer at PRECISE, offers insights on Singapore’s paediatrics landscape today—and how precision medicine can make a difference to children, families, and the Singapore population. 
 
@@ -50,4 +50,4 @@ Associate Professor Tan adds, “And let’s not forget that precision medicine 
 
 References:
 
-[\[1\]](https://www.npm.sg/growing-precision-meds-role-in-paediatrics-and-beyond/#_ftnref1) Johnson KB, Wei WQ, Weeraratne D, Frisse ME, Misulis K, Rhee K, Zhao J, Snowdon JL. Precision Medicine, AI, and the Future of Personalized Health Care. Clin Transl Sci. 2021 Jan;14(1):86-93. doi: 10.1111/cts.12884. Epub 2020 Oct 12. PMID: 32961010; PMCID: PMC7877825.
+Johnson KB, Wei WQ, Weeraratne D, Frisse ME, Misulis K, Rhee K, Zhao J, Snowdon JL. Precision Medicine, AI, and the Future of Personalized Health Care. Clin Transl Sci. 2021 Jan;14(1):86-93. doi: 10.1111/cts.12884. Epub 2020 Oct 12. PMID: 32961010; PMCID: PMC7877825.
