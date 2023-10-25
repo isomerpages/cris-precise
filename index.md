@@ -38,6 +38,16 @@ sections:
       image: /images/Homepage/homepage-what-is-the-precision-section.png
       subtitle: press release
   - infopic:
+      title: PRECISE-SG100K study
+      subtitle: infographic
+      id: infopic
+      description: Translating insights from 100,000 genomic data sets into improved
+        health strategies.
+      button: find out in this infographic
+      url: /news-and-events/editorial-features/sg100k-translating-insights-from-100000-genomic-data-sets/
+      image: /images/Homepage/precise-sg100k-top.png
+      alt: Image alt text
+  - infopic:
       title: Genetic Testing for Primary Glomerular Disease
       subtitle: editorial feature
       id: infopic
