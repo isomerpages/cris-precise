@@ -54,7 +54,7 @@ plugins:
 staging: https://staging.dqnzptkrohwji.amplifyapp.com
 prod: https://master.dqnzptkrohwji.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logos/precise logo - transparent.png
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
