@@ -17,7 +17,7 @@ sections:
           description: Vision and Mission
           url: /about-us/our-story/
         - title: Research Highlights
-          description: ""
+          description: Latest studies
           url: /research/research-highlights
         - title: Collaborate with us
           description: Find out how
