@@ -17,7 +17,7 @@ For Professor Goh Boon Cher, Department of Haematology-Oncology, National Univer
 
 “Just imagine—if we can screen a broad panel of multiple genes for multiple drugs and make the test results readily available and accessible in our electronic medical records (EMR) system, clinicians will be able to make prompt prescription decisions at the point-of-care,” said Prof Goh. “But before that can happen, we’ll need to understand why, despite increasing availability of clinical guidance on how prescribing should be modified based on PGx test results, the uptake remains low.”
 
-“Pre-emptive PGx testing is presently not widely adopted due to barriers such as a lack of awareness and guidance, long turnaround time, counter-intuitive workflows, and the additional costs of testing itself. Hence, our goal with this [clinical implementation pilot](https://www.npm.sg/cip/) (CIP) is to find ways to navigate around these issues—and optimise drug therapy outcomes for patients at the same time,” said Dr Lo.
+“Pre-emptive PGx testing is presently not widely adopted due to barriers such as a lack of awareness and guidance, long turnaround time, counter-intuitive workflows, and the additional costs of testing itself. Hence, our goal with this [clinical implementation pilot](/research/clinical-implementation-pilots/) (CIP) is to find ways to navigate around these issues—and optimise drug therapy outcomes for patients at the same time,” said Dr Lo.
 
 **Tackling Cost Concerns**
 
@@ -47,7 +47,7 @@ Dr Lo continued, “Ultimately, I believe that if we can produce evidence of how
 
 “Yes—we know we have succeeded if all doctors can confidently select the best drug and dose so that patients do not lose the chance of response or is subjected to a preventable toxicity, and yet they will receive the best potential therapeutic outcomes,” Prof Goh concluded.
 
-_Click [here](https://www.npm.sg/pre-emptive-pharmacogenomic-testing-what-is-in-it-for-us/) to read how Prof Goh, A/Prof Wee and Dr Lo are transforming Singapore’s clinical practice to benefit us here (link to other article)._
+_Click [here](/news-and-events/editorial-features/pre-emptive-pharmacogenomic-testing-what-is-in-it-for-us/) to read how Prof Goh, A/Prof Wee and Dr Lo are transforming Singapore’s clinical practice to benefit us here (link to other article)._
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
