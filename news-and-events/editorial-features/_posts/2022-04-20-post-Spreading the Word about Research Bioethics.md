@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Resources/Editorial%20Features/2022/vic-cole-768x664.jpg)
+
 _Engaging large and diverse groups of the public in discussions related to bioethics will ensure that biomedical research and related policies continue to benefit humanity._
 
 Did you know that moral practices in medicine date back to antiquity? One the first known documented examples, the [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath#:~:text=The%20Hippocratic%20Oath%20is%20an,to%20uphold%20specific%20ethical%20standards.), describes the ethical responsibilities physicians have to their patients, including the famous maxim to do no harm. However, such ethical concerns about moral standards are not confined to just medical practitioners—biomedical researchers also have a moral obligation to citizens. After all, biomedical research aims to understand the body for the benefit of society and is often publicly funded. “The public needs to have confidence that what is done in their name, and often with public resources, does indeed serve the public good,” said Dr Victor Cole, a Senior Research Fellow and Programme Director of the National University of Singapore’s Centre for Biomedical Ethics. “Equally, it is important for policy-makers and those working in the biomedical research sector to recognise the importance of the public as stakeholders.”
