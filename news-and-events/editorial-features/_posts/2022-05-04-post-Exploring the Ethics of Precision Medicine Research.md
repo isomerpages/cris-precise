@@ -14,7 +14,7 @@ Imagine you are inside a runaway trolley that is barrelling towards five people 
 
 This iconic trolley problem is a thought experiment often posed to medical students to ready them for the moral decisions they may face as physicians, such as weighing a patient’s preferences against their welfare. Besides the ethical norms for practicing physicians, a consideration of ethics is also essential for data-driven initiatives like precision medicine.
 
-Precision medicine harnesses the clinical, biological and genomic data of large numbers of people to deliver better care and diagnosis for patients. Consequently, understanding the ethical issues surrounding precision medicine research, especially as perceived by the public, can elevate research and participation in initiatives like Singapore’s [National Precision Medicine Programme](https://www.npm.sg/about-us/our-story/). Unveiling the ethics surrounding precision medicine is a key focus of work by  Assistant Professor Tamra Lysaght, Director of Research and Phase Director of the Health Ethics, Law and Professionalism programme at the Centre for Biomedical Ethics at the Yong Loo Lin School of Medicine, National University of Singapore. Here, she discusses her research exploring the ethical aspects of precision medicine in Asia as well as how governments can gain widespread trust and acceptance of national programmes.
+Precision medicine harnesses the clinical, biological and genomic data of large numbers of people to deliver better care and diagnosis for patients. Consequently, understanding the ethical issues surrounding precision medicine research, especially as perceived by the public, can elevate research and participation in initiatives like Singapore’s [National Precision Medicine Programme](/about-us/our-story/). Unveiling the ethics surrounding precision medicine is a key focus of work by  Assistant Professor Tamra Lysaght, Director of Research and Phase Director of the Health Ethics, Law and Professionalism programme at the Centre for Biomedical Ethics at the Yong Loo Lin School of Medicine, National University of Singapore. Here, she discusses her research exploring the ethical aspects of precision medicine in Asia as well as how governments can gain widespread trust and acceptance of national programmes.
 
 **1\. What sparked your interest in biomedical ethics?**
 
@@ -24,7 +24,7 @@ Two of my interviewees were leading a new institute called the National Stem Cel
 
 Upon obtaining my PhD, I moved to Singapore to take up postdoctoral studies at the [NUS Centre for Biomedical Ethics](https://medicine.nus.edu.sg/cbme/) and began collaborating with the scientific community at the
 
-Agency for Science, Technology and Research’s (A\*STAR) [Genome Institute of Singapore](https://www.a-star.edu.sg/gis) (GIS), which at the time was led by Prof Edison Lui. GIS is now under the leadership of Prof Patrick Tan, who is also the Executive Director of [PRECISE](https://www.npm.sg/about-us/our-story/).
+Agency for Science, Technology and Research’s (A\*STAR) [Genome Institute of Singapore](https://www.a-star.edu.sg/gis) (GIS), which at the time was led by Prof Edison Lui. GIS is now under the leadership of Prof Patrick Tan, who is also the Executive Director of [PRECISE](/about-us/our-story/).
 
 **2\. Your research has explored ethical aspects from religious perspectives to perceptions of the terms used in precision medicine. Are there any other questions you hopes to address?**
 
