@@ -25,17 +25,24 @@ sections:
       variant: center
       size: sm
       backgroundColor: gray
-      button: Our story
+      button: OUR STORY
       url: /about-us/our-story/
   - infopic:
-      title: What is Precision Medicine?
-      description: Instead of treating all patients the same way, precision medicine
-        takes individual variations in genetics, environmental and lifestyle
-        factors into account ...
+      title: "10,000 Singaporean genomes found with genetic variations "
+      description: Findings of NPM Phase I, provide opportunities for deeper
+        understanding of genomic diversity in Asian populations, for more
+        accurate diagnosis and treatment.
       button: Learn More
-      url: /about-us/why-we-do-it/
-      alt: Image alt text
+      url: /news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/
       image: /images/Homepage/homepage-what-is-the-precision-section.png
+      subtitle: latest news
+  - infopic:
+      title: Infopic
+      subtitle: latest news
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       title: Latest News and Events
       subtitle: Be in the know
