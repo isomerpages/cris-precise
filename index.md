@@ -58,6 +58,15 @@ sections:
       image: /images/Resources/Editorial Features/2023/glomerular diseases_profiling
         (rev).jpeg
       alt: Image alt text
+  - infopic:
+      title: Mission BREATHE
+      subtitle: editorial feature
+      id: infopic
+      description: Reshaping the age-ased paradigm for breast cancer screening.
+      button: read more
+      url: /news-and-events/editorial-features/mission-breathe-reshaping-the-age-based-paradigm-for-breast/
+      image: /images/Resources/Editorial Features/2023/precise-banner9_1400x800.jpg
+      alt: Image alt text
   - resources:
       title: Latest News and Events
       subtitle: Be in the know
