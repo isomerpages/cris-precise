@@ -2,5 +2,4 @@ collections:
   collaborate:
     output: true
     order:
-      - Collaboration Models.md
       - Partners.md
