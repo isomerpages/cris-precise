@@ -94,7 +94,7 @@ However, there are hundreds of thousands of genetic variants which can each occu
 
 ![](/images/About%20Us/Why%20We%20Do%20It/genetic-data-1161px.jpg)
 
-### [Public Engagement Efforts](https://www.researchsquare.com/article/rs-24953/v3)
+<a href="https://www.researchsquare.com/article/rs-24953/v3"> <h3>Public Engagement Efforts</h3></a>
 
 Our work will not succeed without a vital ingredient: your trust and participation. Here are some activities we have conducted over the years to get your input on what precision medicine can do for Singapore and how we should go about doing it:
 
