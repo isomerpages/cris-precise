@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Resources/Editorial%20Features/2023/tohoku-megabank-logo-grau.jpg)
+![](/images/Resources/Editorial%20Features/2023/tohoku-megabank-logo-grau.png)
 
 _By collecting long-term population health data, the Tohoku Medical Megabank Project paves the way for precision medicine and better health in Japan’s earthquake-stricken areas._
 
