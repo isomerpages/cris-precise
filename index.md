@@ -16,17 +16,15 @@ sections:
         - title: Our Story
           description: Vision and Mission
           url: /about-us/our-story/
-        - title: Collaborate with us
-          description: Find out how
-          url: /collaborate/collaboration-models/
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
+        - title: Collaborate with us
+          description: Find out how
+          url: /collaborate/collaboration-models/
       variant: center
       size: sm
       backgroundColor: gray
-      button: OUR STORY
-      url: /about-us/our-story/
   - infopic:
       title: SG10K studies published
       description: Two genetic studies involving 10,000 Singaporeans identify
