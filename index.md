@@ -35,13 +35,17 @@ sections:
       button: Learn More
       url: /news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/
       image: /images/Homepage/homepage-what-is-the-precision-section.png
-      subtitle: latest news
+      subtitle: press release
   - infopic:
-      title: Infopic
-      subtitle: latest news
+      title: Genetic Testing for Primary Glomerular Disease
+      subtitle: editorial feature
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: A clinical implementation pilot looks to make life-changing impact
+        for patients and families.
+      button: read more
+      url: /news-and-events/editorial-features/genetic-testing-for-primary-glomerular-disease-life-changing/
+      image: /images/Resources/Editorial Features/2023/glomerular diseases_profiling
+        (rev).jpeg
       alt: Image alt text
   - resources:
       title: Latest News and Events
