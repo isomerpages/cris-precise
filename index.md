@@ -34,6 +34,7 @@ sections:
         accurate diagnosis and treatment.
       button: Learn More
       url: /news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/
+      alt: press release
       image: /images/Homepage/homepage-what-is-the-precision-section.png
       subtitle: press release
   - infopic:
