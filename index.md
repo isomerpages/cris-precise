@@ -28,15 +28,15 @@ sections:
       button: OUR STORY
       url: /about-us/our-story/
   - infopic:
-      title: "10,000 Singaporean genomes found with genetic variations "
-      description: Findings of NPM Phase I, provide opportunities for deeper
-        understanding of genomic diversity in Asian populations, for more
-        accurate diagnosis and treatment.
+      title: SG10K studies published
+      description: Two genetic studies involving 10,000 Singaporeans identify
+        variations affecting predisposition to inherited diseases and response
+        to medications
       button: Learn More
       url: /news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/
       alt: press release
       image: /images/Homepage/homepage-what-is-the-precision-section.png
-      subtitle: press release
+      subtitle: Press release
   - infopic:
       title: PRECISE-SG100K study
       subtitle: infographic
