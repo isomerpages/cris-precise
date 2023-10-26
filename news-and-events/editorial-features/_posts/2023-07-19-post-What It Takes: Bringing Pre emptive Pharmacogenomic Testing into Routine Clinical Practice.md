@@ -47,7 +47,7 @@ Dr Lo continued, “Ultimately, I believe that if we can produce evidence of how
 
 “Yes—we know we have succeeded if all doctors can confidently select the best drug and dose so that patients do not lose the chance of response or is subjected to a preventable toxicity, and yet they will receive the best potential therapeutic outcomes,” Prof Goh concluded.
 
-_Click [here](/news-and-events/editorial-features/pre-emptive-pharmacogenomic-testing-what-is-in-it-for-us/) to read how Prof Goh, A/Prof Wee and Dr Lo are transforming Singapore’s clinical practice to benefit us here (link to other article)._
+_Click [here](/news-and-events/editorial-features/pre-emptive-pharmacogenomic-testing-what-is-in-it-for-us/) to read how Prof Goh, A/Prof Wee and Dr Lo are transforming Singapore’s clinical practice to benefit us here._
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
