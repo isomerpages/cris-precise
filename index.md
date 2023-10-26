@@ -65,28 +65,6 @@ sections:
       url: /news-and-events/editorial-features/mission-breathe-reshaping-the-age-based-paradigm-for-breast/
       image: /images/Resources/Editorial Features/2023/precise-banner9_1400x800.jpg
       alt: Image alt text
-  - textcards:
-      title: Key Dates
-      subtitle: latest announcements
-      id: textcards
-      description: to note
-      cards:
-        - title: Call for Proposal
-          description: SG100K dataset
-          linktext: Learn more
-          url: ""
-        - title: NPMA
-          description: 11 Dec 2023
-          linktext: Register here
-          url: ""
-        - title: Editorial
-          description: lorem ipsum
-          linktext: click to win
-          url: ""
-        - title: Precision Medicine Conference
-          description: August 2024
-          linktext: Save the date
-          url: test
   - resources:
       title: Latest News and Events
       subtitle: Be in the know
