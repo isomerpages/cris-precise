@@ -47,3 +47,9 @@ Phase II was launched in 2020 and aims to generate the genomes of 100,000 health
 Phase III will implement precision medicine in Singapore on a large scale and Phase III is expected to span from 2024 to 2027. Besides genomic sequencing of up to 1 million people, the genomic data will be linked with clinical and lifestyle data to create large Singaporean databases. Ultimately, doctors and scientists can use these valuable resources to reach a deeper understanding of how diseases develop, and discover better ways to prevent and treat them.
 
 ![](/images/About%20Us/Our%20Story/precise-our-story-bottom.PNG)
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xOhIPWFo12Y?si=6ZkHiJAoEgZe60in" height="315" width="560"></iframe>
+
+
+
+![](/images/Banners/banners_page%20footer%203%20-%20purple.png)
