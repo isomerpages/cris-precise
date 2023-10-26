@@ -3,16 +3,16 @@ title: Why We Do It
 permalink: /about-us/why-we-do-it/
 description: ""
 ---
-# What is Precision Medicine and Why it Matters
+# **What is Precision Medicine and Why it Matters**
 
 
-### What is DNA?
+### **What is DNA?**
 
 DNA is the instruction book of life. Six billion ‘letters’ long, this book is largely the same between individuals as all humans share 99.9% of their DNA. But the 0.1% difference is what makes each of us unique, and can sometimes even make the difference between health and disease.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/dna%20zoom.gif)
 
-### Medicine as it is Practiced Today
+### **Medicine as it is Practised Today**
 
 Although doctors know that your DNA can influence how you respond to treatments, they don’t routinely sequence your entire DNA book to predict your treatment outcome.
 
@@ -40,7 +40,7 @@ not all experience benefits and some even face negative side effects.
    </tbody>
 </table>
 
-### Positive Outcomes of Precision Medicine
+### **Positive Outcomes of Precision Medicine**
 
 <table>
 	<tbody>
@@ -69,7 +69,7 @@ not all experience benefits and some even face negative side effects.
 	</tbody>
 </table>
 
-### PRECISION MEDICINE EFFORTS AROUND THE WORLD
+### **PRECISION MEDICINE EFFORTS AROUND THE WORLD**
 
 To help harness the benefits of precision medicine for their people, governments around the  
 world have initiated national genomics programmes.
@@ -78,15 +78,16 @@ world have initiated national genomics programmes.
 
 Most of these national programmes, however, are focused on Western or European populations. Asian people—who make up 60% of the world population—are under-represented in these databases.
 
-### SINGAPORE’S CONTRIBUTION TO PRECISION MEDICINE
+### **SINGAPORE’S CONTRIBUTION TO PRECISION MEDICINE**
 
+<p>
 <img src="/images/About%20Us/Why%20We%20Do%20It/precise-logo.png" style="width:150px" align="center">
 
 With its multi-ethnic population that captures the diversity of Asia's genomes and strong research capabilities, Singapore is in an ideal position to address our lack of understanding of Asian-specific genetic conditions. Precision Health Research, Singapore (PRECISE) is the central entity coordinating a whole of government effort to implement phase II of Singapore's 10-year National Precision Medicine strategy.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/strategy-1161px-1%20(1).jpg)
 
-### HOW WILL MY DATA BE USED?
+### **HOW WILL MY DATA BE USED?**
 
 To realise the potential of precision medicine, genetic data needs to be linked to lifestyle and health information. Scientists can then use this data to find out the significance of each genetic variant and how different treatments or behaviours can change clinical outcomes.
 
@@ -94,7 +95,7 @@ However, there are hundreds of thousands of genetic variants which can each occu
 
 ![](/images/About%20Us/Why%20We%20Do%20It/genetic-data-1161px.jpg)
 
-<a href="https://www.researchsquare.com/article/rs-24953/v3"> <h3>Public Engagement Efforts</h3></a>
+<a href="https://www.researchsquare.com/article/rs-24953/v3"> </a></p><h3><a href="https://www.researchsquare.com/article/rs-24953/v3">Public Engagement Efforts</a></h3>
 
 Our work will not succeed without a vital ingredient: your trust and participation. Here are some activities we have conducted over the years to get your input on what precision medicine can do for Singapore and how we should go about doing it:
 
@@ -105,14 +106,14 @@ is stored, secured and retrieved.**
 
 ![](/images/About%20Us/Why%20We%20Do%20It/the-way-precise-run2-1161px.jpg)
 
-### MAKING THE FUTURE OF MEDICINE A REALITY
+### **MAKING THE FUTURE OF MEDICINE A REALITY**
 
 
 Healthcare has made great strides in the last hundred years. But the next hundred years promise to be even more exciting. Precision medicine will not only improve the lives of patients but will also have a profound impact on the way research is conducted and shape our future economy.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/mtf-image.png)
 
-### HOW CAN I TAKE PART?
+### **HOW CAN I TAKE PART?**
 
 Whether you are a researcher, company representative or ordinary citizen, we want to work with you. Get in touch with us today by emailing&nbsp;[contact@precise.cris.sg](mailto:contact@precise.cris.sg)&nbsp;to find out more about how you can participate in this landmark project.
 
