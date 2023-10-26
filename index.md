@@ -63,7 +63,7 @@ sections:
         health strategies.
       button: Read more
       url: /news-and-events/editorial-features/sg100k-translating-insights-from-100000-genomic-data-sets/
-      image: /images/Homepage/precise-sg100k-top.png
+      image: /images/Homepage/sg100k.png
       alt: Image alt text
   - infopic:
       title: Pre-Emptive Pharmacogenomic Testing
