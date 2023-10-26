@@ -36,12 +36,12 @@ sections:
       image: /images/Homepage/homepage-what-is-the-precision-section.png
       subtitle: SG10K
   - infopic:
-      title: PRECISE-SG100K study
-      subtitle: infographic
+      title: Insights from 100,000 Singaporean genomes
+      subtitle: PRECISE-SG100K
       id: infopic
       description: Translating insights from 100,000 genomic data sets into improved
         health strategies.
-      button: find out in this infographic
+      button: Read more
       url: /news-and-events/editorial-features/sg100k-translating-insights-from-100000-genomic-data-sets/
       image: /images/Homepage/precise-sg100k-top.png
       alt: Image alt text
