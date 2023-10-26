@@ -44,7 +44,7 @@ sections:
         - title: Data Access
           description: ""
           linktext: More
-          url: https://www.mdpi.com/2075-4426/11/9/921
+          url: https://npm.a-star.edu.sg/
   - infopic:
       title: Discoveries from mapping 10,000 genomes
       description: Two genetic studies involving 10,000 Singaporeans identify
