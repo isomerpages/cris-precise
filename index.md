@@ -31,8 +31,8 @@ sections:
         variations affecting predisposition to inherited diseases and response
         to medications
       button: Learn More
-      url: /news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/
-      alt: press release
+      url: /news-and-events/editorial-features/sg10k-discoveries-from-mapping-10000-genomes/
+      alt: infographic
       image: /images/Homepage/homepage-what-is-the-precision-section.png
       subtitle: SG10K
   - infopic:
