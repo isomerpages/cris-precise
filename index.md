@@ -30,9 +30,14 @@ sections:
       id: announcements
       subtitle: Latest announcements
       announcement_items:
-        - title: SG100K Call for Proposals
+        - title: Grant Call
           date: 26 October 2023
-          announcement: Announcement content
+          announcement: Call for Proposals. Submit by 31 Dec 2023
+          link_text: click here
+          link_url: /about
+        - title: "NPMA "
+          date: 25 October 2023
+          announcement: Register now
           link_text: ""
           link_url: ""
   - infopic:
@@ -79,4 +84,27 @@ sections:
       title: Latest News and Events
       subtitle: Be in the know
       id: resources
+  - textcards:
+      title: Key Dates
+      subtitle: latest announcements
+      id: textcards
+      description: to note
+      cards:
+        - title: Call for Proposal
+          description: |
+            SG100K dataset
+          linktext: Learn more
+          url: ""
+        - title: NPMA
+          description: 11 Dec 2023
+          linktext: Register here
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: test
 ---
