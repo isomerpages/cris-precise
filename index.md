@@ -22,11 +22,9 @@ sections:
         - title: Collaborate with us
           description: Find out how
           url: /collaborate/collaboration-models/
-      variant: floating
+      variant: center
       size: sm
       backgroundColor: gray
-      button: our story
-      url: /about
   - textcards:
       title: Key Dates
       subtitle: latest announcements
@@ -34,8 +32,7 @@ sections:
       description: to note
       cards:
         - title: Call for Proposal
-          description: |
-            SG100K dataset
+          description: SG100K dataset
           linktext: Learn more
           url: ""
         - title: NPMA
@@ -60,7 +57,7 @@ sections:
           announcement: Call for Proposals. Submit by 31 Dec 2023
           link_text: click here
           link_url: /about
-        - title: "NPMA "
+        - title: NPMA
           date: 25 October 2023
           announcement: Register now
           link_text: ""
