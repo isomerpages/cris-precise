@@ -117,3 +117,5 @@ Healthcare has made great strides in the last hundred years. But the next hundre
 Whether you are a researcher, company representative or ordinary citizen, we want to work with you. Get in touch with us today by emailing&nbsp;[contact@precise.cris.sg](mailto:contact@precise.cris.sg)&nbsp;to find out more about how you can participate in this landmark project.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/take-part.jpg)
+
+![](/images/Banners/banners_page%20footer%201%20-%20purple.png)
