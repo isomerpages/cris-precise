@@ -25,43 +25,6 @@ sections:
       variant: center
       size: sm
       backgroundColor: gray
-  - textcards:
-      title: Key Dates
-      subtitle: latest announcements
-      id: textcards
-      description: to note
-      cards:
-        - title: Call for Proposal
-          description: SG100K dataset
-          linktext: Learn more
-          url: ""
-        - title: NPMA
-          description: 11 Dec 2023
-          linktext: Register here
-          url: ""
-        - title: Editorial
-          description: lorem ipsum
-          linktext: click to win
-          url: ""
-        - title: Precision Medicine Conference
-          description: August 2024
-          linktext: Save the date
-          url: test
-  - announcements:
-      title: Key Dates
-      id: announcements
-      subtitle: Latest announcements
-      announcement_items:
-        - title: Grant Call
-          date: 26 October 2023
-          announcement: Call for Proposals. Submit by 31 Dec 2023
-          link_text: click here
-          link_url: /about
-        - title: NPMA
-          date: 25 October 2023
-          announcement: Register now
-          link_text: ""
-          link_url: ""
   - infopic:
       title: SG10K studies published
       description: Two genetic studies involving 10,000 Singaporeans identify
@@ -102,6 +65,28 @@ sections:
       url: /news-and-events/editorial-features/mission-breathe-reshaping-the-age-based-paradigm-for-breast/
       image: /images/Resources/Editorial Features/2023/precise-banner9_1400x800.jpg
       alt: Image alt text
+  - textcards:
+      title: Key Dates
+      subtitle: latest announcements
+      id: textcards
+      description: to note
+      cards:
+        - title: Call for Proposal
+          description: SG100K dataset
+          linktext: Learn more
+          url: ""
+        - title: NPMA
+          description: 11 Dec 2023
+          linktext: Register here
+          url: ""
+        - title: Editorial
+          description: lorem ipsum
+          linktext: click to win
+          url: ""
+        - title: Precision Medicine Conference
+          description: August 2024
+          linktext: Save the date
+          url: test
   - resources:
       title: Latest News and Events
       subtitle: Be in the know
