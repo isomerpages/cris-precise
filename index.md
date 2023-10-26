@@ -21,7 +21,7 @@ sections:
           url: /research/research-highlights
         - title: Latest news
           description: Be in the know
-          url: ""
+          url: /news-and-events/
         - title: Collaborate with us
           description: Find out how
           url: /collaborate/collaboration-models/
