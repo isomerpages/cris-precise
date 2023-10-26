@@ -99,12 +99,12 @@ sections:
           description: 11 Dec 2023
           linktext: Register here
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Editorial
+          description: lorem ipsum
+          linktext: click to win
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Precision Medicine Conference
+          description: August 2024
+          linktext: Save the date
           url: test
 ---
