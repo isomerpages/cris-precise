@@ -19,6 +19,9 @@ sections:
         - title: Research Highlights
           description: Latest studies
           url: /research/research-highlights
+        - title: Latest news
+          description: Be in the know
+          url: ""
         - title: Collaborate with us
           description: Find out how
           url: /collaborate/collaboration-models/
