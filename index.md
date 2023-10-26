@@ -25,6 +25,16 @@ sections:
       variant: center
       size: sm
       backgroundColor: gray
+  - announcements:
+      title: Key Dates
+      id: announcements
+      subtitle: Latest announcements
+      announcement_items:
+        - title: SG100K Call for Proposals
+          date: 26 October 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - infopic:
       title: SG10K studies published
       description: Two genetic studies involving 10,000 Singaporeans identify
