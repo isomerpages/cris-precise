@@ -25,6 +25,29 @@ sections:
       variant: center
       size: sm
       backgroundColor: gray
+  - textcards:
+      title: Key Dates
+      subtitle: latest announcements
+      id: textcards
+      description: to note
+      cards:
+        - title: Call for Proposal
+          description: |
+            SG100K dataset
+          linktext: Learn more
+          url: ""
+        - title: NPMA
+          description: 11 Dec 2023
+          linktext: Register here
+          url: ""
+        - title: Editorial
+          description: lorem ipsum
+          linktext: click to win
+          url: ""
+        - title: Precision Medicine Conference
+          description: August 2024
+          linktext: Save the date
+          url: test
   - announcements:
       title: Key Dates
       id: announcements
@@ -84,27 +107,4 @@ sections:
       title: Latest News and Events
       subtitle: Be in the know
       id: resources
-  - textcards:
-      title: Key Dates
-      subtitle: latest announcements
-      id: textcards
-      description: to note
-      cards:
-        - title: Call for Proposal
-          description: |
-            SG100K dataset
-          linktext: Learn more
-          url: ""
-        - title: NPMA
-          description: 11 Dec 2023
-          linktext: Register here
-          url: ""
-        - title: Editorial
-          description: lorem ipsum
-          linktext: click to win
-          url: ""
-        - title: Precision Medicine Conference
-          description: August 2024
-          linktext: Save the date
-          url: test
 ---
