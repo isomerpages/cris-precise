@@ -26,7 +26,7 @@ sections:
       size: sm
       backgroundColor: gray
   - infopic:
-      title: SG10K studies published
+      title: Discoveries from mapping 10,000 genomes
       description: Two genetic studies involving 10,000 Singaporeans identify
         variations affecting predisposition to inherited diseases and response
         to medications
@@ -34,7 +34,7 @@ sections:
       url: /news-and-events/press-releases/genetic-study-identifies-variations-affecting-predisposition/
       alt: press release
       image: /images/Homepage/homepage-what-is-the-precision-section.png
-      subtitle: Press release
+      subtitle: SG10K
   - infopic:
       title: PRECISE-SG100K study
       subtitle: infographic
