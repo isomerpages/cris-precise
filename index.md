@@ -13,18 +13,15 @@ sections:
       subtitle: Transforming health in Singapore through Precision Medicine
       background: /images/landing-page-banner_humans-1.jpg
       key_highlights:
-        - title: Our Story
-          description: Vision and Mission
-          url: /about-us/our-story/
-        - title: Research Highlights
-          description: Latest studies
-          url: /research/research-highlights
-        - title: Latest news
-          description: Be in the know
+        - title: latest news
+          description: ""
           url: /news-and-events/
-        - title: Collaborate with us
-          description: Find out how
-          url: /collaborate/collaboration-models/
+        - title: Research Highlights
+          description: ""
+          url: /research/research-highlights
+        - title: Upcoming Events
+          description: Key Highlight description
+          url: /news-and-events/events/
       variant: center
       size: sm
       backgroundColor: gray
