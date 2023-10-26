@@ -7,29 +7,29 @@ layout: post
 description: ""
 image: ""
 ---
-_Currently when a patient presents with trigeminal neuralgia or painful neuropathy, doctors would need to do a genotyping test for the human leukocyte antigen B gene’s 1502 allele (HLA-B\*1502) prior to the initiation of carbamazepine (CBZ) therapy. This is because patients who carry the HLA-B\*1502 allele are at higher risk of experiencing CBZ-induced Stevens-Johnson syndrome and toxic epidermal necrolysis, which can be life-threatening and even prove fatal.\[1\]_
+_Currently when a patient presents with trigeminal neuralgia or painful neuropathy, doctors would need to do a genotyping test for the human leukocyte antigen B gene’s 1502 allele (HLA-B\*1502) prior to the initiation of carbamazepine (CBZ) therapy. This is because patients who carry the HLA-B\*1502 allele are at higher risk of experiencing CBZ-induced Stevens-Johnson syndrome and toxic epidermal necrolysis, which can be life-threatening and even prove fatal.<sup>\[1\]</sup>_
 
 ![](/images/Resources/Editorial%20Features/2023/precise-–-cip-profiling-pgx-1024x585.jpeg)
 
-The need for genotyping prior to starting therapy typically means that patients need to wait days to weeks for the return of their pharmacogenomics (PGx) testing results before commencing on their prescriptions.
+The need for genotyping prior to starting therapy typically means that patients need to wait days to weeks for the return of their&nbsp;pharmacogenomics (PGx) testing results before commencing on their prescriptions.
 
 For Professor Goh Boon Cher, Department of Haematology-Oncology, National University Cancer Institute, Singapore; Associate Professor Wee Hwee Lin, Saw Swee Hock School of Public Health, National University of Singapore; and Dr Elaine Lo, Principal Clinical Pharmacist, Clinical Support Services, Pharmacy, National University Hospital, they are piloting a project to study how patients and clinicians can potentially start therapy confidently and with little delay or wait time.
 
 “Just imagine—if we can screen a broad panel of multiple genes for multiple drugs and make the test results readily available and accessible in our electronic medical records (EMR) system, clinicians will be able to make prompt prescription decisions at the point-of-care,” said Prof Goh. “But before that can happen, we’ll need to understand why, despite increasing availability of clinical guidance on how prescribing should be modified based on PGx test results, the uptake remains low.”
 
-“Pre-emptive PGx testing is presently not widely adopted due to barriers such as a lack of awareness and guidance, long turnaround time, counter-intuitive workflows, and the additional costs of testing itself. Hence, our goal with this [clinical implementation pilot](/research/clinical-implementation-pilots/) (CIP) is to find ways to navigate around these issues—and optimise drug therapy outcomes for patients at the same time,” said Dr Lo.
+“Pre-emptive PGx testing is presently not widely adopted due to barriers such as a lack of awareness and guidance, long turnaround time, counter-intuitive workflows, and the additional costs of testing itself. Hence, our goal with this&nbsp;[clinical implementation pilot](/research/clinical-implementation-pilots/)&nbsp;(CIP) is to find ways to navigate around these issues—and optimise drug therapy outcomes for patients at the same time,” said Dr Lo.
 
 **Tackling Cost Concerns**
 
-In a study A/Prof Wee conducted in 2018 at the Singapore General Hospital, it was noted that the total cost of 81 admissions caused by adverse drug reactions (ADRs) was S$770,000. It was noted that the breakeven cost of a pre-emptive PGx test for patients taking warfarin, clopidogrel, chemotherapeutic and neuropsychiatric drugs was S$154 per patient.\[2\] A/Prof Wee said, “We just need to put these numbers side by side, and it becomes immediately clear that pre-emptive PGx testing is not only cheaper to the patient, but likely also the healthcare system.”
+In a study A/Prof Wee conducted in 2018 at the Singapore General Hospital, it was noted that the total cost of 81 admissions caused by adverse drug reactions (ADRs) was S$770,000. It was noted that the breakeven cost of a pre-emptive PGx test for patients taking warfarin, clopidogrel, chemotherapeutic and neuropsychiatric drugs was S$154 per patient.<sup>\[2\]</sup>&nbsp;A/Prof Wee said, “We just need to put these numbers side by side, and it becomes immediately clear that pre-emptive PGx testing is not only cheaper to the patient, but likely also the healthcare system.”
 
-Prof Goh added, “The cost of genotyping today is relatively affordable because of more powerful testing equipment and more efficient process workflow. Additionally, in pre-emptive PGx testing, we are testing for common variants in the population. They are neither diagnostic nor prognostic—and no pre- and post-genetic counselling is required; there is less concern about cascade screening too.” 
+Prof Goh added, “The cost of genotyping today is relatively affordable because of more powerful testing equipment and more efficient process workflow. Additionally, in pre-emptive PGx testing, we are testing for common variants in the population. They are neither diagnostic nor prognostic—and no pre- and post-genetic counselling is required; there is less concern about cascade screening too.”&nbsp;
 
-Dr Lo continued, “Also, although we are only looking at a PGx panel of about 30 drug-gene pairs, the impact goes beyond 30 genes because many drugs are metabolised by just a few specific enzymes—so it is actually very economical. A multi-gene panel saves the trouble of patients having to go through multiple single-gene testing in their lives.” 
+Dr Lo continued, “Also, although we are only looking at a PGx panel of about 30 drug-gene pairs, the impact goes beyond 30 genes because many drugs are metabolised by just a few specific enzymes—so it is actually very economical. A multi-gene panel saves the trouble of patients having to go through multiple single-gene testing in their lives.”&nbsp;
 
 **Increasing Awareness Among Clinicians and Patients**
 
-“We found that when we are able to explain the merits of pre-emptive PGx testing, share the costs and assure patients that all we need is a simple blood draw, patients are usually quite receptive. And if the advice came from a doctor, there is a high chance that patients will agree to do the test,” Prof Goh shared. 
+“We found that when we are able to explain the merits of pre-emptive PGx testing, share the costs and assure patients that all we need is a simple blood draw, patients are usually quite receptive. And if the advice came from a doctor, there is a high chance that patients will agree to do the test,” Prof Goh shared.&nbsp;
 
 Besides costs, another key limitation to the adoption of pre-emptive PGx testing is clinicians’ awareness and knowledge about the types of tests available, when they are required, and how to order, interpret and incorporate PGx test results in the context of other clinical variables.
 
@@ -47,12 +47,12 @@ Dr Lo continued, “Ultimately, I believe that if we can produce evidence of how
 
 “Yes—we know we have succeeded if all doctors can confidently select the best drug and dose so that patients do not lose the chance of response or is subjected to a preventable toxicity, and yet they will receive the best potential therapeutic outcomes,” Prof Goh concluded.
 
-_Click [here](/news-and-events/editorial-features/pre-emptive-pharmacogenomic-testing-what-is-in-it-for-us/) to read how Prof Goh, A/Prof Wee and Dr Lo are transforming Singapore’s clinical practice to benefit us here._
+_Click&nbsp;[here](/news-and-events/editorial-features/pre-emptive-pharmacogenomic-testing-what-is-in-it-for-us/)&nbsp;to read how Prof Goh, A/Prof Wee and Dr Lo are transforming Singapore’s clinical practice to benefit us here._
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
 * * *
 
-\[1\] https://www.hsa.gov.sg/announcements/safety-alert/recommendations-for-hla-b-1502-genotype-testing-prior-to-initiation-of-carbamazepine-in-new-patients
+\[1\]&nbsp;https://www.hsa.gov.sg/announcements/safety-alert/recommendations-for-hla-b-1502-genotype-testing-prior-to-initiation-of-carbamazepine-in-new-patients
 
-\[2\] Chan SL, Ng HY, Sung C, Chan A, Winther MD, Brunham LR, Wee HL. Economic burden of adverse drug reactions and potential for pharmacogenomic testing in Singaporean adults. Pharmacogenomics J. 2019 Aug;19(4):401-410. doi: 10.1038/s41397-018-0053-1. Epub 2018 Sep 24. PMID: 30250149
+\[2\]&nbsp;Chan SL, Ng HY, Sung C, Chan A, Winther MD, Brunham LR, Wee HL. Economic burden of adverse drug reactions and potential for pharmacogenomic testing in Singaporean adults. Pharmacogenomics J. 2019 Aug;19(4):401-410. doi: 10.1038/s41397-018-0053-1. Epub 2018 Sep 24. PMID: 30250149
