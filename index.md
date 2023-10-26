@@ -16,12 +16,12 @@ sections:
         - title: latest news
           description: ""
           url: /news-and-events/
+        - title: Upcoming Events
+          description: ""
+          url: /news-and-events/events/
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
-        - title: Upcoming Events
-          description: Key Highlight description
-          url: /news-and-events/events/
       variant: center
       size: sm
       backgroundColor: gray
