@@ -25,6 +25,26 @@ sections:
       variant: center
       size: sm
       backgroundColor: gray
+  - textcards:
+      title: Our Core Pillars
+      id: textcards
+      cards:
+        - title: Research
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Innovation
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Enterprise
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Ethics
+          description: ""
+          linktext: Learn more
+          url: ""
   - infopic:
       title: Discoveries from mapping 10,000 genomes
       description: Two genetic studies involving 10,000 Singaporeans identify
