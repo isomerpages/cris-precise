@@ -41,7 +41,7 @@ sections:
           description: ""
           linktext: More
           url: /collaborate/partners/
-        - title: Ethics
+        - title: Data Access
           description: ""
           linktext: More
           url: https://www.mdpi.com/2075-4426/11/9/921
