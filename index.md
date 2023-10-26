@@ -31,16 +31,16 @@ sections:
       cards:
         - title: Research
           description: ""
-          linktext: Learn more
-          url: ""
+          linktext: More
+          url: /research/research-highlights/
         - title: Innovation
           description: ""
-          linktext: Learn more
-          url: ""
+          linktext: More
+          url: /research/clinical-implementation-pilots/
         - title: Enterprise
           description: ""
-          linktext: Learn more
-          url: ""
+          linktext: More
+          url: /collaborate/partners/
         - title: Ethics
           description: ""
           linktext: Learn more
