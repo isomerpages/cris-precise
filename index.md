@@ -66,6 +66,17 @@ sections:
       image: /images/Homepage/precise-sg100k-top.png
       alt: Image alt text
   - infopic:
+      title: Pre-Emptive Pharmacogenomic Testing
+      subtitle: editorial feature
+      id: infopic
+      description: What it takes to bring pre-emptive pharmacogenomic testing into
+        routine clinical practice.
+      button: read more
+      url: /news-and-events/editorial-features/what-it-takes-bringing-pre-emptive-pharmacogenomic-testing/
+      image: /images/Resources/Editorial
+        Features/2023/precise-–-cip-profiling-pgx-1024x585.jpeg
+      alt: Image alt text
+  - infopic:
       title: Genetic Testing for Primary Glomerular Disease
       subtitle: editorial feature
       id: infopic
