@@ -83,7 +83,7 @@ Wei Yang</b></div>
 		<tr>
 			<td width="25%">
 				<a href="/bio/board-oversight-committee/raymond-chua/">
-					<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-dr-raymond-chua-photo2.jpg">
+					<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-dr-raymond-chua-photo2.png">
 				</a>
 				<div align="center"><b>Adjunct A/Prof Raymond Chua</b></div>
 			</td>
