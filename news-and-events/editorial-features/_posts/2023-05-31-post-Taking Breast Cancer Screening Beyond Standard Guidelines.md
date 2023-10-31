@@ -8,7 +8,7 @@ image: ""
 ---
 ![](/images/Resources/Editorial%20Features/2023/precise-banner10_1400x800.jpg)
 
-Women make up over half the population in Singapore. Of those aged 50 to 69, over 94% know about breast cancer screening. Yet—less than 40% of this age group had gone for mammography in the last two years.[\[1\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftn1) Is it any wonder why breast cancer remains the leading cause of cancer deaths[\[2\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftn2) among women?_
+Women make up over half the population in Singapore. Of those aged 50 to 69, over 94% know about breast cancer screening. Yet—less than 40% of this age group had gone for mammography in the last two years.[\[1\]](/news-and-events/editorial-features/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftn1) Is it any wonder why breast cancer remains the leading cause of cancer deaths[\[2\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftn2) among women?_
 
 Truth is—breast cancer is not a death sentence if it is discovered and treated early. The five-year survival rates for women diagnosed with Stage 1 and 2 breast cancer are 90% and 80% respectively. This dips to 66% for a Stage 3 diagnosis and plummets to 25% for Stage 4.[\[3\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftn3) It should also be noted that early-stage breast cancers usually require less aggressive treatment, offer more treatment options—instead of mastectomy—and lower risk of relapse.
 
@@ -44,13 +44,13 @@ Dr Wang weighed in, “Through these findings from Dr Li and A/Prof Hartman, we 
 
 A/Prof Hartman concluded, “For BREATHE to be successful, we envision that the programme will eventually be rolled out to the community. The implication is that general practitioners and polyclinics need to be prepared to conduct these dialogues. Alternatively, can we find digital solutions so that women can assess their risk using electronic means, and do their own buccal swabs to extract DNA samples for analysis? We do not have all the solutions yet—but we are working hard to transform breast cancer screening in Singapore with BREATHE.”
 
-Read more about the BREATHE programme [here](https://www.npm.sg/mission-breathe-reshaping-the-age-based-paradigm-for-breast-cancer-screening/).
+Read more about the BREATHE programme [here](/news-and-events/editorial-features/mission-breathe-reshaping-the-age-based-paradigm-for-breast/).
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
 * * *
 
-[\[1\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref1) Epidemiology & Disease Control Division and Policy, Research & Surveillance Group Ministry of Health and Health Promotion Board, Singapore, Singapore. National Population Health Survey 2019. [https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf](https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf)
+[\[1\]](/news-and-events/editorial-features/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref1) Epidemiology & Disease Control Division and Policy, Research & Surveillance Group Ministry of Health and Health Promotion Board, Singapore, Singapore. National Population Health Survey 2019. [https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf](https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf)
 
 [\[2\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref2) National Registry of Diseases Office Ministry of Health and Health Promotion Board, Singapore Cancer Registry Annual Report 2020. [https://www.nrdo.gov.sg/docs/librariesprovider3/default-document-library/scr-2020-annual-report\_web-release.pdf?sfvrsn=e0a73b99\_0](https://www.nrdo.gov.sg/docs/librariesprovider3/default-document-library/scr-2020-annual-report_web-release.pdf?sfvrsn=e0a73b99_0)
 
