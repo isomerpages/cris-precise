@@ -51,7 +51,9 @@ _This project is supported by the National Research Foundation, Singapore, throu
 * * *
 
 <p><a name="references"></a></p>
-[1]&nbsp;Epidemiology &amp; Disease Control Division and Policy, Research &amp; Surveillance Group Ministry of Health and Health Promotion Board, Singapore, Singapore. National Population Health Survey 2019.&nbsp;[https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf](https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf)
+[1]&nbsp;Epidemiology &amp; Disease Control Division and Policy, Research &amp; Surveillance Group Ministry of Health and Health Promotion Board, Singapore, Singapore. National Population Health Survey 2019. 
+
+[https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf](https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf)
 
 [2]&nbsp;National Registry of Diseases Office Ministry of Health and Health Promotion Board, Singapore Cancer Registry Annual Report 2020.&nbsp;[https://www.nrdo.gov.sg/docs/librariesprovider3/default-document-library/scr-2020-annual-report\_web-release.pdf?sfvrsn=e0a73b99\_0](https://www.nrdo.gov.sg/docs/librariesprovider3/default-document-library/scr-2020-annual-report_web-release.pdf?sfvrsn=e0a73b99_0)
 
