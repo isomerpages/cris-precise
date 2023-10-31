@@ -43,7 +43,7 @@ A/Prof Ng continues, “With this CIP, we hope to find solutions to these challe
 
 “In the bigger context, we are thinking ahead to explore how we can add to the genetic testing services, like chatbots, educational videos, etc.,” adds A/Prof Ng. “Today, we are building an ecosystem for our future generations of nephrologists and patients.”
 
-_Click [here](https://www.npm.sg/making-sense-and-cents-of-precision-medicine-in-fight-against-kidney-failures/) to read more about how A/Prof Ng and Prof Matchar makes sense and cents of precision medicine in the fight against kidney failures._ 
+_Click [here](/news-and-events/editorial-features/making-sense-and-cents-of-precision-medicine/) to read more about how A/Prof Ng and Prof Matchar makes sense and cents of precision medicine in the fight against kidney failures._ 
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
