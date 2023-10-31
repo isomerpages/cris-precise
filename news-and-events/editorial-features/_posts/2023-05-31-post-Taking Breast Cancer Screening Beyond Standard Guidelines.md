@@ -51,16 +51,16 @@ _This project is supported by the National Research Foundation, Singapore, throu
 * * *
 
 <p><a name="references"></a></p>
-[\[1\]](/news-and-events/editorial-features/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref1)&nbsp;Epidemiology &amp; Disease Control Division and Policy, Research &amp; Surveillance Group Ministry of Health and Health Promotion Board, Singapore, Singapore. National Population Health Survey 2019.&nbsp;[https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf](https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf)
+[1]&nbsp;Epidemiology &amp; Disease Control Division and Policy, Research &amp; Surveillance Group Ministry of Health and Health Promotion Board, Singapore, Singapore. National Population Health Survey 2019.&nbsp;[https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf](https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/nphs-2019-survey-report.pdf)
 
-[\[2\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref2)&nbsp;National Registry of Diseases Office Ministry of Health and Health Promotion Board, Singapore Cancer Registry Annual Report 2020.&nbsp;[https://www.nrdo.gov.sg/docs/librariesprovider3/default-document-library/scr-2020-annual-report\_web-release.pdf?sfvrsn=e0a73b99\_0](https://www.nrdo.gov.sg/docs/librariesprovider3/default-document-library/scr-2020-annual-report_web-release.pdf?sfvrsn=e0a73b99_0)
+[2]&nbsp;National Registry of Diseases Office Ministry of Health and Health Promotion Board, Singapore Cancer Registry Annual Report 2020.&nbsp;[https://www.nrdo.gov.sg/docs/librariesprovider3/default-document-library/scr-2020-annual-report\_web-release.pdf?sfvrsn=e0a73b99\_0](https://www.nrdo.gov.sg/docs/librariesprovider3/default-document-library/scr-2020-annual-report_web-release.pdf?sfvrsn=e0a73b99_0)
 
-[\[3\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref3)&nbsp;Singapore Cancer Registry 50th Anniversary Monograph – Appendices.pdf, Appendix E: Relative and Observed Survival By Sex, Period, Site and Age Group, 1968 -2017
+[3]&nbsp;Singapore Cancer Registry 50th Anniversary Monograph – Appendices.pdf, Appendix E: Relative and Observed Survival By Sex, Period, Site and Age Group, 1968 -2017
 
-[\[4\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref4)&nbsp;Cancer Screening, MOH Clinical Practice Guidelines 1/2010, Ministry of Health.&nbsp;[https://www.moh.gov.sg/docs/librariesprovider4/guidelines/cpg\_cancer-screening.pdf](https://www.moh.gov.sg/docs/librariesprovider4/guidelines/cpg_cancer-screening.pdf)
+[4]&nbsp;Cancer Screening, MOH Clinical Practice Guidelines 1/2010, Ministry of Health.&nbsp;[https://www.moh.gov.sg/docs/librariesprovider4/guidelines/cpg\_cancer-screening.pdf](https://www.moh.gov.sg/docs/librariesprovider4/guidelines/cpg_cancer-screening.pdf)
 
-[\[5\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref5)&nbsp;Jansen JT, Zoetelief J. Assessment of lifetime gained as a result of mammographic breast cancer screening using a computer model. Br J Radiol. 1997;70(834):619-28.
+[5]&nbsp;Jansen JT, Zoetelief J. Assessment of lifetime gained as a result of mammographic breast cancer screening using a computer model. Br J Radiol. 1997;70(834):619-28.
 
-[\[6\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref6)&nbsp;Yuniar P, Robinson S, Moorin R, Norman R. Economic evaluation of breast cancer early detection strategies in Asia: a systematic review. Value in Health Regional Issues. 2020 May 1;21:252-63.
+[6]&nbsp;Yuniar P, Robinson S, Moorin R, Norman R. Economic evaluation of breast cancer early detection strategies in Asia: a systematic review. Value in Health Regional Issues. 2020 May 1;21:252-63.
 
-[\[7\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftnref7)&nbsp;Ho PJ, Lau HSH, Ho WK, Wong FY, Yang Q, Tan KW, et al.&nbsp;Incidence of breast cancer attributable to breast density, modifiable and non-modifiable breast cancer risk factors in Singapore.&nbsp;Sci Rep. 2020;10(1):503. doi: 10.1038/s41598-019-57341-7
+[7]&nbsp;Ho PJ, Lau HSH, Ho WK, Wong FY, Yang Q, Tan KW, et al.&nbsp;Incidence of breast cancer attributable to breast density, modifiable and non-modifiable breast cancer risk factors in Singapore.&nbsp;Sci Rep. 2020;10(1):503. doi: 10.1038/s41598-019-57341-7
