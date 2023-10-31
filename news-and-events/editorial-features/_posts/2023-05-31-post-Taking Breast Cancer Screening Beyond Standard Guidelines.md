@@ -8,7 +8,7 @@ image: ""
 ---
 ![](/images/Resources/Editorial%20Features/2023/precise-banner10_1400x800.jpg)
 
-Women make up over half the population in Singapore. Of those aged 50 to 69, over 94% know about breast cancer screening. Yet—less than 40% of this age group had gone for mammography in the last two years.<a href="1">[ 1 ]</a>&nbsp;Is it any wonder why breast cancer remains the leading cause of cancer deaths[\[2\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftn2)&nbsp;among women?_
+Women make up over half the population in Singapore. Of those aged 50 to 69, over 94% know about breast cancer screening. Yet—less than 40% of this age group had gone for mammography in the last two years.<a href="#1">[ 1 ]</a>&nbsp;Is it any wonder why breast cancer remains the leading cause of cancer deaths[\[2\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftn2)&nbsp;among women?_
 
 Truth is—breast cancer is not a death sentence if it is discovered and treated early. The five-year survival rates for women diagnosed with Stage 1 and 2 breast cancer are 90% and 80% respectively. This dips to 66% for a Stage 3 diagnosis and plummets to 25% for Stage 4.[\[3\]](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/#_ftn3)&nbsp;It should also be noted that early-stage breast cancers usually require less aggressive treatment, offer more treatment options—instead of mastectomy—and lower risk of relapse.
 
