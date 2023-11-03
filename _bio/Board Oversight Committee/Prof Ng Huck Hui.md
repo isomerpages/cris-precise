@@ -3,8 +3,9 @@ title: Prof Ng Huck Hui
 permalink: /bio/board-oversight-committee/ng-huck-hui/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
-<img src="/images/Bio/Board%20Oversight%20Committee/prof-ng-huck-hui.jpg" align="center" style="width:200px">
+<img src="/images/Bio/Board%20Oversight%20Committee/prof-ng-huck-hui.png" align="center" style="width:200px">
 
 **Professor Ng Huck Hui** is the Assistant Chief Executive of the Biomedical Research Council, under the Agency for Science, Technology and Research.
 
