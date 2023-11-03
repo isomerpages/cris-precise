@@ -3,8 +3,9 @@ title: Dr Daphne Khoo
 permalink: /bio/board-oversight-committee/daphne-khoo/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
-<img src="/images/Bio/Board%20Oversight%20Committee/dr-daphne-khoo-2.jpg" align="center" style="width:200px">
+<img src="/images/Bio/Board%20Oversight%20Committee/dr-daphne-khoo-2.png" align="center" style="width:200px">
 
 **Dr. Daphne Khoo** is the Deputy Director-General of Health (Healthcare Performance Group) and, concurrently, Executive Director of the Agency of Care Effectiveness (ACE), Ministry of Health, Singapore (MOH). The mission of ACE is to drive appropriate care in Singapore through the application of Health Technology Assessment.
 
