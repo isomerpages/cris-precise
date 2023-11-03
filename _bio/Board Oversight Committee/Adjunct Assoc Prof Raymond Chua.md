@@ -3,8 +3,9 @@ title: Adjunct Assoc Prof Raymond Chua
 permalink: /bio/board-oversight-committee/raymond-chua/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
-<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-dr-raymond-chua-photo2.jpg" align="center" style="width:200px">
+<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-dr-raymond-chua-photo2.png" align="center" style="width:200px">
 
 **A/Prof (Dr) Raymond Chua** graduated from the Faculty of Medicine in National University of Singapore in 1997. He holds a Masters in Public Health (London School of Hygiene and Tropical Medicine, 2002) and is a Registered Public Health specialist and Fellow with the Academy of Medicine, Singapore.
 
