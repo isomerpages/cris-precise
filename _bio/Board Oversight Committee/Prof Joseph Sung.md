@@ -3,8 +3,9 @@ title: Prof Joseph Sung
 permalink: /bio/board-oversight-committee/joseph-sung/
 description: ""
 third_nav_title: Board Oversight Committee
+variant: markdown
 ---
-<img src="/images/Bio/Board%20Oversight%20Committee/prof-joseph-j-y-sung-1.jpg" align="center" style="width:200px">
+<img src="/images/Bio/Board%20Oversight%20Committee/prof-joseph-j-y-sung-1.png" align="center" style="width:200px">
 
 **Professor Sung** received his medical degree (MBBS) from The University of Hong Kong, and conferred PhD in biomedical sciences by the University of Calgary and MD by The Chinese University of Hong Kong (CUHK). He holds fellowships from the Royal Colleges of Physicians of Edinburgh, Glasgow, London, and Australia, the American College of Gastroenterology, the American Gastroenterological Association, the Hong Kong College of Physicians, the Hong Kong Academy of Medicine and Academy of Sciences of Hong Kong (ASHK). He is an Academician of the Chinese Academy of Engineering of the People’s Republic of China and Academician of the International Eurasian Academy of Sciences.
 
