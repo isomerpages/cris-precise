@@ -20,7 +20,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Click <a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/"> here
-          </a> to see our available positions.
+      - other: <a href="https://careers.mohh.com.sg/CRIS/go/CRIS/680844/">View available
+          roles</a>
     title: Careers
+feedback: ""
 ---
