@@ -132,6 +132,8 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
          <th>
             TimeLines
          </th>
+				<th>
+				</th>
       </tr>
       <tr>
          <td>
