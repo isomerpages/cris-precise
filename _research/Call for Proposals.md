@@ -295,8 +295,8 @@ Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.lu
 **RESOURCES**
 
 **Dataset**
-
-<table style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; border-collapse: collapse; width: 1120px; height: 48px;"><tbody style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; height: 24px;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 52.55px; height: 24px;"></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 1067.45px; height: 24px;"><a style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; color: rgb(0, 165, 132); text-decoration: none; background-color: transparent; cursor: pointer; transition: all 0.5s ease 0s; box-shadow: none;" rel="noopener" target="_blank" href="https://for.sg/sg100k-datadictionary">Data Dictionary</a></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; height: 24px;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 52.55px; height: 24px;"></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 1067.45px; height: 24px;"><a style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; color: rgb(0, 165, 132); text-decoration: none; background-color: transparent; cursor: pointer; transition: all 0.5s ease 0s; box-shadow: none;" rel="noopener" target="_blank" href="https://for.sg/sg100k-sample-evaluation-dataset">Sample Evaluation Dataset</a></td></tr></tbody></table>
+* Data Dictionary[https://for.sg/sg100k-datadictionary]
+* Sample Evaluation Dataset [https://for.sg/sg100k-sample-evaluation-dataset]
 
 **“Call for Proposals” meeting**
 
