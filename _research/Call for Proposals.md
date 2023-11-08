@@ -126,7 +126,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
     
 6.  Other approved Driver Projects will need to apply for data access separately to either TRUST DAC (if clinical data are requested) or the PRECISE-SG100K DAC (if only research phenotype and/or genomic data are requested).
 
-\[1\]&nbsp;TRUST (Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-data exchange platform to facilitate secure data sharing and analysis of anonymised research and real-world data to support data analytics between public institutions, and between the public and private sectors.
+<small>[ 1 ]&nbsp;TRUST (Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-data exchange platform to facilitate secure data sharing and analysis of anonymised research and real-world data to support data analytics between public institutions, and between the public and private sectors.</small>
 
 **TIMELINES\***
 
