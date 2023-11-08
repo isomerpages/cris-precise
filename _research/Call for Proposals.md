@@ -130,7 +130,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
 
 **TIMELINES\***
 
-<table>
+<table border="0">
 	<tbody>
 		<tr>
 			<th>
@@ -139,7 +139,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
 		</tr>
 		<tr>
 			<td>
-				1.** **Deadline for submission:
+				1. Deadline for submission:
 			</td>
 			<td>
 					31 Jan 2024
