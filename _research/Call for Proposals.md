@@ -232,11 +232,64 @@ Below are the details of the PRECISE-SG100K Scientific Committee.
             Executive Director, Bioinformatics Institute, A*STAR
          </td>
       </tr>
+      <tr>
+         <td>
+            4.
+         </td>
+         <td>
+            A/Prof Sim Xueling
+         </td>
+         <td>
+            Associate Professor, Saw Swee Hock School of Public Health, NUS
+         </td>
+      </tr>
+      <tr>
+         <td>
+            5.
+         </td>
+         <td>
+            A/Prof Enrico Petretto
+         </td>
+         <td>
+            Associate Professor, Duke-NUS Medical School
+         </td>
+      </tr>
+      <tr>
+         <td>
+            6.
+         </td>
+         <td>
+            Prof Cheng Ching-Yu
+         </td>
+         <td>
+            Professor, Duke-NUS Medical School and NUS Opthalmology
+         </td>
+      </tr>
+      <tr>
+         <td>
+            7.
+         </td>
+         <td>
+            Assistant Prof Saumya Shekhar Jamuar
+         </td>
+         <td>
+            Assistant Professor, Duke-NUS Medical School
+         </td>
+      </tr>
+      <tr>
+         <td>
+            8.
+         </td>
+         <td>
+            Assistant Prof Bernett Lee
+         </td>
+         <td>
+            Assistant Professor, Lee Kong Chian School of Medicine, NTU
+         </td>
+      </tr>
    </tbody>
 </table>
 				
-				
-
 Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.luo@precise.cris.sg](mailto:ryan.luo@precise.cris.sg)) and Dr Kriti Sethi ([kriti.sethi@precise.cris.sg](mailto:kriti.sethi@precise.cris.sg)).
 
 **RESOURCES**
