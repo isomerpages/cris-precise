@@ -135,10 +135,18 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
 		</tr>
 		<tr>
 			<td>
-				1. Deadline for submission:
+				1. Deadline for submission:
 			</td>
 			<td>
 					31 Jan 2024
+			</td>
+		</tr>
+		<tr><td>
+				2. Applicant meetings with PRECISE-SG100K Scientific Committee 
+			(for shortlisted proposals):  
+			</td>
+			<td>
+					Mar 2024
 			</td>
 		</tr>
 	</tbody>
