@@ -185,55 +185,53 @@ Please submit completed application forms to PRECISE Programme Managers, Dr Ryan
 Below are the details of the PRECISE-SG100K Scientific Committee.
 
 <table>
-	<tbody>
-		<tr>
-			<th>
-				S/N
-			</th>
-			<th>
-				Member Name
-			</th>
-			<th>
-				Designation
-			</th>
-		</tr>
-		<tr>
-			<td>
-				1.
-			</td>
-			<td>
-					Prof John Chambers
-			</td>
-			<td>
-					Chief Scientific Officer, PRECISE
-			</td>
-		</tr>
-		<tr>
-			<td>
-				2.
-			</td>
-			<td>
-						
-Prof Liu Jian Jun
-			</td>
-			<td>
-						
-Acting Executive Director, Genome Institute of Singapore, A*STAR
-			</td>
-		</tr>
-		<tr>
-			<td>
-				3.
-			</td>
-			<td>
-					Dr Sebastian Maurer-Stroh
-			</td>
-			<td>
-					Executive Director, Bioinformatics Institute, A*STAR
-			</td>
-		</tr>
-	</tbody>
-	</table>
+   <tbody>
+      <tr>
+         <th>
+            S/N
+         </th>
+         <th>
+            Member Name
+         </th>
+         <th>
+            Designation
+         </th>
+      </tr>
+      <tr>
+         <td>
+            1.
+         </td>
+         <td>
+            Prof John Chambers
+         </td>
+         <td>
+            Chief Scientific Officer, PRECISE
+         </td>
+      </tr>
+      <tr>
+         <td>
+            2.
+         </td>
+         <td>
+            Prof Liu Jian Jun
+         </td>
+         <td>
+            Acting Executive Director, Genome Institute of Singapore, A*STAR
+         </td>
+      </tr>
+      <tr>
+         <td>
+            3.
+         </td>
+         <td>
+            Dr Sebastian Maurer-Stroh
+         </td>
+         <td>
+            Executive Director, Bioinformatics Institute, A*STAR
+         </td>
+      </tr>
+   </tbody>
+</table>
 				
 				
 
