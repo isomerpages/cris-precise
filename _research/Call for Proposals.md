@@ -45,8 +45,6 @@ All data will be pseudonymised. This means that conventional personal identifier
     
 6.  Where submitted proposals overlap, the PRECISE-SG100K Scientific Committee may encourage the researchers to converge them into a single proposal.
 
-  
-
 ****Project Team****
 
 We expect proposals to show collaboration and partnering across Singapore public institutions. Towards this, the project team should include:
@@ -93,11 +91,9 @@ Publications arising from the proposals should include an author list that adopt
         *   Up to 2 for Singapore Epidemiology of Eye Diseases (SEED) Study
             
         *   Up to 2 for SingHEART Study  
-              
             
         *   Up to 3 for Health for Life in Singapore (HELIOS) Study, and  
               
-            
         *   Up to 3 for Multi-Ethnic Cohort (MEC) Study
             
 3.  PRECISE-SG100K Banner: A banner authorship MUST be used to capture other PRECISE-SG100K researchers not included in the primary author list
