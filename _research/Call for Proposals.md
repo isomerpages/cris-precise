@@ -127,53 +127,53 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
 **TIMELINES\***
 
 <table border="0">
-	<tbody>
-		<tr>
-			<th>
-				TimeLines
-			</th>
-		</tr>
-		<tr>
-			<td>
-				1. Deadline for submission:
-			</td>
-			<td>
-					31 Jan 2024
-			</td>
-		</tr>
-		<tr>
-			<td>
-					2. Applicant meetings with PRECISE-SG100K Scientific Committee <br>(for shortlisted proposals):  
-				</td>
-				<td>
-						Mar 2024
-				</td>
-		</tr>
-		<tr>
-			<td>
-					3. Initial decision:
-				</td>
-				<td>
-							End-Mar 2024
-				</td>
-		</tr>
-		<tr>
-			<td>
-					4. 	TRUST trainings / approvals for Driver Projects:
-				</td>
-				<td>
-								Apr 2024
-				</td>
-		</tr>
-		<tr>
-			<td>
-					5.	50K Data Freeze from PRECISE-SG100K <br>(available for use)
-				</td>
-				<td>
-							Q2 2024
-				</td>
-		</tr>
-	</tbody>
+   <tbody>
+      <tr>
+         <th>
+            TimeLines
+         </th>
+      </tr>
+      <tr>
+         <td>
+            1. Deadline for submission:
+         </td>
+         <td>
+            31 Jan 2024
+         </td>
+      </tr>
+      <tr>
+         <td>
+            2. Applicant meetings with PRECISE-SG100K Scientific Committee <br>(for shortlisted proposals):  
+         </td>
+         <td>
+            Mar 2024
+         </td>
+      </tr>
+      <tr>
+         <td>
+            3. Initial decision:
+         </td>
+         <td>
+            End-Mar 2024
+         </td>
+      </tr>
+      <tr>
+         <td>
+            4. 	TRUST trainings / approvals for Driver Projects:
+         </td>
+         <td>
+            Apr 2024
+         </td>
+      </tr>
+      <tr>
+         <td>
+            5.	50K Data Freeze from PRECISE-SG100K <br>(available for use)
+         </td>
+         <td>
+            Q2 2024
+         </td>
+      </tr>
+   </tbody>
 </table>
 
 _\*The schedule may be subject to change_
@@ -184,7 +184,58 @@ Please submit completed application forms to PRECISE Programme Managers, Dr Ryan
 
 Below are the details of the PRECISE-SG100K Scientific Committee.
 
-<table style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; border-collapse: collapse;" width="642" cellpadding="0" cellspacing="0" border="1"><tbody style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="37"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><b style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; font-weight: 700;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">S/N</span></b></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="250"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><b style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; font-weight: 700;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Member Name</span></b></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="354"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><b style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; font-weight: 700;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Designation</span></b></p></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="37"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">1.</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="250"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Prof John Chambers</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="354"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Chief Scientific Officer, PRECISE</span></p></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="37"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">2.</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="250"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Prof Liu Jian Jun</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="354"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Acting Executive Director, Genome Institute of Singapore, A*STAR</span></p></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="37"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">3.</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="250"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Dr Sebastian Maurer-Stroh</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="354"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Executive Director, Bioinformatics Institute,&nbsp;</span><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight );">A*STAR</span></p><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"></p></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="37"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">4.</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="250"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">A/Prof Sim Xueling</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="354"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Associate Professor, Saw Swee Hock School of Public Health, NUS</span></p></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="37"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">5.</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="250"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">A/Prof Enrico Petretto</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="354"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Associate Professor, Duke-NUS Medical School</span></p></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="37"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">6.</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="250"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Prof Cheng Ching-Yu</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="354"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Professor, Duke-NUS Medical School and NUS Opthalmology</span></p></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="37"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">7.</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="250"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Assistant Prof Saumya Shekhar Jamuar</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="354"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Assistant Professor, Duke-NUS Medical School</span></p></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="37"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">8.</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="250"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Assistant Prof Bernett Lee</span></p></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" valign="top" width="354"><p style="box-sizing: border-box; margin: 0px 0px 20px; padding: 0px; outline: none; line-height: 24px; text-align: justify;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;" lang="EN-US">Assistant Professor, Lee Kong Chian School of Medicine, NTU</span></p></td></tr></tbody></table>
+<table>
+	<tbody>
+		<tr>
+			<th>
+				S/N
+			</th>
+			<th>
+				Member Name
+			</th>
+			<th>
+				Designation
+			</th>
+		</tr>
+		<tr>
+			<td>
+				1.
+			</td>
+			<td>
+					Prof John Chambers
+			</td>
+			<td>
+					Chief Scientific Officer, PRECISE
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2.
+			</td>
+			<td>
+						
+Prof Liu Jian Jun
+			</td>
+			<td>
+						
+Acting Executive Director, Genome Institute of Singapore, A*STAR
+			</td>
+		</tr>
+		<tr>
+			<td>
+				3.
+			</td>
+			<td>
+					Dr Sebastian Maurer-Stroh
+			</td>
+			<td>
+					Executive Director, Bioinformatics Institute, A*STAR
+			</td>
+		</tr>
+	</tbody>
+	</table>
+				
+				
 
 Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.luo@precise.cris.sg](mailto:ryan.luo@precise.cris.sg)) and Dr Kriti Sethi ([kriti.sethi@precise.cris.sg](mailto:kriti.sethi@precise.cris.sg)).
 
