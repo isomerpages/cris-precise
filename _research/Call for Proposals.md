@@ -137,7 +137,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
       </tr>
       <tr>
          <td>
-            1.emsp&amp;; Deadline for submission:
+            1.  Deadline for submission:
          </td>
          <td>
             31 Jan 2024
@@ -145,7 +145,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
       </tr>
       <tr>
          <td>
-            2.emsp&amp;; Applicant meetings with PRECISE-SG100K Scientific Committee <br>(for shortlisted proposals):  
+            2.  Applicant meetings with PRECISE-SG100K Scientific Committee <br>(for shortlisted proposals):  
          </td>
          <td>
             Mar 2024
@@ -153,7 +153,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
       </tr>
       <tr>
          <td>
-            3.emsp&amp;; Initial decision:
+            3.  Initial decision:
          </td>
          <td>
             End-Mar 2024
@@ -161,7 +161,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
       </tr>
       <tr>
          <td>
-            4. emsp&amp;;	TRUST trainings / approvals for Driver Projects:
+            4.   TRUST trainings / approvals for Driver Projects:
          </td>
          <td>
             Apr 2024
@@ -169,7 +169,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
       </tr>
       <tr>
          <td>
-            5.emsp&amp;;	50K Data Freeze from PRECISE-SG100K <br>(available for use)
+            5. 	50K Data Freeze from PRECISE-SG100K <br>(available for use)
          </td>
          <td>
             Q2 2024
