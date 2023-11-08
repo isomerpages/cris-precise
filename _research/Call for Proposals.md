@@ -141,13 +141,39 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
 					31 Jan 2024
 			</td>
 		</tr>
-		<tr><td>
-				2. Applicant meetings with PRECISE-SG100K Scientific Committee 
-			(for shortlisted proposals):  
-			</td>
+		<tr>
 			<td>
-					Mar 2024
-			</td>
+					2. Applicant meetings with PRECISE-SG100K Scientific Committee 
+				(for shortlisted proposals):  
+				</td>
+				<td>
+						Mar 2024
+				</td>
+		</tr>
+		<tr>
+			<td>
+					3. Initial decision:
+				</td>
+				<td>
+							End-Mar 2024
+				</td>
+		</tr>
+		<tr>
+			<td>
+					4. 	TRUST trainings / approvals for Driver Projects:
+				</td>
+				<td>
+								Apr 2024
+				</td>
+		</tr>
+		<tr>
+			<td>
+					5.	50K Data Freeze from PRECISE-SG100K 
+						(available for use)
+				</td>
+				<td>
+							Q2 2024
+				</td>
 		</tr>
 	</tbody>
 </table>
