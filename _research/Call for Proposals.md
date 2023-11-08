@@ -295,8 +295,8 @@ Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.lu
 **RESOURCES**
 
 **Dataset**
-* Data Dictionary[https://for.sg/sg100k-datadictionary]
-* Sample Evaluation Dataset [https://for.sg/sg100k-sample-evaluation-dataset]
+* [Data Dictionary](https://for.sg/sg100k-datadictionary)
+* [Sample Evaluation Dataset](https://for.sg/sg100k-sample-evaluation-dataset)
 
 **“Call for Proposals” meeting**
 
