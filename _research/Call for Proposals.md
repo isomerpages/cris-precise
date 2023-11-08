@@ -45,7 +45,7 @@ All data will be pseudonymised. This means that conventional personal identifier
     
 6.  Where submitted proposals overlap, the PRECISE-SG100K Scientific Committee may encourage the researchers to converge them into a single proposal.
 
-****Project Team****
+**Project Team**
 
 We expect proposals to show collaboration and partnering across Singapore public institutions. Towards this, the project team should include:
 
@@ -108,7 +108,7 @@ A number of Driver Projects will be invited to work more closely with the PRECIS
 
 Flagship Projects will be show-cased as key research outcomes of the NPM programme and will be expected to meet with the PRECISE-SG100K Scientific Committee on a regular basis to share their progress.
 
-****REVIEW PROCESS****
+**REVIEW PROCESS**
 
 1.  All proposals will be reviewed by the PRECISE-SG100K Scientific Committee.
     
