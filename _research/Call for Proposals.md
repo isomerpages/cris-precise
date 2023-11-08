@@ -143,8 +143,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
 		</tr>
 		<tr>
 			<td>
-					2. Applicant meetings with PRECISE-SG100K Scientific Committee 
-				(for shortlisted proposals):  
+					2. Applicant meetings with PRECISE-SG100K Scientific Committee <br>(for shortlisted proposals):  
 				</td>
 				<td>
 						Mar 2024
@@ -168,8 +167,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
 		</tr>
 		<tr>
 			<td>
-					5.	50K Data Freeze from PRECISE-SG100K 
-						(available for use)
+					5.	50K Data Freeze from PRECISE-SG100K <br>(available for use)
 				</td>
 				<td>
 							Q2 2024
