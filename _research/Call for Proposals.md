@@ -299,12 +299,11 @@ Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.lu
 * [Sample Evaluation Dataset](https://for.sg/sg100k-sample-evaluation-dataset)
 
 **“Call for Proposals” meeting**
-
-<table style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; border-collapse: collapse; width: 1120px; height: 48px;"><tbody style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; height: 24px;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 52.55px; height: 24px;"></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 1067.45px; height: 24px;"><a style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; color: rgb(0, 165, 132); text-decoration: none; background-color: transparent; cursor: pointer; transition: all 0.5s ease 0s; box-shadow: none;" rel="noopener" target="_blank" href="https://file.for.sg/sg100k-cfp.pdf">Slide deck shared during the meeting</a></td></tr><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; height: 24px;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 52.55px; height: 24px;"></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 1067.45px; height: 24px;"><a style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; color: rgb(0, 165, 132); text-decoration: none; background-color: transparent; cursor: pointer; transition: all 0.5s ease 0s; box-shadow: none;" rel="noopener" target="_blank" href="https://youtu.be/S_nqxQB7siw">Video recording of the meeting</a></td></tr></tbody></table>
+* [	Slide deck shared during the meeting](https://file.for.sg/sg100k-cfp.pdf)
+* [	Video recording of the meeting](https://youtu.be/S_nqxQB7siw)
 
 **Application form**
-
-<table style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; border-collapse: collapse; width: 1120px;"><tbody style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><tr style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none;"><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 52.55px;"></td><td style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; width: 1067.45px;">Click<span>&nbsp;</span><a style="box-sizing: border-box; margin: 0px; padding: 0px; outline: none; color: rgb(0, 165, 132); text-decoration: none; background-color: transparent; cursor: pointer; transition: all 0.5s ease 0s; box-shadow: none;" rel="noopener" target="_blank" href="https://for.sg/sg100k-application">here</a><span>&nbsp;</span>for the application form&nbsp;</td></tr></tbody></table>
+* Click [here](https://for.sg/sg100k-application) for the application form 
 
 **TRUST**
 
