@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
-Boehringer Ingelheim partners with Precision Health Research, Singapore to bring future medical breakthroughs to patients
-=========================================================================================================================
+## Boehringer Ingelheim partners with Precision Health Research, Singapore to bring future medical breakthroughs to patients
+
 
 Boehringer Ingelheim joins forces with Precision Health Research, Singapore (PRECISE) in a new partnership with the joint aim of transforming healthcare and improving patient outcomes in Singapore and beyond.
 
