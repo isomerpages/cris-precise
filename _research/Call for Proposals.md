@@ -124,7 +124,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
 
 <small>[ 1 ]&nbsp;TRUST (Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-data exchange platform to facilitate secure data sharing and analysis of anonymised research and real-world data to support data analytics between public institutions, and between the public and private sectors.</small>
 
-**TIMELINES\**
+**TIMELINES**
 
 <table border="0">
    <tbody>
