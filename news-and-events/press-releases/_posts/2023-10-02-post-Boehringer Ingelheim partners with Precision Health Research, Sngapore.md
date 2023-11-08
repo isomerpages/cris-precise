@@ -48,7 +48,7 @@ For more information, visit [www.npm.sg](https://www.boehringer-ingelheim.com/e
 
 The PRECISE-SG100K study is a long-term project focusing on the health and well-being of Singapore’s diverse, multi-ethnic population. The study aims to engage over 100,000 participants and collect baseline health information and biological specimens. The study will monitor long-term health outcomes and identify environmental, lifestyle and genetic factors associated with diseases such as diabetes, hypertension, and cancer. The PRECISE-SG100K study will be a significant resource for promoting health in Singapore and will yield globally significant results.
 
-For more information, visit [https://www.npm.sg/collaborate/partners/sg100k/](https://www.boehringer-ingelheim.com/external-link?external=https%3A%2F%2Fwww.npm.sg%2Fcollaborate%2Fpartners%2Fsg100k%2F) .
+For more information, visit [https://www.npm.sg/collaborate/partners/sg100k/](/partners/sg100k/) .
 
 * * *
 
