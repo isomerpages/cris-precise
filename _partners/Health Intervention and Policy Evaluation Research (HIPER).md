@@ -2,10 +2,10 @@
 title: Health Intervention and Policy Evaluation Research (HIPER)
 permalink: /partners/health-intervention-and-policy-evaluation-research-hiper/
 description: ""
+variant: markdown
 ---
 ### Evidence Empower Decisions
 
-TAGS:&nbsp;[SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH](https://sph.nus.edu.sg/research/hiper/)
 
 <table>
 	<tbody>
@@ -33,3 +33,5 @@ HIPER currently focuses on&nbsp;**four disease areas**&nbsp;within healthcare re
 HIPER is part of the International Decision Support Initiative (iDSI), a network of institutions with health, policy and economic expertise who support countries in scaling up HTA capacity to facilitate evidence-informed decision making. As a member of iDSI, HIPER strives to work with the network partners to support countries to make better decisions about how much public money to spend on healthcare and how to make that money go further.
 
 In line with our mission to build HTA capacity, HIPER has signed a Memorandum of Understanding with the Centre for Innovation in Healthcare (CIH) in Singapore to facilitate building up CIH’s HTA capacity and supporting local innovators that require HTA expertise/research to assess their suitability for clinical adoption.
+
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)
