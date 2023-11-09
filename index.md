@@ -14,6 +14,9 @@ sections:
       subtitle: Transforming health in Singapore through Precision Medicine
       background: /images/landing-page-banner_humans-1.jpg
       key_highlights:
+        - title: Call for Proposals
+          description: ""
+          url: /research/call-for-proposals/
         - title: latest news
           description: ""
           url: /news-and-events/
