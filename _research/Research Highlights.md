@@ -2,6 +2,7 @@
 title: Research Highlights
 permalink: /research/research-highlights/
 description: ""
+variant: markdown
 ---
 **Precision Medicine research is part of Singapore’s RIE2025 strategic goal to transform and protect the health of every Singaporean.**
 
@@ -74,3 +75,5 @@ We hope to generate new findings that will inform healthcare practices with the 
       </tr>
    </tbody>
 </table>
+
+![](/images/Banners/banners_page%20footer%203%20-%20purple.png)
