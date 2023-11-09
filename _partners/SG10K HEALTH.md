@@ -6,8 +6,6 @@ variant: markdown
 ---
 ### Reference Genome Database
 
-**TAGS:&nbsp;SG10K\_HEALTH**
-
 <table>
 	<tbody>
 		<tr>
