@@ -96,3 +96,5 @@ Wei Yang</b></div>
 			</td>
 	</tr></tbody>
 </table>
+
+![](/images/Banners/banners_page%20footer%202%20-%20purple.png)
