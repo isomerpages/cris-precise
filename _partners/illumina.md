@@ -2,10 +2,9 @@
 title: illumina
 permalink: /partners/illumina/
 description: ""
+variant: markdown
 ---
 ### illumina
-
-**TAGS: ILLUMINA**
 
 <table>
 	<tbody>
@@ -19,3 +18,5 @@ Illumina is globally recognised as the premier sequencing technology and clinica
 		</tr>
 	</tbody>
 </table>
+
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)
