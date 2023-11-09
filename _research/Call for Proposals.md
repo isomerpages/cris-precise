@@ -117,7 +117,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
     
 4.  Projects that are out of scope (e.g. do not align with participant consents) will be declined.
     
-5.  Data access for Flagship Projects will be made available under the PRECISE-SG100K Umbrella data access approval from TRUST<sup>[1]</sup>;Data Access Committee (DAC).
+5.  Data access for Flagship Projects will be made available under the PRECISE-SG100K Umbrella data access approval from TRUST<sup>[1]</sup> Data Access Committee (DAC).
     
 6.  Other approved Driver Projects will need to apply for data access separately to either TRUST DAC (if clinical data are requested) or the PRECISE-SG100K DAC (if only research phenotype and/or genomic data are requested).
 
