@@ -26,20 +26,9 @@ not all experience benefits and some even face negative side effects.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/patients_1.gif)
 
-<table>
-   <tbody>
-      <tr>
-         <td width="60%">
-            <a href="https://www.npm.sg/research/research-highlights/" target="_blank">
-               <h4>What is Precision Medicine?</h4>
-            </a>
-            <br>Instead of treating all patients the same way, precision medicine takes individual variations in genetics, environmental and lifestyle factors into account, allowing doctors to more accurately predict which treatment and prevention strategies will work in different groups of people. Enabled by tools to analyse data on a large scale and with DNA sequencing becoming more affordable, precision medicine can improve healthcare by giving doctors a more detailed understanding of each patient. 
-         </td>
-         <td><img src="/images/About%20Us/Why%20We%20Do%20It/homepage-what-is-the-precision-section.png">
-         </td>
-      </tr>
-   </tbody>
-</table>
+<h4>What is Precision Medicine?</h4>
+
+Instead of treating all patients the same way, precision medicine takes individual variations in genetics, environmental and lifestyle factors into account, allowing doctors to more accurately predict which treatment and prevention strategies will work in different groups of people. Enabled by tools to analyse data on a large scale and with DNA sequencing becoming more affordable, precision medicine can improve healthcare by giving doctors a more detailed understanding of each patient. 
 
 ### **Positive Outcomes of Precision Medicine**
 
@@ -81,7 +70,6 @@ Most of these national programmes, however, are focused on Western or European p
 
 ### **SINGAPORE’S CONTRIBUTION TO PRECISION MEDICINE**
 
-<p>
 <img src="/images/About%20Us/Why%20We%20Do%20It/precise-logo.png" style="width:150px" align="center">
 
 With its multi-ethnic population that captures the diversity of Asia's genomes and strong research capabilities, Singapore is in an ideal position to address our lack of understanding of Asian-specific genetic conditions. Precision Health Research, Singapore (PRECISE) is the central entity coordinating a whole of government effort to implement phase II of Singapore's 10-year National Precision Medicine strategy.
@@ -98,7 +86,7 @@ However, there are hundreds of thousands of genetic variants which can each occu
 
 ![](/images/About%20Us/Why%20We%20Do%20It/genetic-data-1161px.jpg)
 
-<a href="https://www.researchsquare.com/article/rs-24953/v3"></a></p><h3><a href="https://www.researchsquare.com/article/rs-24953/v3">Public Engagement Efforts</a></h3>
+<a href="https://www.researchsquare.com/article/rs-24953/v3"><h3>Public Engagement Efforts</h3></a>
 
 Our work will not succeed without a vital ingredient: your trust and participation. Here are some activities we have conducted over the years to get your input on what precision medicine can do for Singapore and how we should go about doing it:
 
