@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours: []
     maps_link: ""
-    title: Main Office
+    title: Address
 contacts:
   - content:
       - phone: ""
