@@ -2,10 +2,9 @@
 title: Trusted Research and Real World Data Utilisation (TRUST)
 permalink: /partners/trust/
 description: ""
+variant: markdown
 ---
 ### Improving Health Outcomes Through Trusted Data Exchange
-
-**TAGS: TRUST**
 
 
 <table>
@@ -32,3 +31,5 @@ TRUST is Singapore’s national data exchange platform that aims to address thes
 *   TRUST aspires to improve health outcomes and accelerate data driven innovation in Singapore by serving as a health-related data exchange platform that unites anonymised health-related research and real-world data and facilitate their safe, expeditious and secure sharing and usage.
 
 For more information, please visit –&nbsp;[trustplatform.sg](http://trustplatform.sg/)
+
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)
