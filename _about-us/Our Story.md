@@ -4,6 +4,8 @@ permalink: /about-us/our-story/
 description: ""
 variant: markdown
 ---
+
+![](/images/Banners/banners_page%20footer%201%20-%20grey.png)
 <table>
    <tbody>
       <tr>
