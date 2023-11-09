@@ -3,11 +3,9 @@ title: Global Economics and Evaluation of Clinical Genomics Sequencing Working
   Group (GEECS)
 permalink: /partners/global-economics-and-evaluation-of-clinical-genomics-sequencing-working-group-geecs/
 description: ""
+variant: markdown
 ---
 ### Improving methods used for assessing value and implementation of precision medicine
-
-**TAGS: GEECS**
-
 
 <table>
 	<tbody>
@@ -23,3 +21,6 @@ The Global Economics and Evaluation of Clinical Genomics Sequencing Working Grou
 				<img src="/images/Collaborate/Partners/geecs_logo.jpg">
 			</td>
 			</tr></tbody></table>
+			
+			
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)
