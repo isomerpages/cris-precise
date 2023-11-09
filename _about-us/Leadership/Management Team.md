@@ -3,6 +3,7 @@ title: Management Team
 permalink: /about-us/leadership/management-team/
 description: ""
 third_nav_title: Leadership
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -43,3 +44,5 @@ John Chambers</b></div>
 		</tr>
 	</tbody>
 </table>
+
+![](/images/Banners/banners_page%20footer%203%20-%20purple.png)

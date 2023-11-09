@@ -2,6 +2,7 @@
 title: Partners
 permalink: /collaborate/partners/
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -75,3 +76,5 @@ description: ""
 		</tr>
 	</tbody>
 </table>
+
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)

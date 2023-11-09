@@ -10,13 +10,13 @@ locations:
       - ""
     operating_hours: []
     maps_link: ""
-    title: Main Office
+    title: Address
 contacts:
   - content:
       - phone: ""
       - email: contact@precise.cris.sg
-      - other: Submit an Enquiry Form here
-    title: General Enquiries & Feedback
+      - other: ""
+    title: Email
   - content:
       - phone: ""
       - email: ""

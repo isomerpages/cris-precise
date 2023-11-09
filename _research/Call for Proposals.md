@@ -309,3 +309,5 @@ Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.lu
 * TRUST documents (please request them from [TRUST](https://trustplatform.sg/) directly after registering as a TRUST member) <br>a. TRUST Member Full Instruction Guide <br>b. TRUST Data Request Form
 
 **Downloadable version of the website information on the Call for Proposals available&nbsp;[here](https://for.sg/sg100k-cfp-info).**
+
+![](/images/Banners/banners_page%20footer%202%20-%20purple.png)

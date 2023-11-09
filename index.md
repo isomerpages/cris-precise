@@ -58,7 +58,7 @@ sections:
       url: /news-and-events/editorial-features/sg10k-discoveries-from-mapping-10000-genomes/
       alt: infographic
       image: /images/Homepage/homepage-what-is-the-precision-section.png
-      subtitle: SG10K
+      subtitle: SG10K_Health
   - infopic:
       title: Insights from 100,000 Singaporean genomes
       subtitle: PRECISE-SG100K

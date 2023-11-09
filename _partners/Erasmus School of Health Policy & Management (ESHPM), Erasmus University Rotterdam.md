@@ -3,10 +3,9 @@ title: Erasmus School of Health Policy & Management (ESHPM), Erasmus University
   Rotterdam
 permalink: /partners/erasmus-school-of-health-policy-management-eshpm-erasmus-university-rotterdam/
 description: ""
+variant: markdown
 ---
 ### Leveraging a multidisciplinary approach for health economics &amp; health technology assessments
-
-TAGS: ESHPM
 
 
 <table>
@@ -23,3 +22,5 @@ This multidisciplinary approach to education and research is unique. Internation
 				<img src="/images/Collaborate/Partners/eur_eshpm_endorse_rgb_2400_colour-1.jpg">
 			</td>
 			</tr></tbody></table>
+			
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)

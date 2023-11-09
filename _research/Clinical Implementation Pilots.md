@@ -1,7 +1,8 @@
 ---
 title: Clinical Implementation Pilots
-permalink: /research/clinical-implementation-pilots/
+permalink: /cip/
 description: ""
+variant: markdown
 ---
 **PRECISE** rolled out its CIP Grant Call in Jul 2021 to provide funding for pilots which facilitate the incorporation of genetic/genomic tests into clinical pathways that improve patient outcomes while maintaining sustainable per capita cost and optimising the healthcare experiences for both healthcare providers and patients. This aligns with the&nbsp;[Ministry of Health’s Healthier SG](https://www.healthiersg.gov.sg/)&nbsp;strategy, leading to better patient outcomes through early detection, accurate diagnosis, and targeted treatments.
 
@@ -189,3 +190,5 @@ Tan Tock Seng Hospital
 		</tr>
 	</tbody>
 </table>
+
+![](/images/Banners/banners_page%20footer%201%20-%20purple.png)

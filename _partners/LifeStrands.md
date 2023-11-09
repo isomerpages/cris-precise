@@ -2,10 +2,9 @@
 title: LifeStrands
 permalink: /partners/lifestrands/
 description: ""
+variant: markdown
 ---
 ### Enabling Clinical-Grade Genetic &amp; Genomic Testing Services in Singapore
-
-Tags:&nbsp;[LifeStrands](https://lifestrandsgx.com/)
 
 <table>
 	<tbody>
@@ -29,3 +28,5 @@ The partnership between LifeStrands Genomics and Ambry Genetics reflects a share
 _LifeStrands Genomics is a subsidiary of the_&nbsp;[_Pathology Asia group_](https://pathologyasia.com/)_, a leading independent diagnostic_&nbsp;_service provider in Southeast Asia headquartered in Singapore. The Pathology Asia group includes Innoquest Diagnostics, one of the largest diagnostic service providers in Singapore, and other leading diagnostic laboratories in Malaysia, Vietnam, the Philippines, Indonesia and Australia; as well as a digital platform for healthcare providers. Pathology Asia aspires to be the foremost trusted diagnostics services provider in Southeast Asia and Australasia._
 
 _Ambry Genetics is a subsidiary of_&nbsp;[_REALM IDx_](https://realmidx.com/)_, Inc. It is a leader in genetic testing that aims to improve health by understanding the relationship between genetics and diseases. Due to its unparalleled track record of discoveries over 20 years, as well as to its growing database that continues to expand in collaboration with academic, corporate and pharmaceutical partners, Ambry Genetics is first to market with innovative products and comprehensive analysis that enable clinicians to confidently inform patient health decisions._
+
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)

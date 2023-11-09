@@ -2,10 +2,9 @@
 title: Health Intervention and Technology Assessment Program (HITAP)
 permalink: /partners/health-intervention-and-technology-assessment-program-hitap/
 description: ""
+variant: markdown
 ---
 ### Adopting health technology assessment approaches for efficient and sustainable healthcare systems
-
-**TAGS: HITAP**
 
 
 <table>
@@ -22,3 +21,5 @@ HITAP is a member of the International Decision Support Initiative (iDSI), a glo
 		</tr>
 	</tbody>
 </table>
+
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)
