@@ -2,6 +2,7 @@
 title: SG10K HEALTH
 permalink: /partners/sg10k/
 description: ""
+variant: markdown
 ---
 ### Reference Genome Database
 
@@ -43,3 +44,5 @@ Interested applicants are highly recommended to read through the data access pol
 *   [SG10K\_Pilot Data Access Form](https://www.a-star.edu.sg/docs/librariesprovider11/npm/SG10K_Pilot_Data_Access_Form.docx)
 
 For more information on the list of approved studies, please visit&nbsp;[https://npm.a-star.edu.sg/help](https://npm.a-star.edu.sg/help)
+
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)
