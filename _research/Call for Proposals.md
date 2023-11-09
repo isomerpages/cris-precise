@@ -4,10 +4,10 @@ permalink: /research/call-for-proposals/
 variant: markdown
 description: ""
 ---
-### Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset
+### **Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset**
 
 
-**INTRODUCTION**
+##### **INTRODUCTION**
 
 Phase 2 of the National Precision Medicine (NPM) programme is progressing well and the PRECISE-SG100K Dataset is developing well.
 
@@ -17,7 +17,7 @@ In anticipation of the first data freeze, we are inviting researchers in the PRE
 
 Approved Driver Projects will get priority access to the de-identified clinical, phenotypic, and genomic data of the 100,000 participants in the SG100K study. They will also get support from PRECISE-SG100K Scientific Committee (refer below for details of members) and Data Science Team as well as opportunities to collaborate with pharmaceutical companies who are partnering the NPM programme.
 
-**BRIEF DESCRIPTION OF DATASET**
+##### **BRIEF DESCRIPTION OF DATASET**
 
 PRECISE-SG100K Dataset includes:
 
@@ -29,7 +29,7 @@ PRECISE-SG100K Dataset includes:
 
 All data will be pseudonymised. This means that conventional personal identifiers such as date of birth, NRIC, and residential address are removed. The data and/or human biospecimens thus cannot be easily attributed to a specific individual.
 
-**GUIDING PRINCIPLES FOR PROPOSAL**
+##### **GUIDING PRINCIPLES FOR PROPOSAL**
 
 **Scope for Proposals**
 
@@ -112,13 +112,13 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
 
 1.  All proposals will be reviewed by the PRECISE-SG100K Scientific Committee.
     
-2.  The guiding principle adopted by the PRECISE-SG100K Scientific Committee is to maximise use of the dataset, and to optimise the quality of the science carried out.
+2.  The guiding principle adopted by the PRECISE-SG100K Scientific Committee is to maximise use of the dataset and to optimise the quality of the science carried out.
     
 3.  PRECISE-SG100K Scientific Committee may make suggestions for ways in which the research could be strengthened or may ask groups to work together if their proposals are overlapping.
     
 4.  Projects that are out of scope (e.g. do not align with participant consents) will be declined.
     
-5.  Data access for Flagship Projects will be made available under the PRECISE-SG100K Umbrella data access approval from TRUST\[1\]&nbsp;Data Access Committee (DAC).
+5.  Data access for Flagship Projects will be made available under the PRECISE-SG100K Umbrella data access approval from TRUST<sup>[1]</sup>;Data Access Committee (DAC).
     
 6.  Other approved Driver Projects will need to apply for data access separately to either TRUST DAC (if clinical data are requested) or the PRECISE-SG100K DAC (if only research phenotype and/or genomic data are requested).
 
