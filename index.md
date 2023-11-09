@@ -6,13 +6,17 @@ description: Precision Health Research, Singapore (PRECISE) is the central
   of Singapore’s National Precision Medicine (NPM) programme.
 image: /images/Logos/precise logo - transparent.png
 permalink: /
-notification: Call for proposal now open till 31 December!
+notification: Call for Proposals - Driver Projects for the PRECISE-SG100K
+  dataset now open till 31 Jan 2024!
 sections:
   - hero:
       title: Welcome to PRECISE
       subtitle: Transforming health in Singapore through Precision Medicine
       background: /images/landing-page-banner_humans-1.jpg
       key_highlights:
+        - title: Call for Proposals
+          description: ""
+          url: /research/call-for-proposals/
         - title: latest news
           description: ""
           url: /news-and-events/
