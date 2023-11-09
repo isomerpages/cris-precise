@@ -3,6 +3,7 @@ title: Scientific Advisory Board
 permalink: /about-us/leadership/scientific-advisory-board/
 description: ""
 third_nav_title: Leadership
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -32,3 +33,5 @@ Professor Victor J. Dzau</b></div>
 		</tr>
 	</tbody>
 </table>
+
+![](/images/Banners/banners_page%20footer%202%20-%20purple.png)
