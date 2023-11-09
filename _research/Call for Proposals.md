@@ -25,7 +25,8 @@ PRECISE-SG100K Dataset includes:
     
 2.  **Genome Data:**&nbsp;Shotgun Whole Genomic Sequencing (WGS) derived genomic sequences and variant catalogue of SG100K participants.
     
-3.  **Clinical Data:**&nbsp;Collected by public healthcare providers and maintained by the Ministry of Health, Singapore.<p>
+3.  **Clinical Data:**&nbsp;Collected by public healthcare providers and maintained by the Ministry of Health, Singapore.
+
 All data will be pseudonymised. This means that conventional personal identifiers such as date of birth, NRIC, and residential address are removed. The data and/or human biospecimens thus cannot be easily attributed to a specific individual.
 
 ##### **GUIDING PRINCIPLES FOR PROPOSAL**
@@ -121,7 +122,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
     
 6.  Other approved Driver Projects will need to apply for data access separately to either TRUST DAC (if clinical data are requested) or the PRECISE-SG100K DAC (if only research phenotype and/or genomic data are requested).
 
-<small>[ 1 ]&nbsp;TRUST (Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-data exchange platform to facilitate secure data sharing and analysis of anonymised research and real-world data to support data analytics between public institutions, and between the public and private sectors.</small>
+	<small><sup>[ 1 ]</sup> TRUST (Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-data exchange platform to facilitate secure data sharing and analysis of anonymised research and real-world data to support data analytics between public institutions, and between the public and private sectors.</small>
 
 ##### **TIMELINES**
 
@@ -307,4 +308,4 @@ Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.lu
 **TRUST**
 * TRUST documents (please request them from [TRUST](https://trustplatform.sg/) directly after registering as a TRUST member) <br>a. TRUST Member Full Instruction Guide <br>b. TRUST Data Request Form
 
-**Downloadable version of the website information on the Call for Proposals available&nbsp;[here](https://for.sg/sg100k-cfp-info).**</p>
+**Downloadable version of the website information on the Call for Proposals available&nbsp;[here](https://for.sg/sg100k-cfp-info).**
