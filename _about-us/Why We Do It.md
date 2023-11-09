@@ -61,8 +61,7 @@ Instead of treating all patients the same way, precision medicine takes individu
 
 ### **PRECISION MEDICINE EFFORTS AROUND THE WORLD**
 
-To help harness the benefits of precision medicine for their people, governments around the  
-world have initiated national genomics programmes.
+To help harness the benefits of precision medicine for their people, governments around the world have initiated national genomics programmes.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/map-1161px%20(1).jpg)
 
