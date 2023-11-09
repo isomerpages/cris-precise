@@ -88,11 +88,11 @@ However, there are hundreds of thousands of genetic variants which can each occu
 
 <h3>Public Engagement Efforts</h3>
 
-Our work will not succeed without a [Here are some activities](https://www.researchsquare.com/article/rs-24953/v3) we have conducted over the years to get your input on what precision medicine can do for Singapore and how we should go about doing it:
+Our work will not succeed without a Here are some activities we have conducted over the years to get your input on what precision medicine can do for Singapore and how we should go about doing it:
 
 ![](/images/About%20Us/Why%20We%20Do%20It/public-engagement-efforts_1.gif)
 
-**Your valuable feedback has shaped the way PRECISE is run, including how the data collected  is stored, secured and retrieved.**
+Your valuable feedback has shaped the way PRECISE is run, including how the data collected  is stored, secured and retrieved.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/the-way-precise-run2-1161px.jpg)
 
