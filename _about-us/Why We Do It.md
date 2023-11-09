@@ -97,8 +97,8 @@ To realise the potential of precision medicine, genetic data needs to be linked 
 However, there are hundreds of thousands of genetic variants which can each occur in different populations at different levels. To identify the relevant variants, large databases are required. In other words, the more people that participate, the more accurate the predictions can be.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/genetic-data-1161px.jpg)
-</p>
-<a href="https://www.researchsquare.com/article/rs-24953/v3"><h3>Public Engagement Efforts</h3></a>
+
+<a href="https://www.researchsquare.com/article/rs-24953/v3"></a></p><h3><a href="https://www.researchsquare.com/article/rs-24953/v3">Public Engagement Efforts</a></h3>
 
 Our work will not succeed without a vital ingredient: your trust and participation. Here are some activities we have conducted over the years to get your input on what precision medicine can do for Singapore and how we should go about doing it:
 
