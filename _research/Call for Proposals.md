@@ -25,8 +25,7 @@ PRECISE-SG100K Dataset includes:
     
 2.  **Genome Data:**&nbsp;Shotgun Whole Genomic Sequencing (WGS) derived genomic sequences and variant catalogue of SG100K participants.
     
-3.  **Clinical Data:**&nbsp;Collected by public healthcare providers and maintained by the Ministry of Health, Singapore.
-
+3.  **Clinical Data:**&nbsp;Collected by public healthcare providers and maintained by the Ministry of Health, Singapore.<p>
 All data will be pseudonymised. This means that conventional personal identifiers such as date of birth, NRIC, and residential address are removed. The data and/or human biospecimens thus cannot be easily attributed to a specific individual.
 
 ##### **GUIDING PRINCIPLES FOR PROPOSAL**
@@ -308,4 +307,4 @@ Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.lu
 **TRUST**
 * TRUST documents (please request them from [TRUST](https://trustplatform.sg/) directly after registering as a TRUST member) <br>a. TRUST Member Full Instruction Guide <br>b. TRUST Data Request Form
 
-**Downloadable version of the website information on the Call for Proposals available&nbsp;[here](https://for.sg/sg100k-cfp-info).**
+**Downloadable version of the website information on the Call for Proposals available&nbsp;[here](https://for.sg/sg100k-cfp-info).**</p>
