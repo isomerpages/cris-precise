@@ -2,6 +2,7 @@
 title: FAQs
 permalink: /faqs/
 description: ""
+variant: markdown
 ---
 ##### 1.  HOW CAN I PARTICIPATE IN THE NATIONAL PRECISION MEDICINE PROGRAMME?
 
@@ -44,3 +45,5 @@ The Singapore precision medicine programme aims to help fill this “genetic div
 ##### 8. WHAT’S COMING UP NEXT FOR THE PRECISION MEDICINE PROGRAMME?
 
 The programme spans 10 years. We have completed the first phase, in which we studied the genomes of 10,000 Singaporeans and identified common genetic variants (>1%) that occur in the Singaporean population. In the next few years, we hope to collect data from 100,000 Singaporeans to reveal more uniquely Singaporean insights into the roles of genetic variants in disease. Another important focus will be testing precision medicine pilot programmes in real hospital settings. In the long run, we also hope to train future generations of skilled workers in the high-growth genomics and big data industries, who will help to propel Singapore to the forefront of precision medicine worldwide.
+
+![](/images/Banners/banners_page%20footer%203%20-%20purple.png)
