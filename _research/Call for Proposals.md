@@ -4,10 +4,10 @@ permalink: /research/call-for-proposals/
 variant: markdown
 description: ""
 ---
-### Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset
+### **Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset**
 
 
-**INTRODUCTION**
+##### **INTRODUCTION**
 
 Phase 2 of the National Precision Medicine (NPM) programme is progressing well and the PRECISE-SG100K Dataset is developing well.
 
@@ -17,7 +17,7 @@ In anticipation of the first data freeze, we are inviting researchers in the PRE
 
 Approved Driver Projects will get priority access to the de-identified clinical, phenotypic, and genomic data of the 100,000 participants in the SG100K study. They will also get support from PRECISE-SG100K Scientific Committee (refer below for details of members) and Data Science Team as well as opportunities to collaborate with pharmaceutical companies who are partnering the NPM programme.
 
-**BRIEF DESCRIPTION OF DATASET**
+##### **BRIEF DESCRIPTION OF DATASET**
 
 PRECISE-SG100K Dataset includes:
 
@@ -25,11 +25,10 @@ PRECISE-SG100K Dataset includes:
     
 2.  **Genome Data:**&nbsp;Shotgun Whole Genomic Sequencing (WGS) derived genomic sequences and variant catalogue of SG100K participants.
     
-3.  **Clinical Data:**&nbsp;Collected by public healthcare providers and maintained by the Ministry of Health, Singapore.
-
+3.  **Clinical Data:**&nbsp;Collected by public healthcare providers and maintained by the Ministry of Health, Singapore.<p>
 All data will be pseudonymised. This means that conventional personal identifiers such as date of birth, NRIC, and residential address are removed. The data and/or human biospecimens thus cannot be easily attributed to a specific individual.
 
-**GUIDING PRINCIPLES FOR PROPOSAL**
+##### **GUIDING PRINCIPLES FOR PROPOSAL**
 
 **Scope for Proposals**
 
@@ -66,7 +65,7 @@ This leads to two key considerations:
 
 1.  Project Proposals that include an industry partner will require specific review and approval by PRECISE and the PRECISE-SG100K Scientific Committee, to ensure that the proposed industry involvement does not conflict with ongoing industry engagement activities.
     
-2.  The pharmaceutical partners brought into a collaboration by PRECISE may seek to pursue similar works to that described in the proposals. PRECISE will aim to link up these similar research strands, so that Singapore public researchers and PREICSE pharmaceutical partners can work together where it adds value. If this happens, it might lead to additional support available for the selected proposals.
+2.  The pharmaceutical partners brought into a collaboration by PRECISE may seek to pursue similar works to that described in the proposals. PRECISE will aim to link up these similar research strands, so that Singapore public researchers and PRECISE pharmaceutical partners can work together where it adds value. If this happens, it might lead to additional support available for the selected proposals.
 
 **Publication Policy**
 
@@ -102,23 +101,23 @@ Publications arising from the proposals should include an author list that adopt
     
 5.  All manuscripts MUST be shared with and approved by the PRECISE-SG100K Scientific Committee prior to journal submission to ensure that they respect these principles.
 
-**FLAGSHIP PROJECTS**
+##### **FLAGSHIP PROJECTS**
 
 A number of Driver Projects will be invited to work more closely with the PRECISE-SG100K team. These&nbsp;**Flagship Projects**&nbsp;will be selected based on their alignment to the research strategy for the NPM programme and their potential to generate insightful and impactful observations. Flagship projects will receive additional support from PRECISE-SG100K team, which may include support for computing costs and/or data analysts FTEs.
 
 Flagship Projects will be show-cased as key research outcomes of the NPM programme and will be expected to meet with the PRECISE-SG100K Scientific Committee on a regular basis to share their progress.
 
-**REVIEW PROCESS**
+##### **REVIEW PROCESS**
 
 1.  All proposals will be reviewed by the PRECISE-SG100K Scientific Committee.
     
-2.  The guiding principle adopted by the PRECISE-SG100K Scientific Committee is to maximise use of the dataset, and to optimise the quality of the science carried out.
+2.  The guiding principle adopted by the PRECISE-SG100K Scientific Committee is to maximise use of the dataset and to optimise the quality of the science carried out.
     
 3.  PRECISE-SG100K Scientific Committee may make suggestions for ways in which the research could be strengthened or may ask groups to work together if their proposals are overlapping.
     
 4.  Projects that are out of scope (e.g. do not align with participant consents) will be declined.
     
-5.  Data access for Flagship Projects will be made available under the PRECISE-SG100K Umbrella data access approval from TRUST\[1\]&nbsp;Data Access Committee (DAC).
+5.  Data access for Flagship Projects will be made available under the PRECISE-SG100K Umbrella data access approval from TRUST<sup>[1]</sup> Data Access Committee (DAC).
     
 6.  Other approved Driver Projects will need to apply for data access separately to either TRUST DAC (if clinical data are requested) or the PRECISE-SG100K DAC (if only research phenotype and/or genomic data are requested).
 
@@ -169,7 +168,7 @@ Flagship Projects will be show-cased as key research outcomes of the NPM program
       </tr>
       <tr>
          <td>
-            5. 	50K Data Freeze from PRECISE-SG100K <br>(available for use)
+            5. 	50K Data Freeze from PRECISE-SG100K (available for use)
          </td>
          <td>
             Q2 2024
@@ -182,7 +181,7 @@ _\*The schedule may be subject to change_
 
 Please submit completed application forms to PRECISE Programme Managers, Dr Ryan Luo ([ryan.luo@precise.cris.sg](mailto:ryan.luo@precise.cris.sg)) and Dr Kriti Sethi ([kriti.sethi@precise.cris.sg](mailto:kriti.sethi@precise.cris.sg)) by 31 Jan 2024. Late or incomplete application forms will not be entertained.
 
-**PRECISE-SG100K SCIENTIFIC COMMITTEE MEMBERS:**
+##### **PRECISE-SG100K SCIENTIFIC COMMITTEE MEMBERS**
 
 Below are the details of the PRECISE-SG100K Scientific Committee.
 
@@ -292,7 +291,7 @@ Below are the details of the PRECISE-SG100K Scientific Committee.
 				
 Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.luo@precise.cris.sg](mailto:ryan.luo@precise.cris.sg)) and Dr Kriti Sethi ([kriti.sethi@precise.cris.sg](mailto:kriti.sethi@precise.cris.sg)).
 
-**RESOURCES**
+##### **RESOURCES**
 
 **Dataset**
 * [Data Dictionary](https://for.sg/sg100k-datadictionary)
@@ -308,4 +307,4 @@ Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo ([ryan.lu
 **TRUST**
 * TRUST documents (please request them from [TRUST](https://trustplatform.sg/) directly after registering as a TRUST member) <br>a. TRUST Member Full Instruction Guide <br>b. TRUST Data Request Form
 
-**Downloadable version of the website information on the Call for Proposals available&nbsp;[here](https://for.sg/sg100k-cfp-info).**
+**Downloadable version of the website information on the Call for Proposals available&nbsp;[here](https://for.sg/sg100k-cfp-info).**</p>
