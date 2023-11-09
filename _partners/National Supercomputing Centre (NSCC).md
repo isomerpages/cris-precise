@@ -2,11 +2,9 @@
 title: National Supercomputing Centre (NSCC)
 permalink: /partners/national-supercomputing-centre-nscc/
 description: ""
+variant: markdown
 ---
 ### High-performance computing capabilities for genomic data analysis and collaboration
-
-**TAGS: NSCC**
-
 
 <table>
 	<tbody>
@@ -20,3 +18,6 @@ NSCC&nbsp;supports the National Precision Medicine Programme by providing its HP
 				<img src="/images/Collaborate/Partners/national-supercomputing.jpg">
 			</td>
 			</tr></tbody></table>
+			
+			
+![](/images/Banners/banners_page%20footer%203%20-%20grey.png)
