@@ -75,7 +75,7 @@ variant: markdown
 			</td>
 			<td style="width:33%">
 				<a href="/partners/nalagenetics/">
-				<img src="/images/Collaborate/Partners/Logo_NalaGenetics_Vertical.png">
+				<img src="/images/Collaborate/Partners/logo_nalagenetics_vertical.png">
 				</a>
 				<b>NALAGENETICS</b>
 			</td>
