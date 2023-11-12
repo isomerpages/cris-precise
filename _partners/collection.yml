@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - NALAGENETICS.md
       - SG10K HEALTH.md
       - SG100K.md
       - illumina.md
