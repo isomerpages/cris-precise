@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Board Oversight Committee/Prof Tan Sze Wee.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Mr Peter Ho (Chairman).md
       - Board Oversight Committee/Assoc Prof Angelique Chan.md
