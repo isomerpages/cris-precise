@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - NALAGENETICS.md
       - SG10K HEALTH.md
       - SG100K.md
       - illumina.md
@@ -15,3 +14,4 @@ collections:
         Rotterdam.md
       - Global Economics and Evaluation of Clinical Genomics Sequencing Working
         Group (GEECS).md
+      - NALAGENETICS.md
