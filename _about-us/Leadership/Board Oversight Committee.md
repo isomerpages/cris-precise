@@ -82,9 +82,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td width="25%">
-				<a href="/bio/board-oversight-committee/roger-foo/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/leadership_tan%20sze%20wee.png">
-				</a>
 				<div align="center"><b>Prof Tan Sze Wee)</b></div>
 			</td>
 	</tr></tbody>
