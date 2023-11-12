@@ -17,8 +17,8 @@ We hope to generate new findings that will inform healthcare practices with the 
    <tbody>
       <tr>
 				<td style="width:33%">
-            <img src="/images/Research/Research%20Highlights/research%20highlight-dna.png">
 					<a href="/files/Research%20Highlights/2023-09.pdf">
+            <img src="/images/Research/Research%20Highlights/research%20highlight-dna.png">
 						<b>A catalogue of structural variation across ancestrally diverse Asian genomes</b>
             </a>
          </td>
