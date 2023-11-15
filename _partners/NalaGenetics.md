@@ -4,7 +4,7 @@ permalink: /partners/nalagenetics/
 variant: markdown
 description: ""
 ---
-### Developing an interactive patient-facing interface to facilitate access to PGx reports and other interactions
+### Developing an interactive patient-facing interface to facilitate access to Pharmacogenomics reports and other interactions
 
 <table>
 	<tbody>
