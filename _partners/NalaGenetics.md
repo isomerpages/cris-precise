@@ -9,10 +9,10 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td style="width:50%">
+			<td style="width:60%">
 A cause for these unwanted occurrences is the association between an individual’s genetic variance towards certain drugs. Genetic variants are associated with 20-95% drug response variability, and recent studies conducted in Singapore have found that 30% of adverse drug responses are caused by at least one drug with a pharmacogenomics (PGx) clinical annotation, highlighting the potential to improve and optimize therapeutic outcomes through PGx testing. This was demonstrated by HLA-B*1520 testing prior to carbamazepine treatment in Singapore, displaying the benefit of gene testing before treatment initiation through the stratification of patients.
 							</td>
-			<td style="width:50%">
+			<td style="width:40%">
 				<img src="/images/Collaborate/Partners/logo_nalagenetics_vertical.png">
 			</td>
 			</tr></tbody></table>
