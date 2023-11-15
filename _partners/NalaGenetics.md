@@ -4,7 +4,7 @@ permalink: /partners/nalagenetics/
 variant: markdown
 description: ""
 ---
-### Medication-related hospital admission in Singapore has reached approximately 12.4%
+### Developing an interactive patient-facing interface to facilitate access to PGx reports and other interactions
 
 <table>
 	<tbody>
