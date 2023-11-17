@@ -2,6 +2,7 @@
 title: Why We Do It
 permalink: /about-us/why-we-do-it/
 description: ""
+variant: markdown
 ---
 # **What is Precision Medicine and Why it Matters**
 
@@ -25,20 +26,9 @@ not all experience benefits and some even face negative side effects.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/patients_1.gif)
 
-<table>
-   <tbody>
-      <tr>
-         <td width="60%">
-            <a href="https://www.npm.sg/research/research-highlights/" target="_blank">
-               <h4>What is Precision Medicine?</h4>
-            </a>
-            <br>Instead of treating all patients the same way, precision medicine takes individual variations in genetics, environmental and lifestyle factors into account, allowing doctors to more accurately predict which treatment and prevention strategies will work in different groups of people. Enabled by tools to analyse data on a large scale and with DNA sequencing becoming more affordable, precision medicine can improve healthcare by giving doctors a more detailed understanding of each patient. 
-         </td>
-         <td><img src="/images/About%20Us/Why%20We%20Do%20It/homepage-what-is-the-precision-section.png">
-         </td>
-      </tr>
-   </tbody>
-</table>
+<h4>What is Precision Medicine?</h4>
+
+Instead of treating all patients the same way, precision medicine takes individual variations in genetics, environmental and lifestyle factors into account, allowing doctors to more accurately predict which treatment and prevention strategies will work in different groups of people. Enabled by tools to analyse data on a large scale and with DNA sequencing becoming more affordable, precision medicine can improve healthcare by giving doctors a more detailed understanding of each patient. 
 
 ### **Positive Outcomes of Precision Medicine**
 
@@ -71,8 +61,7 @@ not all experience benefits and some even face negative side effects.
 
 ### **PRECISION MEDICINE EFFORTS AROUND THE WORLD**
 
-To help harness the benefits of precision medicine for their people, governments around the  
-world have initiated national genomics programmes.
+To help harness the benefits of precision medicine for their people, governments around the world have initiated national genomics programmes.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/map-1161px%20(1).jpg)
 
@@ -80,12 +69,13 @@ Most of these national programmes, however, are focused on Western or European p
 
 ### **SINGAPORE’S CONTRIBUTION TO PRECISION MEDICINE**
 
-<p>
 <img src="/images/About%20Us/Why%20We%20Do%20It/precise-logo.png" style="width:150px" align="center">
 
 With its multi-ethnic population that captures the diversity of Asia's genomes and strong research capabilities, Singapore is in an ideal position to address our lack of understanding of Asian-specific genetic conditions. Precision Health Research, Singapore (PRECISE) is the central entity coordinating a whole of government effort to implement phase II of Singapore's 10-year National Precision Medicine strategy.
 
+	
 ![](/images/About%20Us/Why%20We%20Do%20It/strategy-1161px-1%20(1).jpg)
+	
 
 ### **HOW WILL MY DATA BE USED?**
 
@@ -94,15 +84,14 @@ To realise the potential of precision medicine, genetic data needs to be linked 
 However, there are hundreds of thousands of genetic variants which can each occur in different populations at different levels. To identify the relevant variants, large databases are required. In other words, the more people that participate, the more accurate the predictions can be.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/genetic-data-1161px.jpg)
-</p>
-<a href="https://www.researchsquare.com/article/rs-24953/v3"><h3>Public Engagement Efforts</h3></a>
 
-Our work will not succeed without a vital ingredient: your trust and participation. Here are some activities we have conducted over the years to get your input on what precision medicine can do for Singapore and how we should go about doing it:
+### **Public Engagement Efforts**
+
+Our work will not succeed without a Here are some activities we have conducted over the years to get your input on what precision medicine can do for Singapore and how we should go about doing it:
 
 ![](/images/About%20Us/Why%20We%20Do%20It/public-engagement-efforts_1.gif)
 
-**Your valuable feedback has shaped the way PRECISE is run, including how the data collected  
-is stored, secured and retrieved.**
+Your valuable feedback has shaped the way PRECISE is run, including how the data collected  is stored, secured and retrieved.
 
 ![](/images/About%20Us/Why%20We%20Do%20It/the-way-precise-run2-1161px.jpg)
 

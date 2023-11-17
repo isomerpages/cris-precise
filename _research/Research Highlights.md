@@ -16,6 +16,11 @@ We hope to generate new findings that will inform healthcare practices with the 
 <table>
    <tbody>
       <tr>
+				<td style="width:33% display:none">
+					  <img src="/images/Research/Research%20Highlights/research%20highlight-dna.png">
+						<a href="/files/Research%20Highlights/2023-09.pdf" class="no-icon"><b>A catalogue of structural variation across ancestrally diverse Asian genomes</b>
+            </a>
+         </td>
          <td style="width:33%">
             <a href="https://drive.google.com/file/d/1ohjJJ5uK7BbAlqiS0LikQTLU5fMRvmi3/view">
             <img src="/images/Research/Research%20Highlights/nature.png"><b>The Singapore National Precision Medicine Strategy</b>
@@ -26,13 +31,13 @@ We hope to generate new findings that will inform healthcare practices with the 
             <img src="/images/Research/Research%20Highlights/nature_communications_-_journal_cover.jpeg"><b>Analysis of clinically relevant variants from ancestrally diverse Asian genomes</b>
             </a>
          </td>
-         <td style="width:33%">
+      </tr>
+      <tr>
+				<td style="width:33%">
             <a href="https://journals.sagepub.com/doi/full/10.1177/20539517221108988">
             <img src="/images/Research/Research%20Highlights/big-data_cover.png"><b>Sharing precision medicine data with private industry: Outcomes of a citizens’ jury in Singapore</b>
             </a>
          </td>
-      </tr>
-      <tr>
          <td style="width:33%">
             <a href="https://www.nature.com/articles/s41588-021-00969-x">
             <img src="/images/Research/Research%20Highlights/nature_gene.jpg"><b>Genetic Variation Influencing DNA Methylation Provides Insights into Molecular Mechanisms Regulating Genomic Function</b>
@@ -43,13 +48,13 @@ We hope to generate new findings that will inform healthcare practices with the 
             <img src="/images/Research/Research%20Highlights/cell%20genomics.jpg"><b>GA4GH: International Policies and Standards for Data Sharing across Genomic Research and Healthcare</b>
             </a>
          </td>
-         <td style="width:33%">
+      </tr>
+      <tr>
+				<td style="width:33%">
             <a href="https://www.science.org/doi/10.1126/science.abh1645">
             <img src="/images/Research/Research%20Highlights/science%20cover.jpg"><b>Mapping Genomic and Epigenomic Evolution in Cancer Ecosystems</b>
             </a>
          </td>
-      </tr>
-      <tr>
          <td style="width:33%">
             <a href="https://www.mdpi.com/2075-4426/11/9/921">
             <img src="/images/Research/Research%20Highlights/trust%20and%20trade-offs.png"><b>Trust and Trade-Offs in Sharing Data for Precision Medicine: A National Survey of Singapore</b>
@@ -59,14 +64,14 @@ We hope to generate new findings that will inform healthcare practices with the 
             <a href="https://link.springer.com/article/10.1007/s41649-021-00180-4">
             <img src="/images/Research/Research%20Highlights/springerv3.png"><b>Religious Perspectives on Precision Medicine in Singapore</b>
             </a>
-         </td>
-         <td style="width:33%">
+         </td>     
+      </tr>
+      <tr>
+				<td style="width:33%">
             <a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00819-1">
             <img src="/images/Research/Research%20Highlights/bmc-icon.png"><b>Family history assessment significantly enhances delivery of precision medicine in the genomics era</b>
             </a>
          </td>
-      </tr>
-      <tr>
          <td style="width:33%">
             <a href="https://www.researchsquare.com/article/rs-24953/v3">
             <img src="/images/Research/Research%20Highlights/istock-916107606-2-e1609900445301.jpg"><b>“Who is watching the watchdog?”: ethical perspectives of sharing health-related data for precision medicine in Singapore</b>

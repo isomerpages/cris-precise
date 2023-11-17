@@ -73,6 +73,12 @@ variant: markdown
 				</a>
 				<b>GLOBAL ECONOMICS AND EVALUATION OF CLINICAL GENOMICS SEQUENCING WORKING GROUP (GEECS)</b>
 			</td>
+			<td style="width:33%">
+				<a href="/partners/nalagenetics/">
+				<img src="/images/Collaborate/Partners/logo_nalagenetics_vertical.png">
+				</a>
+				<b>NALAGENETICS</b>
+			</td>
 		</tr>
 	</tbody>
 </table>

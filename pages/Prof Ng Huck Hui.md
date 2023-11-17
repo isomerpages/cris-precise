@@ -2,7 +2,6 @@
 title: Prof Ng Huck Hui
 permalink: /bio/board-oversight-committee/ng-huck-hui/
 description: ""
-third_nav_title: Board Oversight Committee
 variant: markdown
 ---
 <img src="/images/Bio/Board%20Oversight%20Committee/prof-ng-huck-hui.png" align="center" style="width:200px">

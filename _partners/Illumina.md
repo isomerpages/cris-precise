@@ -1,5 +1,5 @@
 ---
-title: illumina
+title: Illumina
 permalink: /partners/illumina/
 description: ""
 variant: markdown

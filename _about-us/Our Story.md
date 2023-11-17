@@ -47,6 +47,7 @@ Phase I of Singapore’s National Precision Medicine (NPM) programme set the sta
 Phase II was launched in 2020 and aims to generate the genomes of 100,000 healthy Singaporeans and 50,000 people with specific diseases. Phase II will pilot clinical implementation of precision medicine approaches and establish data infrastructure for the linkage of genomic data with electronic health records and other data types. Precision Health Research, Singapore (PRECISE) is the central entity incorporated to coordinate Phase II.
 
 Phase III will implement precision medicine in Singapore on a large scale and Phase III is expected to span from 2024 to 2027. Besides genomic sequencing of up to 1 million people, the genomic data will be linked with clinical and lifestyle data to create large Singaporean databases. Ultimately, doctors and scientists can use these valuable resources to reach a deeper understanding of how diseases develop, and discover better ways to prevent and treat them.
+
 ![ ](/images/About%20Us/Our%20Story/npm%20phases.png)
 ### **Video: Singapore's National Precision Medicine Strategy**
 

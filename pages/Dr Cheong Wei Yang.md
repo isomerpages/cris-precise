@@ -2,7 +2,6 @@
 title: Dr Cheong Wei Yang
 permalink: /bio/board-oversight-committee/cheong-wei-yang/
 description: ""
-third_nav_title: Board Oversight Committee
 variant: markdown
 ---
 <img src="/images/Bio/Board%20Oversight%20Committee/ds-cheong-wei-yang-1.png" align="center" style="width:200px">

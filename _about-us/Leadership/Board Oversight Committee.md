@@ -42,26 +42,19 @@ variant: markdown
 				<div align="center"><b>Prof Aung Tin</b></div>
 			</td>
 			<td width="25%">
-				<a href="/bio/board-oversight-committee/cheong-wei-yang/">
-					<img src="/images/Bio/Board%20Oversight%20Committee/ds-cheong-wei-yang-1.png">
-				</a>
-				<div align="center"><b>Dr Cheong
-Wei Yang</b></div>
-			</td>
-			<td width="25%">
 				<a href="/bio/board-oversight-committee/dan-yock-young/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/aprof-dan-young-nusmed.png">
 				</a>
 				<div align="center"><b>A/Prof Dan Yock Young</b></div>
 			</td>
-		</tr>
-		<tr height="350"> <!-- Row 2 -->
 			<td width="25%">
 				<a href="/bio/board-oversight-committee/daphne-khoo/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/dr-daphne-khoo-2.png">
 				</a>
 				<div align="center"><b>Dr Daphne Khoo</b></div>
 			</td>
+		</tr>
+		<tr height="350"> <!-- Row 2 -->
 			<td width="25%">
 				<a href="/bio/board-oversight-committee/fidah-alsagoff/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/dr-fidah-alsagoff-photo2.png">
@@ -75,14 +68,6 @@ Wei Yang</b></div>
 				<div align="center"><b>Prof Joseph Sung</b></div>
 			</td>
 			<td width="25%">
-				<a href="/bio/board-oversight-committee/ng-huck-hui/">
-					<img src="/images/Bio/Board%20Oversight%20Committee/prof-ng-huck-hui.png">
-				</a>
-				<div align="center"><b>Prof Ng Huck Hui</b></div>
-			</td>
-		</tr>
-		<tr>
-			<td width="25%">
 				<a href="/bio/board-oversight-committee/raymond-chua/">
 					<img src="/images/Bio/Board%20Oversight%20Committee/a-prof-dr-raymond-chua-photo2.png">
 				</a>
@@ -93,6 +78,14 @@ Wei Yang</b></div>
 					<img src="/images/Bio/Board%20Oversight%20Committee/prof-roger-foo.png">
 				</a>
 				<div align="center"><b>Prof Roger Foo</b></div>
+			</td>
+		</tr>
+		<tr>
+			<td width="25%">
+				<a href="/bio/board-oversight-committee/prof-tan-sze-wee/">
+					<img src="/images/Bio/Board%20Oversight%20Committee/leadership_tan%20sze%20wee.png">
+				</a>
+				<div align="center"><b>Prof Tan Sze Wee</b></div>
 			</td>
 	</tr></tbody>
 </table>
