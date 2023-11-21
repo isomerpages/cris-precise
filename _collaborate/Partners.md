@@ -17,7 +17,7 @@ variant: markdown
 				<a href="/partners/sg100k/">
 				<img src="/images/Collaborate/Partners/sg100k-logo.png">
 				</a>
-				<b>SG100K</b>
+				<b>PRECISE-SG100K</b>
 			</td>
 			<td style="width:33%">
 				<a href="/partners/illumina/">
