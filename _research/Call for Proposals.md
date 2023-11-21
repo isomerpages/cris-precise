@@ -51,7 +51,7 @@ We expect proposals to show collaboration and partnering across Singapore public
 
 1.  **Lead Principal Investigator (Lead-PI)**&nbsp;– a senior researcher who takes overall responsibility for ensuring the research is completed as described in the proposal.
     
-2.  **Co-Principal Investigators (Co-PIs)**&nbsp;– senior researchers who will help lead the research described. Maximum two Co-PIs.
+2.  **Co-Lead Principal Investigators (Co-Lead PIs)**&nbsp;– senior researchers who will help lead the research described. Maximum two Co-Lead PIs.
     
 3.  **Co-Investigators (Co-Is)**&nbsp;– other researchers involved in completion of the research.
     
