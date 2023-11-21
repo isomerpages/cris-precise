@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - SG10K HEALTH.md
-      - SG100K.md
+      - PRECISE SG100K.md
       - Illumina.md
       - National Supercomputing Centre (NSCC).md
       - Trusted Research and Real World Data Utilisation (TRUST).md
