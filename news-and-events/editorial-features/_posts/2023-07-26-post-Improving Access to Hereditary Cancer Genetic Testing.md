@@ -45,7 +45,7 @@ Agreeing, A/Prof Redekop said, “Manpower shortage is a prevalent issue not jus
 
 “However, that does not replace the genetic literacy that the public, patients, physicians and policymakers should possess. While the depth and breadth of knowledge would vary—and rightly so—patients should minimally know what they can do to protect their health, and healthcare personnel should know when they need to reach out to perhaps genetic counsellors for more advice.” A/Prof Ngeow concluded.
 
-_Click&nbsp;here&nbsp;to read more about how A/Prof Ngeow and A/Prof Redekop are changing the approach towards tracing hereditary cancer risk._&nbsp;
+_Click [here](/news-and-events/editorial-features/from-reactive-to-proactive-tracing-the-hereditary-cancer-risk/) to read more about how A/Prof Ngeow and A/Prof Redekop are changing the approach towards tracing hereditary cancer risk._&nbsp;
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
