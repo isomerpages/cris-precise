@@ -42,7 +42,7 @@ A/Prof Ngeow summed up, “It has been exciting and enriching thus far—we get 
 
 “That’s right. While our efforts for this CIP focus on hereditary cancer, there is definitely a huge potential for generalising the knowledge to other diseases—and even other countries and geographic regions. I am hopeful what we are doing now will benefit many people—and for many years ahead,” A/Prof Redekop smiled.&nbsp;&nbsp;
 
-_Click&nbsp;here&nbsp;to read more about how A/Prof Ngeow and A/Prof Redekop are improving access for hereditary cancer genetic testing._&nbsp;
+_Click [here](/news-and-events/editorial-features/improving-access-to-hereditary-cancer-genetic-testing/) to read more about how A/Prof Ngeow and A/Prof Redekop are improving access for hereditary cancer genetic testing._&nbsp;
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
