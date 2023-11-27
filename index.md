@@ -110,6 +110,16 @@ sections:
       url: /news-and-events/editorial-features/mission-breathe-reshaping-the-age-based-paradigm-for-breast/
       image: /images/Resources/Editorial Features/2023/precise-banner9_1400x800.jpg
       alt: Image alt text
+  - infopic:
+      title: Early detection of Familial Hypercholesterolemia
+      subtitle: Editorial feature
+      id: infopic
+      description: Having Familial Hypercholesterolemia doesn’t necessarily predict a
+        deadly or devastating outcome if detected and treated early.
+      button: Read more
+      url: /news-and-events/editorial-features/getting-to-the-heart-of-the-matter/
+      image: /images/Resources/Editorial Features/2023/precise-banner7_1400x800.jpg
+      alt: Image alt text
   - resources:
       title: Latest News and Events
       subtitle: Be in the know
