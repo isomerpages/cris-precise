@@ -70,6 +70,16 @@ sections:
       image: /images/Homepage/sg100k.png
       alt: Image alt text
   - infopic:
+      title: Tracing the Hereditary Cancer Risk
+      subtitle: Editorial Feature
+      id: infopic
+      description: Implementing a sustainable genetic testing programme for hereditary
+        cancer risks.
+      button: Read more
+      url: /news-and-events/editorial-features/from-reactive-to-proactive-tracing-the-hereditary-cancer-risk/
+      image: /images/Resources/Editorial Features/2023/PRECISE_Banner14_1400x800_3.jpg
+      alt: Image alt text
+  - infopic:
       title: Pre-Emptive Pharmacogenomic Testing
       subtitle: editorial feature
       id: infopic
@@ -99,6 +109,16 @@ sections:
       button: read more
       url: /news-and-events/editorial-features/mission-breathe-reshaping-the-age-based-paradigm-for-breast/
       image: /images/Resources/Editorial Features/2023/precise-banner9_1400x800.jpg
+      alt: Image alt text
+  - infopic:
+      title: Early detection of Familial Hypercholesterolemia
+      subtitle: Editorial feature
+      id: infopic
+      description: Having Familial Hypercholesterolemia doesn’t necessarily predict a
+        deadly or devastating outcome if detected and treated early.
+      button: Read more
+      url: /news-and-events/editorial-features/getting-to-the-heart-of-the-matter/
+      image: /images/Resources/Editorial Features/2023/precise-banner7_1400x800.jpg
       alt: Image alt text
   - resources:
       title: Latest News and Events
