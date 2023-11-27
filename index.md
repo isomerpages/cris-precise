@@ -70,6 +70,16 @@ sections:
       image: /images/Homepage/sg100k.png
       alt: Image alt text
   - infopic:
+      title: Tracing the Hereditary Cancer Risk
+      subtitle: Editorial Feature
+      id: infopic
+      description: Implementing a sustainable genetic testing programme for hereditary
+        cancer risks.
+      button: Read more
+      url: /news-and-events/editorial-features/from-reactive-to-proactive-tracing-the-hereditary-cancer-risk/
+      image: /images/Resources/Editorial Features/2023/PRECISE_Banner14_1400x800_3.jpg
+      alt: Image alt text
+  - infopic:
       title: Pre-Emptive Pharmacogenomic Testing
       subtitle: editorial feature
       id: infopic
