@@ -14,7 +14,7 @@ description: About one in 150 Singaporeans has an underlying risk of hereditary
 image: /images/Resources/Editorial Features/2023/PRECISE_Banner14_1400x800_3.jpg
 variant: markdown
 ---
-*About one in 150 Singaporeans has an underlying risk of hereditary breast and ovarian cancer (HBOC) and one in 500 has an underlying risk of Lynch syndrome (LS) according to the recently published findings of SG10K\Health study by PRECISE<sup>[1]</sup>.&nbsp;However, only the costs of cancer diagnosis and treatment are being subsidised currently while diagnostic testing for probands and their first-degree relatives (FDRs) are not. A clinical implementation pilot supported by Precision Health Research, Singapore (PRECISE) is seeking to address this gap.*
+*About one in 150 Singaporeans has an underlying risk of hereditary breast and ovarian cancer (HBOC) and one in 500 has an underlying risk of Lynch syndrome (LS) according to the recently published findings of SG10K_Health study by PRECISE<sup>[1]</sup>.&nbsp;However, only the costs of cancer diagnosis and treatment are being subsidised currently while diagnostic testing for probands and their first-degree relatives (FDRs) are not. A clinical implementation pilot supported by Precision Health Research, Singapore (PRECISE) is seeking to address this gap.*
 
 ![](/images/Resources/Editorial%20Features/2023/PRECISE_Banner14_1400x800_3.jpg)
 
