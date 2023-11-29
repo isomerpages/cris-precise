@@ -14,7 +14,7 @@ variant: markdown
 				<b>SG10K_HEALTH</b>
 			</td>
 			<td style="width:33%">
-				<a href="/partners/sg100k/">
+				<a href="/partners/precise-sg100k/">
 				<img src="/images/Collaborate/Partners/sg100k-logo.png">
 				</a>
 				<b>PRECISE-SG100K</b>
