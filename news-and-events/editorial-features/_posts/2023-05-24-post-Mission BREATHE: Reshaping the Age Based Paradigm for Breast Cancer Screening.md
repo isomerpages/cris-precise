@@ -5,6 +5,7 @@ date: 2023-05-24
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/Resources/Editorial%20Features/2023/precise-banner9_1400x800.jpg)
 
@@ -44,7 +45,7 @@ Dr Wang agrees, “Yes, my goal is to show the value of a risk-based screening a
 
 Dr Li rounds up, “With Healthier SG and the growing emphasis on customised health plans, I believe this is the right timing for BREATHE to encourage customised screening.”
 
-Read more about the research behind BREATHE [here](https://www.npm.sg/taking-breast-cancer-screening-beyond-standard-guidelines/).
+Read more about the research behind BREATHE [here](https://www.npm.sg/news-and-events/editorial-features/taking-breast-cancer-screening-beyond-standard-guidelines/).
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._ 
 
