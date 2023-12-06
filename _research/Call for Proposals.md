@@ -13,7 +13,7 @@ Phase 2 of the National Precision Medicine (NPM) programme is progressing well a
 
 To date, &gt;80,000 participants have been recruited and whole genome sequencing for &gt;46,000 have been completed. PRECISE-SG100K is on track to make the first data freeze comprising data for 50,000 participants available to the Singapore public research community in Q2 2024. The second data freeze of all 100,000 participants is likely to be available in Q2 2025.
 
-In anticipation of the first data freeze, we are inviting researchers in the Singapore to submit proposals for&nbsp;**Driver Projects**&nbsp;that make use of these unique data to advance scientific knowledge and clinical translation.
+In anticipation of the first data freeze, we are inviting researchers in Singapore to submit proposals for&nbsp;**Driver Projects**&nbsp;that make use of these unique data to advance scientific knowledge and clinical translation.
 
 Approved Driver Projects will get priority access to the de-identified clinical, phenotypic, and genomic data of the 100,000 participants in the SG100K study. They will also get support from PRECISE-SG100K Scientific Committee (refer below for details of members) and Data Science Team as well as opportunities to collaborate with pharmaceutical companies who are partnering the NPM programme.
 
