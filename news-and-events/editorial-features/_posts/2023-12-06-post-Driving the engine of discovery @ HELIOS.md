@@ -26,7 +26,7 @@ Here’s a closer look at what the HELIOS team does on a daily basis!
 **The Recruitment & Outreach Team:** Carrying the PRECISE-SG100K flag with pride and recruiting with enthusiasm!
 
 ![1 Recruitment](/images/Resources/Editorial%20Features/2023/HELIOS_1.png)
-Meet (L-R) Erny Marlina Ithnin Daynas Teow, Nor Aslindah Tahrim, Nurfaiezah Kamat and Bala Saravanan. 
+*Meet (L-R) Erny Marlina Ithnin Daynas Teow, Nor Aslindah Tahrim, Nurfaiezah Kamat and Bala Saravanan.* 
 
 They form the intrepid Recruitment & Outreach team which play a crucial role in finding and recruiting participants to meet daily recruitment targets to keep the study on track. In the event that participants withdraw at short notice – which happens from time to time – they are determined to find replacements promptly. 
 
@@ -49,7 +49,7 @@ When asked how the team managed to interest a steady stream of participants and 
 Every PRECISE-SG100K participant’s adventure begins at registration, where they are greeted with warm smiles from the Registration team – Ann Wong, Adabelle Ang, Isabel Pik and Deborah Michael, before they are formally enrolled in the study. They receive a lanyard with a unique participant ID which safeguards their identity during the study. Following this, the participants delve into an informative video about the study and give their informed consent to participate. This sets the stage for the next step of their journey.
 
 ![4. Participant journey](/images/Resources/Editorial%20Features/2023/HELIOS_4.png)
-Overview of the participant journey with the various stations and tests as part of the research study
+*Overview of the participant journey with the various stations and tests as part of the research study*
 
 **The Operations Team**: Precision in action
 
@@ -60,26 +60,26 @@ The first stop for participants is a visit to the restroom where urine and stool
 Next, they are ushered to the Phlebotomy station where trained phlebotomists and nurses collect microbiome skin tapes, blood samples together with their blood pressure, height and weight measurements, as well as handgrip strength assessment which are indicators of overall strength and health.
 
 ![6. Phlebotomy](/images/Resources/Editorial%20Features/2023/HELIOS_6.png)
-Clockwise from top left: Kan Swee Yong conducting handgrip strength assessment, Thanapackiam collecting blood samples, Muhammad Firman Bin Dollah conducting a handgrip strength assessment, Siti Nabilah Binte Hamidon doing a visual acuity assessment.
+*Clockwise from top left: Kan Swee Yong conducting handgrip strength assessment, Thanapackiam collecting blood samples, Muhammad Firman Bin Dollah conducting a handgrip strength assessment, Siti Nabilah Binte Hamidon doing a visual acuity assessment.*
 
 Unbeknownst to the participants, working hard behind the scenes in the sample processing lab at HELIOS are a team of biobankers who check every biological sample collected and report any deviations and/or anomalies. The checks include sample volume, integrity, and correctly coded labels (de-identified to safeguard participant personal information) on all sample tubes. These lab experts ensure the efficient processing and storage of biological samples at regulated temperatures. Their attention to detail is what transforms a collection of biological samples into a valuable resource for scientific research.
 
 ![7. Biobanking](/images/Resources/Editorial%20Features/2023/HELIOS_7.png)
-Clockwise from top left: The biobanking warriors Shahidah Nur Shifa’ Bte Amran, Low Guo Liang, Tay Jia Xian, Kenna Hoe and Kerk Swat Kim (team lead), who treat samples as mission critical.
+*Clockwise from top left: The biobanking warriors Shahidah Nur Shifa’ Bte Amran, Low Guo Liang, Tay Jia Xian, Kenna Hoe and Kerk Swat Kim (team lead), who treat samples as mission critical.*
 
 The HELIOS team highlighted that participants are required to fast for eight hours before their blood draw and would have skipped breakfast. As participants would need to spend approximately three to five hours at the study site (depending on the pace at which they conclude their tests and sample collection), the team ensures that food and snacks are readily available for participants to keep their energy levels up. The team even solicits feedback from participants regarding the food options provided and refines them based on the input received! 
 
 After participants have replenished their energies, they undergo a bone densitometry scan which measures bone mineral density and assesses bone strength, as well as a carotid ultrasound test on the major blood vessels in the neck which may reveal the presence of plaque or other abnormalities in the carotid arteries that indicate stroke risk. 
 
 ![8. DXA](/images/Resources/Editorial%20Features/2023/HELIOS_8.png)
-Clockwise from top left: Choo Wee Lin (team lead) conducting a bone densitometry scan, Nur Ardini Bte Mohd Khafidz preparing participant before a bone densitometry scan, Lu Mei Ling performing a carotid ultrasound test and Dalily Bte Kosnan doing a visual acuity assessment.
+*Clockwise from top left: Choo Wee Lin (team lead) conducting a bone densitometry scan, Nur Ardini Bte Mohd Khafidz preparing participant before a bone densitometry scan, Lu Mei Ling performing a carotid ultrasound test and Dalily Bte Kosnan doing a visual acuity assessment.*
 
 Participants then proceed to the Clinical Assessment Room (CAR) to undergo eye assessments which include fundus imaging, which looks at the interior surface of the eye and visual acuity assessment, testing vision sharpness at a distance. An electrocardiogram (ECG) recording is also performed to help identify any underlying heart conditions, and arterial compliance is measured. Additionally, there is waist and hip measurement and skin physiology tests, which includes skin trans-epidermal water loss, skin moisture and skin pH measurements.  
 
 Other stations include a spirometry test to determine lung function, as well as a treadmill walking test and a specialised ophthalmology station where optical coherence tomography angiography imaging is performed to study the microvasculature of the retina.  Finally, participants also answer questionnaires to provide their health information, lifestyle and dietary habits. The Operations Team members guide participants up and down the HELIOS corridor multiple times a day, inadvertently clocking their own daily exercise!
 
 ![9. Carotid Ultrasound](/images/Resources/Editorial%20Features/2023/HELIOS_9.png)
-Clockwise from top left: Hanis Bte Harris in the carotid ultrasound room, Agnes Khoo working with a participant on her medication list, Lim Li Ming performing a resting ECG and Maneshpal Singh Dhillon performing a lens refractometry and intraocular pressure assessment.
+*Clockwise from top left: Hanis Bte Harris in the carotid ultrasound room, Agnes Khoo working with a participant on her medication list, Lim Li Ming performing a resting ECG and Maneshpal Singh Dhillon performing a lens refractometry and intraocular pressure assessment.*
 
 After participants have completed all stations, the Discharge team, Annastazia, Ann, Belle, Isabel, Daynas and Amanda run through the necessary checkout instructions. Before they leave, each participant is provided with a wearable device to track their daily-life mobility over the next seven days before mailing it back to HELIOS for data collection. They also receive a token of appreciation for completing the study.
 
