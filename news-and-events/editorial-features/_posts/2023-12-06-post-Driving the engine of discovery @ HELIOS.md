@@ -1,6 +1,6 @@
 ---
 title: Driving the engine of discovery @ HELIOS
-permalink: /news-and-events/editorial-features/permalink/
+permalink: /news-and-events/editorial-features/driving-the-engine-of-discovery-at-helios/
 date: 2023-12-06
 layout: post
 description: ""
