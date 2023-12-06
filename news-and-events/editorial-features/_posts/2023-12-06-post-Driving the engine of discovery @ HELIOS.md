@@ -26,12 +26,13 @@ Here’s a closer look at what the HELIOS team does on a daily basis!
 **The Recruitment & Outreach Team:** Carrying the PRECISE-SG100K flag with pride and recruiting with enthusiasm!
 
 ![1 Recruitment](/images/Resources/Editorial%20Features/2023/HELIOS_1.png)
+Meet (L-R) Erny Marlina Ithnin Daynas Teow, Nor Aslindah Tahrim, Nurfaiezah Kamat and Bala Saravanan. 
 
-Meet (L-R) Erny Marlina Ithnin Daynas Teow, Nor Aslindah Tahrim, Nurfaiezah Kamat and Bala Saravanan. They form the intrepid Recruitment & Outreach team which play a crucial role in finding and recruiting participants to meet daily recruitment targets to keep the study on track. In the event that participants withdraw at short notice – which happens from time to time – they are determined to find replacements promptly.
+They form the intrepid Recruitment & Outreach team which play a crucial role in finding and recruiting participants to meet daily recruitment targets to keep the study on track. In the event that participants withdraw at short notice – which happens from time to time – they are determined to find replacements promptly. 
 
 The team is also responsible for orchestrating events and roadshows to reach out to the public and disseminate study-related information, as well as connect with individuals interested in participating in the study.
 
-During these roadshows, the entire HELIOS team, including Professor Chambers, come together to speak to potential participants and help with on-the-spot recruitment. In addition to distributing flyers and posters, the team shared that providing simple health measurements (for example, a bioimpedance machine which measures our body compositions) at these roadshows help tremendously to garner interest and attract potential study participants.
+During these roadshows, the entire HELIOS team, including Professor Chambers, come together to speak to potential participants and help with on-the-spot recruitment. In addition to distributing flyers and posters, the team shared that providing simple health measurements (for example, a bioimpedance machine which measures body composition) at these roadshows help tremendously to garner interest and attract potential study participants.
 
 ![2. Outreach](/images/Resources/Editorial%20Features/2023/HELIOS_2_OUTREACH.png)
 
@@ -81,6 +82,7 @@ Other stations include a spirometry test to determine lung function, as well as 
 Clockwise from top left: Hanis Bte Harris in the carotid ultrasound room, Agnes Khoo working with a participant on her medication list, Lim Li Ming performing a resting ECG and Maneshpal Singh Dhillon performing a lens refractometry and intraocular pressure assessment.
 
 After participants have completed all stations, the Discharge team, Annastazia, Ann, Belle, Isabel, Daynas and Amanda run through the necessary checkout instructions. Before they leave, each participant is provided with a wearable device to track their daily-life mobility over the next seven days before mailing it back to HELIOS for data collection. They also receive a token of appreciation for completing the study.
+
 Integral to the Operations Team is the IT support team, who ensures that all IT systems, hardware and software function optimally so that participant data and health measurements can be collected smoothly without disruptions.
 
 Given the complexity and number of the myriad health assessments which participants undergo, it is no easy feat that the Operations Team manages to ensure the integrity of the data collected while maintaining the highest standards of care. Precision is indeed their middle name as they bring order to the daily research chaos, while ensuring that the study participants move from station to station efficiently and enjoy a smooth and meaningful experience!
