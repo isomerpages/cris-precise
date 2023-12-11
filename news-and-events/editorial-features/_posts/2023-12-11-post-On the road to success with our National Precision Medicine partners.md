@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2023/PRECISE_Partner_spotlight_infographic_final_png.png"></div><p></p>
