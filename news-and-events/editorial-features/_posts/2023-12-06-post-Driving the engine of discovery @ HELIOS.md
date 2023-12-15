@@ -15,7 +15,7 @@ Phase 1 of Singapore’s National Precision Medicine (NPM) programme set the sta
 
 The study comprises four cohorts: Health for Life in Singapore (HELIOS; Lee Kong Chian School of Medicine, Nanyang Technological University), Singapore Population Health Study (SPHS; Saw Swee Hock School of Public Health, National University of Singapore), Singapore Epidemiology of Eye Diseases (SEED; Singapore Eye Research Institute) and SingHeart (National Heart Centre, Singapore).
 
-A year on, the PRECISE-SG100K study has achieved a remarkable recruitment milestone of 80,000 participants ranging from 30 to 84 years old from all walks of life in Singapore. 
+A year on, the PRECISE-SG100K study has achieved a remarkable recruitment milestone of 82,000 participants ranging from 30 to 84 years old from all walks of life in Singapore. 
 
 Led by Professor John Chambers, Chief Scientific Officer of PRECISE in his capacity as Lead Investigator for the PRECISE-SG100K study and Principal Investigator for HELIOS, the HELIOS team plays a pivotal role in contributing to this rich database of 100,000 individuals.
 
