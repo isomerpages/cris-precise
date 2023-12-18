@@ -4,7 +4,7 @@ permalink: /news-and-events/editorial-features/driving-the-engine-of-discovery-a
 date: 2023-12-06
 layout: post
 description: ""
-image: /images/Helios_Linkedin_post_1200x627px.png
+image: /images/Resources/Editorial Features/2023/Helios_Linkedin_post_1200x627px.png
 variant: markdown
 ---
 Precision medicine offers an effective means of translating research into more efficient healthcare delivery systems and better health outcomes for Singaporeans. To realise the benefits of precision medicine, Singapore has established the National Precision Medicine (NPM) programme, which is a three-phase roadmap to establish Southeast Asia’s most deeply phenotyped cohort to support the understanding of multi-ethnic Asian health; implement data-driven healthcare systems to identify groups at higher risk of disease and progression; and catalyse Singapore’s precision medicine industry by uplifting local companies and attracting multi-national companies.
