@@ -3,46 +3,6 @@ title: Management Team
 permalink: /about-us/leadership/management-team/
 description: ""
 third_nav_title: Leadership
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<tbody>
-		<tr>
-			<td width="25%">
-				<a href="/bio/management-team/patrick-tan/">
-					<img src="/images/Bio/Management%20Team/professor%20patrick%20tan.jpg">
-				</a>
-				<div align="center"><b>Professor
-Patrick Tan</b></div>
-				<div align="center">EXECUTIVE DIRECTOR, PRECISE</div>
-			</td>
-			<td width="25%">
-				<a href="/bio/management-team/tai-e-shyong/">
-					<img src="/images/Bio/Management%20Team/professor%20tai%20e%20shyong.jpg">
-				</a>
-				<div align="center"><b>Professor
-Tai E Shyong</b></div>
-				<div align="center">CHIEF MEDICAL OFFICER, PRECISE</div>
-			</td>
-			<td width="25%">
-				<a href="/bio/management-team/john-chambers/">
-					<img src="/images/Bio/Management%20Team/professor%20john%20chambers.jpg">
-				</a>
-				<div align="center"><b>Professor
-John Chambers</b></div>
-				<div align="center">CHIEF SCIENTIFIC OFFICER, PRECISE</div>
-			</td>
-			<td width="25%">
-				<a href="/bio/management-team/seow-shih-wee/">
-					<img src="/images/Bio/Management%20Team/dr%20seow%20shih%20wee.png">
-				</a>
-				<div align="center"><b>Dr Seow Shih Wee</b></div>
-				<div align="center">DIRECTOR (CORPORATE SERVICES), PRECISE</div>
-			</td>
-			<td>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-![](/images/Banners/banners_page%20footer%203%20-%20purple.png)
+<p></p><div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/bio/management-team/patrick-tan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Patrick Tan" src="/images/Bio/Management Team/Leadership_600x400_Patrick_Tan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Patrick Tan</div><div class="isomer-card-description">Executive Director, PRECISE</div><div class="isomer-card-link">Bio</div></div></a><a rel="noopener noreferrer nofollow" href="/bio/management-team/tai-e-shyong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tai E Shyong" src="/images/Bio/Management Team/Leadership_600x400_Tai_E_Shyong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tai E Shyong</div><div class="isomer-card-description">Chief Medical Officer, PRECISE</div><div class="isomer-card-link">Bio</div></div></a><a rel="noopener noreferrer nofollow" href="/bio/management-team/john-chambers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof John Chambers" src="/images/Bio/Management Team/Leadership_600x400_John_Chambers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof John Chambers</div><div class="isomer-card-description">Chief Scientific Officer, PRECISE</div><div class="isomer-card-link">Bio</div></div></a><a rel="noopener noreferrer nofollow" href="/bio/management-team/seow-shih-wee/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Seow Shih Wee" src="/images/Bio/Management Team/Leadership_600x400_Seow_Shih_Wee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Seow Shih Wee</div><div class="isomer-card-description">Director (Corporate Services), PRECISE</div><div class="isomer-card-link">Bio</div></div></a></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banners_page%20footer%203%20-%20purple.png"></div><p></p>
