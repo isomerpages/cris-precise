@@ -1,0 +1,23 @@
+collections:
+  bio:
+    output: true
+    order:
+      - Board Oversight Committee/.keep
+      - Board Oversight Committee/Mr Peter Ho (Chairman).md
+      - Board Oversight Committee/Assoc Prof Angelique Chan.md
+      - Board Oversight Committee/Prof Aung Tin.md
+      - Board Oversight Committee/Dr Daphne Khoo.md
+      - Board Oversight Committee/Dr Fidah Alsagoff.md
+      - Board Oversight Committee/Prof Joseph Sung.md
+      - Board Oversight Committee/Adjunct Assoc Prof Raymond Chua.md
+      - Board Oversight Committee/Prof Roger Foo.md
+      - Board Oversight Committee/Prof Tan Sze Wee.md
+      - Management Team/.keep
+      - Management Team/Professor Patrick Tan.md
+      - Management Team/Professor Tai E Shyong.md
+      - Management Team/Professor John Chambers.md
+      - Management Team/Dr Seow Shih Wee.md
+      - Scientific Advisory Board/.keep
+      - Scientific Advisory Board/Prof Victor J Dzau (Chairman).md
+      - Scientific Advisory Board/Prof Kathryn North AC.md
+      - Scientific Advisory Board/Prof Masayuki Yamamoto.md

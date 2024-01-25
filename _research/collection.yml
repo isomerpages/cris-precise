@@ -1,0 +1,7 @@
+collections:
+  research:
+    output: true
+    order:
+      - Call for Proposals.md
+      - Research Highlights.md
+      - Clinical Implementation Pilots.md
