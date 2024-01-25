@@ -29,6 +29,7 @@ variant: tiptap
 <p>You are also invited to submit your abstracts for poster presentations.
     Abstracts may also stand a chance to be shortlisted for an oral presentation
     at the Conference!&nbsp;</p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65681f27991ea30012ec9845"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/240126_Call_for_Abstracts.png"></a>
 <p>Please submit your abstract <a href="https://form.gov.sg/65681f27991ea30012ec9845" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <p>We look forward to your participation at the PRECISE-IHCC Conference 2024!</p>
 <p>For queries, please contact us at <a href="mailto:events@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@precise.cris.sg</a>.</p>
