@@ -17,12 +17,12 @@ sections:
         - title: Call for Proposals
           description: ""
           url: /research/call-for-proposals/
-        - title: latest news
+        - title: PRECISE-IHCC Conference
+          description: 21-23 Aug 2024
+          url: /news-and-events/events/precise-ihcc-conference-save-the-date/
+        - title: Latest News
           description: ""
           url: /news-and-events/
-        - title: Upcoming Events
-          description: ""
-          url: /news-and-events/events/
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
