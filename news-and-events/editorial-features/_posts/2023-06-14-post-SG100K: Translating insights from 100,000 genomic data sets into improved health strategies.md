@@ -6,6 +6,7 @@ date: 2023-06-14
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/Resources/Editorial%20Features/2023/precise-sg100k-top.jpg)
-![](/images/Resources/Editorial%20Features/2023/precise-sg100k-bottom.jpg)
+![](/images/Resources/Editorial%20Features/2023/precise_sg100k_bottom.jpg)
