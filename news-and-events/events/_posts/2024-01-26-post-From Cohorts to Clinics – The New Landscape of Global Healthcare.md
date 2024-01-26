@@ -21,6 +21,8 @@ variant: tiptap
     the conference aims to provide a unique platform to spotlight Singapore’s
     and the international community’s advancements in precision medicine to
     provide diverse insights and a broad spectrum of experiences and knowledge.&nbsp;</p>
+<p>Click <a href="/files/PRECISE IHCC Conference 2024/About_the_PRECISE_IHCC_Conference_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+    more information about the PRECISE-IHCC Conference 2024.</p>
 <table>
     <tbody>
         <tr>
