@@ -24,6 +24,8 @@ variant: tiptap
     the conference aims to provide a unique platform to spotlight Singapore’s
     and the international community’s advancements in precision medicine to
     provide diverse insights and a broad spectrum of experiences and knowledge.&nbsp;</p>
+<p><strong>Date: </strong>21 to 23 August 2024</p>
+<p><strong>Venue: </strong>One Farrer Hotel</p>
 <h4>Please register your interest <a href="https://form.gov.sg/65b0c6cb4c2f3e0012f95f66" rel="noopener noreferrer nofollow" target="_blank">here</a> and we will get back to you once registration is open!</h4>
 <h4><strong>Call For Abstracts</strong></h4>
 <p>You are also invited to submit your abstracts for poster presentations.
