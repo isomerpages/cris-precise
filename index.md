@@ -6,8 +6,8 @@ description: Precision Health Research, Singapore (PRECISE) is the central
   of Singapore’s National Precision Medicine (NPM) programme.
 image: /images/Logos/PRECISE.jpg
 permalink: /
-notification: Call for Proposals - Driver Projects for the PRECISE-SG100K
-  dataset now open till 31 Jan 2024!
+notification: "[Save the Date] PRECISE-IHCC Conference - From Cohorts to
+  Clinics: The New Landscape of Global Healthcare (21-23 Aug 2024)"
 sections:
   - hero:
       title: Welcome to PRECISE
