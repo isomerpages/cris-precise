@@ -1,5 +1,5 @@
 ---
-title: A Year of Progress in Research, Innovation and Enterprise in 2023
+title: "PRECISION: A Year of Progress in Research, Innovation and Enterprise in 2023"
 date: 2023-12-15
 layout: file
 description: A Year of Progress in Research, Innovation and Enterprise in 2023
