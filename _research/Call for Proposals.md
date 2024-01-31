@@ -8,7 +8,7 @@ description: ""
 <p></p>
 <blockquote>
 <p>Thank you for your interest.
-<br>Please note that the submission is now closed.</p>
+<br>Please note that the call for proposals is now closed.</p>
 </blockquote>
 <h5><strong>INTRODUCTION</strong></h5>
 <p>Phase 2 of the National Precision Medicine (NPM) programme is progressing
