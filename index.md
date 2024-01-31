@@ -17,15 +17,15 @@ sections:
         - title: PRECISE-IHCC Conference
           description: 21-23 Aug 2024
           url: /news-and-events/events/precise-ihcc-conference-save-the-date/
-        - title: Latest News
-          description: ""
-          url: /news-and-events/
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
         - title: Clinical Implementation Pilots
           description: ""
           url: /cip
+        - title: Latest News
+          description: ""
+          url: /news-and-events/
       variant: center
       size: sm
       backgroundColor: gray
