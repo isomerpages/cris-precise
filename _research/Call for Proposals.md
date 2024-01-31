@@ -7,7 +7,8 @@ description: ""
 <h3><strong>Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset</strong></h3>
 <p></p>
 <blockquote>
-<p>Please note that the submission is now closed.</p>
+<p>Thank you for your interest.
+<br>Please note that the submission is now closed.</p>
 </blockquote>
 <h5><strong>INTRODUCTION</strong></h5>
 <p>Phase 2 of the National Precision Medicine (NPM) programme is progressing
