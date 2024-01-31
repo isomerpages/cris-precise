@@ -23,6 +23,9 @@ sections:
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
+        - title: Clinical Implementation Pilots
+          description: ""
+          url: /cip
       variant: center
       size: sm
       backgroundColor: gray
