@@ -9,4 +9,4 @@ image: ""
 variant: markdown
 ---
 ![](/images/Resources/Editorial%20Features/2023/precise-sg100k-top.jpg)
-![](/images/Resources/Editorial%20Features/2023/precise_sg100k_bottom.jpg)
+![](/images/Resources/Editorial%20Features/2023/precise_sg100k_bottom_.jpg)
