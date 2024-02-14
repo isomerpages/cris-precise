@@ -36,7 +36,7 @@ partners within the diagnostics and medtech sectors.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Singapore National Precision Medicine Programme - Powering Research, Innovation and Enterprise on a National Scale</strong>
+<p><strong>The Singapore National Precision Medicine Programme - Powering Research, Innovation and Enterprise on a National Scale</strong> 
 <br>by Prof Patrick Tan, Executive Director, PRECISE&nbsp;</p>
 </td>
 </tr>
@@ -54,9 +54,9 @@ Ms Irene Chong, Acting Chief Executive, DxD Hub&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Enhanced Carrier Screening for Severe Recessive Genetic Diseases in Singapore</strong>
+<p><strong>Enhanced Carrier Screening for Severe Recessive Genetic Diseases in Singapore</strong> 
 <br>by Dr Saumya Shekhar Jamuar, Senior Consultant, Genetics Services,
-<br>KK Women’s and Children’s Hospital</p>
+<br>KK Women’s and Children’s Hospital (KKH)</p>
 </td>
 </tr>
 <tr>
@@ -71,10 +71,10 @@ Ms Irene Chong, Acting Chief Executive, DxD Hub&nbsp;</p>
 <p>Panellists</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Prof Patrick Tan</p>
+<p>Prof Patrick Tan, Executive Director, PRECISE</p>
 </li>
 <li>
-<p>Dr Saumya Shekhar Jamuar</p>
+<p>Dr Saumya Shekhar Jamuar, Senior Consultant, Genetics Services, KKH</p>
 </li>
 <li>
 <p>Dr Weng Ruifen, Deputy CEO, DxD Hub</p>
