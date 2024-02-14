@@ -29,7 +29,7 @@ Singapore National Precision Medicine (NPM) programme.</p>
 <p>This session also serves as an industry networking and engagement opportunity,
 bringing together Innovation and Enterprise (I&amp;E) units and industry
 partners within the diagnostics and medtech sectors.</p>
-<h4>Click <a href="https://form.gov.sg/65a792c96ff2e7593b0a892c" rel="noopener noreferrer nofollow" target="_blank">here</a> to register.</h4>
+<h4>Click <a href="https://for.sg/precise-dxd" rel="noopener noreferrer nofollow" target="_blank">here</a> to register.</h4>
 <hr>
 <h4><strong>Programme</strong></h4>
 <table>
