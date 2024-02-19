@@ -97,11 +97,11 @@ SCRI. In this way, CRIS aims to keep Singapore at the forefront of clinical
 and translational research innovation, while actively advancing the sustainability,
 affordability and quality of Singapore’s healthcare system.”</p>
 <p>For media queries, please contact:</p>
-<p><strong>Charlene Tan</strong>
+<p><strong>Charlene Tan</strong> 
 <br><strong>Assistant Manager, Corporate Communications</strong> 
 <br>Email:&nbsp;<a href="mailto:charlene.tan@cris.sg" rel="noopener noreferrer nofollow" target="_blank">charlene.tan@cris.sg</a>
 </p>
-<p><strong>Lynette Lan</strong>
-<br><strong>Senior Manager, Corporate Communications</strong>
+<p><strong>Lynette Lan</strong> 
+<br><strong>Senior Manager, Corporate Communications</strong> 
 <br>Email:&nbsp;<a href="mailto:lynette.tan@cris.sg" rel="noopener noreferrer nofollow" target="_blank">lynette.tan@cris.sg</a>
 </p>
