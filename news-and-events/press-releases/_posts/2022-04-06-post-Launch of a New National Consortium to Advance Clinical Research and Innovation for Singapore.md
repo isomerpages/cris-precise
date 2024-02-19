@@ -6,6 +6,7 @@ date: 2022-04-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/Resources/Press%20Releases/cris-1536x859.png)
 
