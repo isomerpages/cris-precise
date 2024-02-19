@@ -11,7 +11,7 @@ description: ""
 <br>Please note that the call for proposals is now closed.</p>
 </blockquote>
 <h5><strong>INTRODUCTION</strong></h5>
-<p>Phase 2 of the National Precision Medicine (NPM) programme is progressing
+<p>Phase II of the National Precision Medicine (NPM) programme is progressing
 well and the PRECISE-SG100K Dataset is developing well.</p>
 <p>To date, &gt;80,000 participants have been recruited and whole genome
 sequencing for &gt;46,000 have been completed. PRECISE-SG100K is on track
