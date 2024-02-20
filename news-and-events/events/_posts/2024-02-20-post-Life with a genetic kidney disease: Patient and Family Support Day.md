@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p>We are bringing together healthcare professionals from various healthcare
 institutions to speak about genetic kidney disease, prevention and management,
-as well as to support patients and their families who are or may be at
-risk of genetic kidney disease.</p>
+and support patients and their families who are or may be at risk of genetic
+kidney disease.</p>
 <p>To learn more, register for the event <a href="for.sg/kidney-support-day" rel="noopener noreferrer nofollow" target="_blank">here!</a>
 </p>
