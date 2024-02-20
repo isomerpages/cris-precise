@@ -11,11 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="240220 PRECISE CIP kidney support day" src="/images/Resources/Events/240220 precise_cip___kidney_support_event_20feb.png">
 </div>
-<p><strong>About the event</strong>
-</p>
-<p>We are bringing together healthcare professionals from various healthcare
-institutions to speak about genetic kidney disease, prevention and management,
-and support patients and their families who are or may be at risk of genetic
-kidney disease.</p>
+<h4><strong>About the event</strong></h4>
+<p>We are bringing together various healthcare professionals to speak about
+genetic kidney disease, prevention and management, and to provide support
+for patients and their families who are affected by genetic kidney disease.</p>
 <p>To learn more, register for the event <a href="for.sg/kidney-support-day" rel="noopener noreferrer nofollow" target="_blank">here!</a>
 </p>
