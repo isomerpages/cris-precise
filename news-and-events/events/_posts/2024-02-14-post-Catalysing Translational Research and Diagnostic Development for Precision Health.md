@@ -43,7 +43,7 @@ partners within the diagnostics and medtech sectors.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Building Collaborative Partnerships with Diagnostics Development Hub (DxD Hub)<br></strong>by
-Ms Irene Chong, Acting Chief Executive, DxD Hub&nbsp;</p>
+Ms Irene Cheong, Acting Chief Executive, DxD Hub&nbsp;</p>
 </td>
 </tr>
 <tr>
