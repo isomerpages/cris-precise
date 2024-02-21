@@ -8,8 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="240220 PRECISE CIP kidney event" src="/images/Resources/Events/240220 precise_kidney_event_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="240220 PRECISE CIP kidney event 20 Feb" src="/images/Resources/Events/240420_PRECISE_kidney_event_20Feb.png">
 </div>
 <h4><strong>About the event</strong></h4>
 <p>We are bringing together various healthcare professionals to speak about
