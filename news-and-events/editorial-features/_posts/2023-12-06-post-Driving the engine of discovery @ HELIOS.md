@@ -15,7 +15,7 @@ Phase 1 of Singapore’s National Precision Medicine (NPM) programme set the sta
 
 The study comprises four cohorts: Health for Life in Singapore (HELIOS; Lee Kong Chian School of Medicine, Nanyang Technological University), Singapore Population Health Study (SPHS; Saw Swee Hock School of Public Health, National University of Singapore), Singapore Epidemiology of Eye Diseases (SEED; Singapore Eye Research Institute) and SingHeart (National Heart Centre, Singapore).
 
-A year on, the PRECISE-SG100K study has achieved a remarkable recruitment milestone of 82,000 participants ranging from 30 to 84 years old from all walks of life in Singapore. 
+A year on, the PRECISE-SG100K study has achieved a remarkable recruitment milestone of 80,000 participants ranging from 30 to 84 years old from all walks of life in Singapore. 
 
 Led by Professor John Chambers, Chief Scientific Officer of PRECISE in his capacity as Lead Investigator for the PRECISE-SG100K study and Principal Investigator for HELIOS, the HELIOS team plays a pivotal role in contributing to this rich database of 100,000 individuals.
 
@@ -40,7 +40,7 @@ The team also leverages various channels to connect with corporate and community
 
 ![3. FB](/images/Resources/Editorial%20Features/2023/HELIOS_3_FB.png)
 
-When asked how the team managed to interest a steady stream of participants and achieve the 82,000-recruitment milestone just one year after the launch of the study, the team shared that it is thanks to the power of word of mouth. The entire HELIOS team come together to ensure that study participants feel at ease and come away with a positive experience – often, the participants become ambassadors themselves and recommend their family and friends to take part in the study too. 
+When asked how the team managed to interest a steady stream of participants and achieve the 80,000-recruitment milestone just one year after the launch of the study, the team shared that it is thanks to the power of word of mouth. The entire HELIOS team come together to ensure that study participants feel at ease and come away with a positive experience – often, the participants become ambassadors themselves and recommend their family and friends to take part in the study too. 
 
 **The Registration Team**: Gateway guardians ensuring participant eligibility and confidentiality 
 
