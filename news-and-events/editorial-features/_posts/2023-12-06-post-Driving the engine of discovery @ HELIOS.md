@@ -40,7 +40,7 @@ The team also leverages various channels to connect with corporate and community
 
 ![3. FB](/images/Resources/Editorial%20Features/2023/HELIOS_3_FB.png)
 
-When asked how the team managed to interest a steady stream of participants and achieve the 80,000-recruitment milestone just one year after the launch of the study, the team shared that it is thanks to the power of word of mouth. The entire HELIOS team come together to ensure that study participants feel at ease and come away with a positive experience – often, the participants become ambassadors themselves and recommend their family and friends to take part in the study too. 
+When asked how the team managed to interest a steady stream of participants and achieve the 82,000-recruitment milestone just one year after the launch of the study, the team shared that it is thanks to the power of word of mouth. The entire HELIOS team come together to ensure that study participants feel at ease and come away with a positive experience – often, the participants become ambassadors themselves and recommend their family and friends to take part in the study too. 
 
 **The Registration Team**: Gateway guardians ensuring participant eligibility and confidentiality 
 
@@ -92,6 +92,7 @@ Two months after their visit, participants will receive a personalised research 
 ![10](/images/Resources/Editorial%20Features/2023/HELIOS_10.png)
 
 These reports are prepared by the Reporting Team comprising Amanda Bates, Deborah Michael, Adabelle Ang, who also work closely with Professor Chambers to address any feedback which participants may have. This dedicated team instils a culture of continuous improvement at HELIOS by addressing issues promptly, learning from feedback and working towards implementing corrective actions to prevent recurring issues.
+
 Together, the teams collaborate seamlessly like a finely tuned orchestra where each member contributes to the harmonious symphony while paying attention to and adapting to each team’s needs, improving their processes and workflows along the way. The HELIOS team members are truly each other’s support system in helping to make the PRECISE-SG100K study a success thus far. 
 
 Through their unwavering commitment, the HELIOS team contributes to the PRECISE-SG100K study by not only advancing scientific knowledge but also paving the way for a healthier, more informed Singaporean population. The collective efforts underscore the transformative power of precision medicine, bringing us one step closer to a future of enhanced healthcare outcomes and improved well-being for all.
