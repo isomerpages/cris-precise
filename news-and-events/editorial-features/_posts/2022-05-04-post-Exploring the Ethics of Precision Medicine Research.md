@@ -5,6 +5,7 @@ date: 2022-05-04
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/Resources/Editorial%20Features/2022/kol-feature_tamra-lysaght_wtfinal-768x439.jpg)
 
@@ -22,9 +23,7 @@ When I was doing my degree in biotechnology, I had to do a compulsory bioethics 
 
 Two of my interviewees were leading a new institute called the National Stem Cell Centre with funding from the federal government and they encouraged me to apply for their postgraduate scholarship program once I had finished my undergraduate studies. I did so and was awarded a scholarship to examine the science policy and ethical issues surrounding stem cell research at the University of Sydney, which evolved into my doctoral thesis.
 
-Upon obtaining my PhD, I moved to Singapore to take up postdoctoral studies at the [NUS Centre for Biomedical Ethics](https://medicine.nus.edu.sg/cbme/) and began collaborating with the scientific community at the
-
-Agency for Science, Technology and Research’s (A\*STAR) [Genome Institute of Singapore](https://www.a-star.edu.sg/gis) (GIS), which at the time was led by Prof Edison Lui. GIS is now under the leadership of Prof Patrick Tan, who is also the Executive Director of [PRECISE](/about-us/our-story/).
+Upon obtaining my PhD, I moved to Singapore to take up postdoctoral studies at the [NUS Centre for Biomedical Ethics](https://medicine.nus.edu.sg/cbme/) and began collaborating with the scientific community at the Agency for Science, Technology and Research’s (A\*STAR) [Genome Institute of Singapore](https://www.a-star.edu.sg/gis) (GIS), which at the time was led by Prof Edison Lui. GIS is now under the leadership of Prof Patrick Tan, who is also the Executive Director of [PRECISE](/about-us/our-story/).
 
 **2\. Your research has explored ethical aspects from religious perspectives to perceptions of the terms used in precision medicine. Are there any other questions you hopes to address?**
 
@@ -34,7 +33,7 @@ The problem with emerging scientific topics like precision medicine is that the 
 
 While our research has identified some of the key structures governing the use of  precision medicine data that should be put in place, our results are still fairly broad. They do not tell us much about what type of research people in Singapore will be comfortable or uncomfortable with, which is why I am keen to further explore this line of research.
 
-All these are the basics of what needs to be put in place to establish a social licence.
+All these are the basics of what needs to be put in place to establish a social license.
 
 **3\. What is a social licence and why is it important?**
 
