@@ -5,6 +5,7 @@ date: 2023-01-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/Resources/Editorial%20Features/2023/tohoku-megabank-logo-grau.png)
 
@@ -20,7 +21,8 @@ In its mission to establish an advanced medical system to foster the reconstruct
 
 “Precision medicine and healthcare is the most advanced medicine there is,” said Professor Yamamoto, adding that the biobank will also contribute to the restoration of medical services and revitalise related industries. “The megabank aims to deliver this to those who suffered from the earthquake and tsunami.” 
 
-**Answering a collective need**Precision medicine is an innovative approach to healthcare that combines genetic, lifestyle and environmental data to inform disease prevention and healthcare interventions. The success of this approach thus depends on the availability of data from large cohorts and diverse populations.
+**Answering a collective need**
+Precision medicine is an innovative approach to healthcare that combines genetic, lifestyle and environmental data to inform disease prevention and healthcare interventions. The success of this approach thus depends on the availability of data from large cohorts and diverse populations.
 
 As such, long-term population studies, including longitudinal cohorts and biobanks, are essential for promoting precision medicine and healthcare. To this end, TMM first strategically established two large-scale prospective studies of residents from communities most stricken by the earthquake. These are the Community-Based Cohort Study which recruits residents aged 20 years and older, and the Birth and Three-Generation Cohort Study which follows pregnant mothers and their families for up to three generations. Both studies are still ongoing, and over 157,000 participants have been recruited across the two cohorts to date.
 
