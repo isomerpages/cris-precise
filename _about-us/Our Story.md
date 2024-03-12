@@ -63,7 +63,7 @@ implemented as three phases.</p>
 <p>Phase I of Singapore’s National Precision Medicine (NPM) programme set
 the stage by establishing a Singaporean reference database containing 10,000
 genomes, and partnering with industry as co-investors in the NPM programme.</p>
-<p>Phase II was launched in 2020 and aims to generate the genomes of 100,000
+<p>Phase II was launched in 2021 and aims to generate the genomes of 100,000
 healthy Singaporeans and 50,000 people with specific diseases. Phase II
 will pilot clinical implementation of precision medicine approaches and
 establish data infrastructure for the linkage of genomic data with electronic
