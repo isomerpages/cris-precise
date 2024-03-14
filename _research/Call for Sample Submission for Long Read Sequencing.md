@@ -188,9 +188,9 @@ intellectual property, or develop new or improved solutions and applications</p>
 <p>Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo
 (<a rel="noopener noreferrer nofollow" target="_blank">ryan.luo@precise.cris.sg</a>)
 and Dr Kriti Sethi (<a rel="noopener noreferrer nofollow" target="_blank">kriti.sethi@precise.cris.sg</a>).
-Please submit completed application form through this link (<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f2b5e2431e7d2e55545911</a>)
-and email Dr Ryan Luo and Dr Kriti Sethi on the submission by 15 Apr 2024.
-Late or incomplete application forms will not be entertained.</p>
+Please submit completed application form <a href="https://form.gov.sg/65f2b5e2431e7d2e55545911" rel="noopener noreferrer nofollow" target="_blank">here</a> and email Dr
+Ryan Luo and Dr Kriti Sethi on the submission by 15 Apr 2024. Late or incomplete
+application forms will not be entertained.</p>
 <p></p>
 <h4><strong>Resources</strong></h4>
 <ul data-tight="true" class="tight">
