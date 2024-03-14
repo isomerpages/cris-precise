@@ -93,38 +93,58 @@ collaborators or data analysts may be included if needed.</p>
 <p>Project team (10%)</p>
 </li>
 </ol>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality of the project team</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrated ability for downstream
-data analysis</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Quality of the project team</p>
+</li>
+<li>
+<p>Demonstrated ability for downstream data analysis</p>
+</li>
+</ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Sample selection (20%)</p>
 </li>
 </ol>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sample selection strategy fit for
-the research hypothesis</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evidence that incoming samples
-can meet administrative and preparation requirements</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sample selection strategy fit for the research hypothesis</p>
+</li>
+<li>
+<p>Evidence that incoming samples can meet administrative and preparation
+requirements</p>
+</li>
+</ul>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Scientific and translational value of proposed research (40%)</p>
 </li>
 </ol>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Novel insights in human genetics
-and disease mechanisms</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Potential for clinical translation
-to improve population health</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Novel use cases for long-read sequencing</p>
-<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Increase adoption of long-read
-sequencing by local researchers and clinicians</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Novel insights in human genetics and disease mechanisms</p>
+</li>
+<li>
+<p>Potential for clinical translation to improve population health</p>
+</li>
+<li>
+<p>Novel use cases for long-read sequencing</p>
+</li>
+<li>
+<p>Increase adoption of long-read sequencing by local researchers and clinicians</p>
+</li>
+</ul>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Deliverables (30%)</p>
 </li>
 </ol>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Potential to generate high value
-publications, create new knowledge and intellectual property, or develop
-new or improved solutions and applications</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Potential to generate high value publications, create new knowledge and
+intellectual property, or develop new or improved solutions and applications</p>
+</li>
+</ul>
 <p><strong>Timelines</strong>
 </p>
 <table>
