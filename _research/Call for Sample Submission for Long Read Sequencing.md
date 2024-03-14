@@ -66,7 +66,7 @@ the right to revise this timeline in accordance with sample readiness,
 quality, and other factors.</p>
 </li>
 <li>
-<p><strong><u>No funding or other support</u></strong> will be provided from
+<p><strong><u> No funding or other support</u></strong> will be provided from
 PRECISE.</p>
 </li>
 </ol>
@@ -84,7 +84,7 @@ hold a primary appointment in a publicly funded institution in Singapore.</p>
 collaborators or data analysts may be included if needed.</p>
 </li>
 <li>
-<p><strong><u>No industry collaborations are permitted under this Call</u></strong>.</p>
+<p><strong> <u>No industry collaborations are permitted under this Call</u></strong>.</p>
 </li>
 </ol>
 <h4><strong>Evaluation Criteria</strong></h4>
@@ -165,13 +165,17 @@ new or improved solutions and applications</p>
 </tbody>
 </table>
 <p>&nbsp;*The schedule may be subject to change</p>
-<p>Please direct all enquiries and submit completed application forms to
-PRECISE Programme Managers, Dr Ryan Luo (<a rel="noopener noreferrer nofollow" target="_blank">ryan.luo@precise.cris.sg</a>)
-and Dr Kriti Sethi (<a rel="noopener noreferrer nofollow" target="_blank">kriti.sethi@precise.cris.sg</a>)
-by 15 Apr 2024. Late or incomplete application forms will not be entertained.</p>
+<p>Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo
+(<a rel="noopener noreferrer nofollow" target="_blank">ryan.luo@precise.cris.sg</a>)
+and Dr Kriti Sethi (<a rel="noopener noreferrer nofollow" target="_blank">kriti.sethi@precise.cris.sg</a>).
+Please submit completed application form through this link (<a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65f2b5e2431e7d2e55545911</a>)
+and email Dr Ryan Luo and Dr Kriti Sethi on the submission by 15 Apr 2024.
+Late or incomplete application forms will not be entertained.</p>
 <p></p>
 <p><strong>Resources</strong>
 </p>
+<p>Sample Requirements</p>
+<p>Application Form</p>
 <p></p>
 <p></p>
 <p></p>
