@@ -18,7 +18,8 @@ community to submit research proposals for the opportunity to sequence
 human genomic DNA (‘<strong>gDNA</strong>’) samples employing Pacific Bioscience’s
 (‘<strong>PacBio</strong>’) <a href="https://www.pacb.com/technology/hifi-sequencing/" rel="noopener noreferrer nofollow" target="_blank">HiFi Long Read Technology</a> using
 Single Molecule, Real Time (‘<strong>SMRT</strong>’) cells.</p>
-<p>PRECISE is not providing any funding for this Call.</p>
+<p><strong><u>PRECISE is not providing any funding for this Call.</u></strong>
+</p>
 <h4><strong>Research Objectives</strong></h4>
 <p>Applicants should aim to submit proposals that demonstrate the value of
 long-read sequencing in two key aspects:</p>
@@ -145,8 +146,7 @@ requirements</p>
 intellectual property, or develop new or improved solutions and applications</p>
 </li>
 </ul>
-<p><strong>Timelines</strong>
-</p>
+<h4><strong>Timelines</strong></h4>
 <table>
 <tbody>
 <tr>
