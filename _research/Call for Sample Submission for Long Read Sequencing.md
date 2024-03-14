@@ -66,7 +66,7 @@ the right to revise this timeline in accordance with sample readiness,
 quality, and other factors.</p>
 </li>
 <li>
-<p><strong><u> No funding or other support</u></strong> will be provided from
+<p><strong><u>No funding or other support</u></strong> will be provided from
 PRECISE.</p>
 </li>
 </ol>
@@ -84,7 +84,7 @@ hold a primary appointment in a publicly funded institution in Singapore.</p>
 collaborators or data analysts may be included if needed.</p>
 </li>
 <li>
-<p><strong> <u>No industry collaborations are permitted under this Call</u></strong>.</p>
+<p><strong><u>No industry collaborations are permitted under this Call</u></strong>.</p>
 </li>
 </ol>
 <h4><strong>Evaluation Criteria</strong></h4>
@@ -174,8 +174,11 @@ Late or incomplete application forms will not be entertained.</p>
 <p></p>
 <p><strong>Resources</strong>
 </p>
-<p>Sample Requirements</p>
-<p>Application Form</p>
+<p><a href="https://for.sg/precise-long-read-sequencing-sample-requirements" rel="noopener noreferrer nofollow" target="_blank">Sample Requirements</a>
+</p>
+<p><a href="https://for.sg/precise-long-read-sequencing-call-proposal-form" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
