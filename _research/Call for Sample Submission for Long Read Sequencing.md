@@ -146,7 +146,7 @@ requirements</p>
 intellectual property, or develop new or improved solutions and applications</p>
 </li>
 </ul>
-<h4><strong>Timelines</strong></h4>
+<h4><strong>Timelines*</strong></h4>
 <table>
 <tbody>
 <tr>
