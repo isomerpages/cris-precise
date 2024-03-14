@@ -192,12 +192,17 @@ Please submit completed application form through this link (<a rel="noopener nor
 and email Dr Ryan Luo and Dr Kriti Sethi on the submission by 15 Apr 2024.
 Late or incomplete application forms will not be entertained.</p>
 <p></p>
-<p><strong>Resources</strong>
+<h4><strong>Resources</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://for.sg/precise-long-read-sequencing-sample-requirements" rel="noopener noreferrer nofollow" target="_blank">Sample Requirements</a></strong>
 </p>
-<p><a href="https://for.sg/precise-long-read-sequencing-sample-requirements" rel="noopener noreferrer nofollow" target="_blank">Sample Requirements</a>
+</li>
+<li>
+<p><strong><a href="https://for.sg/precise-long-read-sequencing-call-proposal-form" rel="noopener noreferrer nofollow" target="_blank">Application Form</a></strong>
 </p>
-<p><a href="https://for.sg/precise-long-read-sequencing-call-proposal-form" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
-</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
