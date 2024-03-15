@@ -55,7 +55,7 @@ and act before it is too late</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/Why%20We%20Do%20It/po-2-image.jpg">
 </div>
-<p><strong> FASTER DIAGNOSES</strong>
+<p><strong>FASTER DIAGNOSES</strong>
 </p>
 <p>De-mystify the causes of rare diseases and accelerate the search for potential
 treatments</p>
