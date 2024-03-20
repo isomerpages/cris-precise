@@ -271,20 +271,12 @@ the public and private sectors.</p>
 <p>3.  Initial decision:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End-Mar 2024</p>
+<p>Mid-May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.   TRUST trainings / approvals for Driver Projects:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Apr 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5.  50K Data Freeze from PRECISE-SG100K (available for use)</p>
+<p>4.  50K Data Freeze from PRECISE-SG100K (available for use)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Q2 2024</p>
