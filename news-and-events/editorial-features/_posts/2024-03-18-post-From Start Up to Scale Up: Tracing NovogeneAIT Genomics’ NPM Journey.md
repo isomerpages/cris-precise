@@ -14,7 +14,7 @@ description: Supporting the seamless transition of Singapore's National
 image: /images/Resources/Editorial Features/2024/NovogeneAIT.jpg
 variant: tiptap
 ---
-<p><em>Supporting the seamless transition of Singapore's National Precision Medicine (NPM) programme from the proof-of-concept phase to the proof-of-value phase are partners who share the same commitment to the cause. </em>
+<p><em>Supporting the seamless transition of Singapore's National Precision Medicine (NPM) programme from the proof-of-concept phase to the proof-of-value phase are partners who share the same commitment to the cause.</em>
 </p>
 <p><em>Among these partners is </em><strong><em>NovogeneAIT Genomics</em></strong><em>. </em><strong><em>Mr Justin Lee, Chief Executive Officer, NovogeneAIT Genomics</em></strong><em>, shared insights into how his team successfully scaled as NPM progressed from Phase I to Phase II, providing reliable, cost effective and prompt sequencing services for the large-scale population genomics project.</em>
 </p>
