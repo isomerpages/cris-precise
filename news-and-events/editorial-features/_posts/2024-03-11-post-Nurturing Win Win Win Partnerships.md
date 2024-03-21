@@ -25,8 +25,7 @@ as well as the Agency for Science, Technology and Research (A*STAR).&nbsp;</p>
 and startups through Government agencies such as Economic Development Board
 (EDB) and Enterprise Singapore (EnterpriseSG), as well as national translational
 platforms and catalysts.</p>
-<p><strong>What is the significance of partners in the National Precision Medicine (NPM) programme?</strong>
-</p>
+<h4><strong>What is the significance of partners in the National Precision Medicine (NPM) programme?</strong></h4>
 <p>Precision medicine is a new and emerging area—no one has all the knowledge
 and capability to do everything. Therefore, it is valuable to find institutions
 and companies with unique technologies, deep knowledge and rich experience
@@ -46,9 +45,7 @@ can help sustain current efforts in the long run by translating insights
 from these studies into clinical pathways, to enable improved patient outcomes,
 better diagnoses and the development of products that have real-world impact
 on patient outcomes.</p>
-<p></p>
-<p><strong>From SG10K_Health to PRECISE-SG100K, what are some differences in the roster of partners and the structure of partnerships?</strong>
-</p>
+<h4><strong>From SG10K_Health to PRECISE-SG100K, what are some differences in the roster of partners and the structure of partnerships?</strong></h4>
 <p>SG10K_Health was instrumental as a proof-of-concept for the PRECISE-SG100K
 study, which is scaled-up significantly to 100,000 consented participants
 in the PRECISE-SG100K study. At the time of SG10K_Health, it was the first-of-its-kind
@@ -66,8 +63,7 @@ streams with them, including knowledge transfer, experience sharing and
 technology trials on enterprise-grade data exchange platforms. That formed
 the basis for designing a structure that features more streamlined communications
 for genomics analysis in the PRECISE-SG100K study.</p>
-<p><strong>What is the secret formula to win-win-win partnerships with various partners?</strong>
-</p>
+<h4><strong>What is the secret formula to win-win-win partnerships with various partners?</strong></h4>
 <p>There are a few things we look for in our partners. The first being how
 they can value-add to what we are currently doing and hope to achieve in
 future. Often, this translates into superior technology and know-how in
@@ -106,9 +102,7 @@ and primary glomerular diseases. These CIPs, supported by PRECISE, facilitate
 the incorporation of genetic and genomic testing into clinical pathways
 to improve the health of Singaporeans in these areas as part of the NPM
 programme.</p>
-<p></p>
-<p><strong>We are over the halfway mark for PRECISE-SG100K population-level genomic sequencing. What can existing and prospective partners look forward to in the next phase of the NPM programme?</strong>
-</p>
+<h4><strong>We are over the halfway mark for PRECISE-SG100K population-level genomic sequencing. What can existing and prospective partners look forward to in the next phase of the NPM programme?</strong></h4>
 <p>PRECISE’s Business Development team is lean relative to our aspirations.
 Thus, it would have been impossible for PRECISE to drive precision medicine
 forward alone if not for the support of our ecosystem partners like EDB,
