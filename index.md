@@ -40,7 +40,7 @@ sections:
         - title: Innovation
           description: ""
           linktext: More
-          url: /research/clinical-implementation-pilots/
+          url: /cip
         - title: Enterprise
           description: ""
           linktext: More
