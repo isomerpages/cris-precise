@@ -5,6 +5,7 @@ date: 2021-12-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/Resources/Editorial%20Features/2021/editorial_pm-retrospective-editorial-feature_wtfinal.jpg)
 
@@ -18,7 +19,7 @@ It’s no wonder then that 2021 has seen numerous genomics and precision medicin
 
 Despite its small size, Singapore is home to around [80 percent of Asia’s genetic diversity](/news-and-events/editorial-features/thought-leader-feature-prof-john-chambers/) thanks to the three ethnic groups—Chinese, Malay and Indian—on its sunny shores. With Asian populations historically underrepresented in genomic databases, the ethnically diverse city-state is well-poised to drive advances in genomics research and precision medicine.
 
-Singapore has laid out a 10-year plan called the [National Precision Medicine (NPM) strategy1](/news-and-events/editorial-features/singapore-launches-next-phase-of-national-precision-medicine-programme/). Phase I, which took place from 2017 to 2019, culminated in the [world’s largest genetic databank for multi-ethnic Asian populations](https://doi.org/10.1016/j.cell.2019.09.019). Earlier this year in April, Phase II was launched to glean further insights by analysing the genetic makeup of 100,000 healthy Singaporeans and some disease cohorts. Driven by **Precision Health Research, Singapore (PRECISE),** Phase II will also see the pilot implementation of precision medicine in clinical practices and focus on creating new economic opportunities that leverage new findings from genetic studies—transforming healthcare in the country for the better.  
+Singapore has laid out a 10-year plan called the [National Precision Medicine (NPM) Strategy](https://www.npm.sg/news-and-events/press-releases/singapore-launches-next-phase-of-national-precision-medicine/) . Phase I, which took place from 2017 to 2019, culminated in the [world’s largest genetic databank for multi-ethnic Asian populations](https://doi.org/10.1016/j.cell.2019.09.019). Earlier this year in April, Phase II was launched to glean further insights by analysing the genetic makeup of 100,000 healthy Singaporeans and some disease cohorts. Driven by **Precision Health Research, Singapore (PRECISE),** Phase II will also see the pilot implementation of precision medicine in clinical practices and focus on creating new economic opportunities that leverage new findings from genetic studies—transforming healthcare in the country for the better.  
 
 2.  **Predicting drug responses in Southeast Asian populations**
 
