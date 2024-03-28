@@ -5,6 +5,7 @@ date: 2023-06-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 From rare diseases to population health, developments in genomics and precision medicine have the potential to change the lives of millions. But given how fast the healthcare landscape is evolving, can regulation safeguard the safety and welfare of our residents without stifling innovation of new healthcare services and technologies?
 
@@ -26,7 +27,7 @@ That said, A/Prof Chua emphasised that “there is no question about it. Our pop
 
 A/Prof Chua continued, “Slowly but surely, genomic medicine is transforming our healthcare system at different points of the care pathway to enable more personalised healthcare advice and treatment, earlier interventions, better treatment outcomes and cost effectiveness. But first, we need to set up an ecosystem, comprising proper processes manned by trained and competent healthcare professionals, clear governance standards for institutions providing genomic medicine, and strong data and cybersecurity infrastructure to safeguard patient privacy and confidentiality.”
 
-That led to the set-up of a regulatory sandbox in 2022 which [Precision Health Research, Singapore (PRECISE)](https://npm.sg/), [Trusted Research and Real World-Data Utilisation and Sharing Tech (TRUST](https://trustplatform.sg/))[\[1\]](applewebdata://2C098B10-DEC1-4BE5-9CB1-2DE48540BF7F#_ftn1), healthcare institutions, insurance companies and genetic testing service providers were a part of.  
+That led to the set-up of a regulatory sandbox in 2022 which [Precision Health Research, Singapore (PRECISE)](https://npm.sg/), [Trusted Research and Real World-Data Utilisation and Sharing Tech (TRUST](https://trustplatform.sg/))[\[1\]](https://trustplatform.sg/#_ftnref1), healthcare institutions, insurance companies and genetic testing service providers were a part of.  
 
 “It is essential to include all stakeholders in this journey because while we may be regulating the space, we are not the ones offering the services or implementing the model. We need partners like PRECISE to come in and advise us on certain operational issues on the ground and safety gaps in the system, so that we can offer appropriate ‘fit-for-purpose’ regulations. A good example is the Moratorium that bans the use of genetic test results from biomedical research and controls the use of predictive genetic tests from clinical care in insurance underwriting,” said A/Prof Chua.
 
@@ -42,4 +43,4 @@ Referencing the [White Paper on Healthier SG](https://www.healthiersg.gov.sg/re
 
 * * *
 
-1Trusted Research/Real world-data Utilisation and Sharing Tech (TRUST) is a national platform that enables anonymised health-related research and real-world data to be brought together, accessed and used in an expeditious and secure manner. The platform supports health data analytics and innovation between public institutions, and between the public and private sectors to improve health outcomes. TRUST is co-developed by the Ministry of Health, the Smart Nation and Digital Government Office, the Government Technology Agency and Synapxe (previously Integrated Health Information Systems).
+1 Trusted Research/Real world-data Utilisation and Sharing Tech (TRUST) is a national platform that enables anonymised health-related research and real-world data to be brought together, accessed and used in an expeditious and secure manner. The platform supports health data analytics and innovation between public institutions, and between the public and private sectors to improve health outcomes. TRUST is co-developed by the Ministry of Health, the Smart Nation and Digital Government Office, the Government Technology Agency and Synapxe (previously Integrated Health Information Systems).
