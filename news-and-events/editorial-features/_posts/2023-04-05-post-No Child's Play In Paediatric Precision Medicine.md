@@ -45,8 +45,8 @@ Dr. Jamuar says, “Our current clinical narrative goes like this—someone fall
 
 * * *
 
-[\[1\]](/news-and-events/editorial-features/no-childs-play-in-paediatric-precision-medicine/#_ftnref1) Costain G, Cohn RD, Malkin D. Precision Child Health: an Emerging Paradigm for Paediatric Quality and Safety. Curr Treat Options Peds. 2020;6(4):317–24. doi: 10.1007/s40746-020-00207-2. Epub 2020 Aug 25. PMCID: PMC7445109.
+[\[1\]](https://www.npm.sg/news-and-events/editorial-features/no-childs-play-in-paediatric-precision-medicine/#_ftnref1) Costain G, Cohn RD, Malkin D. Precision Child Health: an Emerging Paradigm for Paediatric Quality and Safety. Curr Treat Options Peds. 2020;6(4):317–24. doi: 10.1007/s40746-020-00207-2. Epub 2020 Aug 25. PMCID: PMC7445109.
 
-[\[2\]](/news-and-events/editorial-features/no-childs-play-in-paediatric-precision-medicine/#_ftnref1) Vinkšel M, Writzl K, Maver A, Peterlin B. Improving diagnostics of rare genetic diseases with NGS approaches. J Community Genet. 2021 Apr;12(2):247-256. doi: 10.1007/s12687-020-00500-5. Epub 2021 Jan 15. PMID: 33452619; PMCID: PMC8141085.
+[\[2\]](https://www.npm.sg/news-and-events/editorial-features/no-childs-play-in-paediatric-precision-medicine/#_ftnref1) Vinkšel M, Writzl K, Maver A, Peterlin B. Improving diagnostics of rare genetic diseases with NGS approaches. J Community Genet. 2021 Apr;12(2):247-256. doi: 10.1007/s12687-020-00500-5. Epub 2021 Jan 15. PMID: 33452619; PMCID: PMC8141085.
 
-[\[3\]](/news-and-events/editorial-features/no-childs-play-in-paediatric-precision-medicine/#_ftnref2) Johnson KB, Wei WQ, Weeraratne D, Frisse ME, Misulis K, Rhee K, Zhao J, Snowdon JL. Precision Medicine, AI, and the Future of Personalized Health Care. Clin Transl Sci. 2021 Jan;14(1):86-93. doi: 10.1111/cts.12884. Epub 2020 Oct 12. PMID: 32961010; PMCID: PMC7877825.
+[\[3\]](https://www.npm.sg/news-and-events/editorial-features/no-childs-play-in-paediatric-precision-medicine/#_ftnref2) Johnson KB, Wei WQ, Weeraratne D, Frisse ME, Misulis K, Rhee K, Zhao J, Snowdon JL. Precision Medicine, AI, and the Future of Personalized Health Care. Clin Transl Sci. 2021 Jan;14(1):86-93. doi: 10.1111/cts.12884. Epub 2020 Oct 12. PMID: 32961010; PMCID: PMC7877825.
