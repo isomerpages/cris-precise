@@ -85,9 +85,8 @@ Health</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">A/Prof Dan Yock Young</div>
-<div class="isomer-card-description">Chief Executive Officer-Designate, Ng Teng Fong General Hospital, National
-University Healthcare System; Senior Consultant, Office of the Director-General
-Health</div>
+<div class="isomer-card-description">Chief Executive Officer, Ng Teng Fong General Hospital, National University
+Healthcare System; Senior Consultant, Office of the Director-General Health</div>
 </div>
 </div>
 <div class="isomer-card">
