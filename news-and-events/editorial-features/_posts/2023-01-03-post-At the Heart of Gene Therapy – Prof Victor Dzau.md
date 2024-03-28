@@ -5,6 +5,7 @@ date: 2023-01-03
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/Resources/Editorial%20Features/2023/precise-feature-prof-victor-dzau_1400x800-1-1024x585.jpg)
 
@@ -38,13 +39,13 @@ Public health can identify those who are at risk of cardiovascular disease so th
 
 **You have supported the idea of academic health centres (AHCs) as critical infrastructure in transforming medicine through innovation in an article published in** [**The Lancet**](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61082-5/fulltext)**. In your opinion, how can the research infrastructure in Singapore’s research institutions be further strengthened and streamlined to support the NPM programme?**
 
-Singapore has made critical investments in biomedical research, AHC and public health. By investing in national initiatives like [PRECISE](/partners/sg100k/), in cooperation with AHCs like [Duke NUS](https://duke-nus.edu.sg/) and [SingHealth](https://www.singhealth.com.sg/) and other research institutions, there is significant potential for making major scientific discoveries and clinical impacts. 
+Singapore has made critical investments in biomedical research, AHC and public health. By investing in national initiatives like [PRECISE](https://www.npm.sg/partners/precise-sg100k/), in cooperation with AHCs like [Duke NUS](https://duke-nus.edu.sg/) and [SingHealth](https://www.singhealth.com.sg/) and other research institutions, there is significant potential for making major scientific discoveries and clinical impacts. 
 
-Through the National Precision Medicine (NPM), PRECISE is leading the effort by studying existing and new cohorts, collecting biospecimens and data, and sequencing the genome. By designing studies at a national scale, such as [SG100K](/partners/sg100k/), important findings will emerge that can shape the future of medicine and public health. It is this type of strategic approach to national projects, broad collaborations between research projects and institutions and the investment in science and technology that positions Singapore for success.  
+Through the National Precision Medicine (NPM), PRECISE is leading the effort by studying existing and new cohorts, collecting biospecimens and data, and sequencing the genome. By designing studies at a national scale, such as [SG100K](https://www.npm.sg/partners/precise-sg100k/) important findings will emerge that can shape the future of medicine and public health. It is this type of strategic approach to national projects, broad collaborations between research projects and institutions and the investment in science and technology that positions Singapore for success.  
 
 **You have been instrumental in initiating the Qatar Genome Project and, recently, the Qatar Precision Medicine Institute.** **What is unique about Singapore’s program in Precision Medicine?**  
 
-Singapore’s unique strength in population genomics research is that it is a multicultural country with three major ethnicities that are understudied.  The data would be representative of the diversity in Singapore and the wider Asian population. With the data generated from PRECISE, other countries in Asia can validate their local findings and discover additional genomic markers. Singapore could become a hub for genomics and precision health research in Asia.
+Singapore’s unique strength in population genomics research is that it is a multicultural country with three major ethnicities that are understudied. The data would be representative of the diversity in Singapore and the wider Asian population. With the data generated from PRECISE, other countries in Asia can validate their local findings and discover additional genomic markers. Singapore could become a hub for genomics and precision health research in Asia.
 
 * * *
 
