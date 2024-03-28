@@ -6,6 +6,7 @@ date: 2023-05-10
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/Resources/Editorial%20Features/2023/precise-banner8_1400x800.jpg)
 
@@ -45,7 +46,7 @@ A/Prof Tavinatharan said, “The good news is we are changing the conversation s
 
 A/Prof Tavintharan said, “Ultimately, FH can be readily treated and is easily detected. But it all starts with better awareness and education around FH, and for probands and cascades to come forward and accept treatment early. Together, we can work towards delaying or even preventing the onset of coronary diseases.”
 
-Read more about PRECISE’s clinical implementation pilots [here](/research/clinical-implementation-pilots/).
+Read more about PRECISE’s clinical implementation pilots [here](https://www.npm.sg/cip/).
 
 _This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme._
 
