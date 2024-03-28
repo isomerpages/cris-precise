@@ -40,7 +40,19 @@ variant: tiptap
 <div class="isomer-card-description">Director of Human Health and Potential (HHP), National Research Foundation
 (NRF) Singapore</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/bio/board-oversight-committee/aung-tin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Aung Tin" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Aung_Tin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Aung Tin</div><div class="isomer-card-description">Medical Director and Senior Consultant, Singapore National Eye Centre (SNEC) Group Director, Research (Scientific), SingHealth</div><div class="isomer-card-link">Bio</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Aung Tin" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Aung_Tin.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Aung Tin</div>
+<div class="isomer-card-description">Medical Director and Senior Consultant, Singapore National Eye Centre
+(SNEC) Group Director, Research (Scientific), SingHealth</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
