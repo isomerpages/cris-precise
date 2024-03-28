@@ -17,7 +17,19 @@ variant: tiptap
 <div class="isomer-card-title">Mr Peter Ho (Chairman)</div>
 <div class="isomer-card-description">Senior Advisor, Centre for Strategic Futures, Prime Minister's Office</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/bio/board-oversight-committee/daphne-khoo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Daphne_Khoo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Amanda Ang</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Daphne_Khoo.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Amanda Ang</div>
+<div class="isomer-card-description">Director of Human Health and Potential (HHP), National Research Foundation
+(NRF) Singapore</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -28,7 +40,19 @@ variant: tiptap
 <div class="isomer-card-title">Dr Fidah Alsagoff</div>
 <div class="isomer-card-description">Joint Head, Enterprise Development Group and Head, Life Sciences, Temasek</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/bio/board-oversight-committee/angelique-chan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A/Prof Angelique Chan" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Angelique_Chan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A/Prof Angelique Chan</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A/Prof Angelique Chan" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Angelique_Chan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A/Prof Angelique Chan</div>
+<div class="isomer-card-description">Executive Director, Centre for Ageing Research &amp; Education, Duke-NUS
+Medical School</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -62,6 +86,18 @@ Health</div>
 <div class="isomer-card-title">Prof Tan Sze Wee</div>
 <div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council, Agency for Science,
 Technology and Research</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Goh Wan Yee" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Goh Wan Yee</div>
+<div class="isomer-card-description">Senior Vice President and Head, Healthcare and Wellness, Economic Development
+Board</div>
 </div>
 </div>
 </div>
