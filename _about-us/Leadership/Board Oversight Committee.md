@@ -111,7 +111,18 @@ Board</div>
 <div class="isomer-card-title">Prof Ivy Ng</div>
 <div class="isomer-card-description">Senior Advisor, SingHealth Board</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/bio/board-oversight-committee/joseph-sung/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Joseph Sung" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Joseph_Sung.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Joseph Sung</div><div class="isomer-card-description">Member</div><div class="isomer-card-link">Bio</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Joseph Sung" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Joseph_Sung.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Joseph Sung</div>
+<div class="isomer-card-description">Dean, Lee Kong Chian School of Medicine, Nanyang Technological University</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
