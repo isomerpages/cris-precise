@@ -32,7 +32,7 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Daphne_Khoo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Amanda_Ang.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -80,7 +80,7 @@ Health</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A/Prof Dan Yock Young" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="A/Prof Dan Yock Young" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Dan_Yock_Young.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -103,7 +103,7 @@ Healthcare System; Senior Consultant, Office of the Director-General Health</div
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Goh Wan Yee" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Goh Wan Yee" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Goh_Wan_Yee.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -115,7 +115,7 @@ Board</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Ivy Ng" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Ivy Ng" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Ivy_Ng.png">
 </div>
 </div>
 <div class="isomer-card-body">
