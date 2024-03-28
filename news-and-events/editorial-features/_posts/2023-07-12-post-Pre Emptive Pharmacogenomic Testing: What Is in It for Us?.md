@@ -85,7 +85,7 @@ dependent on a number of factors. These include the attending clinicians’
 knowledge of the required PGx tests, as well as their interpretation and
 translation into therapeutic decisions for patients. Prof Goh said, “The
 implementation of pre-emptive PGx testing into clinical practice is part
-of the journey of this&nbsp;<a href="/research/clinical-implementation-pilots/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>&nbsp;(CIP)—and
+of the journey of this&nbsp;<a href="https://www.npm.sg/cip/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>&nbsp;(CIP)—and
 its fruition hinges on engaging with different stakeholders to educate
 them on benefits relevant and pertinent to them.”</p>
 <p>Dr Lo said, “Yes—for instance, we try and show clinicians how PGx testing
@@ -109,7 +109,7 @@ and makes the most economic sense,” Prof Goh said.</p>
 <div class="iframe-wrapper">
 <iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/841768116?h=588fcc9f38"></iframe>
 </div>
-<p><em>Click&nbsp;<a href="/news-and-events/editorial-features/what-it-takes-bringing-pre-emptive-pharmacogenomic-testing/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read more about how Prof Goh, A/Prof Wee and Dr Lo are bringing pre-emptive pharmacogenomic testing into routine clinical practice here.</em>
+<p><em>Click&nbsp;<a href="https://www.npm.sg/news-and-events/editorial-features/what-it-takes-bringing-pre-emptive-pharmacogenomic-testing/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read more about how Prof Goh, A/Prof Wee and Dr Lo are bringing pre-emptive pharmacogenomic testing into routine clinical practice here.</em>
 </p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
