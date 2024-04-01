@@ -97,7 +97,8 @@ Healthcare System; Senior Consultant, Office of the Director-General Health</div
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Roger Foo</div>
-<div class="isomer-card-description">Assistant Dean for Research &amp; Head of NUHS Clinician Scientist Academy</div>
+<div class="isomer-card-description">Vice Dean (Research), Yong Loo Lin School of Medicine, NUS &amp; Head
+of NUHS Clinician Scientist Academy</div>
 </div>
 </div>
 <div class="isomer-card">
