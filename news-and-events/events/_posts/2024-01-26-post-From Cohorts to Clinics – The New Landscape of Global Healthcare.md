@@ -11,7 +11,7 @@ description: Jointly organised by Precision Health Research, Singapore (PRECISE)
 image: /images/Resources/Events/240126_Save_The_Date.png
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65b0c6cb4c2f3e0012f95f66"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/240126_Save_The_Date.png"></a>
+<p></p>
 <h4><strong>About the PRECISE-IHCC Conference 2024</strong></h4>
 <p>Jointly organised by Precision Health Research, Singapore (PRECISE) and
 the <a href="https://ihccglobal.org" rel="noopener noreferrer nofollow" target="_blank">International Health Cohorts Consortium</a> (IHCC),
@@ -57,8 +57,7 @@ more information about the PRECISE-IHCC Conference 2024.</p>
 <p>You are also invited to submit your abstracts for poster presentations.
 Abstracts may also stand a chance to be shortlisted for an oral presentation
 at the Conference!&nbsp;</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/65681f27991ea30012ec9845"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/240301_Abstract_Submission.png"></a>
-<p>Please submit your abstract <a href="https://form.gov.sg/65681f27991ea30012ec9845" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <p>We look forward to your participation at the PRECISE-IHCC Conference 2024!</p>
 <p>For queries, please contact us at <a href="mailto:events@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@precise.cris.sg</a>.</p>
+<h4><strong>Update: Abstract submission is now closed. </strong></h4>
 <p></p>
