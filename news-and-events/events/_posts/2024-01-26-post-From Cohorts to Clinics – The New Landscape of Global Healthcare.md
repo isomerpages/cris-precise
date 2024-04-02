@@ -59,5 +59,5 @@ Abstracts may also stand a chance to be shortlisted for an oral presentation
 at the Conference!&nbsp;</p>
 <p>We look forward to your participation at the PRECISE-IHCC Conference 2024!</p>
 <p>For queries, please contact us at <a href="mailto:events@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@precise.cris.sg</a>.</p>
-<h4><strong>Update: Abstract submission is now closed. </strong></h4>
+<h4><strong>Update: Abstract submission is now closed.</strong></h4>
 <p></p>
