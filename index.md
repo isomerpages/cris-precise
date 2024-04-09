@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: PRECISE-IHCC Conference
           description: 21-23 Aug 2024
-          url: /news-and-events/events/precise-ihcc-conference-save-the-date/
+          url: https://preciseihcc-conference.sg
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
