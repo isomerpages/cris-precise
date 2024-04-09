@@ -11,7 +11,7 @@ description: Jointly organised by Precision Health Research, Singapore (PRECISE)
 image: /images/Resources/Events/240126_Save_The_Date.png
 variant: tiptap
 ---
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.preciseihcc-conference.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/240821_PRECISE_IHCC_KV.jpg"></a>
 <h4><strong>About the PRECISE-IHCC Conference 2024</strong></h4>
 <p>Jointly organised by Precision Health Research, Singapore (PRECISE) and
 the <a href="https://ihccglobal.org" rel="noopener noreferrer nofollow" target="_blank">International Health Cohorts Consortium</a> (IHCC),
@@ -59,4 +59,5 @@ at the Conference!&nbsp;</p>
 <p>We look forward to your participation at the PRECISE-IHCC Conference 2024!</p>
 <p>For queries, please contact us at <a href="mailto:events@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">events@precise.cris.sg</a>.</p>
 <h4><strong>Update: Abstract submission is now closed.</strong></h4>
+<p></p>
 <p></p>
