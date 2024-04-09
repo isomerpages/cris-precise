@@ -21,8 +21,7 @@ across the world who are at the f<strong>orefront of precision medicine and publ
 the conference aims to provide a unique platform to spotlight Singapore’s
 and the international community’s advancements in precision medicine to
 provide diverse insights and a broad spectrum of experiences and knowledge.&nbsp;</p>
-<p>Click <a href="/files/PRECISE IHCC Conference 2024/About_the_PRECISE_IHCC_Conference_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information about the PRECISE-IHCC Conference 2024.</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -52,7 +51,7 @@ more information about the PRECISE-IHCC Conference 2024.</p>
 </tr>
 </tbody>
 </table>
-<h4>Please register your interest <a href="https://form.gov.sg/65b0c6cb4c2f3e0012f95f66" rel="noopener noreferrer nofollow" target="_blank">here</a> and we will get back to you once registration is open!</h4>
+<h4><strong><a href="https://preciseihcc-conference.sg/" rel="noopener noreferrer nofollow" target="_blank">Visit the PRECISE-IHCC Conference website</a></strong></h4>
 <h4><strong>Call For Abstracts</strong></h4>
 <p>You are also invited to submit your abstracts for poster presentations.
 Abstracts may also stand a chance to be shortlisted for an oral presentation
