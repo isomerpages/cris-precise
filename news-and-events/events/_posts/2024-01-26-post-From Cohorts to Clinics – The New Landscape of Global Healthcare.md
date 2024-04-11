@@ -12,6 +12,9 @@ image: /images/Resources/Events/240126_Save_The_Date.png
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PRECISE-IHCC Conference KV" src="/images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg">
+</div>
 <h4><strong>About the PRECISE-IHCC Conference 2024</strong></h4>
 <p>Jointly organised by Precision Health Research, Singapore (PRECISE) and
 the <a href="https://ihccglobal.org" rel="noopener noreferrer nofollow" target="_blank">International Health Cohorts Consortium</a> (IHCC),
