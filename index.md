@@ -29,7 +29,6 @@ sections:
       variant: center
       size: sm
       backgroundColor: gray
-      url: https://preciseihcc-conference.sg
   - textcards:
       title: Our Core Pillars
       id: textcards
