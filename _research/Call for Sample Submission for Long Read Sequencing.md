@@ -157,7 +157,7 @@ intellectual property, or develop new or improved solutions and applications</p>
 <p>Deadline for proposal submission</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Apr 2024</p>
+<p>22 Apr 2024</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ intellectual property, or develop new or improved solutions and applications</p>
 <p>Decision outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 May 2024</p>
+<p>22 May 2024</p>
 </td>
 </tr>
 <tr>
