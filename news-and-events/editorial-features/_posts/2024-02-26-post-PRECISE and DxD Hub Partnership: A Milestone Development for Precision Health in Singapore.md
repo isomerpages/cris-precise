@@ -56,7 +56,7 @@ has generated through the NPM programme, we can now make meaningful comparisons
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/PRECISE_DxD_04.jpg">
 </div>
-<p><em>Dr Saumya Shekhar Jamuar,  Director,  SingHealth Duke-NUS PRISM and Senior Consultant, Genetics Service, KKH</em>
+<p><em>Dr Saumya Shekhar Jamuar, Director, SingHealth Duke-NUS PRISM and Senior Consultant, Genetics Service, KKH</em>
 </p>
 <p>Inspired by the sharing, Mr Jason Ng, Legal Lead from ClavystBio, said,
 “It is heartening to see how different parts of the ecosystem are rallying
