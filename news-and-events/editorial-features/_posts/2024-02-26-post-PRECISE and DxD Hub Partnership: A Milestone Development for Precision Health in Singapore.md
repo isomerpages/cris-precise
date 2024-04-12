@@ -56,6 +56,8 @@ has generated through the NPM programme, we can now make meaningful comparisons
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/PRECISE_DxD_04.jpg">
 </div>
+<p><em>Dr Saumya Shekhar Jamuar, Director, SingHealth Duke-NUS PRISM and Senior Consultant, Genetics Service, KKH</em>
+</p>
 <p>Inspired by the sharing, Mr Jason Ng, Legal Lead from ClavystBio, said,
 “It is heartening to see how different parts of the ecosystem are rallying
 behind PRECISE to translate data into insights—and push for groundbreaking
@@ -70,6 +72,12 @@ a customised genetic test panel that screen for carriers of common severe
 recessive diseases among Singaporeans. The panel&nbsp; recently developed
 by Dr Jamuar and his colleagues at KKH and PRISM in partnership with DxD
 Hub was facilitated by PRECISE.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/PRECISE_DxD_05.jpg">
+</div>
+<p><em>Prof Patrick Tan, Executive Director, PRECISE</em>
+</p>
 <p>Prof Patrick Tan said, “This is a compelling use case of NPM’s journey
 from bench to bedside—and PRECISE is privileged to facilitate the creation
 of this customised genetic test panel. Such is the value of PRECISE. We
@@ -84,18 +92,15 @@ for Caucasian populations. After the MOU today, we look forward to facilitating
 more of such partnerships.”</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/PRECISE_DxD_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/PRECISE_DxD_03.jpg">
 </div>
-<p></p>
+<p><em>Dr Zhao Pan (middle), Vice President, Genomics, MiRXES</em>
+</p>
 <p>Expressing her excitement about the news, Dr Zhao Pan, Vice President,
 Genomics, MiRXES, said, “I am so glad to see such enthusiasm from fellow
 industry players, researchers and clinicians. We look forward to developing
 Asian specific genetic tests through the NPM dataset and the MOU.”&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/PRECISE_DxD_03.jpg">
-</div>
-<h4><br><strong>Realising Opportunities to Transform Global Healthcare</strong></h4>
+<h4><strong>Realising Opportunities to Transform Global Healthcare</strong></h4>
 <p>The NPM Phase II that was launched in 2021 is ongoing. In December 2022,
 the PRECISE-SG100K study was launched as part of NPM Phase II. When completed,
 the study will provide detailed characterisation of 100,000 Singaporeans—enabling
