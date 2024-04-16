@@ -5,7 +5,7 @@ permalink: /precise-and-dxd-hub-partnership-a-milestone-development-for-precisio
 date: 2024-02-26
 layout: post
 description: ""
-image: /images/Resources/Editorial Features/2024/PRECISE_DxD_01.jpg
+image: /images/Resources/Editorial Features/2024/PRECISE_DxD_01_Thumbnail.jpg
 variant: tiptap
 ---
 <p><em>The inking of the memorandum of understanding (MOU) between Precision Health Research, Singapore (PRECISE) and Diagnostics Development Hub (DxD Hub) on 26 February 2024 ushers the beginning of an exciting new phase in Singapore’s National Precision Medicine (NPM) journey.</em>
