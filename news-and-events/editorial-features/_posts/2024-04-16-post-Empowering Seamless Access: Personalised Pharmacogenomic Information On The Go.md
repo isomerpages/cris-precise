@@ -54,13 +54,60 @@ stayed the same.&nbsp;</p>
 <p>Essentially, registered users who have completed their pharmacogenomics
 testing just need to download the Nala Personal Health Manager app from
 either <a href="https://play.google.com/store/apps/details?id=com.nalagenetics.nalagenetics&amp;hl=en&amp;gl=US&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play</u></a> or
-<a href="https://apps.apple.com/id/app/nala-personal-health-manager/id1501325659" rel="noopener noreferrer nofollow" target="_blank"><u>Apple App Store</u>
+<a href="https://apps.apple.com/id/app/nala-personal-health-manager/id1501325659" rel="noopener noreferrer nofollow" target="_blank"><u>Apple App Store</u> 
 </a>. Thereafter, they can securely log in to access their personalised pharmacogenomics
 data once the lab test results are available. But the value of the app
 doesn’t end there.&nbsp;</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p>Instead, its significance lies in enabling users to share this information
+with doctors. There is no need for users to remember details—the system
+remembers it for you and reminds you with an instant pop-up upon logging
+in. Then to share it with the doctors, the users can either just show their
+doctors the information on their mobile, generate a QR code for the doctors
+to scan and log in, or email the link to the doctor for retrieval.&nbsp;</p>
+<h4><strong>How has the collaboration with PRECISE and the NPM been for NalaGenetics thus far?</strong></h4>
+<p>PRECISE has been very supportive. Through their advocacy and network,
+we connected and collaborated with various passionate and like-minded scientists,
+clinicians, hospitals and other industry partners—important for ensuring
+that the solutions NalaGenetics are building remain feasible, practical,
+and seamlessly integrated into clinical settings.</p>
+<p>NalaGenetics has experience in genetic testing and pharmacogenomics—so
+we have insights into the workings of the healthcare industry and a good
+understanding of doctors’ pain points when it comes to adopting pharmacogenomics.
+Different institutions and electronic medical records system setups meant
+that information is stored independently. Doctors do not have the same
+level of access to information. On top of that, busy schedules amplify
+the importance of presenting information clearly and concisely. Particularly,
+for doctors with access to patients’ pharmacogenomics information, they
+should see the same thing as what is shared on the Nala Personal Health
+Manager app to prevent confusion.&nbsp;</p>
+<p>In order to shape our technology solution to address these challenges,
+we interviewed various stakeholders from public and private hospitals as
+well as providers in primary healthcare. The process was rigorous, but
+also very heartening—because everyone contributed their time and knowledge
+generously towards the solution. We have now advanced the development of
+the platform to the user trial phase—where we are recruiting patients for
+pharmacogenomics testing and onboarding to the Nala Personal Health Manager
+app.</p>
+<h4><strong>What can we look forward to in the future for the application and NalaGenetics?</strong></h4>
+<p>Presently, the application is at a stabilised state. Key features are
+in place, data security standards are met, approximately 30 medications
+with significant clinical impact, widespread use, and potential for serious
+adverse reactions associated with genetic variability are included in the
+panel—a four-fold increase from the first prototype. We will look to grow
+the number of medications in the panel further.&nbsp;</p>
+<p>The application offers a good opportunity for pharmacogenomics testing
+to go from reactive to pre-emptive. After all, pharmacogenomic test results
+are valid for life—and now they can also be securely stored and easily
+accessible for life. As a company that prioritises patient safety, this
+is definitely an initiative we support.&nbsp;</p>
+<p>Another area that NalaGenetics hopes to lead in is advancing pharmacogenomics
+knowledge for the Southeast Asian population. What we know about genetics
+today are mostly derived from research conducted in US and Europe. While
+they are useful in providing a basis for our understanding, we cannot be
+sure that genes in the local population interact with these medicines the
+same way. Hence, with the data we collect on our application, we hope to
+empower clinical actionability.</p>
+<p>Beyond these, we are deeply inspired by our interactions with many of
+these collaborators. We are excited to explore how we can create more partnership
+opportunities with them.&nbsp;&nbsp;</p>
+<p></p>
