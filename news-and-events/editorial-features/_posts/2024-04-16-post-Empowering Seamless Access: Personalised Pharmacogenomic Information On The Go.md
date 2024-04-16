@@ -61,6 +61,9 @@ either <a href="https://play.google.com/store/apps/details?id=com.nalagenetics.n
 </a>. Thereafter, they can securely log in to access their personalised pharmacogenomics
 data once the lab test results are available. But the value of the app
 doesn’t end there.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/Nalagenetics_app_layout.jpg">
+</div>
 <p>Instead, its significance lies in enabling users to share this information
 with doctors. There is no need for users to remember details—the system
 remembers it for you and reminds you with an instant pop-up upon logging
