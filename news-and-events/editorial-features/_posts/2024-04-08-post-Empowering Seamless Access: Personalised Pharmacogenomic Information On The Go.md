@@ -117,6 +117,8 @@ empower clinical actionability.</p>
 <p>Beyond these, we are deeply inspired by our interactions with many of
 these collaborators. We are excited to explore how we can create more partnership
 opportunities with them.&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
 <p><sup>1</sup>Chan SL, Ang X, Sani LL, Ng HY, Winther MD, Liu JJ, Brunham
 LR, Chan A. Prevalence and characteristics of adverse drug reactions at
 admission to hospital: a prospective observational study. Br J Clin Pharmacol.
