@@ -118,3 +118,11 @@ empower clinical actionability.</p>
 these collaborators. We are excited to explore how we can create more partnership
 opportunities with them.&nbsp;&nbsp;</p>
 <p></p>
+<p></p>
+<p><sup>1</sup>Chan SL, Ang X, Sani LL, Ng HY, Winther MD, Liu JJ, Brunham
+LR, Chan A. Prevalence and characteristics of adverse drug reactions at
+admission to hospital: a prospective observational study. Br J Clin Pharmacol.
+2016 Dec;82(6):1636-1646. doi: 10.1111/bcp.13081. Epub 2016 Sep 19. PMID:
+27640819; PMCID: PMC5099543</p>
+<p><sup>2</sup>&nbsp;<a href="https://www.cris.sg/news-and-events/media-releases/230220-precise-sg10k-study/" rel="noopener noreferrer nofollow" target="_blank">https://www.cris.sg/news-and-events/media-releases/230220-precise-sg10k-study/</a>
+</p>
