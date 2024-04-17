@@ -12,8 +12,9 @@ variant: tiptap
 </p>
 <p><em>We spoke to </em><strong><em>NalaGenetics’ Market Access Lead, Dr Kamonlawan Chomchopbun</em></strong><em>, on how the company is changing this narrative and the team’s aspirations for the technological solutions which they are developing.</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/Nalagenetics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/NalaGenetics_Thumbnail.jpg">
 </div>
 <h4><strong>How did NalaGenetics come to work with the National Precision Medicine (NPM) programme?</strong></h4>
 <p>NalaGenetics was founded in 2016 with the development and commercialisation
