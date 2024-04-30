@@ -8,8 +8,7 @@ description: Call for Sample Submission for Long Read Sequencing
 <p></p>
 <blockquote>
 <p>Thank you for your interest.
-<br>Please note that the call for sample submission for long read sequencing
-is now closed.</p>
+<br>Please note that the call for sample submission is now closed.</p>
 </blockquote>
 <p></p>
 <h4><strong>Introduction</strong></h4>
