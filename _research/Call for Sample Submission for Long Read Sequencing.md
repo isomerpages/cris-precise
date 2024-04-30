@@ -4,6 +4,13 @@ permalink: /research/call-for-sample-submission-long-read-sequencing/
 variant: tiptap
 description: Call for Sample Submission for Long Read Sequencing
 ---
+<h3><strong>Call for Sample Submission for Long Read Sequencing</strong></h3>
+<p></p>
+<blockquote>
+<p>Thank you for your interest.
+<br>Please note that the call for sample submission is now closed.</p>
+</blockquote>
+<p></p>
 <h4><strong>Introduction</strong></h4>
 <p>Long-read sequencing can offer a more complete and detailed view of the
 genome by addressing the limitations of short-read sequencing. Its applications
