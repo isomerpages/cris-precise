@@ -4,11 +4,12 @@ permalink: /research/call-for-sample-submission-long-read-sequencing/
 variant: tiptap
 description: Call for Sample Submission for Long Read Sequencing
 ---
-<h3><strong>Call for Sample Submission for Long Read Sequencing </strong></h3>
+<h3><strong>Call for Sample Submission for Long Read Sequencing</strong></h3>
 <p></p>
 <blockquote>
 <p>Thank you for your interest.
-<br>Please note that the call for proposals is now closed.</p>
+<br>Please note that the call for sample submission for long read sequencing
+is now closed.</p>
 </blockquote>
 <p></p>
 <h4><strong>Introduction</strong></h4>
