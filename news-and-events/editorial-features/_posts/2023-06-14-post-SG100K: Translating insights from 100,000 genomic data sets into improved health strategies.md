@@ -8,5 +8,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-![](/images/Resources/Editorial%20Features/2023/precise-sg100k-top.jpg)
-![](/images/Resources/Editorial%20Features/2023/precise_sg100k_bottom_.jpg)
+
+![Translating insights from 100,000 genomic data sets](/images/Resources/Editorial%20Features/2023/precise_sg100k_top_v3_.jpg)
+![Translating insights from 100,000 datasets](/images/Resources/Editorial%20Features/2023/precise_sg100k_bottom_v3_.jpg)
