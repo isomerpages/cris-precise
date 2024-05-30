@@ -131,7 +131,7 @@ at bay.</p>
 <hr>
 <p><strong>References</strong>
 </p>
-<p>1 <a rel="noopener noreferrer nofollow" target="_blank">https://www.myheart.org.sg/health/heart-disease-statistics/</a>
+<p>1 <a href="https://www.myheart.org.sg/health/heart-disease-statistics/" rel="noopener noreferrer nofollow" target="_blank">https://www.myheart.org.sg/health/heart-disease-statistics/</a>
 </p>
-<p>2 <a rel="noopener noreferrer nofollow" target="_blank">https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(23)00121-9/fulltext</a>
+<p>2 <a href="https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(23)00121-9/fulltext" rel="noopener noreferrer nofollow" target="_blank">https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(23)00121-9/fulltext</a>
 </p>
