@@ -21,13 +21,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/24_04_15_Roger_Foo.jpg">
 </div>
-<p>&nbsp;With over two decades of clinical and research experience under
-his belt, the Corresponding Principal Investigator of Project RESET, Prof
-Roger Foo also holds concurrent portfolios as Head of the NUHS Clinician
-Scientist Academy, Director of the Cardiovascular Research Institute under
-the National University Heart Centre Singapore (NUHCS), as well as Senior
-Consultant in the Department of Cardiology at NUHCS, and the Zayed Bin
-Sultan Al Nahyan Professor in Medicine.</p>
+<p>With over two decades of clinical and research experience under his belt,
+the Corresponding Principal Investigator of Project RESET, Prof Roger Foo
+also holds concurrent portfolios as Head of the NUHS Clinician Scientist
+Academy, Director of the Cardiovascular Research Institute under the National
+University Heart Centre Singapore (NUHCS), as well as Senior Consultant
+in the Department of Cardiology at NUHCS, and the Zayed Bin Sultan Al Nahyan
+Professor in Medicine.</p>
 <h4><strong>That is an impressive and illustrious list of professional appointments. Could you share more about your journey as a clinician scientist?</strong></h4>
 <p>I always like to tell people that my journey is one that is unexpected,
 unintentional—but eventful and fulfilling. After completing my studies
