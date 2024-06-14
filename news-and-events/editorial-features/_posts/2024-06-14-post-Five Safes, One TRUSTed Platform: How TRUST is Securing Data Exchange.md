@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/2024_06_14___TRUST_5_Safes_Framework.jpg">
+</div>
 <p>Singapore has ambitious plans for precision medicine—with large-scale
 implementation and comprehensive Singaporean genomic databases by 2030.
 But before that can happen, large volumes of data must be collated, standardised,
@@ -85,7 +89,6 @@ to exfiltrate data without a great amount of effort. Add to that the contracts
 and undertakings placed on organisations and users before they can access
 TRUST data—these combined technical and legal controls serve to deter any
 unauthorised behaviour.”</p>
-<p>&nbsp;</p>
 <h4><strong>Refining the Five Safes</strong></h4>
 <p>Nonetheless, four years since the conceptualisation of TRUST—the team
 emphasises that TRUST remains a work-in-progress on multiple fronts. One
