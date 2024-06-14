@@ -104,6 +104,5 @@ from our partners, we will continue to refine and redefine current measures
 under the Five Safes Framework to bring health-related research and real-world
 data together to support innovation and improve health outcomes.”</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> 
-<a rel="noopener noreferrer nofollow" target="_blank">https://cisomag.com/psychology-of-human-error-could-help-businesses-prevent-security-breaches/</a>
+<p><em><a href="https://cisomag.com/psychology-of-human-error-could-help-businesses-prevent-security-breaches/" rel="noopener noreferrer nofollow" target="_blank">[1] Psychology of human error could help businesses prevent security breaches, CISOMAG</a></em>
 </p>
