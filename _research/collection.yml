@@ -2,8 +2,8 @@ collections:
   research:
     output: true
     order:
-      - Flagship Projects/Call for Proposals.md
-      - Flagship Projects/.keep
+      - PRECISE SG100K data resource/Call for Proposals.md
+      - PRECISE SG100K data resource/.keep
       - Research Highlights.md
       - Clinical Implementation Pilots.md
       - Call for Sample Submission for Long Read Sequencing.md
