@@ -67,19 +67,12 @@ Institute of Mental Health</p>
 Genome Institute of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Establish the biological underpinnings for cognitive function in diverse
+<p>1. Establish the biological underpinnings for cognitive function in diverse
 Asian and global populations,</p>
-</li>
-<li>
-<p>Establish the biological convergence between cognitive function and disease
-traits, and</p>
-</li>
-<li>
-<p>Establish epidemiological and genomic risk predictors of cognitive health.</p>
-</li>
-</ol>
+<p>2. Establish the biological convergence between cognitive function and
+disease traits, and</p>
+<p>3. Establish epidemiological and genomic risk predictors of cognitive
+health.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -119,21 +112,13 @@ Medicine</p>
 Hospital</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Seek a deeper understanding of genetic disease burden in major Asian populations
-through a comprehensive analysis of structural variation and short tandem
-repeat expansions,</p>
-</li>
-<li>
-<p>Demonstrate how SG100K data can resolve variants of uncertain significance,
+<p>1. Seek a deeper understanding of genetic disease burden in major Asian
+populations through a comprehensive analysis of structural variation and
+short tandem repeat expansions,</p>
+<p>2. Demonstrate how SG100K data can resolve variants of uncertain significance,
 and</p>
-</li>
-<li>
-<p>Explore impact of polygenic backgrounds on penetrance in autosomal dominant
-conditions for under-represented Asian populations.</p>
-</li>
-</ol>
+<p>3. Explore impact of polygenic backgrounds on penetrance in autosomal
+dominant conditions for under-represented Asian populations.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -190,23 +175,13 @@ muscle mass distribution</p>
 Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Perform multi-ethnic meta-analysis of fat and lean muscle mass using SG100K
-and UKBB datasets,</p>
-</li>
-<li>
-<p>Mendelian randomisation analysis to identify the contribution of fat and
-lean muscle mass to cardiometabolic diseases,</p>
-</li>
-<li>
-<p>Colocalisation analysis to identify risk genes affecting fat and lean
+<p>1. Perform multi-ethnic meta-analysis of fat and lean muscle mass using
+SG100K and UKBB datasets,</p>
+<p>2. Mendelian randomisation analysis to identify the contribution of fat
+and lean muscle mass to cardiometabolic diseases,</p>
+<p>3. Colocalisation analysis to identify risk genes affecting fat and lean
 muscle mass, and</p>
-</li>
-<li>
-<p>Conduct functional validation studies of identified genetic loci.</p>
-</li>
-</ol>
+<p>4. Conduct functional validation studies of identified genetic loci.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -232,20 +207,12 @@ in multi-ancestral Asian populations</p>
 <p><strong>Co-Lead PI:</strong> Dr Wharton Chan, Duke-NUS Medical School</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Generate a high-resolution human leukocyte antigen (HLA) reference panel
-in Asian populations,</p>
-</li>
-<li>
-<p>Generate frequencies of HLA alleles and haplotypes in Asian populations
+<p>1. Generate a high-resolution human leukocyte antigen (HLA) reference
+panel in Asian populations,</p>
+<p>2. Generate frequencies of HLA alleles and haplotypes in Asian populations
 for local reference and for global population comparisons, and</p>
-</li>
-<li>
-<p>Conduct association analyses of HLA alleles in outcomes including auto-immune
+<p>3. Conduct association analyses of HLA alleles in outcomes including auto-immune
 diseases and pharmacogenomic responses.</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -277,23 +244,13 @@ population</p>
 of Medicine</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Determine prevalence of chronic kidney disease (CKD) among adults</p>
-</li>
-<li>
-<p>Examine association of CKD with genetic, clinical and socio-behavioural
+<p>1. Determine prevalence of chronic kidney disease (CKD) among adults</p>
+<p>2. Examine association of CKD with genetic, clinical and socio-behavioural
 predictors,</p>
-</li>
-<li>
-<p>Examine relative contribution of key predictors driving differences in
-CKD risks across different sub-population, and</p>
-</li>
-<li>
-<p>Develop and validate an integrated risk score for the development of CKD
-in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
-</li>
-</ol>
+<p>3. Examine relative contribution of key predictors driving differences
+in CKD risks across different sub-population, and</p>
+<p>4. Develop and validate an integrated risk score for the development of
+CKD in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -325,16 +282,11 @@ of Singapore</p>
 <p><strong>Co-Lead PI:</strong> Dr Lim Weng Khong, Duke-NUS Medical School</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Generate SG100K genome wide tandem repeats (TR) variation catalogue and
-characterisation their respective prevalence in Asian populations, and</p>
-</li>
-<li>
-<p>Characterise contributions of TR variations to the aetiology of complex
+<p>1. Generate SG100K genome wide tandem repeats (TR) variation catalogue
+and characterisation their respective prevalence in Asian populations,
+and</p>
+<p>2. Characterise contributions of TR variations to the aetiology of complex
 neurological and neurocognitive disorders.</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -367,21 +319,13 @@ and testing clinically important drug-gene interactions</p>
 of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Evaluate the occurrence of known drug-gene interactions based on EHR data
-and its impact on efficacy and toxicity,</p>
-</li>
-<li>
-<p>Explore genotype-drug response associations using SG100K and linked EHR
-datasets augmented by a dedicated pipeline for haplotyping highly polymorphic
+<p>1. Evaluate the occurrence of known drug-gene interactions based on EHR
+data and its impact on efficacy and toxicity,</p>
+<p>2. Explore genotype-drug response associations using SG100K and linked
+EHR datasets augmented by a dedicated pipeline for haplotyping highly polymorphic
 drug metabolising enzyme CYP2D6, and</p>
-</li>
-<li>
-<p>Develop a pharmacokinetics-informed framework for evaluating and ranking
+<p>3. Develop a pharmacokinetics-informed framework for evaluating and ranking
 both known and novel drug-gene sets for clinical action to make dose recommendations</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -420,27 +364,15 @@ of Singapore</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Determine age-related incidence of clonal haematopoiesis (CH) among our
-three major ancestry groups,</p>
-</li>
-<li>
-<p>Correlate CH status with clinical metadata, measures of ageing and disease
-incidence, and disease-related variables including biomarkers,</p>
-</li>
-<li>
-<p>Discover novel genetic associations with CH,</p>
-</li>
-<li>
-<p>Integrate functional genomics for novel Asian CH driver mutation discovery
+<p>1. Determine age-related incidence of clonal haematopoiesis (CH) among
+our three major ancestry groups,</p>
+<p>2. Correlate CH status with clinical metadata, measures of ageing and
+disease incidence, and disease-related variables including biomarkers,</p>
+<p>3. Discover novel genetic associations with CH,</p>
+<p>4. Integrate functional genomics for novel Asian CH driver mutation discovery
 and validation, and</p>
-</li>
-<li>
-<p>Correlate CH status with cell clusters and gene expression signatures
+<p>5. Correlate CH status with cell clusters and gene expression signatures
 in the AIDA scRNA-seq dataset.</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
