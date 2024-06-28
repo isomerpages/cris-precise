@@ -5,12 +5,13 @@ variant: tiptap
 description: Driver Projects
 third_nav_title: PRECISE SG100K dataset
 ---
-<p>As part of the open Call for Proposals in November 2023, <strong>28 Driver Projects</strong> were
-also selected based on the scientific value, deliverables, project plan,
-and project team.</p>
+<p>PRECISE-SG100K initiated an open Call for Proposals in November 2023 inviting
+researchers in Singapore to submit proposals that utilise the rich PRECISE-SG100K
+resource and aim to advance scientific knowledge and enable clinical translation.</p>
+<p>As part of the call, <strong>28 Driver Projects</strong> were selected based
+on the scientific value, deliverables, project plan, and project team.</p>
 <p></p>
-<p><strong><u>Driver Projects</u></strong>
-</p>
+<h4><strong><u>Driver Projects</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
