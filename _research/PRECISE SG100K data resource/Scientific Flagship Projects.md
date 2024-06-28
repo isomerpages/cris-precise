@@ -63,24 +63,45 @@ team.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Max Lam, Lee Kong Chian School of Medicine,
 Institute of Mental Health</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Jimmy Lee, Institute of Mental Health</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Prof Liu Jianjun, Acting Executive Director,
 Genome Institute of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Establish the biological underpinnings
-for cognitive function in diverse Asian and global populations,</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Establish the biological convergence
-between cognitive function and disease traits, and</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Establish epidemiological and genomic
-risk predictors of cognitive health.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Establish the biological underpinnings for cognitive function in diverse
+Asian and global populations,</p>
+</li>
+<li>
+<p>Establish the biological convergence between cognitive function and disease
+traits, and</p>
+</li>
+<li>
+<p>Establish epidemiological and genomic risk predictors of cognitive health.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lee Kong Chian School of Medicine</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nanyang Technological University</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute of Mental Health</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Neuroscience Institute</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A*STAR Genome Institute of Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lee Kong Chian School of Medicine</p>
+</li>
+<li>
+<p>Nanyang Technological University</p>
+</li>
+<li>
+<p>Institute of Mental Health</p>
+</li>
+<li>
+<p>National Neuroscience Institute</p>
+</li>
+<li>
+<p>A*STAR Genome Institute of Singapore</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -95,35 +116,66 @@ analysis of mendelian disease variation in SG100K</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Lim Weng Khong, Duke-NUS Medical School</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Joanne Ngeow, Lee Kong Chian School of
 Medicine</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Saumya Jamuar, KK Women's and Children's
 Hospital</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seek a deeper understanding of
-genetic disease burden in major Asian populations through a comprehensive
-analysis of structural variation and short tandem repeat expansions,</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate how SG100K data can
-resolve variants of uncertain significance, and</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore impact of polygenic backgrounds
-on penetrance in autosomal dominant conditions for under-represented Asian
-populations.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Seek a deeper understanding of genetic disease burden in major Asian populations
+through a comprehensive analysis of structural variation and short tandem
+repeat expansions,</p>
+</li>
+<li>
+<p>Demonstrate how SG100K data can resolve variants of uncertain significance,
+and</p>
+</li>
+<li>
+<p>Explore impact of polygenic backgrounds on penetrance in autosomal dominant
+conditions for under-represented Asian populations.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duke-NUS Medical School</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lee Kong Chian School of Medicine</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KK Women's and Children's Hospital</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A*STAR Genome Institute of Singapore</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore National Eye Centre</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Tock Seng Hospital</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National University of Singapore</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Heart Centre Singapore</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Neuroscience Institute</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Khoo Teck Puat Hospital</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nanyang Technological University</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Duke-NUS Medical School</p>
+</li>
+<li>
+<p>Lee Kong Chian School of Medicine</p>
+</li>
+<li>
+<p>KK Women's and Children's Hospital</p>
+</li>
+<li>
+<p>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p>Singapore National Eye Centre</p>
+</li>
+<li>
+<p>Tan Tock Seng Hospital</p>
+</li>
+<li>
+<p>National University of Singapore</p>
+</li>
+<li>
+<p>National Heart Centre Singapore</p>
+</li>
+<li>
+<p>National Neuroscience Institute</p>
+</li>
+<li>
+<p>Khoo Teck Puat Hospital</p>
+</li>
+<li>
+<p>Nanyang Technological University</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -138,23 +190,37 @@ muscle mass distribution</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Liu Boxiang, National University of Singapore</p>
+<p></p>
 <p><strong>Co-Lead PI: </strong>A/P Sim Xueling, National University of Singapore</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Prof Tai E Shyong, National University of
 Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform multi-ethnic meta-analysis
-of fat and lean muscle mass using SG100K and UKBB datasets,</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mendelian randomisation analysis
-to identify the contribution of fat and lean muscle mass to cardiometabolic
-diseases,</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocalisation analysis to identify
-risk genes affecting fat and lean muscle mass, and</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct functional validation studies
-of identified genetic loci.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Perform multi-ethnic meta-analysis of fat and lean muscle mass using SG100K
+and UKBB datasets,</p>
+</li>
+<li>
+<p>Mendelian randomisation analysis to identify the contribution of fat and
+lean muscle mass to cardiometabolic diseases,</p>
+</li>
+<li>
+<p>Colocalisation analysis to identify risk genes affecting fat and lean
+muscle mass, and</p>
+</li>
+<li>
+<p>Conduct functional validation studies of identified genetic loci.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National University of Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National University of Singapore</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -169,23 +235,39 @@ in multi-ancestral Asian populations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> A/P Sim Xueling, National University of Singapore</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Leong Khai Pang, Tan Tock Seng Hospital</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Wharton Chan, Duke-NUS Medical School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generate a high-resolution human
-leukocyte antigen (HLA) reference panel in Asian populations,</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generate frequencies of HLA alleles
-and haplotypes in Asian populations for local reference and for global
-population comparisons, and</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct association analyses of
-HLA alleles in outcomes including auto-immune diseases and pharmacogenomic
-responses.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Generate a high-resolution human leukocyte antigen (HLA) reference panel
+in Asian populations,</p>
+</li>
+<li>
+<p>Generate frequencies of HLA alleles and haplotypes in Asian populations
+for local reference and for global population comparisons, and</p>
+</li>
+<li>
+<p>Conduct association analyses of HLA alleles in outcomes including auto-immune
+diseases and pharmacogenomic responses.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National University of Singapore</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Tock Seng Hospital</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duke-NUS Medical School</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National University of Singapore</p>
+</li>
+<li>
+<p>Tan Tock Seng Hospital</p>
+</li>
+<li>
+<p>Duke-NUS Medical School</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -200,24 +282,38 @@ population</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Yeo See Cheng, Tan Tock Seng Hospital</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Prof John Chambers, Lee Kong Chian School
 of Medicine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Determine prevalence of chronic
-kidney disease (CKD) among adults</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examine association of CKD with
-genetic, clinical and socio-behavioural predictors,</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examine relative contribution of
-key predictors driving differences in CKD risks across different sub-population,
-and</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and validate an integrated
-risk score for the development of CKD in a representative multi-ethnic
-Asian population-based cohort in Singapore.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Determine prevalence of chronic kidney disease (CKD) among adults</p>
+</li>
+<li>
+<p>Examine association of CKD with genetic, clinical and socio-behavioural
+predictors,</p>
+</li>
+<li>
+<p>Examine relative contribution of key predictors driving differences in
+CKD risks across different sub-population, and</p>
+</li>
+<li>
+<p>Develop and validate an integrated risk score for the development of CKD
+in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Tock Seng Hospital</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lee Kong Chian School of Medicine</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Tock Seng Hospital</p>
+</li>
+<li>
+<p>Lee Kong Chian School of Medicine</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -234,22 +330,36 @@ and neurocognitive disorders in Asian populations</p>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Prof Liu Jianjun, A*STAR Genome Institute of
 Singapore</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Nicolas Bertin, A*STAR Genome Institute
 of Singapore</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Lim Weng Khong, Duke-NUS Medical School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Generate SG100K genome wide tandem
-repeats (TR) variation catalogue and characterisation their respective
-prevalence in Asian populations, and</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Characterise contributions of TR
-variations to the aetiology of complex neurological and neurocognitive
-disorders.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Generate SG100K genome wide tandem repeats (TR) variation catalogue and
+characterisation their respective prevalence in Asian populations, and</p>
+</li>
+<li>
+<p>Characterise contributions of TR variations to the aetiology of complex
+neurological and neurocognitive disorders.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A*STAR Genome Institute of Singapore</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duke-NUS Medical School</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Neuroscience Institute</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p>Duke-NUS Medical School</p>
+</li>
+<li>
+<p>National Neuroscience Institute</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -264,26 +374,41 @@ and testing clinically important drug-gene interactions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Janice Goh, A*STAR Bioinformatics Institute</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> A/P Wee Hwee Lin, National University of Singapore</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Nicolas Bertin, A*STAR Genome Institute
 of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evaluate the occurrence of known
-drug-gene interactions based on EHR data and its impact on efficacy and
-toxicity,</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore genotype-drug response
-associations using SG100K and linked EHR datasets augmented by a dedicated
-pipeline for haplotyping highly polymorphic drug metabolising enzyme CYP2D6,
-and</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop a pharmacokinetics-informed
-framework for evaluating and ranking both known and novel drug-gene sets
-for clinical action to make dose recommendations</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Evaluate the occurrence of known drug-gene interactions based on EHR data
+and its impact on efficacy and toxicity,</p>
+</li>
+<li>
+<p>Explore genotype-drug response associations using SG100K and linked EHR
+datasets augmented by a dedicated pipeline for haplotyping highly polymorphic
+drug metabolising enzyme CYP2D6, and</p>
+</li>
+<li>
+<p>Develop a pharmacokinetics-informed framework for evaluating and ranking
+both known and novel drug-gene sets for clinical action to make dose recommendations</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A*STAR Bioinformatics Institute</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National University of Singapore</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A*STAR Genome Institute of Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A*STAR Bioinformatics Institute</p>
+</li>
+<li>
+<p>National University of Singapore</p>
+</li>
+<li>
+<p>A*STAR Genome Institute of Singapore</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -298,36 +423,64 @@ Asian genomes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Prof Ong Sin Tiong, Duke-NUS Medical School</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Prof Ashok Venkitaraman, National University
 of Singapore</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Prof Chng Wee Joo, National University of
 Singapore</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Prof John Chambers, Lee Kong Chian School
 of Medicine</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Nicolas Bertin, A*STAR Genome Institute
 of Singapore</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Determine age-related incidence
-of clonal haematopoiesis (CH) among our three major ancestry groups,</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Correlate CH status with clinical
-metadata, measures of ageing and disease incidence, and disease-related
-variables including biomarkers,</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discover novel genetic associations
-with CH,</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Integrate functional genomics for
-novel Asian CH driver mutation discovery and validation, and</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Correlate CH status with cell clusters
-and gene expression signatures in the AIDA scRNA-seq dataset.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Determine age-related incidence of clonal haematopoiesis (CH) among our
+three major ancestry groups,</p>
+</li>
+<li>
+<p>Correlate CH status with clinical metadata, measures of ageing and disease
+incidence, and disease-related variables including biomarkers,</p>
+</li>
+<li>
+<p>Discover novel genetic associations with CH,</p>
+</li>
+<li>
+<p>Integrate functional genomics for novel Asian CH driver mutation discovery
+and validation, and</p>
+</li>
+<li>
+<p>Correlate CH status with cell clusters and gene expression signatures
+in the AIDA scRNA-seq dataset.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duke-NUS Medical School</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National University of Singapore</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lee Kong Chian School of Medicine</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A*STAR Genome Institute of Singapore</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National University Hospital</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore General Hospital</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Duke-NUS Medical School</p>
+</li>
+<li>
+<p>National University of Singapore</p>
+</li>
+<li>
+<p>Lee Kong Chian School of Medicine</p>
+</li>
+<li>
+<p>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p>National University Hospital</p>
+</li>
+<li>
+<p>Singapore General Hospital</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
