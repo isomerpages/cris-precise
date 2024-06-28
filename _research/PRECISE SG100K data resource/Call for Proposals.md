@@ -191,10 +191,10 @@ these principles.</p>
 </li>
 </ol>
 <h5><strong>FLAGSHIP PROJECTS</strong></h5>
-<p>A number of Driver Projects will be invited to work more closely with
-the PRECISE-SG100K team. These&nbsp;<strong>Flagship Projects</strong>&nbsp;will
-be selected based on their alignment to the research strategy for the NPM
-programme and their potential to generate insightful and impactful observations.
+<p>Driver Projects have been shortlisted to work more closely with the PRECISE-SG100K
+team. These&nbsp;<strong>Flagship Projects</strong>&nbsp;will be selected
+based on their alignment to the research strategy for the NPM programme
+and their potential to generate insightful and impactful observations.
 Flagship projects will receive additional support from PRECISE-SG100K team,
 which may include support for computing costs and/or data analysts FTEs.</p>
 <p>Flagship Projects will be show-cased as key research outcomes of the NPM
@@ -240,7 +240,11 @@ secure data sharing and analysis of anonymised research and real-world
 data to support data analytics between public institutions, and between
 the public and private sectors.</p>
 <h5><strong>TIMELINES</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -293,7 +297,12 @@ and Dr Kriti Sethi (<a href="mailto:kriti.sethi@precise.cris.sg" rel="noopener n
 by 31 Jan 2024. Late or incomplete application forms will not be entertained.</p>
 <h5><strong>PRECISE-SG100K SCIENTIFIC COMMITTEE MEMBERS</strong></h5>
 <p>Below are the details of the PRECISE-SG100K Scientific Committee.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
