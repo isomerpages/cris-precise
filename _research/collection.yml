@@ -2,6 +2,7 @@ collections:
   research:
     output: true
     order:
+      - Flagship Projects/Call for Proposals.md
       - Flagship Projects/.keep
       - Research Highlights.md
       - Clinical Implementation Pilots.md
