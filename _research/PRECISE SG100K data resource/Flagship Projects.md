@@ -16,9 +16,8 @@ and their potential to generate insightful and impactful observations.</p>
 the National Precision Medicine programme and will work closely with the
 PRECISE-SG100K Scientific Committee and Data Science Team to establish
 Singapore as a leader in the field of Precision Medicine.</p>
-<p>Additionally, 28 <a href="/scientific-driver-projects/" rel="noopener noreferrer nofollow" target="_blank">Driver Projects</a> were also selected
-based on the scientific value, deliverables, project plan, and project
-team.</p>
+<p>Additionally, 28 <a href="/driver-projects/" rel="noopener noreferrer nofollow" target="_blank">Driver Projects</a> were also selected based on
+the scientific value, deliverables, project plan, and project team.</p>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
