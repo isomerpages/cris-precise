@@ -62,9 +62,7 @@ the scientific value, deliverables, project plan, and project team.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Max Lam, Lee Kong Chian School of Medicine,
 Institute of Mental Health</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Jimmy Lee, Institute of Mental Health</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Prof Liu Jianjun, Acting Executive Director,
 Genome Institute of Singapore</p>
 </td>
@@ -115,10 +113,8 @@ analysis of mendelian disease variation in SG100K</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Lim Weng Khong, Duke-NUS Medical School</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Joanne Ngeow, Lee Kong Chian School of
 Medicine</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Saumya Jamuar, KK Women's and Children's
 Hospital</p>
 </td>
@@ -189,9 +185,7 @@ muscle mass distribution</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Liu Boxiang, National University of Singapore</p>
-<p></p>
 <p><strong>Co-Lead PI: </strong>A/P Sim Xueling, National University of Singapore</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Prof Tai E Shyong, National University of
 Singapore</p>
 </td>
@@ -234,9 +228,7 @@ in multi-ancestral Asian populations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> A/P Sim Xueling, National University of Singapore</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Leong Khai Pang, Tan Tock Seng Hospital</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Wharton Chan, Duke-NUS Medical School</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,7 +273,6 @@ population</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Yeo See Cheng, Tan Tock Seng Hospital</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Prof John Chambers, Lee Kong Chian School
 of Medicine</p>
 </td>
@@ -329,10 +320,8 @@ and neurocognitive disorders in Asian populations</p>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Prof Liu Jianjun, A*STAR Genome Institute of
 Singapore</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Nicolas Bertin, A*STAR Genome Institute
 of Singapore</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Lim Weng Khong, Duke-NUS Medical School</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -373,9 +362,7 @@ and testing clinically important drug-gene interactions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Janice Goh, A*STAR Bioinformatics Institute</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> A/P Wee Hwee Lin, National University of Singapore</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Nicolas Bertin, A*STAR Genome Institute
 of Singapore</p>
 </td>
@@ -422,16 +409,12 @@ Asian genomes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Prof Ong Sin Tiong, Duke-NUS Medical School</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Prof Ashok Venkitaraman, National University
 of Singapore</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Prof Chng Wee Joo, National University of
 Singapore</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Prof John Chambers, Lee Kong Chian School
 of Medicine</p>
-<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Nicolas Bertin, A*STAR Genome Institute
 of Singapore</p>
 <p></p>
