@@ -52,7 +52,7 @@ the scientific value, deliverables, project plan, and project team.</p>
 <td rowspan="1" colspan="1">
 <p>The SG100K cognitive health programme</p>
 <p></p>
-<p>Topic: Mental Health</p>
+<p><strong>Topic</strong>: Mental Health</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Max Lam, Lee Kong Chian School of Medicine,
@@ -85,7 +85,7 @@ Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 <p>The SG100K_Med Alliance - clinical genetics researchers united for the
 analysis of mendelian disease variation in SG100K</p>
 <p></p>
-<p>Topic: Mendelian Diseases</p>
+<p><strong>Topic</strong>: Mendelian Diseases</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Lim Weng Khong, Duke-NUS Medical School</p>
@@ -125,7 +125,7 @@ University</p>
 <p>Identification of Asian-specific genetic association with fat and lean
 muscle mass distribution</p>
 <p></p>
-<p>Topic: Fat and Lean Muscle Mass</p>
+<p><strong>Topic</strong>: Fat and Lean Muscle Mass</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Liu Boxiang, National University of Singapore</p>
@@ -158,7 +158,7 @@ of identified genetic loci.</p>
 <p>HLA alleles and its association with auto-immune diseases and pharmacogenomics
 in multi-ancestral Asian populations</p>
 <p></p>
-<p>Topic: Human leukocyte antigen</p>
+<p><strong>Topic</strong>: Human leukocyte antigen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> A/P Sim Xueling, National University of Singapore</p>
@@ -190,7 +190,7 @@ Tan Tock Seng Hospital, Duke-NUS Medical School</p>
 <p>Unravelling the determinants of kidney health in a multi-ethnic Asian
 population</p>
 <p></p>
-<p>Topic: Kidney Disease</p>
+<p><strong>Topic</strong>: Kidney Disease</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Yeo See Cheng, Tan Tock Seng Hospital</p>
@@ -225,7 +225,7 @@ Chian School of Medicine</p>
 diversity and may explain the missing heritability of complex neurological
 and neurocognitive disorders in Asian populations</p>
 <p></p>
-<p>Topic: Tandem Repeats</p>
+<p><strong>Topic</strong>: Tandem Repeats</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Prof Liu Jianjun, A*STAR Genome Institute of
@@ -257,7 +257,7 @@ Duke-NUS Medical School, National Neuroscience Institute</p>
 <p>An integrated pharmacoeconomic-pharmacokinetic framework for prioritising
 and testing clinically important drug-gene interactions</p>
 <p></p>
-<p>Topic: Pharmacogenomics</p>
+<p><strong>Topic</strong>: Pharmacogenomics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Janice Goh, A*STAR Bioinformatics Institute</p>
@@ -292,7 +292,7 @@ National University of Singapore, A*STAR Genome Institute of Singapore</p>
 <p>Genetic variants contributing to clonal haematopoiesis across diverse
 Asian genomes</p>
 <p></p>
-<p>Topic: Clonal haematopoiesis</p>
+<p><strong>Topic</strong>: Clonal haematopoiesis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Prof Ong Sin Tiong, Duke-NUS Medical School</p>
