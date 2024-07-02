@@ -98,11 +98,11 @@ homomorphic encryption—in future, users could potentially run analyses
 on encrypted data without needing the raw data at all.”</p>
 <p>“Adding on to that, we are also looking to better support industry partnerships,”
 said Dr Low. “TRUST was only opened up to the wider research community
-in end 2022. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are still learning how best
-to support the ecosystem and enable public-private partnerships. With feedback
-from our partners, we will continue to refine and redefine current measures
-under the Five Safes Framework to bring health-related research and real-world
-data together to support innovation and improve health outcomes.”</p>
+in end 2022. We are still learning how best to support the ecosystem and
+enable public-private partnerships. With feedback from our partners, we
+will continue to refine and redefine current measures under the Five Safes
+Framework to bring health-related research and real-world data together
+to support innovation and improve health outcomes.”</p>
 <hr>
 <p><em><a href="https://cisomag.com/psychology-of-human-error-could-help-businesses-prevent-security-breaches/" rel="noopener noreferrer nofollow" target="_blank">[1] Psychology of human error could help businesses prevent security breaches, CISOMAG</a></em>
 </p>
