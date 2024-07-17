@@ -26,7 +26,7 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Fidah Alsagoff</div>
-<div class="isomer-card-description">Joint Head, Enterprise Development Group and Head, Life Sciences, Temasek</div>
+<div class="isomer-card-description">Vice Chairman, Healthcare &amp; Life Sciences (Global Partnerships), Temasek</div>
 </div>
 </div>
 <div class="isomer-card">
