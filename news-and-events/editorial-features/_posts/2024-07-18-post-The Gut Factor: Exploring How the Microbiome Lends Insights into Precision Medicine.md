@@ -9,7 +9,8 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/PRECISE___Microbiome_infographics_FA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/FA___PRECISE___Microbiome_infographics.jpg">
 </div>
 <p></p>
