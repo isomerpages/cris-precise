@@ -12,11 +12,11 @@ variant: tiptap
 <p>Three days. Over 50 speakers from more than 15 countries. The inaugural
 2024 PRECISE-IHCC Conference sets out to offer delegates an opportunity
 to learn about wide-ranging topics, from genetic counselling to rare diseases.
-That is not all—one can also look forward to engaging in discourse ranging
+That's not all—one can also look forward to engaging in discourse ranging
 from population health to research in limited resource settings and ethics
 and policy.</p>
 <p>Jointly organised by Precision Health Research, Singapore (PRECISE) and
-the International Health Cohorts Consortium (IHCC), the Conference themed
+the International Health Cohorts Consortium (IHCC), the conference themed
 “<a href="https://www.preciseihcc-conference.sg/about/conference/" rel="noopener noreferrer nofollow" target="_blank">From Cohorts to Clinics: The New Landscape of Global Healthcare</a>”
 will bring together more than 500 international thought leaders, clinicians,
 scientists, biotech experts, and patient advocacy associations at the forefront
@@ -29,14 +29,14 @@ our first time hosting in Asia. International collaboration is imperative
 to advance science and drive positive health outcomes for all, and the
 IHCC plans to provide a forum for global conversations at events on each
 continent.”</p>
-<p>He continued, “The Conference has an impressive line-up of speakers and
+<p>He continued, “The conference has an impressive line-up of speakers and
 moderators, which is a result of the joint outreach efforts of both PRECISE
 and IHCC. Drawing on our strong connection with the scientific community
 and industry, PRECISE and IHCC have worked to collectively engage a diverse
 group of local and international attendees.”</p>
 <p><strong>Providing a Platform for Sharing and Learning</strong>
 </p>
-<p>The three-day Conference promises to be rewarding and enriching for the
+<p>The three-day conference promises to be rewarding and enriching for the
 attendees. Dr Ricardo A. Verdugo, a member from the 2024 PRECISE-IHCC Conference
 Scientific Committee, shared, “The team worked closely to curate a line-up
 that encompasses a wide spectrum of topics. There are going to be sessions
@@ -44,7 +44,7 @@ both for attendees interested in basic research and how findings are translated
 to the bedside. Additionally, the scientific committee put up various parallel
 tracks with non-overlapping topics—so that at any given time participants
 can find at least one session that is of interest to them.</p>
-<p>“Another notable consideration when inviting speakers for the Conference
+<p>“Another notable consideration when inviting speakers for the conference
 is that we consciously made an effort to not just include renowned and
 experienced experts in epidemiology, genetics, bioinformatics and clinical
 sciences. We also provide young investigators attending the event with
@@ -59,8 +59,8 @@ clinical, policy, ethics, etc. The same applies for the organisations we
 are with. Take the biobanks and population-based cohort studies for example—while
 some may be more established or larger, they can certainly benefit from
 learning experiences of the smaller ones who offer more depth or are more
-focused.”
-<br>Prof Afifi, who is also a Senior Director at Qatar Biobank, elaborated,
+focused.”</p>
+<p>Prof Afifi, who is also a Senior Director at Qatar Biobank, elaborated,
 “Personally, I am looking forward to learning from PRECISE, particularly
 their experience in managing and fostering strong collaborative ties with
 their academic and industry partners. Hopefully, we can bring back that
@@ -72,7 +72,7 @@ like such are not only important for driving positive outcomes in developed
 and high-income countries, but also middle- and low-income ones. They provide
 opportunities for these countries to engage and even contribute towards
 the precision medicine cause—they are game changing.”</p>
-<p>“The Conference offers an opportunity for people to learn from each other,
+<p>“The conference offers an opportunity for people to learn from each other,
 address collective challenges and explore effective use cases.” Mr Goodhand
 observed. “We have seen when health initiatives are challenged with However,
 there are also models that we can spotlight, for instance, Singapore’s
