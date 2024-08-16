@@ -9,6 +9,10 @@ description: "PRECISE IHCC Conference: Driving Progress in Precision Health
 image: /images/IHCC___2.jpg
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="precise ihcc conference ihcc spotlight" src="/images/Resources/Editorial Features/2024/IHCC___2.jpg">
+</div>
 <p>Three days. Over 50 speakers from more than 15 countries. The inaugural
 2024 PRECISE-IHCC Conference sets out to offer delegates an opportunity
 to learn about wide-ranging topics, from genetic counselling to rare diseases.
