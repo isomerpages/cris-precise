@@ -50,10 +50,10 @@ this era of large-scale genomics and population-based programmes.</p>
 proposals that were selected to leverage the first release dataset, generated
 from fully consented cohorts, to advance scientific knowledge and enable
 clinical translation.&nbsp;</p>
-<p>This development stemmed from an “Open Call for Proposal” (CFP) in November
-2023, where scientists and physicians were invited to submit their proposals
-to utilise the PRECISE-SG100K data resource and to translate these research
-findings into precision health care approaches.</p>
+<p>This development stemmed from an <a href="https://www.npm.sg/flagship-projects/" rel="noopener noreferrer nofollow" target="_blank">“Open Call for Proposal” (CFP)</a> in
+November 2023, where scientists and physicians were invited to submit their
+proposals to utilise the PRECISE-SG100K data resource and to translate
+these research findings into precision health care approaches.</p>
 <p>A total of 36 projects were selected.&nbsp;</p>
 <p>Eight Flagship Projects were selected based on their alignment with Singapore’s
 National Precision Medicine (NPM) programme and their potential for impactful
@@ -66,7 +66,8 @@ value and well-articulated project plans. These projects will deep dive
 into a diverse range of topics from chronic liver disease to in-depth studies
 into the intricacies of how genetic variants or associations can affect
 disease susceptibility, drug responses, metabolism, behavioural traits
-and more. (Please refer to Annex B for more info)</p>
+and more.</p>
+<p></p>
 <p><strong>PRECISE-IHCC Conference – From Cohorts to Clinics: The New Landscape of Global Healthcare</strong>
 </p>
 <p>Distinguished plenary speakers include Professor Dame Sue Hill, Chief
