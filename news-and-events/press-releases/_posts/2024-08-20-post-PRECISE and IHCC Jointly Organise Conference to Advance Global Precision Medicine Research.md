@@ -8,3 +8,127 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h3>Precision Health Research, Singapore (PRECISE) and International Health Cohorts Consortium Jointly Organise Conference to Advance Global Precision Medicine Research and Applications</h3>
+<p></p>
+<ul>
+<li>
+<p><em>Precision Health Research, Singapore (PRECISE), in collaboration with the International Health Cohorts Consortium (IHCC), launched a landmark conference, a first of this scale in Southeast Asia, held in Singapore from 21 to 23 August 2024</em>
+</p>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>
+<p><em>Themed “From Cohorts to Clinics: The New Landscape of Global Healthcare”, the conference is highly relevant in the fast-growing era of large-scale genomics and population-based programmes. It promises a stellar line-up of over 50 speakers from both Singapore and the international community</em>
+</p>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>
+<p><em>The conference will assemble leaders from prominent population cohort study programmes worldwide, creating a nexus in Asia that spans the Americas and European regions, emphasising the significance of this event in drawing global expertise into the Asian context</em>
+</p>
+</li>
+</ul>
+<hr>
+<p>
+<br><strong>SINGAPORE, 21 August 2024 </strong>–&nbsp;Precision Health Research,
+Singapore (PRECISE), in collaboration with the International Health Cohorts
+Consortium (IHCC), launched the PRECISE-IHCC Conference, themed “From Cohorts
+to Clinics: The New Landscape of Global Healthcare”, from 21 to 23 August
+2024. The event is graced by Guest of Honour (GOH) Dr Janil Puthucheary,
+Senior Minister of State, Ministry of Digital Development and Information,
+and Ministry of Health.</p>
+<p>The conference, a first of this scale in Southeast Asia, promises a stellar
+line-up of over 50 speakers from both Singapore and the international community,
+presenting a unique platform to spotlight the latest advancements in precision
+medicine. Additionally, the conference theme is also highly relevant in
+this era of large-scale genomics and population-based programmes.</p>
+<p><strong>Harnessing insights from the PRECISE-SG100K genome dataset to advance precision medicine in Singapore</strong>
+</p>
+<p>At the event, local researchers were also recognised for their project
+proposals that were selected to leverage the first release dataset, generated
+from fully consented cohorts, to advance scientific knowledge and enable
+clinical translation.&nbsp;</p>
+<p>This development stemmed from an “Open Call for Proposal” (CFP) in November
+2023, where scientists and physicians were invited to submit their proposals
+to utilise the PRECISE-SG100K data resource and to translate these research
+findings into precision health care approaches.</p>
+<p>A total of 36 projects were selected.&nbsp;</p>
+<p>Eight Flagship Projects were selected based on their alignment with Singapore’s
+National Precision Medicine (NPM) programme and their potential for impactful
+discoveries. These projects will play a crucial role in showcasing key
+research outcomes and will have the opportunity to work closely with the
+PRECISE Scientific Committee and Data Science Team to discover new insights
+and advance precision medicine in Singapore.</p>
+<p>In addition, 28 Driver Projects were also selected for their scientific
+value and well-articulated project plans. These projects will deep dive
+into a diverse range of topics from chronic liver disease to in-depth studies
+into the intricacies of how genetic variants or associations can affect
+disease susceptibility, drug responses, metabolism, behavioural traits
+and more. (Please refer to Annex B for more info)</p>
+<p><strong>PRECISE-IHCC Conference – From Cohorts to Clinics: The New Landscape of Global Healthcare</strong>
+</p>
+<p>Distinguished plenary speakers include Professor Dame Sue Hill, Chief
+Scientific Officer from the National Health Service (NHS) England, Professor
+Patrick Tan, Executive Director from PRECISE, Professor Kathryn North,
+Director of the Murdoch Children's Research Institute, and Professor Vajira
+Dissanayake, Dean of the Faculty of Medicine from the University of Colombo,
+Sri Lanka.&nbsp;</p>
+<p>Over the three-day conference, the speakers will share their perspectives
+on translating scientific research into patient care and address the challenges
+and opportunities in precision medicine. The conference will also include
+17 panel discussions, some of which will be helmed by experts in the field
+of precision medicine, such as Professor Heidi Rehm, Chair of the Global
+Alliance for Genomics and Health, Mr Grant Wood, Chief Executive Officer
+of the Global Genomic Medicine Collaborative and Dr Geoffrey Ginsburg,
+Chief Medical and Scientific Officer of the All of Us Research Program.</p>
+<p>The conference will also gather leaders from prominent population cohort
+study programmes worldwide, creating an intellectual nexus in Asia that
+spans the Americas and European regions. This gathering will cover cohort
+study programmes in China, Japan and Taiwan, emphasising the significance
+of this event in drawing global expertise into the Asian context.</p>
+<p>This landmark event will bring together close to 600 thought leaders,
+clinicians, scientists and companies from across the globe who are at the
+forefront of precision medicine and healthcare innovation and present an
+excellent opportunity for collaboration, knowledge exchange, and the forging
+of new pathways towards advancing precision medicine for the benefit of
+patients worldwide.</p>
+<p>The conference seeks to foster scientific exchange, integrate precision
+science into patient care, and showcase global advancements in genomic
+medicine. Key topics include the development and utilisation of biobanks
+for precision medicine, advancements in cancer genetics, ethics and policy
+in genomic research, and strategies for resolving complex genetic traits
+and variants.&nbsp;</p>
+<p>Discussions will also cover data-driven discovery and validating data
+from cohorts. Attendees will explore genetic counselling, community engagement,
+and the role of genomics and precision medicine in therapeutic Research
+and Development.&nbsp;</p>
+<p>Additional focal points include genomic diversity, genomic science in
+cohort studies, genomic screening, pharmacogenomics, and population health.
+The event will also lend attention to research in rare diseases, efforts
+in low- and middle-income countries (LMICs), and opportunities for early
+career scientists to present their work and engage with leading professionals.</p>
+<p>Professor Patrick Tan, Executive Director, PRECISE, said “The PRECISE-IHCC
+Conference is a testament to our collective dedication to transform healthcare
+through precision medicine. By harnessing the power of genomic data, we
+are paving the way for ground-breaking advancements in patient care. This
+conference is a wonderful platform for Singapore to showcase and leverage
+our unique Asian heritage to better understand precision medicine advances
+and share these insights from Singapore to Asia, and to the world.”</p>
+<p>Dr Michèle Ramsay, Co-chair, IHCC, said “IHCC is delighted to partner
+with PRECISE to bring together an international community of population
+cohorts with the unified purpose of promoting precision health for all.
+Technological advances and partnerships are enabling mechanisms that fuel
+novel discovery. Furthermore, data from large and diverse cohorts will
+enrich our understanding of mechanistic pathway to disease and will enable
+machine learning approaches to develop targeted interventions. With a focus
+on cohorts from under-represented and underserved communities worldwide,
+with 89 member cohorts in 42 countries, collectively including over 34
+million participants, IHCC will contribute global perspectives and provide
+opportunities to study the comparative utility of clinical interventions.
+Together we will connect, convene, and catalyse discussions around the
+implementation of precision medicine globally.”
+<br>
+</p>
+<p></p>
