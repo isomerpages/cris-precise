@@ -185,3 +185,18 @@ Strategy and Cohorts Enhancement; and (ii) Data Standards and Infrastructure.</p
 <br>
 </p>
 <p></p>
+<p></p>
+<hr>
+<p></p>
+<p></p>
+<p><strong>Contact Information</strong>
+</p>
+<p>For media inquiries, please contact:</p>
+<p><strong>Lee Yee Shuan</strong> 
+<br>Assistant Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore<a href="mailto:yeeshuan.lee@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><br>yeeshuan.lee@cris.sg</a>
+</p>
+<p><strong>Charlene Tan</strong>
+<br>Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore<a href="mailto:yeeshuan.lee@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><br>charlene.tan@cris.sg</a>
+</p>
