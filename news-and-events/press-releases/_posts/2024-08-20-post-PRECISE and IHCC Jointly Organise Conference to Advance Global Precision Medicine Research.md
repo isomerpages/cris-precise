@@ -132,7 +132,9 @@ Together we will connect, convene, and catalyse discussions around the
 implementation of precision medicine globally.”</p>
 <p></p>
 <p></p>
+<p></p>
 <hr>
+<p></p>
 <p></p>
 <p><strong>About the Organisers</strong>
 </p>
