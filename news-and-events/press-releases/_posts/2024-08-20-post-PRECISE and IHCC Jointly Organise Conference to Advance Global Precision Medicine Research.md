@@ -128,7 +128,57 @@ with 89 member cohorts in 42 countries, collectively including over 34
 million participants, IHCC will contribute global perspectives and provide
 opportunities to study the comparative utility of clinical interventions.
 Together we will connect, convene, and catalyse discussions around the
-implementation of precision medicine globally.”
+implementation of precision medicine globally.”</p>
+<p></p>
+<p></p>
+<hr>
+<p></p>
+<p><strong>About the Organisers</strong>
+</p>
+<p><u>About Precision Health Research, Singapore (PRECISE)</u>
+</p>
+<p>Precision Health Research, Singapore (PRECISE) is the central entity set
+up to coordinate a whole of Singapore effort to implement Phase II of Singapore’s
+three-phase National Precision Medicine (NPM) programme.</p>
+<p>NPM Phase II aims to transform healthcare in Singapore and improve patient
+outcomes through new insights into the Asian genome and data-driven healthcare
+solutions. In NPM Phase II, PRECISE will collaborate with Singapore research
+and clinical partners, including the Agency for Science, Technology and
+Research (A*STAR), Lee Kong Chian School of Medicine, National Healthcare
+Group, National University Health System, National University of Singapore,
+and SingHealth Duke-NUS Academic Medical Centre to study the genetic makeup
+of 100,000 consented healthy Singaporeans and specific patient cohorts.
+The genetic data will be integrated with detailed lifestyle, population,
+and clinical data via the MOH Trusted Research and Real World-Data Utilisation
+and Sharing Tech (TRUST) platform to yield rich insights into factors that
+contribute to Asian diseases and conditions.</p>
+<p>Additionally, NPM Phase II will enhance the breadth and depth of the precision
+medicine-related industry by attracting and anchoring overseas companies
+in Singapore, while yielding new opportunities for home-grown companies.
+To enhance and accelerate the precision medicine sector, PRECISE works
+in close collaboration with A*STAR, the Biomedical Sciences Industry Partnership
+Office, and the Economic Development Board to catalyse the next phase of
+growth for Singapore’s healthcare and the biomedical technology industries.</p>
+<p>PRECISE is a programme of the Consortium for Clinical Research and Innovation,
+Singapore (CRIS). PRECISE is supported by the National Research Foundation,
+Singapore (NRF) under the RIE2020 White Space (MOH-000588 and MOH-001264)
+and administered by the Singapore Ministry of Health through the National
+Medical Research Council (NMRC) Office, MOH Holdings Pte Ltd.</p>
+<p>For more information, visit&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.npm.sg</u></a>
+</p>
+<p></p>
+<p><u>About International Health Cohorts Consortium (IHCC)&nbsp;</u>
+</p>
+<p>The&nbsp;International Health Cohorts Consortium (IHCC)&nbsp;aims to create
+a global platform for translational research – cohort to bedside and cohort
+to bench – informing the biological and genetic basis for disease and improving
+clinical care and population health.</p>
+<p>It brings large cohorts together to encourage data sharing, improve efficiencies
+and maximise benefits in addressing scientific questions none could answer
+alone. To address the value and challenges of combining large cohort data
+across borders, the IHCC has formed two working groups: (i) Scientific
+Strategy and Cohorts Enhancement; and (ii) Data Standards and Infrastructure.</p>
+<p>For more information, please visit&nbsp;<a href="https://ihccglobal.org/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ihccglobal.org</u></a>
 <br>
 </p>
 <p></p>
