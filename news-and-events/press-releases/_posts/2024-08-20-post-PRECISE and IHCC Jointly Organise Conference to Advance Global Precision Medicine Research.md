@@ -12,7 +12,7 @@ variant: tiptap
 <p></p>
 <ul>
 <li>
-<p><em>Precision Health Research, Singapore (PRECISE), in collaboration with the International Health Cohorts Consortium (IHCC), launched a landmark conference, a first of this scale in Southeast Asia, held in Singapore from 21 to 23 August 2024</em>
+<p><em>Precision Health Research, Singapore (PRECISE), in collaboration with the International Health Cohorts Consortium (IHCC), jointly organised a conference, a first of this scale in Southeast Asia, held in Singapore from 21 to 23 August 2024</em>
 </p>
 </li>
 </ul>
