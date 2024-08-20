@@ -135,7 +135,7 @@ implementation of precision medicine globally.”</p>
 <p></p>
 <p><strong>About the Organisers</strong>
 </p>
-<p><u>About Precision Health Research, Singapore (PRECISE)</u>
+<p><strong><u>About Precision Health Research, Singapore (PRECISE)</u></strong>
 </p>
 <p>Precision Health Research, Singapore (PRECISE) is the central entity set
 up to coordinate a whole of Singapore effort to implement Phase II of Singapore’s
@@ -167,7 +167,7 @@ Medical Research Council (NMRC) Office, MOH Holdings Pte Ltd.</p>
 <p>For more information, visit&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.npm.sg</u></a>
 </p>
 <p></p>
-<p><u>About International Health Cohorts Consortium (IHCC)&nbsp;</u>
+<p><strong><u>About International Health Cohorts Consortium (IHCC)&nbsp;</u></strong>
 </p>
 <p>The&nbsp;International Health Cohorts Consortium (IHCC)&nbsp;aims to create
 a global platform for translational research – cohort to bedside and cohort
