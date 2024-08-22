@@ -78,14 +78,15 @@ opportunities for these countries to engage and even contribute towards
 the precision medicine cause—they are game changing.”</p>
 <p>“The conference offers an opportunity for people to learn from each other,
 address collective challenges and explore effective use cases.” Mr Goodhand
-observed. “We have seen when health initiatives are challenged with However,
-there are also models that we can spotlight, for instance, Singapore’s
-National Precision Medicine (NPM) programme, which aims to transform healthcare
-through data-driven healthcare, improve patient outcomes and capture economic
-value.&nbsp;With attendees and speakers coming from different backgrounds,
-the upcoming Conference is going to provide a very fertile ground for people
-to connect, potentially sparking innovative ideas and foster the beginnings
-of new collaborations.”</p>
+observed. “We have seen when health initiatives are challenged with under
+resourcing and limited integrated planning. However, there are also models
+that we can spotlight, for instance, Singapore’s National Precision Medicine
+(NPM) programme, which aims to transform healthcare through data-driven
+healthcare, improve patient outcomes and capture economic value.&nbsp;With
+attendees and speakers coming from different backgrounds, the upcoming
+Conference is going to provide a very fertile ground for people to connect,
+potentially sparking innovative ideas and foster the beginnings of new
+collaborations.”</p>
 <p>“I can’t agree more with Ricardo and Peter. When you bring a group of
 people who are so professional and passionate about what they are doing
 together, you can expect a lot of good to come out of it. For one, I am
