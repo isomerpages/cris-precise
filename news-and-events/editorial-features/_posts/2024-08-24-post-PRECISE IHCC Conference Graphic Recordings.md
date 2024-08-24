@@ -15,8 +15,10 @@ variant: tiptap
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Parallel Track 1 - Lunchtime Industry Talks</div>
-<div class="isomer-card-description">Presentations by PacBio and MGI</div>
+<div class="isomer-card-title">Parallel Track 1 (Session 3) - Cancer Genetics</div>
+<div class="isomer-card-description">This session aims to inform healthcare professionals on recent discoveries
+related to the genetic basis of various cancers, and discuss the use of
+novel diagnostic tools to treat patients with the appropriate therapeutics.</div>
 <div class="isomer-card-link">Download graphic recording</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
