@@ -80,7 +80,7 @@ Health</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A/Prof Dan Yock Young" src="/images/Bio/Board Oversight Committee/Prof_Dan_Yock_Young.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A/Prof Dan Yock Young" src="/images/Bio/Board Oversight Committee/PRECISE_BOC_Prof_Dan_Yock_Young.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
