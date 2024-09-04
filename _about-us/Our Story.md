@@ -7,7 +7,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banners_page%20footer%201%20-%20grey.png">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,7 +39,11 @@ companies.</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,7 +90,7 @@ ways to prevent and treat them.</p>
 </div>
 <h3><strong>Video: Singapore's National Precision Medicine Strategy</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xOhIPWFo12Y?si=6ZkHiJAoEgZe60in"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZrEv0cmGFUE?si=gvYS5nFUi-ayAgIE"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banners_page%20footer%203%20-%20purple.png">
