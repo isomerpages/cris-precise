@@ -39,6 +39,10 @@ to Clinics: The New Landscape of Global Healthcare”, from 21 to 23 August
 2024. The event is graced by Guest of Honour (GOH) Dr Janil Puthucheary,
 Senior Minister of State, Ministry of Digital Development and Information,
 and Ministry of Health.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Press Releases/1__Z63_6231.jpg">
+</div>
 <p>The conference, a first of this scale in Southeast Asia, promises a stellar
 line-up of over 50 speakers from both Singapore and the international community,
 presenting a unique platform to spotlight the latest advancements in precision
