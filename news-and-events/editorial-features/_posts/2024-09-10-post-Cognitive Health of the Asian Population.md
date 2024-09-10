@@ -118,3 +118,13 @@ cognitive problems?’ I hope that the first drug for rescuing cognitive
 function could be discovered in Singapore.”
 <br>
 </p>
+<hr>
+<p>[1] <a href="https://www.moh.gov.sg/docs/librariesprovider5/resources-statistics/reports/nphs-2022-survey-report-(final).pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moh.gov.sg/docs/librariesprovider5/resources-statistics/reports/nphs-2022-survey-report-(final).pdf</a>
+</p>
+<p>[2] <a href="https://www.straitstimes.com/singapore/about-1-in-3-youths-in-singapore-has-mental-health-symptoms-study" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/about-1-in-3-youths-in-singapore-has-mental-health-symptoms-study</a>
+</p>
+<p>[3] <a href="https://www.straitstimes.com/singapore/health/s-pore-launches-national-mental-health-and-well-being-strategy" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/health/s-pore-launches-national-mental-health-and-well-being-strategy</a>
+</p>
+<p>[4] <a href="https://www.npm.sg/partners/precise-sg100k" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg/partners/precise-sg100k</a>
+<br>
+</p>
