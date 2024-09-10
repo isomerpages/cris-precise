@@ -15,6 +15,10 @@ has reported internalising mental health symptoms such as sadness, anxiety
 and loneliness<sup>2</sup>. Amidst this growing concern, Singapore launched
 a national mental health and well-being strategy on 4 October 2023, which
 adopted a multi-pronged approach to tackle mental health issues<sup>3</sup>.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/IMH.jpg">
+</div>
 <p>At the frontline of cognitive genomic precision medicine is Assistant
 Professor Max Lam, Deputy Science Director for Precision Health Research,
 Singapore (PRECISE)’s <a href="https://www.npm.sg/partners/precise-sg100k" rel="noopener noreferrer nofollow" target="_blank"><u>PRECISE-SG100K study</u></a><sup>4</sup>,
