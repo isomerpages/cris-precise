@@ -1,7 +1,7 @@
 ---
 title: From Cohorts to Clinics – The New Landscape of Global Healthcare
-permalink: /news-and-events/events/precise-ihcc-conference-save-the-date/
-date: 2024-01-26
+permalink: /news-and-events/events/precise-ihcc-conference/
+date: 2024-08-21
 layout: post
 description: Jointly organised by Precision Health Research, Singapore (PRECISE)
   and the International Health Cohorts Consortium (IHCC), the three-day
