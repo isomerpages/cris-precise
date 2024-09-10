@@ -8,17 +8,17 @@ image: ""
 variant: tiptap
 ---
 <p>The prevalence of poor mental health in Singapore has increased from 13.4%
-in 2020 to 17% in 2022, according to the National Population Health Survey
-2022. In another survey by the National University of Singapore in 2022,
-findings revealed that about one in three youth&nbsp;in Singapore has reported
-internalising mental health symptoms such as sadness, anxiety and loneliness.
-Amidst this growing concern, Singapore launched a national mental health
-and well-being strategy on 4 October 2023, which adopted a multi-pronged
-approach to tackle mental health issues.&nbsp;</p>
+in 2020 to 17% in 2022<sup>1</sup>, according to the National Population
+Health Survey 2022. In another survey by the National University of Singapore
+in 2022, findings revealed that about one in three youth&nbsp;in Singapore
+has reported internalising mental health symptoms such as sadness, anxiety
+and loneliness<sup>2</sup>. Amidst this growing concern, Singapore launched
+a national mental health and well-being strategy on 4 October 2023, which
+adopted a multi-pronged approach to tackle mental health issues<sup>3</sup>.&nbsp;</p>
 <p>
 <br>At the frontline of cognitive genomic precision medicine is Assistant
 Professor Max Lam, Deputy Science Director for Precision Health Research,
-Singapore (PRECISE)’s <a href="https://www.npm.sg/partners/precise-sg100k" rel="noopener noreferrer nofollow" target="_blank"><u>PRECISE-SG100K study</u></a>,
+Singapore (PRECISE)’s <a href="https://www.npm.sg/partners/precise-sg100k" rel="noopener noreferrer nofollow" target="_blank"><u>PRECISE-SG100K study</u></a><sup>4</sup>,
 and the Principal Investigator of the <u>CO</u>gnitive functio<u>N</u>&nbsp;in
 psy<u>C</u>hiatric <u>I</u>llnes<u>SE</u>s (CONCISE) mental health study
 at Institute of Mental Health. Also leading the PRECISE-SG100K Cognitive
