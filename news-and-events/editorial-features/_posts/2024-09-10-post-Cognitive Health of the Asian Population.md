@@ -15,8 +15,7 @@ has reported internalising mental health symptoms such as sadness, anxiety
 and loneliness<sup>2</sup>. Amidst this growing concern, Singapore launched
 a national mental health and well-being strategy on 4 October 2023, which
 adopted a multi-pronged approach to tackle mental health issues<sup>3</sup>.&nbsp;</p>
-<p>
-<br>At the frontline of cognitive genomic precision medicine is Assistant
+<p>At the frontline of cognitive genomic precision medicine is Assistant
 Professor Max Lam, Deputy Science Director for Precision Health Research,
 Singapore (PRECISE)’s <a href="https://www.npm.sg/partners/precise-sg100k" rel="noopener noreferrer nofollow" target="_blank"><u>PRECISE-SG100K study</u></a><sup>4</sup>,
 and the Principal Investigator of the <u>CO</u>gnitive functio<u>N</u>&nbsp;in
@@ -119,12 +118,12 @@ function could be discovered in Singapore.”
 <br>
 </p>
 <hr>
-<p>[1] <a href="https://www.moh.gov.sg/docs/librariesprovider5/resources-statistics/reports/nphs-2022-survey-report-(final).pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moh.gov.sg/docs/librariesprovider5/resources-statistics/reports/nphs-2022-survey-report-(final).pdf</a>
+<p>[1] <a href="https://www.moh.gov.sg/docs/librariesprovider5/resources-statistics/reports/nphs-2022-survey-report-(final).pdf" rel="noopener nofollow" target="_blank">National Population Health Survey 2022</a>
 </p>
-<p>[2] <a href="https://www.straitstimes.com/singapore/about-1-in-3-youths-in-singapore-has-mental-health-symptoms-study" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/about-1-in-3-youths-in-singapore-has-mental-health-symptoms-study</a>
+<p>[2] <a href="https://www.straitstimes.com/singapore/about-1-in-3-youths-in-singapore-has-mental-health-symptoms-study" rel="noopener nofollow" target="_blank">About 1 in 3 young people in Singapore has mental health symptoms: Study (The Straits Times, 26 May 2022)</a>
 </p>
-<p>[3] <a href="https://www.straitstimes.com/singapore/health/s-pore-launches-national-mental-health-and-well-being-strategy" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/health/s-pore-launches-national-mental-health-and-well-being-strategy</a>
+<p>[3] <a href="https://www.straitstimes.com/singapore/health/s-pore-launches-national-mental-health-and-well-being-strategy" rel="noopener nofollow" target="_blank">S’pore launches national mental health and well-being strategy (The Straits Times, 6 Oct 2023)</a>
 </p>
-<p>[4] <a href="https://www.npm.sg/partners/precise-sg100k" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg/partners/precise-sg100k</a>
+<p>[4] <a href="https://www.npm.sg/partners/precise-sg100k/" rel="noopener nofollow" target="_blank">PRECISE-SG100K</a>
 <br>
 </p>
