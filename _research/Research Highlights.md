@@ -106,7 +106,7 @@ prevention, diagnosis and treatment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research___Nature_Medicine_A_global_initiative_to_deliver_precision_health_Jul_2024___image_sq.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Nature_Medicine_July_2024.png">
 </div>
 <p><strong><a href="https://doi.org/10.1038/s41591-024-03032-4" rel="noopener noreferrer nofollow" target="_blank">A global initiative to deliver precision health in diabetes</a></strong>
 </p>
