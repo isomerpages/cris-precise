@@ -112,6 +112,24 @@ prevention, diagnosis and treatment.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Lancet Diabetes and Endocrinology" src="/images/Research/Research Highlights/2024_09_16_The_Lancet_Diabetes_and_Endocrinology.jpg">
+</div>
+<p><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S2213858724001955" rel="noopener nofollow" target="_blank">Adiposity and metabolic health in Asian populations: an epidemiological study using dual-energy x-ray absorptiometry in Singapore</a></strong>
+</p>
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
