@@ -106,10 +106,28 @@ prevention, diagnosis and treatment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research___Nature_Medicine_A_global_initiative_to_deliver_precision_health_Jul_2024___image_sq.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Nature_Medicine_July_2024.png">
 </div>
 <p><strong><a href="https://doi.org/10.1038/s41591-024-03032-4" rel="noopener noreferrer nofollow" target="_blank">A global initiative to deliver precision health in diabetes</a></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Lancet Diabetes and Endocrinology" src="/images/Research/Research Highlights/2024_09_16_The_Lancet_Diabetes_and_Endocrinology.jpg">
+</div>
+<p><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S2213858724001955" rel="noopener nofollow" target="_blank">Adiposity and metabolic health in Asian populations: an epidemiological study using dual-energy x-ray absorptiometry in Singapore</a></strong>
+</p>
+<p><strong><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
