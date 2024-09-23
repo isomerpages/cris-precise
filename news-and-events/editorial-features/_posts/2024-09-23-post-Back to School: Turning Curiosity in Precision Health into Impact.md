@@ -7,6 +7,10 @@ description: "Back to School: Turning Curiosity in Precision Health into Impact"
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/PRECISE___Sep.jpg">
+</div>
 <p>Among the inaugural batch of 81 students who started their Master of Science
 in Precision Health and Medicine (MScPHM) programme in January 2024 are
 Lai Junhao and Ong Zhi Xuan. Coming from vastly different academic backgrounds
