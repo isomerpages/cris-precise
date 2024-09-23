@@ -34,8 +34,7 @@ social scientists. I also attended a career talk by a genetic counsellor
 from KK Women's and Children's Hospital (KKH). These got me really excited—but
 there wasn’t any course then for me to pursue the interest further.”</p>
 <p>Four years later, Zhi Xuan is enrolled in the MScPHM programme today.</p>
-<p><strong>On to a Positive Start</strong>
-</p>
+<h4><strong>On to a Positive Start</strong></h4>
 <p>An interdisciplinary graduate degree programme co-led by academics, clinical
 practitioners, subject matter experts and industry leaders, the MScPHM
 programme is designed to equip students with pertinent knowledge and skills
@@ -51,8 +50,7 @@ studies. Healthcare has been a constant theme throughout my studies and
 career. At the same time, I have always enjoyed working with numbers and
 data. So this programme really is a convergence of all my interests—healthcare,
 science, and data.”</p>
-<p><strong>Looking to Gain Mastery</strong>
-</p>
+<h4><strong>Looking to Gain Mastery</strong></h4>
 <p>A full-time programme, the MScPHM offers three different study routes—one-year,
 two-year with capstone project, and stackable Executive or Graduate Certificates.
 Both Zhi Xuan and Junhao have chosen the two-year programme, comprising
@@ -77,8 +75,7 @@ and simulations to carry out applied or computational mathematical analyses.
 I would also be taking a course on causal interference. These will segue
 nicely into the year-long capstone project where I hope to be able to work
 with and learn from experts who are into data science statistics and analysis.”</p>
-<p><strong>Aspirations to Make an Impact</strong>
-</p>
+<h4><strong>Aspirations to Make an Impact</strong></h4>
 <p>Although Junhao and Zhi Xuan are still in the early days of their learning
 and discovery about precision medicine, they have both professed strong
 desires to contribute towards advancing precision medicine and making an
