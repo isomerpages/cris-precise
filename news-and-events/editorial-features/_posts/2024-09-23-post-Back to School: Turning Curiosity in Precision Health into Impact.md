@@ -59,9 +59,9 @@ a capstone project.</p>
 research attachment at Duke-NUS Medical School, Zhi Xuan is no stranger
 to working with large and diverse datasets. She also has working knowledge
 in machine learning and programming languages such as Python. “While I
-am familiar with these tools and know how to work them, I am not too sure
-how they can be applied to genomics to answer the big questions in precision
-medicine—so there’s lots for me to learn,” Zhi Xuan explained.</p>
+am familiar with these tools and know how to work with them, I am not too
+sure how they can be applied to genomics to answer the big questions in
+precision medicine—so there’s lots for me to learn,” Zhi Xuan explained.</p>
 <p>“For me, my physics background has helped me to query deeply into the
 use of different models and how to best leverage them for our purposes,”
 Junhao said. “Presently, genomic biobanks around the world offer genomic
