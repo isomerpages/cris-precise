@@ -72,9 +72,9 @@ population health.”</p>
 <p>He added, “In the coming semester, we can choose our lab lessons—and I
 have mostly chosen the dry lab ones that utilise computer generated models
 and simulations to carry out applied or computational mathematical analyses.
-I would also be taking a course on causal interference. These will segue
-nicely into the year-long capstone project where I hope to be able to work
-with and learn from experts who are into data science statistics and analysis.”</p>
+I would also be taking a course on causal inference. These will segue nicely
+into the year-long capstone project where I hope to be able to work with
+and learn from experts who are into data science statistics and analysis.”</p>
 <h4><strong>Aspirations to Make an Impact</strong></h4>
 <p>Although Junhao and Zhi Xuan are still in the early days of their learning
 and discovery about precision medicine, they have both professed strong
