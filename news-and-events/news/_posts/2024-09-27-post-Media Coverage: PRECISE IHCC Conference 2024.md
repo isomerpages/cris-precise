@@ -10,7 +10,6 @@ variant: tiptap
 <p>The PRECISE-IHCC Conference received <strong>~13 pieces of coverage </strong>across
 print and online media on The Straits Times, Lianhe Zaobao, Berita Harian
 and Tamil Murasu.</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/In The News/Media.jpg">
 </div>
@@ -32,7 +31,6 @@ and Tamil Murasu.</p>
 <p>Tamil Murasu</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>For more information, please refer to the following:</p>
 <ul data-tight="true" class="tight">
 <li>
