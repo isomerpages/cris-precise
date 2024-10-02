@@ -6,8 +6,7 @@ description: Precision Health Research, Singapore (PRECISE) is the central
   of Singapore’s National Precision Medicine (NPM) programme.
 image: /images/Logos/PRECISE.jpg
 permalink: /
-notification: "[Register now!] PRECISE-IHCC Conference - From Cohorts to
-  Clinics: The New Landscape of Global Healthcare (21-23 Aug 2024)"
+notification: ""
 sections:
   - hero:
       title: Welcome to PRECISE
@@ -15,8 +14,8 @@ sections:
       background: /images/landing-page-banner_humans-1.jpg
       key_highlights:
         - title: PRECISE-IHCC Conference
-          description: 21-23 Aug 2024
-          url: https://preciseihcc-conference.sg
+          description: Resources
+          url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
