@@ -14,8 +14,8 @@ sections:
       background: /images/landing-page-banner_humans-1.jpg
       key_highlights:
         - title: PRECISE-IHCC Conference
-          description: 21-23 Aug 2024
-          url: https://preciseihcc-conference.sg
+          description: Resources
+          url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
