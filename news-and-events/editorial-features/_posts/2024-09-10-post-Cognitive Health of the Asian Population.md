@@ -3,7 +3,7 @@ title: Cognitive Health of the Asian Population
 permalink: /cognitive-health-of-the-asian-population/
 date: 2024-09-10
 layout: post
-description: ""
+description: Cognitive Health of the Asian Population
 image: /images/Resources/Editorial Features/2024/IMH.jpg
 variant: tiptap
 ---
