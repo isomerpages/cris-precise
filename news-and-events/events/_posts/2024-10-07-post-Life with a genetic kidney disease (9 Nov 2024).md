@@ -13,15 +13,10 @@ organised by RAPIDS (Renal Alliance for Precision Diagnosis in Singapore)
 and supported by Precision Health Research Singapore (PRECISE), is designed
 for individuals and families affected by genetic kidney conditions, and
 how to cope with the diagnosis as well as support their loved ones.</p>
-<p>Engage with leading clinicians, genetic counsellors, and patients as they
-share insights into managing chronic kidney disease, genetic testing, and
-providing emotional support. The programme includes talks on the stages
-and progression of kidney disease, the considerations to note when going
-for genetic testing, and courageous stories from patients to provide a
-holistic view of life with a genetic kidney disease.</p>
-<p><strong>Location:</strong>
-<br>TTSH Theatrette, Ward Block Level 1
-<br>11 Jalan Tan Tock Seng, Singapore 308433</p>
+<p>Gain a holistic view of life with a genetic kidney condition through engagements
+with leading nephrologists, genetic counsellors, and patients as they share
+insights into managing chronic kidney disease, genetic testing, and providing
+emotional support.</p>
 <p><strong>Register now</strong> to secure your spot! Learn more at <a href="#" rel="noopener noreferrer nofollow" target="_blank">for.sg/kidney-support-day</a> or
 scan the QR code in the flyer.</p>
 <div class="isomer-image-wrapper">
