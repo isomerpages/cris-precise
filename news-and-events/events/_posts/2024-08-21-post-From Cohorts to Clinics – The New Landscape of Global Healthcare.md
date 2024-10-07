@@ -22,12 +22,10 @@ the three-day conference themed “<strong>From Cohorts to Clinics – The New L
 the conference provided a unique platform to spotlight Singapore’s and
 the international community’s advancements in precision medicine, shared
 diverse insights, and a broad spectrum of experiences and knowledge exchange.&nbsp;</p>
-<h4><strong>Event highlights reel</strong></h4>
-<p></p>
+<h4><strong>PRECISE-IHCC Conference highlights reel</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r9fYWC-uD7A?si=Vi3bt9bQTJ2l-HOj"></iframe>
 </div>
-<p></p>
 <h4><strong>Conference Highlights</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/1__PRECISE_IHCC_Highlights.jpg">
