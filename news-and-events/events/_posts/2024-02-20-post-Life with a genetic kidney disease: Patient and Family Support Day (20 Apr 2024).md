@@ -1,5 +1,6 @@
 ---
-title: "Life with a genetic kidney disease: Patient and Family Support Day"
+title: "Life with a genetic kidney disease: Patient and Family Support Day (20
+  Apr 2024)"
 permalink: /news-and-events/events/kidney-support-day-2024/
 date: 2024-02-20
 layout: post
