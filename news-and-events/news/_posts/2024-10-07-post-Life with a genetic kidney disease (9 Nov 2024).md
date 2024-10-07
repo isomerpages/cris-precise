@@ -7,3 +7,22 @@ description: Life with a genetic kidney disease (9 Nov 2024)
 image: ""
 variant: tiptap
 ---
+<p>Join us on <strong>9 November 9, 2024</strong>, for <strong>"Life with a Genetic Kidney Disease: Patient and Family Support Day"</strong> at
+Tan Tock Seng Hospital, from 9:00 AM to 12:00 PM. This informative event,
+organised by RAPIDS (Renal Alliance for Precision Diagnosis in Singapore)
+and supported by Precision Health Research Singapore (PRECISE), is designed
+for individuals and families affected by genetic kidney conditions.</p>
+<p>Engage with leading clinicians, genetic counsellors, and patients as they
+share insights into managing chronic kidney disease, genetic testing, and
+emotional support. The programme includes talks on the stages of kidney
+disease, the implications of genetic testing, and personal patient stories,
+providing a holistic view of life with a genetic kidney disease.</p>
+<p><strong>Location:</strong>
+<br>TTSH Theatrette, Ward Block Level 1
+<br>11 Jalan Tan Tock Seng, Singapore 308433</p>
+<p><strong>Register now</strong> to secure your spot! Learn more at <a href="#" rel="noopener noreferrer nofollow" target="_blank">for.sg/kidney-support-day</a> or
+scan the QR code in the flyer.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="rapids" src="/images/Resources/Events/2024_11_09_RAPIDS_Patient_Support_Day_Poster_9_Nov_PRINT.jpg">
+</div>
+<p></p>
