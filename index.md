@@ -69,7 +69,7 @@ sections:
       image: /images/Homepage/sg100k.png
       alt: Image alt text
   - infopic:
-      title: PRECISE-IHCC Conference 2024
+      title: Event highlights of PRECISE-IHCC Conference 2024
       subtitle: EVENTS
       id: infopic
       description: This conference provided a unique platform to spotlight Singapore’s
