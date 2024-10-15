@@ -93,9 +93,8 @@ sections:
       title: PRECISE-SG100K study flagship project on Mental Health
       subtitle: EDITORIAL FEATURE
       id: infopic
-      description: Dr Max Lam, Deputy Science Director, PRECISE, is the lead
-        researcher of one of the PRECISE-SG100K study flagship projects on
-        mental health.
+      description: Dr Max Lam, Deputy Science Director, PRECISE, shares his insights
+        as a lead researcher in this study.
       button: read his insights
       url: https://www.npm.sg/cognitive-health-of-the-asian-population/
       image: /images/Resources/Editorial Features/2024/IMH.jpg
