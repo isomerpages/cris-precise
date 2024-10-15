@@ -79,7 +79,7 @@ sections:
       image: /images/Resources/Editorial Features/2024/IHCC___2.jpg
       alt: Image alt text
   - infopic:
-      title: Mr Peter Goodhand's speech at PRECISE-IHCC Conference 2024
+      title: PRECISE-IHCC Conference Showcases Global Collaboration
       subtitle: EVENTS
       id: infopic
       description: Mr Peter Goodhand, Co-Chair of IHCC and CEO of the Global Alliance
