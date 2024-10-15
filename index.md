@@ -89,6 +89,15 @@ sections:
       url: https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations/
       alt: Image alt text
   - infopic:
+      title: Infopic
+      subtitle: EDITORIAL FEATURE
+      id: infopic
+      description: Infopic description
+      button: read more
+      url: https://www.npm.sg/cognitive-health-of-the-asian-population/
+      image: /images/Resources/Editorial Features/2024/IMH.jpg
+      alt: Image alt text
+  - infopic:
       title: Tracing the Hereditary Cancer Risk
       subtitle: Editorial Feature
       id: infopic
