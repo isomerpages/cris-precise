@@ -95,7 +95,7 @@ sections:
       description: NUS students share their motivations for joining the Master of
         Science in Precision Health and Medicine programme, and their
         aspirations to make an impact.
-      button: Read ARTICLE HERE
+      button: Read more
       url: https://www.npm.sg/nus-mscphm-curiousity-in-precision-health-into-impact/
       image: /images/Resources/Editorial Features/2024/PRECISE___Sep.jpg
       alt: Image alt text
@@ -105,60 +105,9 @@ sections:
       id: infopic
       description: Dr Max Lam, Deputy Science Director, PRECISE, shares his insights
         as a lead researcher in this study.
-      button: read his insights
+      button: Read more
       url: https://www.npm.sg/cognitive-health-of-the-asian-population/
       image: /images/Resources/Editorial Features/2024/IMH.jpg
-      alt: Image alt text
-  - infopic:
-      title: Tracing the Hereditary Cancer Risk
-      subtitle: Editorial Feature
-      id: infopic
-      description: Implementing a sustainable genetic testing programme for hereditary
-        cancer risks.
-      button: Read more
-      url: /news-and-events/editorial-features/from-reactive-to-proactive-tracing-the-hereditary-cancer-risk/
-      image: /images/Resources/Editorial Features/2023/PRECISE_Banner14_1400x800_3.jpg
-      alt: Image alt text
-  - infopic:
-      title: Pre-Emptive Pharmacogenomic Testing
-      subtitle: editorial feature
-      id: infopic
-      description: What it takes to bring pre-emptive pharmacogenomic testing into
-        routine clinical practice.
-      button: read more
-      url: /news-and-events/editorial-features/what-it-takes-bringing-pre-emptive-pharmacogenomic-testing/
-      image: /images/Resources/Editorial
-        Features/2023/precise-–-cip-profiling-pgx-1024x585.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Genetic Testing for Primary Glomerular Disease
-      subtitle: editorial feature
-      id: infopic
-      description: A clinical implementation pilot looks to make life-changing impact
-        for patients and families.
-      button: read more
-      url: /news-and-events/editorial-features/genetic-testing-for-primary-glomerular-disease-life-changing/
-      image: /images/Resources/Editorial Features/2023/glomerular diseases_profiling
-        (rev).jpeg
-      alt: Image alt text
-  - infopic:
-      title: Mission BREATHE
-      subtitle: editorial feature
-      id: infopic
-      description: Reshaping the age-ased paradigm for breast cancer screening.
-      button: read more
-      url: /news-and-events/editorial-features/mission-breathe-reshaping-the-age-based-paradigm-for-breast/
-      image: /images/Resources/Editorial Features/2023/precise-banner9_1400x800.jpg
-      alt: Image alt text
-  - infopic:
-      title: Early detection of Familial Hypercholesterolemia
-      subtitle: Editorial feature
-      id: infopic
-      description: Having Familial Hypercholesterolemia doesn’t necessarily predict a
-        deadly or devastating outcome if detected and treated early.
-      button: Read more
-      url: /news-and-events/editorial-features/getting-to-the-heart-of-the-matter/
-      image: /images/Resources/Editorial Features/2023/precise-banner7_1400x800.jpg
       alt: Image alt text
   - resources:
       title: Latest News and Events
