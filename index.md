@@ -88,6 +88,7 @@ sections:
       button: Read more
       url: https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations/
       alt: Image alt text
+      image: /images/Resources/Events/resized_peter_goodhand_image.png
   - infopic:
       title: Infopic
       subtitle: EDITORIAL FEATURE
