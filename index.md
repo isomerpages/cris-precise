@@ -79,6 +79,16 @@ sections:
       image: /images/Resources/Editorial Features/2024/IHCC___2.jpg
       alt: Image alt text
   - infopic:
+      title: Day 3 of PRECISE-IHCC Conference 2024
+      subtitle: EVENTS
+      id: infopic
+      description: Mr Peter Goodhand, Co-Chair of IHCC and CEO of the Global Alliance
+        for Genomics and Health (GA4GH), shared his insights during the
+        PRECISE-IHCC conference.
+      button: Read more
+      url: https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations/
+      alt: Image alt text
+  - infopic:
       title: Tracing the Hereditary Cancer Risk
       subtitle: Editorial Feature
       id: infopic
