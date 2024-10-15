@@ -69,6 +69,16 @@ sections:
       image: /images/Homepage/sg100k.png
       alt: Image alt text
   - infopic:
+      title: PRECISE-IHCC Conference 2024
+      subtitle: NEWS AND EVENTS
+      id: infopic
+      description: This conference provided a unique platform to spotlight Singapore’s
+        and the international community’s advancements in precision medicine.
+      button: Read more
+      url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
+      image: /images/Resources/Editorial Features/2024/IHCC___2.jpg
+      alt: Image alt text
+  - infopic:
       title: Tracing the Hereditary Cancer Risk
       subtitle: Editorial Feature
       id: infopic
