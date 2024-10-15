@@ -83,8 +83,7 @@ sections:
       subtitle: EVENTS
       id: infopic
       description: Mr Peter Goodhand, Co-Chair of IHCC and CEO of the Global Alliance
-        for Genomics and Health (GA4GH), shared his insights during the
-        PRECISE-IHCC conference.
+        for Genomics and Health, shares his insights at the conference.
       button: Read more
       url: https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations/
       alt: Image alt text
