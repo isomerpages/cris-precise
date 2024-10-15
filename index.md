@@ -70,7 +70,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: PRECISE-IHCC Conference 2024
-      subtitle: NEWS AND EVENTS
+      subtitle: EVENTS
       id: infopic
       description: This conference provided a unique platform to spotlight Singapore’s
         and the international community’s advancements in precision medicine.
