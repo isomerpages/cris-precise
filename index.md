@@ -90,7 +90,7 @@ sections:
       alt: Image alt text
       image: /images/Resources/Events/resized_peter_goodhand_image.png
   - infopic:
-      title: Infopic
+      title: PRECISE-SG100K study flagship project on Mental Health
       subtitle: EDITORIAL FEATURE
       id: infopic
       description: Dr Max Lam, Deputy Science Director, PRECISE, is the lead
