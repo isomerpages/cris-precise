@@ -100,10 +100,12 @@ sections:
       image: /images/Resources/Editorial Features/2024/IMH.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
+      title: Turning Curiosity in Precision Health into Impact
       subtitle: EDITORIAL FEATURE
       id: infopic
-      description: Infopic description
+      description: NUS students share their motivations for joining the Master of
+        Science in Precision Health and Medicine programme, and their
+        aspirations to make an impact.
       button: Read ARTICLE HERE
       url: https://www.npm.sg/nus-mscphm-curiousity-in-precision-health-into-impact/
       image: /images/Resources/Editorial Features/2024/PRECISE___Sep.jpg
