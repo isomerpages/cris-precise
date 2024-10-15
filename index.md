@@ -100,6 +100,15 @@ sections:
       image: /images/Resources/Editorial Features/2024/IMH.jpg
       alt: Image alt text
   - infopic:
+      title: Infopic
+      subtitle: EDITORIAL FEATURE
+      id: infopic
+      description: Infopic description
+      button: Read ARTICLE HERE
+      url: https://www.npm.sg/nus-mscphm-curiousity-in-precision-health-into-impact/
+      image: /images/Resources/Editorial Features/2024/PRECISE___Sep.jpg
+      alt: Image alt text
+  - infopic:
       title: Tracing the Hereditary Cancer Risk
       subtitle: Editorial Feature
       id: infopic
