@@ -72,8 +72,8 @@ sections:
       title: Event highlights of PRECISE-IHCC Conference 2024
       subtitle: EVENTS
       id: infopic
-      description: This conference provided a unique platform to spotlight Singapore’s
-        and the international community’s advancements in precision medicine.
+      description: Over 700 thought leaders, clinicians, scientists, and industry
+        experts from around the world gathered for insightful discussions.
       button: View conference highlights
       url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
       image: /images/Resources/Editorial Features/2024/IHCC___2.jpg
