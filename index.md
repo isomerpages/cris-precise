@@ -89,16 +89,6 @@ sections:
       alt: Image alt text
       image: /images/Resources/Events/resized_peter_goodhand_image.png
   - infopic:
-      title: PRECISE-SG100K study flagship project on Mental Health
-      subtitle: EDITORIAL FEATURE
-      id: infopic
-      description: Dr Max Lam, Deputy Science Director, PRECISE, shares his insights
-        as a lead researcher in this study.
-      button: read his insights
-      url: https://www.npm.sg/cognitive-health-of-the-asian-population/
-      image: /images/Resources/Editorial Features/2024/IMH.jpg
-      alt: Image alt text
-  - infopic:
       title: Turning Curiosity in Precision Health into Impact
       subtitle: EDITORIAL FEATURE
       id: infopic
@@ -108,6 +98,16 @@ sections:
       button: Read ARTICLE HERE
       url: https://www.npm.sg/nus-mscphm-curiousity-in-precision-health-into-impact/
       image: /images/Resources/Editorial Features/2024/PRECISE___Sep.jpg
+      alt: Image alt text
+  - infopic:
+      title: PRECISE-SG100K study flagship project on Mental Health
+      subtitle: EDITORIAL FEATURE
+      id: infopic
+      description: Dr Max Lam, Deputy Science Director, PRECISE, shares his insights
+        as a lead researcher in this study.
+      button: read his insights
+      url: https://www.npm.sg/cognitive-health-of-the-asian-population/
+      image: /images/Resources/Editorial Features/2024/IMH.jpg
       alt: Image alt text
   - infopic:
       title: Tracing the Hereditary Cancer Risk
