@@ -74,7 +74,7 @@ sections:
       id: infopic
       description: This conference provided a unique platform to spotlight Singapore’s
         and the international community’s advancements in precision medicine.
-      button: Read more
+      button: View conference highlights
       url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
       image: /images/Resources/Editorial Features/2024/IHCC___2.jpg
       alt: Image alt text
