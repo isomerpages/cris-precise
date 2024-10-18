@@ -76,7 +76,7 @@ sections:
         experts from around the world gathered for insightful discussions.
       button: View conference highlights
       url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
-      image: /images/Resources/Editorial Features/2024/IHCC___2.jpg
+      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - infopic:
       title: PRECISE-IHCC Conference Showcases Global Collaboration
