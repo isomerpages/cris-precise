@@ -34,12 +34,7 @@ The National Precision Medicine Data Access Committee (NPM DAC) has been establi
 *   Data is used appropriately according to NPM terms and conditions, including adherence to informed consent forms and ethical approvals for the data in question.
 *   Data users are qualified investigators embedded within a recognised research-intensive organisation.
 
-Interested applicants are highly recommended to read through the data access policies and data access forms:
-
-*   [SG10K\_Health Data Access Policy](https://www.a-star.edu.sg/docs/librariesprovider11/npm/SG10K_Health_Data_Access_Policy.pdf)
-*   [SG10K\_Health Data Access Form](https://npm.a-star.edu.sg/wp-content/uploads/2023/10/SG10K_Health_Data_Access_Form.3.0.docx)
-*   [SG10K\_Pilot Data Access Policy](https://www.a-star.edu.sg/docs/librariesprovider11/npm/SG10K_Pilot_Data_Access_Policy.pdf)
-*   [SG10K\_Pilot Data Access Form](https://www.a-star.edu.sg/docs/librariesprovider11/npm/SG10K_Pilot_Data_Access_Form.docx)
+Interested applicants are highly recommended to read through the data access policies and data access forms via the the [SG10K_Health portal.](https://npm.a-star.edu.sg/help/)
 
 For more information on the list of approved studies, please visit&nbsp;[https://npm.a-star.edu.sg/help](https://npm.a-star.edu.sg/help)
 
