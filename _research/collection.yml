@@ -2,6 +2,7 @@ collections:
   research:
     output: true
     order:
+      - Awarded projects/Call for Sample Submission for Long Read Sequencing.md
       - Awarded projects/.keep
       - Research Highlights.md
       - Clinical Implementation Pilots.md
