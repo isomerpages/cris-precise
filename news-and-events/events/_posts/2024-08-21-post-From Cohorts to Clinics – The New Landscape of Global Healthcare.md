@@ -51,6 +51,8 @@ can be found here.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Day 3" src="/images/Resources/Events/Day_3___Stitch_4mp.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Day 3 (23 Aug 2024)</div><div class="isomer-card-description">Graphic illustrations of Day 3 sessions</div><div class="isomer-card-link">Click here to view</div></div></a>
 </div>
-<p>
+<h4><strong>Programme Booklet </strong></h4>
+<p>Please refer to the conference programme booklet <a href="https://for.sg/precise-ihcc-conference-eprogramme" rel="noopener nofollow" target="_blank">here</a>.
 <br>
 </p>
+<p></p>
