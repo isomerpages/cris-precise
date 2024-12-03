@@ -25,7 +25,7 @@ prevention, diagnosis and treatment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/research%20highlight-dna.png">
 </div>
-<p><strong><a href="/files/Research%20Highlights/2023-09.pdf" class="no-icon" rel="noopener noreferrer nofollow" target="_blank">A catalogue of structural variation across ancestrally diverse Asian genomes</a></strong>
+<p><strong><a href="/files/A_Catalogue_of_Structural_Variation_across_Ancestrally_Diverse_Asian_Genomes.pdf" rel="noopener nofollow" target="_blank">A catalogue of structural variation across ancestrally diverse Asian genomes</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
