@@ -1,8 +1,9 @@
 ---
-title: Call for Sample Submission for Long Read Sequencing
+title: Call for Sample Submission (closed)
 permalink: /research/call-for-sample-submission-long-read-sequencing/
 variant: tiptap
 description: Call for Sample Submission for Long Read Sequencing
+third_nav_title: Long Read Sequencing
 ---
 <h3><strong>Call for Sample Submission for Long Read Sequencing</strong></h3>
 <p></p>
@@ -154,7 +155,12 @@ intellectual property, or develop new or improved solutions and applications</p>
 </li>
 </ul>
 <h4><strong>Timelines*</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

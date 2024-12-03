@@ -3,7 +3,7 @@ title: Flagship Projects
 permalink: /flagship-projects/
 variant: tiptap
 description: Flagship Projects
-third_nav_title: PRECISE SG100K dataset
+third_nav_title: PRECISE SG100K Dataset
 ---
 <p>PRECISE-SG100K initiated an open Call for Proposals in November 2023 inviting
 researchers in Singapore to submit proposals that utilise the rich PRECISE-SG100K

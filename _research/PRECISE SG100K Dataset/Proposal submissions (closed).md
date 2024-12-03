@@ -3,7 +3,7 @@ title: Proposal submissions (closed)
 permalink: /research/call-for-proposals/
 variant: tiptap
 description: ""
-third_nav_title: PRECISE SG100K dataset
+third_nav_title: PRECISE SG100K Dataset
 ---
 <h3><strong>Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset</strong></h3>
 <p></p>
