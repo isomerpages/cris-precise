@@ -54,8 +54,10 @@ disease whereby short read sequencing did not result in a molecular diagnosis&nb
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Chen Zhiyong, National Neuroscience Institute</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Kaavya Narasimhalu, National Neuroscience
 Institute</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Lim Weng Khong, Duke-NUS Medical School</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,13 +74,14 @@ the potential molecular findings.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Characterizing the genetic mutational burden and effects on disease outcomes
+<p>Characterising the genetic mutational burden and effects on disease outcomes
 in Singapore Interstitial Lung Diseases (ILD) patients</p>
 <p></p>
 <p><strong>Topic:</strong> Lung disease</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Kam Li Wei Michelle, Singapore General Hospital</p>
+<p></p>
 <p><strong>Co-Lead PI: </strong>A/P Joanne Ngeow, Lee Kong Chian School of
 Medicine, NTU</p>
 </td>
@@ -99,7 +102,9 @@ Retinal Degeneration (IRD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lead PI:</strong> Dr Beau J. Fenner, Singapore National Eye Centre</p>
+<p></p>
 <p><strong>Co-Lead PI:</strong> Dr Chan Choi Mun, Singapore National Eye Centre</p>
+<p></p>
 <p><strong>Co-Lead PI: </strong>Dr Saumya Jamuar, Duke-NUS Medical School</p>
 </td>
 <td rowspan="1" colspan="1">
