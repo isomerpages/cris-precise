@@ -2,10 +2,10 @@ collections:
   research:
     output: true
     order:
+      - Long read sequencing/.keep
       - Long read sequencing/Awarded projects.md
       - Long read sequencing/Call for Sample Submission for Long Read
         Sequencing.md
-      - Long read sequencing/.keep
       - Research Highlights.md
       - Clinical Implementation Pilots.md
       - PRECISE SG100K dataset/.keep
