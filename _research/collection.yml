@@ -2,7 +2,8 @@ collections:
   research:
     output: true
     order:
-      - Long read sequencing/Long Read Sequencing.md
+      - Long read sequencing/Call for Sample Submission for Long Read
+        Sequencing.md
       - Long read sequencing/.keep
       - Research Highlights.md
       - Clinical Implementation Pilots.md
