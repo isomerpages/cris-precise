@@ -4,10 +4,10 @@ collections:
     order:
       - Research Highlights.md
       - Clinical Implementation Pilots.md
-      - PRECISE SG100K dataset/.keep
-      - PRECISE SG100K dataset/Flagship Projects.md
-      - PRECISE SG100K dataset/Driver Projects.md
-      - PRECISE SG100K dataset/Proposal submissions (closed).md
+      - PRECISE SG100K Dataset/.keep
+      - PRECISE SG100K Dataset/Flagship Projects.md
+      - PRECISE SG100K Dataset/Driver Projects.md
+      - PRECISE SG100K Dataset/Proposal submissions (closed).md
       - Long read sequencing/.keep
       - Long read sequencing/Awarded Projects.md
       - Long read sequencing/Call for Sample Submission (closed).md
