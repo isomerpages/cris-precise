@@ -155,7 +155,12 @@ intellectual property, or develop new or improved solutions and applications</p>
 </li>
 </ul>
 <h4><strong>Timelines*</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
