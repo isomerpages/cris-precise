@@ -9,13 +9,9 @@ third_nav_title: Long Read Sequencing
 Long-read Sequencing. This initiative invited Singapore-based researchers
 to submit proposals for sequencing human genomic DNA samples using PacBio's
 SMRT cells.</p>
-<p>The Evaluation Committee conducted a thorough assessment process to select <strong>four projects</strong>.
-The selection criteria focused on proposals that demonstrated the value
-of long-read sequencing in enhancing our understanding of human genetics
-and improving diagnosis of unresolved conditions. The committee also sought
-projects that proposed novel applications or translational research outcomes
-aimed at improving population health or addressing high-impact disease
-conditions.</p>
+<p>The Evaluation Committee selected four projects that showcased the value
+of long-read sequencing in genetics and diagnosis, and novel applications
+to improve population health.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
