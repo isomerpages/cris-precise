@@ -7,9 +7,8 @@ description: Navigating the Precision Medicine Landscape, Ethically
 image: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/PRECISE_Banner19A_1400x800_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/Julian_rz.jpg">
 </div>
 <p>Speaking at the PRECISE-IHCC Conference, jointly organised by Precision
 Health Research, Singapore (PRECISE) and the International Health Cohorts
@@ -42,6 +41,9 @@ also for behavioural ones. He pointed out the possible impact disruptive
 behavioural traits, such as antisocial personality, have on society and
 how they could benefit from gene-based interventions.</p>
 <h4><strong>Trust Building Beyond Ethics Compliance</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/Dr_Michaela_rz.jpg">
+</div>
 <p>Notably, gene-based technologies will continue to advance apace regardless
 of regulations. Dr Michaela Th. Mayrhofer, Head of ELSI, BBMRI-ERIC reminded
 that even in the absence of formal/clear regulations, ethics should not
@@ -74,6 +76,10 @@ information.<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">
 issues pose significant challenges to the advancement of the field—particularly
 in achieving equitable understanding of the genetics of underrepresented
 and marginalised populations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/Angela_rz.jpg">
+</div>
 <p>Associate Professor Angela Ballantyne, University of Otago, said, “There
 is a global sense of urgency in ensuring that our genomic databases accurately
 represent different populations and their subgroups. Yet, the reality is
