@@ -113,9 +113,9 @@ conference held from 21 to 23 August 2024 in Singapore covered 17 topics
 in precision medicine, and sought to address challenges and opportunities
 in translating advances into tangible enhancements in patient care to reshape
 the landscape of modern healthcare.</p>
-<p>&nbsp;</p>
 <p>For post-conference resources, visit <a href="https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations/" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations.</a>
 </p>
+<p></p>
 <hr>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Ahmed
 L, Constantinidou A, Chatzittofis A. Patients' perspectives related to
@@ -130,6 +130,5 @@ Precision Medicine: A National Survey of Singapore. <em>J Pers Med</em>.
 Kaya, Melanie Goisauf, Gillian M. Martin, Michaela Th. Mayrhofer, Stella
 Antoniou, Georgia Charalambidou, Constantinos Deltas, Apostolos Malatras,
 Gregory Papagregoriou, Charalambos Stefanou, and Mariel Voutounou. 2024.&nbsp;
-<a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1397156/full" rel="noopener noreferrer nofollow" target="_blank">“Risk mapping for better governance in biobanking: the case of</a><a rel="noopener noreferrer nofollow" target="_blank">biobank.cy</a>
-<a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1397156/full" rel="noopener noreferrer nofollow" target="_blank">.”</a>&nbsp;Frontiers in Genetics 15. doi: 10.3389/fgene.2024.1397156.&nbsp;<strong>Open access</strong>
-</p>
+<a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1397156/full" rel="noopener noreferrer nofollow" target="_blank">“Risk mapping for better governance in biobanking: the case of</a><a rel="noopener noreferrer nofollow" target="_blank">biobank.cy</a><a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1397156/full" rel="noopener noreferrer nofollow" target="_blank">.”</a>&nbsp;Frontiers
+in Genetics 15. doi: 10.3389/fgene.2024.1397156.&nbsp;Open access</p>
