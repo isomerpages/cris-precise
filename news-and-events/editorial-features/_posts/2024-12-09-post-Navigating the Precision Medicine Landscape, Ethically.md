@@ -7,8 +7,9 @@ description: Navigating the Precision Medicine Landscape, Ethically
 image: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/Julian_rz.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/PRECISE_Banner19A_1400x800_copy.jpg">
 </div>
 <p>Speaking at the PRECISE-IHCC Conference, jointly organised by Precision
 Health Research, Singapore (PRECISE) and the International Health Cohorts
@@ -29,6 +30,9 @@ a recently completed research, Prof Savulescu noted that there is a different
 level of enthusiasm and receptivity towards gene-based technologies in
 Singapore compared to the USA, which appeared to be influenced by ethnicity,
 religions and monthly household income.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2024/Julian_rz.jpg">
+</div>
 <p>More than an inquiry into the public’s attitudes towards gene-based technologies,
 the presentation also revisited the long-standing debate about eugenics.
 Briefly outlining ethical issues such as discrimination, social (in)justice
