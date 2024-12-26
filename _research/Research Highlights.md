@@ -32,7 +32,7 @@ prevention, diagnosis and treatment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/nature.png">
 </div>
-<p><strong><a href="https://drive.google.com/file/d/1ohjJJ5uK7BbAlqiS0LikQTLU5fMRvmi3/view" rel="noopener noreferrer nofollow" target="_blank">The Singapore National Precision Medicine Strategy</a></strong>
+<p><strong><a href="https://www.nature.com/articles/s41588-022-01274-x" rel="noopener noreferrer nofollow" target="_blank">The Singapore National Precision Medicine Strategy</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
