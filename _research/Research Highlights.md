@@ -23,14 +23,14 @@ prevention, diagnosis and treatment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research_Genome_Biology_BMC_Dec_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research_Genome_Biology_BMC_Dec_2024_NPM.jpg">
 </div>
 <p><strong><a href="/files/Evaluating_data_requirements_for_high_quality_haplotype_resolved_genomes_for_creating_robust_pangenome_references.pdf" rel="noopener nofollow" target="_blank">Evaluating data requirements for high-quality haplotype-resolved genomes for creating robust pangenome references</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/research%20highlight-dna.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research_Nature_Communications_Oct_2024_NPM.png">
 </div>
 <p><strong><a href="/files/A_Catalogue_of_Structural_Variation_across_Ancestrally_Diverse_Asian_Genomes.pdf" rel="noopener nofollow" target="_blank">A catalogue of structural variation across ancestrally diverse Asian genomes</a></strong>
 </p>
