@@ -2,7 +2,6 @@ collections:
   research:
     output: true
     order:
-      - Example Title.md
       - Research Highlights.md
       - Clinical Implementation Pilots.md
       - PRECISE SG100K Dataset/.keep
