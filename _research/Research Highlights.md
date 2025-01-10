@@ -30,14 +30,14 @@ prevention, diagnosis and treatment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research_Nature_Communications_Oct_2024_NPM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research_Nature_Communications_Nov_2024_NPM.png">
 </div>
 <p><strong><a href="/files/A_Catalogue_of_Structural_Variation_across_Ancestrally_Diverse_Asian_Genomes.pdf" rel="noopener nofollow" target="_blank">A catalogue of structural variation across ancestrally diverse Asian genomes</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/nature.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research_Nature_Genetics_19_Jan_2023_NPM.png">
 </div>
 <p><strong><a href="https://www.nature.com/articles/s41588-022-01274-x" rel="noopener noreferrer nofollow" target="_blank">The Singapore National Precision Medicine Strategy</a></strong>
 </p>
