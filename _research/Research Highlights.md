@@ -23,6 +23,13 @@ prevention, diagnosis and treatment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research_Genome_Biology_BMC_Dec_2024.jpg">
+</div>
+<p><strong><a href="/files/Evaluating_data_requirements_for_high_quality_haplotype_resolved_genomes_for_creating_robust_pangenome_references.pdf" rel="noopener nofollow" target="_blank">Evaluating data requirements for high-quality haplotype-resolved genomes for creating robust pangenome references</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/research%20highlight-dna.png">
 </div>
 <p><strong><a href="/files/A_Catalogue_of_Structural_Variation_across_Ancestrally_Diverse_Asian_Genomes.pdf" rel="noopener nofollow" target="_blank">A catalogue of structural variation across ancestrally diverse Asian genomes</a></strong>
@@ -35,6 +42,8 @@ prevention, diagnosis and treatment.</p>
 <p><strong><a href="https://www.nature.com/articles/s41588-022-01274-x" rel="noopener noreferrer nofollow" target="_blank">The Singapore National Precision Medicine Strategy</a></strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/nature_communications_-_journal_cover.jpeg">
@@ -42,8 +51,6 @@ prevention, diagnosis and treatment.</p>
 <p><strong><a href="https://www.nature.com/articles/s41467-022-34116-9.epdf?sharing_token=aFgaoBr2-jaDoCtzKV-d-9RgN0jAjWel9jnR3ZoTv0OLS_HLril_jWPK4sdA0kIg4PMPQEUsQul7wNMbFQMT5Ojl_QYu9Gn5jxGTm3D6-jC0yi1miHKNOYYQQnuoggOhSjtwiWW6zVeKfEGfDK80x1PrgqLBb8vIr0XWPEB87M8%3D" rel="noopener noreferrer nofollow" target="_blank">Analysis of clinically relevant variants from ancestrally diverse Asian genomes</a></strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/big-data_cover.png">
@@ -58,6 +65,8 @@ prevention, diagnosis and treatment.</p>
 <p><strong><a href="https://www.nature.com/articles/s41588-021-00969-x" rel="noopener noreferrer nofollow" target="_blank">Genetic Variation Influencing DNA Methylation Provides Insights into Molecular Mechanisms Regulating Genomic Function</a></strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/cell%20genomics.jpg">
@@ -65,8 +74,6 @@ prevention, diagnosis and treatment.</p>
 <p><strong><a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00036-7" rel="noopener noreferrer nofollow" target="_blank">GA4GH: International Policies and Standards for Data Sharing across Genomic Research and Healthcare</a></strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/science%20cover.jpg">
@@ -81,6 +88,8 @@ prevention, diagnosis and treatment.</p>
 <p><strong><a href="https://www.mdpi.com/2075-4426/11/9/921" rel="noopener noreferrer nofollow" target="_blank">Trust and Trade-Offs in Sharing Data for Precision Medicine: A National Survey of Singapore</a></strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/springerv3.png">
@@ -88,8 +97,6 @@ prevention, diagnosis and treatment.</p>
 <p><strong><a href="https://link.springer.com/article/10.1007/s41649-021-00180-4" rel="noopener noreferrer nofollow" target="_blank">Religious Perspectives on Precision Medicine in Singapore</a></strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Research/Research%20Highlights/bmc-icon.png">
@@ -104,6 +111,8 @@ prevention, diagnosis and treatment.</p>
 <p><strong><a href="https://www.researchsquare.com/article/rs-24953/v3" rel="noopener noreferrer nofollow" target="_blank">“Who is watching the watchdog?”: ethical perspectives of sharing health-related data for precision medicine in Singapore</a></strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Nature_Medicine_July_2024.png">
@@ -111,8 +120,6 @@ prevention, diagnosis and treatment.</p>
 <p><strong><a href="https://doi.org/10.1038/s41591-024-03032-4" rel="noopener noreferrer nofollow" target="_blank">A global initiative to deliver precision health in diabetes</a></strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -122,9 +129,6 @@ prevention, diagnosis and treatment.</p>
 </p>
 <p><strong><br></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
