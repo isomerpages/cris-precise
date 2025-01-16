@@ -132,6 +132,12 @@ prevention, diagnosis and treatment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Research Highlights/Research_Logo_Karger_svg.png">
+</div>
+<p><strong><a href="/files/Evaluating_data_requirements_for_high_quality_haplotype_resolved_genomes_for_creating_robust_pangenome_references.pdf" rel="noopener noreferrer nofollow" target="_blank">Clinical Implementation of Nephrologist-Led Genomic Testing for Glomerular Diseases in Singapore</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
