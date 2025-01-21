@@ -34,6 +34,9 @@ and active participation!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/1__PRECISE_IHCC_Highlights.jpg">
 </div>
+<h4><strong>Conference Recordings </strong></h4>
+<p>Tune in to insightful discussions and presentations from the PRECISE-IHCC
+Conference held on 21-23 Aug 2024 on YouTube <a href="https://youtube.com/playlist?list=PL2kiZVpQgFuD1BNg-wYLYpiq4SdYa6oxr&amp;si=4A5-kF76P01TQYwi" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Graphic Recording</strong></h4>
 <p>The complete set of graphic illustrations for all three days of the conference
 can be found here.</p>
