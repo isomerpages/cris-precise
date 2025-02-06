@@ -179,10 +179,8 @@ PRECISE-SG100K researchers not included in the primary author list</p>
 </li>
 <li>
 <p>Acknowledgements: The manuscript MUST include an approved PRECISE-SG100K
-acknowledgement text. Please check with PRECISE Programme Managers, Dr
-Ryan Luo (<a href="mailto:ryan.luo@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">ryan.luo@precise.cris.sg</a>)
-and Dr Kriti Sethi (<a href="mailto:kriti.sethi@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kriti.sethi@precise.cris.sg</a>)
-for the approved text.</p>
+acknowledgement text. Please check with PRECISE Programme Managers at
+<a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>for the approved text.</p>
 </li>
 <li>
 <p>All manuscripts MUST be shared with and approved by the PRECISE-SG100K
@@ -291,10 +289,8 @@ the public and private sectors.</p>
 </table>
 <p><em>*The schedule may be subject to change</em>
 </p>
-<p>Please submit completed application forms to PRECISE Programme Managers,
-Dr Ryan Luo (<a href="mailto:ryan.luo@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">ryan.luo@precise.cris.sg</a>)
-and Dr Kriti Sethi (<a href="mailto:kriti.sethi@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kriti.sethi@precise.cris.sg</a>)
-by 31 Jan 2024. Late or incomplete application forms will not be entertained.</p>
+<p>Please submit completed application forms to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a> by 31
+Jan 2024. Late or incomplete application forms will not be entertained.</p>
 <h5><strong>PRECISE-SG100K SCIENTIFIC COMMITTEE MEMBERS</strong></h5>
 <p>Below are the details of the PRECISE-SG100K Scientific Committee.</p>
 <table style="minWidth: 75px">
@@ -405,9 +401,7 @@ by 31 Jan 2024. Late or incomplete application forms will not be entertained.</p
 </tr>
 </tbody>
 </table>
-<p>Please direct all enquiries to PRECISE Programme Managers, Dr Ryan Luo
-(<a href="mailto:ryan.luo@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">ryan.luo@precise.cris.sg</a>)
-and Dr Kriti Sethi (<a href="mailto:kriti.sethi@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">kriti.sethi@precise.cris.sg</a>).</p>
+<p>Please direct all enquiries to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <h5><strong>RESOURCES</strong></h5>
 <p><strong>Dataset</strong>
 </p>
