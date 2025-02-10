@@ -10,7 +10,7 @@ variant: tiptap
 <p>Join us on <strong>Friday 28 February 2025</strong>, for<strong> "Rare Disease Day 2025 – Supporting the Rare with Hope</strong>"
 at KK Women’s and Children’s Hospital, from 1:00 PM to 4:30 PM.</p>
 <p>This outreach event, organised by KKH Genetics Service and SingHealth
-Duke-NUS Genomic Medicine Centre (SDGMC), aims to raise awareness and share
+Duke-NUS Genomic Medicine Centre (SDGMC) aims to raise awareness and share
 inspiring patient journeys from childhood to adulthood, and foster hope
 for the future.</p>
 <p><strong>Register now</strong> to secure your spot! Scan the QR code in
