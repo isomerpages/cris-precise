@@ -26,3 +26,7 @@ Level 1 or Zoom</p>
 <p>To attend online, please register at this link: <a href="https://for.sg/rarediseaseday2025" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/rarediseaseday2025</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/2025_02_28___Rare_Disease_Day_2025_KKH.jpg">
+</div>
+<p></p>
