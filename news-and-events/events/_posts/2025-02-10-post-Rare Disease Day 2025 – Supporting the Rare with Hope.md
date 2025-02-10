@@ -21,8 +21,8 @@ the flyer. Registration closes on 25 February 2025 (Tuesday).</p>
 <p><strong>Time: </strong>1.00pm to 4.30pm</p>
 <p><strong>Venue:</strong> KKH Auditorium (Training Centre), Women's Tower,
 Level 1 or Zoom</p>
-<p>To attend onsite, please register at this link: <a href="https://form.gov.sg/679727b721c40f204f79ae54" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/679727b721c40f204f79ae54</a> 
+<p>To attend onsite, please register at this link: <a href="https://form.gov.sg/679727b721c40f204f79ae54" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/679727b721c40f204f79ae54</a>
 </p>
-<p>To attend online, please register at this link: <a href="https://for.sg/rarediseaseday2025" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/rarediseaseday2025</a> 
+<p>To attend online, please register at this link: <a href="https://for.sg/rarediseaseday2025" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/rarediseaseday2025</a>
 </p>
 <p></p>
