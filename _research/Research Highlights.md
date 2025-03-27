@@ -136,7 +136,7 @@ prevention, diagnosis and treatment.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong><a href="/files/Evaluating_data_requirements_for_high_quality_haplotype_resolved_genomes_for_creating_robust_pangenome_references.pdf" rel="noopener noreferrer nofollow" target="_blank">Clinical Implementation of Nephrologist-led Genomic Testing for Glomerular Diseases in Singapore</a></strong>
+<p><strong><a href="/files/Clinical_implementation_of_Nephrologist_led_Genomic_Testing_for_GD_in_Singapore__Rationale_and_Protocol.pdf" rel="noopener nofollow" target="_blank">Clinical Implementation of Nephrologist-led Genomic Testing for Glomerular Diseases in Singapore</a></strong>
 </p>
 </td>
 </tr>
