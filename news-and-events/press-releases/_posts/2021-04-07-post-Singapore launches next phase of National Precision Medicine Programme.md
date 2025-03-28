@@ -79,4 +79,3 @@ CRIS brings together the following five research platforms and programmes as bus
 The business units cover a broad spectrum of activities, both in research and corporate functions – from clinical trials, medical technology development, precision medicine, cell therapy manufacturing, to cancer translation.
 
 CRIS aims to make a positive difference to Singapore patients and researchers by ensuring that these clinical research platforms and programmes are at the cutting edge of capability development and innovation, through facilitated collaborations and enduring partnerships with research and biomedical entities and communities across the public sector and industry.
-
