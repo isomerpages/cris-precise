@@ -5,6 +5,7 @@ date: 2021-04-07
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/Resources/Press%20Releases/precision-meds-transforms-health.jpg)
 
@@ -79,10 +80,3 @@ The business units cover a broad spectrum of activities, both in research and co
 
 CRIS aims to make a positive difference to Singapore patients and researchers by ensuring that these clinical research platforms and programmes are at the cutting edge of capability development and innovation, through facilitated collaborations and enduring partnerships with research and biomedical entities and communities across the public sector and industry.
 
-**For media queries, please contact:**
-
-**Clarissa Ho**
-
-(Strategic Communications)
-
-**Email:** [Clarissa.ho@precise.cris.sg](mailto:Clarissa.ho@precise.cris.sg)
