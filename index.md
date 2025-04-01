@@ -13,18 +13,18 @@ sections:
       subtitle: Transforming health in Singapore through Precision Medicine
       background: /images/landing-page-banner_humans-1.jpg
       key_highlights:
-        - title: PRECISE-IHCC Conference
-          description: Resources
-          url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
-        - title: Clinical Implementation Pilots
-          description: ""
-          url: /cip
         - title: Latest News
           description: ""
           url: /news-and-events/
+        - title: Clinical Implementation Pilots
+          description: ""
+          url: /cip
+        - title: Editorial features
+          description: ""
+          url: /news-and-events/editorial-features/
       variant: center
       size: sm
       backgroundColor: gray
