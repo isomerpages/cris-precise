@@ -69,16 +69,6 @@ sections:
       image: /images/Homepage/sg100k.png
       alt: Image alt text
   - infopic:
-      title: Event highlights of PRECISE-IHCC Conference 2024
-      subtitle: EVENTS
-      id: infopic
-      description: Over 700 thought leaders, clinicians, scientists, and industry
-        experts from around the world gathered for insightful discussions.
-      button: View conference highlights
-      url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
-      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
-      alt: Image alt text
-  - infopic:
       title: Mapping Health Futures
       subtitle: EDITORIAL FEATURE
       id: infopic
@@ -89,15 +79,24 @@ sections:
       image: /images/Resources/Editorial Features/2025/PRECISE_Banner19D_1400x800.jpg
       alt: Image alt text
   - infopic:
-      title: Turning Curiosity in Precision Health into Impact
+      title: Ethical Horizons in Precision Medicine
       subtitle: EDITORIAL FEATURE
       id: infopic
-      description: NUS students share their motivations for joining the Master of
-        Science in Precision Health and Medicine programme, and their
-        aspirations to make an impact.
+      description: Ethics, cultural bias and trust building. How important is it to
+        give underrepresented populations a voice?
       button: Read more
-      url: https://www.npm.sg/nus-mscphm-curiousity-in-precision-health-into-impact/
-      image: /images/Resources/Editorial Features/2024/PRECISE___Sep.jpg
+      url: https://www.npm.sg/ethical-horizons-in-precision-medicine/
+      image: /images/Resources/Editorial Features/2024/Julian_2_rz.jpg
+      alt: Image alt text
+  - infopic:
+      title: Event highlights of PRECISE-IHCC Conference 2024
+      subtitle: EVENTS
+      id: infopic
+      description: Over 700 thought leaders, clinicians, scientists, and industry
+        experts from around the world gathered for insightful discussions.
+      button: View conference highlights
+      url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
+      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - resources:
       title: Latest News and Events
