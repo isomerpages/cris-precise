@@ -79,15 +79,15 @@ sections:
       image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - infopic:
-      title: PRECISE-IHCC Conference Showcases Global Collaboration
-      subtitle: EVENTS
+      title: Mapping Health Futures
+      subtitle: EDITORIAL FEATURE
       id: infopic
-      description: Mr Peter Goodhand, Co-Chair of IHCC and CEO of the Global Alliance
-        for Genomics and Health, shares his insights at the conference.
-      button: Read more
-      url: https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations/
+      description: Experts share more about genomic screening and its population
+        impact, ethical considerations, and newborn carrier screening.
+      button: READ MORE
+      url: /mapping-health-futures-genomic-screening-and-its-population-impact/
+      image: /images/Resources/Editorial Features/2025/PRECISE_Banner19D_1400x800.jpg
       alt: Image alt text
-      image: /images/Resources/Events/resized_peter_goodhand_image.png
   - infopic:
       title: Turning Curiosity in Precision Health into Impact
       subtitle: EDITORIAL FEATURE
@@ -98,16 +98,6 @@ sections:
       button: Read more
       url: https://www.npm.sg/nus-mscphm-curiousity-in-precision-health-into-impact/
       image: /images/Resources/Editorial Features/2024/PRECISE___Sep.jpg
-      alt: Image alt text
-  - infopic:
-      title: PRECISE-SG100K study flagship project on Mental Health
-      subtitle: EDITORIAL FEATURE
-      id: infopic
-      description: Dr Max Lam, Deputy Science Director, PRECISE, shares his insights
-        as a lead researcher in this study.
-      button: Read more
-      url: https://www.npm.sg/cognitive-health-of-the-asian-population/
-      image: /images/Resources/Editorial Features/2024/IMH.jpg
       alt: Image alt text
   - resources:
       title: Latest News and Events
