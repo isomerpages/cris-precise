@@ -13,18 +13,18 @@ sections:
       subtitle: Transforming health in Singapore through Precision Medicine
       background: /images/landing-page-banner_humans-1.jpg
       key_highlights:
-        - title: PRECISE-IHCC Conference
-          description: Resources
-          url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
         - title: Research Highlights
           description: ""
           url: /research/research-highlights
-        - title: Clinical Implementation Pilots
-          description: ""
-          url: /cip
         - title: Latest News
           description: ""
           url: /news-and-events/
+        - title: Clinical Implementation Pilots
+          description: ""
+          url: /cip
+        - title: Editorial features
+          description: ""
+          url: /news-and-events/editorial-features/
       variant: center
       size: sm
       backgroundColor: gray
@@ -69,6 +69,26 @@ sections:
       image: /images/Homepage/sg100k.png
       alt: Image alt text
   - infopic:
+      title: Mapping Health Futures
+      subtitle: EDITORIAL FEATURE
+      id: infopic
+      description: Experts share more about genomic screening and its population
+        impact, ethical considerations, and newborn carrier screening.
+      button: READ MORE
+      url: /mapping-health-futures-genomic-screening-and-its-population-impact/
+      image: /images/Resources/Editorial Features/2025/PRECISE_Banner19D_1400x800.jpg
+      alt: Image alt text
+  - infopic:
+      title: Ethical Horizons in Precision Medicine
+      subtitle: EDITORIAL FEATURE
+      id: infopic
+      description: Ethics, cultural bias and trust building. How important is it to
+        give underrepresented populations a voice?
+      button: Read more
+      url: https://www.npm.sg/ethical-horizons-in-precision-medicine/
+      image: /images/Resources/Editorial Features/2024/Julian_2_rz.jpg
+      alt: Image alt text
+  - infopic:
       title: Event highlights of PRECISE-IHCC Conference 2024
       subtitle: EVENTS
       id: infopic
@@ -77,37 +97,6 @@ sections:
       button: View conference highlights
       url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
       image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
-      alt: Image alt text
-  - infopic:
-      title: PRECISE-IHCC Conference Showcases Global Collaboration
-      subtitle: EVENTS
-      id: infopic
-      description: Mr Peter Goodhand, Co-Chair of IHCC and CEO of the Global Alliance
-        for Genomics and Health, shares his insights at the conference.
-      button: Read more
-      url: https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations/
-      alt: Image alt text
-      image: /images/Resources/Events/resized_peter_goodhand_image.png
-  - infopic:
-      title: Turning Curiosity in Precision Health into Impact
-      subtitle: EDITORIAL FEATURE
-      id: infopic
-      description: NUS students share their motivations for joining the Master of
-        Science in Precision Health and Medicine programme, and their
-        aspirations to make an impact.
-      button: Read more
-      url: https://www.npm.sg/nus-mscphm-curiousity-in-precision-health-into-impact/
-      image: /images/Resources/Editorial Features/2024/PRECISE___Sep.jpg
-      alt: Image alt text
-  - infopic:
-      title: PRECISE-SG100K study flagship project on Mental Health
-      subtitle: EDITORIAL FEATURE
-      id: infopic
-      description: Dr Max Lam, Deputy Science Director, PRECISE, shares his insights
-        as a lead researcher in this study.
-      button: Read more
-      url: https://www.npm.sg/cognitive-health-of-the-asian-population/
-      image: /images/Resources/Editorial Features/2024/IMH.jpg
       alt: Image alt text
   - resources:
       title: Latest News and Events
