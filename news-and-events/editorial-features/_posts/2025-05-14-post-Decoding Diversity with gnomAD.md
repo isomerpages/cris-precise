@@ -118,7 +118,7 @@ of hundreds or thousands of datapoints and there is no way to re-identify
 an individual,” Dr Bertin said. Establishing federated access to such datasets
 lays the foundation for future integrations of more granular health information,
 where robust privacy-preserving safeguards are under development.”</p>
-<h4><strong>Harmonising data standards and expanding to reach more groups </strong></h4>
+<h4><strong>Harmonising data standards and expanding to reach more groups</strong></h4>
 <p>“The idea of establishing the federated gnomAD project is that the gnomAD
 team shares the method of analysing the data so that each group can analyse
 its dataset in its own country, under its own legislation,” explained Dr
