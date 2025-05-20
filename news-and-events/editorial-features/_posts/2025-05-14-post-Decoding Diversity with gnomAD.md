@@ -22,7 +22,7 @@ population-scale genome sequencing offers a path forward, providing the
 necessary context critical for rare disease gene discovery and the broader
 effort, e.g.&nbsp;variant classification to understand genetic contributors
 of human disease.</p>
-<h4><strong>Genetic Variation – the clues within</strong></h4>
+<h4><strong>Genetic Variation – The Clues Within</strong></h4>
 <p>“There’s just no capacity for any geneticist to interpret all the variants
 one by one,” said Professor Heidi Rehm, Chief Genomics Officer at Massachusetts
 General Hospital and Chief Medical Officer of Broad Clinical Labs.</p>
@@ -101,7 +101,7 @@ and deeper insights into rare variants in our populations.”</p>
 these insights to improve genetic analysis of the Asian population and
 improve the management of patients with rare genetic conditions. For example,
 in the <a href="https://www.nature.com/articles/s41467-022-34116-9" rel="noopener nofollow" target="_blank">SG10K_Health study, Singaporean Chinese, Malay and Indian individuals were found to have a high prevalence of familial hypercholesterolemia and hereditary breast and ovarian cancer-associated variants at 1 in 140 and 1 in 150 respectively</a>.</p>
-<h4><strong>Data Federation: Maintaining the highest standards of data integrity and privacy</strong></h4>
+<h4><strong>Data Federation: Maintaining the Highest Standards of Data Integrity and Privacy</strong></h4>
 <p>Traditionally, researchers had to centralise sensitive data in a single
 repository, often facing logistical, ethical and cross-jurisdiction legal
 hurdles. Federation sidesteps these barriers by allowing data to remain
@@ -118,7 +118,7 @@ of hundreds or thousands of datapoints and there is no way to re-identify
 an individual,” Dr Bertin said. Establishing federated access to such datasets
 lays the foundation for future integrations of more granular health information,
 where robust privacy-preserving safeguards are under development.”</p>
-<h4><strong>Harmonising data standards and expanding to reach more groups </strong></h4>
+<h4><strong>Harmonising Data Standards and Expanding to Reach More Groups</strong></h4>
 <p>“The idea of establishing the federated gnomAD project is that the gnomAD
 team shares the method of analysing the data so that each group can analyse
 its dataset in its own country, under its own legislation,” explained Dr
@@ -146,7 +146,7 @@ genome.” Following this line of thinking, researchers can explore artificial
 intelligence-based algorithms that identify genomic regions which can be
 consistently analysed, regardless of the specific variant-calling algorithm
 used.</p>
-<h4><strong>A New Value Equation and its impact on population health</strong></h4>
+<h4><strong>A New Value Equation and its Impact on Population Health</strong></h4>
 <p>As the cost of genome sequencing becomes more accessible, the cost-benefit
 equation is shifting. “There are now circumstances where the value of that
 data is high enough that sequencing could perhaps one day be free to the
