@@ -2,7 +2,6 @@ collections:
   research:
     output: true
     order:
-      - Testing/.keep
       - Research Highlights.md
       - Clinical Implementation Pilots.md
       - PRECISE SG100K Dataset/.keep
