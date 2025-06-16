@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2025/PRECISE_NUS_Masters_course_revised.jpg">
+</div>
 <p>Every day, clinicians treat patients diagnosed with the same diseases,
 and prescribe standardised medications. However, treatment outcomes can
 vary significantly, even when diagnoses and treatment plans are identical.
