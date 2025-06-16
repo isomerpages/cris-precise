@@ -29,7 +29,7 @@ Loo Lin School of Medicine, National University of Singapore (NUS Medicine)
 Department of Biochemistry in 2024 to offer the Master of Science in Precision
 Health and Medicine (MScPHM) programme.&nbsp;&nbsp;</p>
 <p></p>
-<p><strong>Finding Answers to Improve Clinical Outcomes</strong>&nbsp;</p>
+<h4><strong>Finding Answers to Improve Clinical Outcomes</strong>&nbsp;</h4>
 <p>Driven to deepen their knowledge of precision medicine, Doctors Tan Yi
 Fan, Gerard Low and Reuven Cheng were among the inaugural cohort to complete
 the Masters programme. “Experiencing firsthand the complexities of treating
@@ -46,7 +46,7 @@ of healthcare, there is still a gap in translating scientific knowledge
 into clinical practice. The way I see it, it’s only a matter of time before
 precision medicine literacy becomes essential for healthcare practitioners.”&nbsp;</p>
 <p></p>
-<p><strong>Adopting a Data Driven Approach to Treatments</strong>&nbsp;</p>
+<h4><strong>Adopting a Data Driven Approach to Treatments</strong>&nbsp;</h4>
 <p>While Yi Fan, Gerard and Reuven fulfil the admission prerequisites with
 their medical backgrounds, its interdisciplinary nature requires them to
 also acquire foundational knowledge in quantitative sciences.&nbsp;&nbsp;</p>
@@ -80,7 +80,7 @@ medicine remains a black box to many. There’s a lot of enthusiasm about
 its ability to transform healthcare—but not a lot of clarity in terms of
 direction.”&nbsp;</p>
 <p></p>
-<p><strong>Advocates for Change</strong>&nbsp;</p>
+<h4><strong>Advocates for Change</strong>&nbsp;</h4>
 <p>Hoping to contribute towards the adoption of precision medicine in healthcare
 settings, Yi Fan and Reuven collaborated with their lecturers, Associate
 Professor Kenneth Ban and Associate Professor Caroline Lee on a book titled <em>Precision Medicine for Healthcare Practitioners</em>,
