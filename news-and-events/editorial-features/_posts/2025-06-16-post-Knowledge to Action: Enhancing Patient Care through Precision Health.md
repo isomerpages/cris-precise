@@ -125,4 +125,5 @@ outcomes.”&nbsp;&nbsp;</p>
 <p>“It takes a whole village of people who are knowledgeable and willing
 for precision medicine to realise its true potential, become a staple at
 our clinics—and so ubiquitous that it is the standard of care among clinicians,”
-concluded Gerard.&nbsp;&nbsp;&nbsp;</p>
+concluded Gerard.</p>
+<p></p>
