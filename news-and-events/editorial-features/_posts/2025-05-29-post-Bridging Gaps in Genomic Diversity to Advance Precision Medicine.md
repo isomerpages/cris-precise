@@ -7,6 +7,10 @@ description: Bridging Gaps in Genomic Diversity to Advance Precision Medicine
 image: /images/Resources/Editorial Features/2025/PRECISE_Banner19B_1400x800.jpg
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2025/PRECISE_Banner19B_1400x800.jpg">
+</div>
 <p>Any two human beings are 99.9% identical—and the genetic differences between
 different populations are similarly minute. Yet, the 0.1% difference harbours
 significant gene-encoded protein diversity and expression differences,
