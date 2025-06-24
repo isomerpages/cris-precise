@@ -44,7 +44,7 @@ Board</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Lisa Ooi" src="/images/Bio/Board Oversight Committee/Dr_Lisa_Ooi_Photo__400x600.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Lisa Ooi" src="/images/Bio/Board Oversight Committee/Dr_Lisa_Ooi_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -56,7 +56,7 @@ Technology and Research</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Bio/Board Oversight Committee/Dr_Goh_Khean_Teik__400x600.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Bio/Board Oversight Committee/Dr_Goh_Khean_Teik_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
