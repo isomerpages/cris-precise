@@ -21,12 +21,23 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Ivy Ng" src="/images/Bio/Board Oversight Committee/Prof_Ivy_Ng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Ivy Ng" src="/images/Bio/Board Oversight Committee/Prof_Ivy_Ng_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Ivy Ng (Deputy Chair)</div>
 <div class="isomer-card-description">Senior Advisor, SingHealth Board</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Bio/Board Oversight Committee/Dr_Goh_Khean_Teik_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Goh Khean Teik</div>
+<div class="isomer-card-description">Director, Hospital Services Division, Ministry of Health</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -44,6 +55,17 @@ Board</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Gregory Vijayendran" src="/images/Bio/Board Oversight Committee/Mr_Gregory_Vijayendran_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Gregory Vijayendran</div>
+<div class="isomer-card-description">Senior Counsel and Partner, Rajah and Tann Singapore LLP</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Lisa Ooi" src="/images/Bio/Board Oversight Committee/Dr_Lisa_Ooi_600x400.jpg">
 </div>
 </div>
@@ -51,28 +73,6 @@ Board</div>
 <div class="isomer-card-title">Dr Lisa Ooi</div>
 <div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council, Agency for Science,
 Technology and Research</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Bio/Board Oversight Committee/Dr_Goh_Khean_Teik_600x400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Goh Khean Teik</div>
-<div class="isomer-card-description">Director, Hospital Services Division, Ministry of Health</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Gregory Vijayendran" src="/images/Bio/Board Oversight Committee/Mr_Gregory_Vijayendran_600x400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Gregory Vijayendran</div>
-<div class="isomer-card-description">Senior Counsel and Partner, Rajah and Tann Singapore LLP</div>
 </div>
 </div>
 </div>
