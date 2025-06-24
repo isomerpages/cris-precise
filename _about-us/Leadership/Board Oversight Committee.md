@@ -67,7 +67,7 @@ Technology and Research</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Gregory Vijayendran" src="/images/Bio/Board Oversight Committee/Gregory_half_body_size__400x600.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Gregory Vijayendran" src="/images/Bio/Board Oversight Committee/Mr_Gregory_Vijayendran_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
