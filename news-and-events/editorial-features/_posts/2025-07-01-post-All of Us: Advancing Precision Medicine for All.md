@@ -12,11 +12,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Dr Geoffrey Ginsburg" src="/images/Resources/Editorial Features/2025/All_of_Us___Dr_Geoffrey_Ginsburg.jpg">
 </div>
 <p>Beginning recruitment in 2018, the <em>All of Us</em> Research Program has
-enrolled over 860,000 participants&nbsp;as of 1 May 2025. More than 633,000
-participants have gone on to contribute data such as biosamples, data from
-wearables, and physical measurements. Over 414,000 whole genome sequences
-have also been made available as a research resource for researchers within
-the <em>All of Us</em> Researcher Workbench.</p>
+enrolled over 860,000 participants&nbsp;as of 1 May 2025. <a href="https://www.researchallofus.org/data-tools/data-snapshots/" rel="noopener nofollow" target="_blank">[1]</a> More
+than 633,000 participants have gone on to contribute data such as biosamples,
+data from wearables, and physical measurements. Over 414,000 whole genome
+sequences have also been made available as a research resource for researchers
+within the <em>All of Us</em> Researcher Workbench. <a href="https://support.researchallofus.org/hc/en-us/articles/30294451486356-Curated-Data-Repository-CDR-version-8-Release-Notes" rel="noopener nofollow" target="_blank">[2]</a>
+</p>
 <p><em>All of Us</em> was conceived in 2015, with the goal of enrolling one
 million participants across the U.S. Health data collected from these participants
 is being used to create one of the world’s largest databases for healthcare
@@ -79,11 +80,13 @@ encrypted. &nbsp;</p>
 of the data <em>All of Us </em>has collected. As of June 2025, over 17,000
 researchers from more than 1,100 organisations worldwide have registered
 to use the <em>All of Us</em> data analysis platform, the Researcher Workbench.
-The Researcher Workbench is a secure, cloud-based platform that provides
-registered researchers access to a wide array of health data, including
-genomic, electronic health records, and survey data. It offers tools for
-data analysis and collaboration, facilitating research aimed at advancing
-precision medicine.</p>
+<a href="https://allofus.nih.gov/article/announcement-all-us-releases-new-cognitive-and-behavioral-health-data" rel="noopener nofollow" target="_blank">[3]</a><a href="https://www.researchallofus.org/institutional-agreements/" rel="noopener nofollow" target="_blank">[4]</a> The
+Researcher Workbench is a secure, cloud-based platform that provides registered
+researchers access to a wide array of health data, including genomic, electronic
+health records, and survey data. It offers tools for data analysis and
+collaboration, facilitating research aimed at advancing precision medicine.
+<a href="https://researchallofus.org/data-tools/workbench/" rel="noopener nofollow" target="_blank">[5]</a>
+</p>
 <p></p>
 <p>Dr Ginsburg said, “The goal was to have 10,000 researchers using our data
 by 2026—but we are way ahead of that. I’m also glad to say that many of
