@@ -21,84 +21,23 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Fidah Alsagoff" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Fidah_Alsagoff.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Ivy Ng" src="/images/Bio/Board Oversight Committee/Prof_Ivy_Ng_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Fidah Alsagoff</div>
-<div class="isomer-card-description">Vice Chairman, Healthcare &amp; Life Sciences (Global Partnerships), Temasek</div>
+<div class="isomer-card-title">Prof Ivy Ng (Deputy Chair)</div>
+<div class="isomer-card-description">Senior Advisor, SingHealth Board</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Amanda Ang" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Amanda_Ang.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Bio/Board Oversight Committee/Dr_Goh_Khean_Teik_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms Amanda Ang</div>
-<div class="isomer-card-description">Director of Human Health and Potential (HHP), National Research Foundation
-(NRF) Singapore</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Aung Tin" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Aung_Tin.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Aung Tin</div>
-<div class="isomer-card-description">Medical Director and Senior Consultant, Singapore National Eye Centre
-(SNEC) Group Director, Research (Scientific), SingHealth</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A/Prof Angelique Chan" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Angelique_Chan.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">A/Prof Angelique Chan</div>
-<div class="isomer-card-description">Executive Director, Centre for Ageing Research &amp; Education, Duke-NUS
-Medical School</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adjunct A/Prof Raymond Chua" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Raymond_Chua.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Adjunct A/Prof Raymond Chua</div>
-<div class="isomer-card-description">Deputy Director-General of Health, Health Regulation Group, Ministry of
-Health</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A/Prof Dan Yock Young" src="/images/Bio/Board Oversight Committee/PRECISE_BOC_Prof_Dan_Yock_Young.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">A/Prof Dan Yock Young</div>
-<div class="isomer-card-description">Chief Executive Officer, Ng Teng Fong General Hospital, National University
-Healthcare System; Senior Consultant, Office of the Director-General Health</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Roger Foo" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Roger_Foo.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Roger Foo</div>
-<div class="isomer-card-description">Vice Dean (Research), Yong Loo Lin School of Medicine, NUS &amp; Head
-of NUHS Clinician Scientist Academy</div>
+<div class="isomer-card-title">Dr Goh Khean Teik</div>
+<div class="isomer-card-description">Director, Hospital Services Division, Ministry of Health</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -116,33 +55,22 @@ Board</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Ivy Ng" src="/images/Bio/Board Oversight Committee/Prof_Ivy_Ng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Gregory Vijayendran" src="/images/Bio/Board Oversight Committee/Mr_Gregory_Vijayendran_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Ivy Ng</div>
-<div class="isomer-card-description">Senior Advisor, SingHealth Board</div>
+<div class="isomer-card-title">Mr Gregory Vijayendran</div>
+<div class="isomer-card-description">Senior Counsel and Partner, Rajah and Tann Singapore LLP</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Joseph Sung" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Joseph_Sung.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Lisa Ooi" src="/images/Bio/Board Oversight Committee/Dr_Lisa_Ooi_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Joseph Sung</div>
-<div class="isomer-card-description">Dean, Lee Kong Chian School of Medicine, Nanyang Technological University</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Sze Wee" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Tan_Sze_Wee.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Tan Sze Wee</div>
+<div class="isomer-card-title">Dr Lisa Ooi</div>
 <div class="isomer-card-description">Assistant Chief Executive, Biomedical Research Council, Agency for Science,
 Technology and Research</div>
 </div>

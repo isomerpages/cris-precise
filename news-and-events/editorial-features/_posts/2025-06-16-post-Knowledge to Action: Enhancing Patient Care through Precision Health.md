@@ -3,8 +3,9 @@ title: "Knowledge to Action: Enhancing Patient Care through Precision Health"
 permalink: /knowledge-to-action-enhancing-patient-care-through-precision-health/
 date: 2025-06-16
 layout: post
-description: ""
-image: ""
+description: "Knowledge to Action: Enhancing Patient Care through Precision Health"
+image: /images/Resources/Editorial
+  Features/2025/PRECISE_NUS_Masters_course_revised.jpg
 variant: tiptap
 ---
 <p></p>
