@@ -119,8 +119,15 @@ answer each time—in keeping with society’s needs and the changing environmen
 After all, we are just starting out on our journey to advance precision
 medicine and improve health in the U.S.—and hopefully, even beyond our
 borders,” Dr Ginsburg concluded.</p>
-<p>
-<br>
-</p>
-<hr>
 <p></p>
+<hr>
+<p>[1] <a rel="noopener noreferrer nofollow" target="_blank">https://www.researchallofus.org/data-tools/data-snapshots/</a>
+</p>
+<p>[2] <a rel="noopener noreferrer nofollow" target="_blank">https://support.researchallofus.org/hc/en-us/articles/30294451486356-Curated-Data-Repository-CDR-version-8-Release-Notes</a>
+</p>
+<p>[3] <a rel="noopener noreferrer nofollow" target="_blank">https://allofus.nih.gov/article/announcement-all-us-releases-new-cognitive-and-behavioral-health-data</a>
+</p>
+<p>[4] <a rel="noopener noreferrer nofollow" target="_blank">https://www.researchallofus.org/institutional-agreements/</a>
+</p>
+<p>[5] <a rel="noopener noreferrer nofollow" target="_blank">https://researchallofus.org/data-tools/workbench/</a>
+</p>
