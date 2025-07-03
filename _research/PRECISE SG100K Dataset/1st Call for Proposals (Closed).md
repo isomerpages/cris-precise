@@ -5,7 +5,7 @@ variant: tiptap
 description: 1st Call for Proposals (Closed)
 third_nav_title: PRECISE SG100K Dataset
 ---
-<h3><strong>1st Call for Proposals (Closed)</strong></h3>
+<h3><strong>Call for Proposals for the PRECISE-SG100K dataset</strong></h3>
 <p></p>
 <blockquote>
 <p>Thank you for your interest.
