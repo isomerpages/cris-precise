@@ -118,11 +118,16 @@ in Singapore.</p>
 will become broadly open to Singapore public academic and clinical researchers
 directly through the TRUST platform from 2027.</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Access by overseas researchers or industry partners will remain contingent
 on the application being led by a Singapore research team.</p>
-<p></p>
+</li>
+<li>
 <p>All applications that request use of linked electronic health records
 will be subject to additional review by TRUST.</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Early Access Mechanisms (2024 – 2026)</strong></h4>
 <p></p>
@@ -181,10 +186,8 @@ data access requests for PRECISE-SG100K resource that <u>do not</u> require
 linkage to electronic health records (EHR)* to ensure they are in line
 with the permitted use of the dataset and are intended for public good.</p>
 <p></p>
-<blockquote>
-<p>*Access to linked clinical data on TRUST will require additional approval
-by the <a href="https://healthsg-my.sharepoint.com/personal/shihwee_seow_precise_cris_sg/Documents/Documents/WORKING_FILE_CSOO/DATA_ACCESS_PRINCIPLES/trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a>.</p>
-</blockquote>
+<p><em>*Access to linked clinical data on TRUST will require additional approval by the TRUST DAC.</em>
+</p>
 <p></p>
 <p>&nbsp;The <u>PRECISE Business Development Team</u> reviews research proposals
 and data access requests with industry involvement or collaboration, in
