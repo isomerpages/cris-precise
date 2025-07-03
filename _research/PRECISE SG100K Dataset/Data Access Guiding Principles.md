@@ -260,5 +260,8 @@ to cover all scenarios and reserves the right to update them from-time-to-time.<
 <p>These guiding principles are not intended to cover all details related
 to data access. For questions or more information, please email the Secretariat
 for data access policy and operations at <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
-<p><strong><br></strong>
+<p></p>
+<hr>
+<p>You can download a copy of the PRECISE-SG100K Data Access Guiding Policies
+here: <a href="/files/PRECISE_SG100K_Data_Access_Guiding_Principles.pdf" rel="noopener nofollow" target="_blank">PRECISE-SG100K Data Access Guiding Principles</a><strong><br></strong>
 </p>
