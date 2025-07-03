@@ -4,6 +4,7 @@ collections:
     order:
       - Research Highlights.md
       - Clinical Implementation Pilots.md
+      - PRECISE SG100K Dataset/Data Access Guiding Principles.md
       - PRECISE SG100K Dataset/.keep
       - PRECISE SG100K Dataset/Flagship Projects.md
       - PRECISE SG100K Dataset/Driver Projects.md
