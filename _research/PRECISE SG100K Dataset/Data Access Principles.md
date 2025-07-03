@@ -5,6 +5,12 @@ variant: tiptap
 description: Data Access Principles
 third_nav_title: PRECISE SG100K Dataset
 ---
+<p><strong>Published Date: 04-Jul-2025</strong>
+</p>
+<blockquote>
+<p><em>NOTE: These guiding principles will be updated periodically as needed. Please check the website regularly for updates or contact the Secretariat at research@precise.cris.sg</em>
+</p>
+</blockquote>
 <h3><strong>Our Commitment to Responsible Data Sharing</strong></h3>
 <p>PRECISE and the SG100K investigators have jointly created the PRECISE-SG100K
 resource (dataset).</p>
