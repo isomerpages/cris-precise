@@ -5,28 +5,30 @@ variant: tiptap
 description: 1st Call for Proposals (Closed)
 third_nav_title: PRECISE SG100K Dataset
 ---
-<h3><strong>Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset</strong></h3>
+<h3><strong>1st Call for Proposals (Closed)</strong></h3>
 <p></p>
 <blockquote>
 <p>Thank you for your interest.
 <br>Please note that the call for proposals is now closed.</p>
 </blockquote>
-<h5><strong>INTRODUCTION</strong></h5>
-<p>Phase II of the National Precision Medicine (NPM) programme is progressing
-well and the PRECISE-SG100K Dataset is developing well.</p>
-<p>To date, &gt;80,000 participants have been recruited and whole genome
-sequencing for &gt;46,000 have been completed. PRECISE-SG100K is on track
-to make the first data freeze comprising data for 50,000 participants available
-to the Singapore public research community in Q2 2024. The second data
-freeze of all 100,000 participants is likely to be available in Q2 2025.</p>
-<p>In anticipation of the first data freeze, we are inviting researchers
-in Singapore to submit proposals for&nbsp;<strong>Driver Projects</strong>&nbsp;that
-make use of these unique data to advance scientific knowledge and clinical
-translation.</p>
+<p>PRECISE-SG100K initiated an open Call for Proposals in November 2023 inviting
+researchers in Singapore to submit proposals that utilise the rich PRECISE-SG100K
+resource and aim to advance scientific knowledge and enable clinical translation.</p>
+<p>As part of the call, <strong>28 Driver Projects</strong> were selected based
+on the scientific value, deliverables, project plan, and project team.</p>
+<p>The PRECISE-SG100K Scientific Committee went through a rigorous evaluation
+process to select <strong>8 Flagship Projects </strong>based on their alignment
+to the research strategy of the National Precision Medicine programme and
+their potential to generate insightful and impactful observations.</p>
+<p>These Flagship Projects will be showcased as key research outcomes of
+the National Precision Medicine programme and will work closely with the
+PRECISE-SG100K Scientific Committee and Data Science Team to establish
+Singapore as a leader in the field of Precision Medicine.</p>
 <p>Please refer to the list of selected Driver and Flagship Projects below:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Driver Projects</summary>
+<summary><strong>Driver Projects</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
 <colgroup>
@@ -468,12 +470,25 @@ of genetic and phenotypic data</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Flagship Projects</summary>
+<summary><strong>Flagship Projects</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
+<h5><strong>INTRODUCTION</strong></h5>
+<p>Phase II of the National Precision Medicine (NPM) programme is progressing
+well and the PRECISE-SG100K Dataset is developing well.</p>
+<p>To date, &gt;80,000 participants have been recruited and whole genome
+sequencing for &gt;46,000 have been completed. PRECISE-SG100K is on track
+to make the first data freeze comprising data for 50,000 participants available
+to the Singapore public research community in Q2 2024. The second data
+freeze of all 100,000 participants is likely to be available in Q2 2025.</p>
+<p>In anticipation of the first data freeze, we are inviting researchers
+in Singapore to submit proposals for&nbsp;<strong>Driver Projects</strong>&nbsp;that
+make use of these unique data to advance scientific knowledge and clinical
+translation.</p>
 <p>Approved Driver Projects will get priority access to the de-identified
 clinical, phenotypic, and genomic data of the 100,000 participants in the
 SG100K study. They will also get support from PRECISE-SG100K Scientific
