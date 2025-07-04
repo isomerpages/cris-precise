@@ -47,7 +47,7 @@ sections:
         - title: Data Access
           description: ""
           linktext: More
-          url: https://npm.a-star.edu.sg/
+          url: https://npm.sg/data-access-principles/
   - infopic:
       title: Discoveries from mapping 10,000 genomes
       description: Two genetic studies involving 10,000 Singaporeans identify
