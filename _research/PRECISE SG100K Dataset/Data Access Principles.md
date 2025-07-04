@@ -268,6 +268,6 @@ to data access. For questions or more information, please email the Secretariat
 for data access policy and operations at <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
 <hr>
-<p>You can download a copy of the PRECISE-SG100K Data Access Guiding Policies
-here: <a href="/files/PRECISE_SG100K_Data_Access_Guiding_Principles.pdf" rel="noopener nofollow" target="_blank">PRECISE-SG100K Data Access Guiding Principles</a><strong><br></strong>
+<p>You can download a copy of the PRECISE-SG100K Data Access Principles here:
+<a href="/files/PRECISE_SG100K_Data_Access_Guiding_Principles.pdf" rel="noopener nofollow" target="_blank">PRECISE-SG100K Data Access Principles</a><strong><br></strong>
 </p>
