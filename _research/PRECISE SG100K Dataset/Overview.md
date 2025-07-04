@@ -11,4 +11,8 @@ third_nav_title: PRECISE SG100K Dataset
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Overview of PRECISE-SG100K Resource" src="/images/Research/Call for Proposals/Overview_of_PRECISE_SG100K_Resource.png">
 </div>
+<p>Click <strong><a href="/files/Overview_of_PRECISE_SG100k_Resource.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+more details of the PRECISE-SG100K Resource.</p>
+<p></p>
+<p></p>
 <p></p>
