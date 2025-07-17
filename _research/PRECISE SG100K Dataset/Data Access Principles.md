@@ -80,7 +80,7 @@ and appropriate research projects. This will be done in a manner that safeguards
 participant privacy, benefits Singapore, while upholding our ethical obligations,
 requirements of data guardians, and our commitments to funders and existing
 academic and industry collaborators.&nbsp;</p>
-<h4><strong>Short-term</strong></h4>
+<h4><strong><u>Short-term</u></strong></h4>
 <p>As the PRECISE-SG100K resource is being generated and curated, we are
 facilitating early data access for:</p>
 <ul data-tight="true" class="tight">
@@ -112,7 +112,7 @@ established to strengthen precision medicine research capacity and capability
 in Singapore.</p>
 </li>
 </ul>
-<h4><strong>Mid-term</strong></h4>
+<h4><strong><u>Mid-term</u></strong></h4>
 <p>We anticipate that the PRECISE-SG100K dataset will become broadly open
 to Singapore public academic and clinical researchers directly through
 the TRUST platform from 2027.</p>
@@ -120,7 +120,7 @@ the TRUST platform from 2027.</p>
 on the application being led by a Singapore research team.</p>
 <p>All applications that request use of linked electronic health records
 will be subject to additional review by <a href="https://healthsg-my.sharepoint.com/personal/shihwee_seow_precise_cris_sg/Documents/Documents/WORKING_FILE_CSOO/DATA_ACCESS_PRINCIPLES/trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a>.</p>
-<h4><strong>Early Access Mechanisms (2024 – 2026)</strong></h4>
+<h3><strong>Early Access Mechanisms (2024 – 2026)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Access by public researchers in Singapore</u></strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -128,7 +128,6 @@ PRECISE-SG100K will launch a 2<sup>nd</sup> Call for Proposals in first
 half of 2026 to provide early access to the PRECISE-SG100K resource of
 100,000 participants dataset. This 2<sup>nd</sup> Call for Proposals is
 open only to Singapore public academic and clinical researchers.</p>
-<p>&nbsp;</p>
 <p>Please check the <a href="http://www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">PRECISE website</a> and newsletters regularly for
 updates on the 2<sup>nd</sup> Call for Proposals. Until then, PRECISE-SG100K
 is not actively accepting new research proposals.</p>
@@ -142,10 +141,8 @@ for review.</p>
 <p></p>
 <p><strong>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</strong>
 </p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p><strong><u>Requests involving overseas collaborators or industry partners</u></strong>:
 During the early access period (2024 – 2026), research proposals and data
@@ -255,6 +252,9 @@ to cover all scenarios and reserves the right to update them from-time-to-time.<
 to data access. For questions or more information, please email the Secretariat
 for data access policy and operations at <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Data Access Framework" src="/images/Research/Call for Proposals/Data_Access_Governance_Flowchart__1_.png">
+</div>
 <hr>
 <p>You can download a copy of the PRECISE-SG100K Data Access Principles here:
 <a href="/files/PRECISE_SG100K_Data_Access_Guiding_Principles.pdf" rel="noopener nofollow" target="_blank">PRECISE-SG100K Data Access Principles</a><strong><br></strong>
