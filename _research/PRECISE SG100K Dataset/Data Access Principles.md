@@ -98,11 +98,10 @@ period of priority to pursue research on these chronic conditions.</p>
 <p><strong>Call for Proposals.</strong> To enable research across a wide range
 of use cases beyond cardiovascular disease and diabetes, early access to
 the intermediate data release of 50,000 participants by Singapore public
-academic and clinical researchers was enabled through an open <a href="https://www.npm.sg/research/call-for-proposals/" rel="noopener nofollow" target="_blank">Call for Proposals</a> (application
+academic and clinical researchers was enabled through an open <a href="https://npm.sg/research/call-for-proposals/" rel="noopener nofollow" target="_blank">Call for Proposals</a> (application
 closed in January 2024). The PRECISE-SG100K Scientific Committee selected
-36 projects, comprising 8 <a href="https://www.npm.sg/flagship-projects/" rel="noopener nofollow" target="_blank">Flagship Projects</a> and
-28 <a href="https://www.npm.sg/driver-projects/" rel="noopener nofollow" target="_blank">Driver Projects</a>.
-Please refer to <strong>url </strong>for more details.</p>
+36 projects, comprising 8 Flagship Projects and 28 Driver Projects. Please
+refer to <strong>url </strong>for more details.</p>
 <p></p>
 </li>
 <li>
@@ -200,12 +199,12 @@ and collaboration enquiries. Please contact <a rel="noopener noreferrer nofollow
 </li>
 </ul>
 <h3><strong>Matters Pertaining to Publication Policy and Intellectual Property</strong></h3>
-<p>&nbsp;All publications arising from the current early access route must
-be reviewed by the PRECISE-SG100K Data Access Committee and PRECISE-SG100K
-Scientific Committee prior to submission to confirm that the data use and
-publication objectives are within the scope of the approved data request.
-Projects involving use of TRUST Data will also require pre-publication
-review by TRUST.</p>
+<p>All publications arising from the current early access route must be reviewed
+by the PRECISE-SG100K Data Access Committee and PRECISE-SG100K Scientific
+Committee prior to submission to confirm that the data use and publication
+objectives are within the scope of the approved data request. Projects
+involving use of TRUST data will also require pre-publication review by
+TRUST.</p>
 <p>Researchers shall follow the authorship and acknowledgement instructions
 listed in the Data Access Agreement.</p>
 <p>PRECISE-SG100K will not claim rights to inventions and associated Intellectual
