@@ -237,7 +237,8 @@ applicants should approach the individual cohorts directly.</p>
 <p>Similarly, access to other SG100K cohort resources, including various
 additional datasets, generation of new phenotypic information and participant
 recontact, is under the purview of the individual SG100K cohorts.</p>
-<p>Guidance on contacting the SG100K cohorts, can be obtained from: <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+<p>Please contact <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a> for
+more information.</p>
 <p>While PRECISE-SG100K does not currently support linkages to other cohorts
 or datasets, we welcome suggestions for future data linkage opportunities.</p>
 <p>Additional research phenotype or molecular data will be generated with
@@ -251,11 +252,11 @@ to cover all scenarios and reserves the right to update them from-time-to-time.<
 to data access. For questions or more information, please email the Secretariat
 for data access policy and operations at <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
-<h4><em>PRECISE-SG100K Data Access Governance process</em></h4>
+<h3><strong>PRECISE-SG100K Data Access Governance process</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Research/Call for Proposals/Data_Access_Governance_Flowchart.png">
 </div>
 <p></p>
-<p>You can download a copy of the PRECISE-SG100K Data Access Principles here:
-<a href="/files/PRECISE_SG100K_Data_Access_Guiding_Principles_v1.pdf" rel="noopener nofollow" target="_blank">PRECISE-SG100K Data Access Principles</a> <strong><br></strong>
+<p>You can download a copy of the PRECISE-SG100K Data Access Principles
+<a href="/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong>
 </p>
