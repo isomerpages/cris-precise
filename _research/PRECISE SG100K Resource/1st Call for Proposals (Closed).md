@@ -1,16 +1,38 @@
 ---
-title: Proposal submissions (closed)
+title: 1st Call for Proposals (Closed)
 permalink: /research/call-for-proposals/
 variant: tiptap
-description: ""
-third_nav_title: PRECISE SG100K Dataset
+description: 1st Call for Proposals (Closed)
+third_nav_title: PRECISE SG100K Resource
 ---
-<h3><strong>Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset</strong></h3>
+<h3><strong>Call for Proposals for the PRECISE-SG100K dataset</strong></h3>
 <p></p>
 <blockquote>
 <p>Thank you for your interest.
 <br>Please note that the call for proposals is now closed.</p>
 </blockquote>
+<p>PRECISE-SG100K initiated an open Call for Proposals in November 2023 inviting
+researchers in Singapore to submit proposals that utilise the rich PRECISE-SG100K
+resource and aim to advance scientific knowledge and enable clinical translation.</p>
+<p>As part of the call, <strong>28 Driver Projects</strong> were selected based
+on the scientific value, deliverables, project plan, and project team.</p>
+<p>The PRECISE-SG100K Scientific Committee went through a rigorous evaluation
+process to select <strong>8 Flagship Projects </strong>based on their alignment
+to the research strategy of the National Precision Medicine programme and
+their potential to generate insightful and impactful observations.</p>
+<p>These Flagship Projects will be showcased as key research outcomes of
+the National Precision Medicine programme and will work closely with the
+PRECISE-SG100K Scientific Committee and Data Science Team to establish
+Singapore as a leader in the field of Precision Medicine.</p>
+<p>Please refer to the list of selected Driver and Flagship Projects here:
+<a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects.pdf" rel="noopener nofollow" target="_blank">PRECISE-SG100K Flagship and Driver Projects</a>
+</p>
+<hr>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1st Call for Proposals (Closed)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h5><strong>INTRODUCTION</strong></h5>
 <p>Phase II of the National Precision Medicine (NPM) programme is progressing
 well and the PRECISE-SG100K Dataset is developing well.</p>
@@ -180,7 +202,8 @@ PRECISE-SG100K researchers not included in the primary author list</p>
 <li>
 <p>Acknowledgements: The manuscript MUST include an approved PRECISE-SG100K
 acknowledgement text. Please check with PRECISE Programme Managers at
-<a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>for the approved text.</p>
+<a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u>research@precise.cris.sg</u>
+</a>for the approved text.</p>
 </li>
 <li>
 <p>All manuscripts MUST be shared with and approved by the PRECISE-SG100K
@@ -228,6 +251,7 @@ DAC (if only research phenotype and/or genomic data are requested).</p>
 </li>
 </ol>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Call for Proposals/Call_for_Proposals_table_v2.png">
 </div>
@@ -246,7 +270,8 @@ the public and private sectors.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Timelines</p>
+<p><strong>Timelines</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -289,8 +314,8 @@ the public and private sectors.</p>
 </table>
 <p><em>*The schedule may be subject to change</em>
 </p>
-<p>Please submit completed application forms to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a> by 31
-Jan 2024. Late or incomplete application forms will not be entertained.</p>
+<p>Please submit completed application forms to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u>research@precise.cris.sg</u></a> by
+31 Jan 2024. Late or incomplete application forms will not be entertained.</p>
 <h5><strong>PRECISE-SG100K SCIENTIFIC COMMITTEE MEMBERS</strong></h5>
 <p>Below are the details of the PRECISE-SG100K Scientific Committee.</p>
 <table style="minWidth: 75px">
@@ -302,13 +327,16 @@ Jan 2024. Late or incomplete application forms will not be entertained.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>S/N</p>
+<p><strong>S/N</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Member Name</p>
+<p><strong>Member Name</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
+<p><strong>Designation</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -401,17 +429,17 @@ Jan 2024. Late or incomplete application forms will not be entertained.</p>
 </tr>
 </tbody>
 </table>
-<p>Please direct all enquiries to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+<p>Please direct all enquiries to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u>research@precise.cris.sg</u></a>.</p>
 <h5><strong>RESOURCES</strong></h5>
 <p><strong>Dataset</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://for.sg/sg100k-datadictionary" rel="noopener noreferrer nofollow" target="_blank">Data Dictionary</a>
+<p><a href="https://for.sg/sg100k-datadictionary" rel="noopener noreferrer nofollow" target="_blank"><u>Data Dictionary</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://for.sg/sg100k-sample-evaluation-dataset" rel="noopener noreferrer nofollow" target="_blank">Sample Evaluation Dataset</a>
+<p><a href="https://for.sg/sg100k-sample-evaluation-dataset" rel="noopener noreferrer nofollow" target="_blank"><u>Sample Evaluation Dataset</u></a>
 </p>
 </li>
 </ul>
@@ -419,11 +447,11 @@ Jan 2024. Late or incomplete application forms will not be entertained.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://file.for.sg/sg100k-cfp.pdf" rel="noopener noreferrer nofollow" target="_blank">Slide deck shared during the meeting</a>
+<p><a href="https://file.for.sg/sg100k-cfp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Slide deck shared during the meeting</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://youtu.be/S_nqxQB7siw" rel="noopener noreferrer nofollow" target="_blank">Video recording of the meeting</a>
+<p><a href="https://youtu.be/S_nqxQB7siw" rel="noopener noreferrer nofollow" target="_blank"><u>Video recording of the meeting</u></a>
 </p>
 </li>
 </ul>
@@ -431,7 +459,7 @@ Jan 2024. Late or incomplete application forms will not be entertained.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click <a href="https://for.sg/sg100k-application" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Click <a href="https://for.sg/sg100k-application" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 the application form</p>
 </li>
 </ul>
@@ -439,8 +467,8 @@ the application form</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>TRUST documents (please request them from <a href="https://trustplatform.sg/" rel="noopener noreferrer nofollow" target="_blank">TRUST</a> directly after registering as
-a TRUST member)
+<p>TRUST documents (please request them from <a href="https://trustplatform.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>TRUST</u></a> directly after registering
+as a TRUST member)
 <br>a. TRUST Member Full Instruction Guide
 <br>b. TRUST Data Request Form</p>
 </li>
@@ -449,12 +477,16 @@ a TRUST member)
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click&nbsp;<a href="https://for.sg/sg100k-faqs" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>Click&nbsp;<a href="https://for.sg/sg100k-faqs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
 the FAQs</p>
 </li>
 </ul>
-<p><strong>Downloadable version of the website information on the Call for Proposals available&nbsp;<a href="https://for.sg/sg100k-cfp-info" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+<p><strong>Downloadable version of the website information on the Call for Proposals available&nbsp;<a href="https://for.sg/sg100k-cfp-info" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</strong>
 </p>
+</div>
+</details>
+</div>
+<h5></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banners_page%20footer%202%20-%20purple.png">
 </div>
