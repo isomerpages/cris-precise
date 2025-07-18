@@ -80,7 +80,7 @@ and appropriate research projects. This will be done in a manner that safeguards
 participant privacy, benefits Singapore, while upholding our ethical obligations,
 requirements of data guardians, and our commitments to funders and existing
 academic and industry collaborators.&nbsp;</p>
-<h4><strong><u>Short-term</u></strong></h4>
+<h4><strong><u>Near-term</u></strong></h4>
 <p>As the PRECISE-SG100K resource is being generated and curated, we are
 facilitating early data access for:</p>
 <ul data-tight="true" class="tight">
@@ -100,8 +100,7 @@ of use cases beyond cardiovascular disease and diabetes, early access to
 the intermediate data release of 50,000 participants by Singapore public
 academic and clinical researchers was enabled through an open <a href="https://npm.sg/research/call-for-proposals/" rel="noopener nofollow" target="_blank">Call for Proposals</a> (application
 closed in January 2024). The PRECISE-SG100K Scientific Committee selected
-36 projects, comprising 8 Flagship Projects and 28 Driver Projects. Please
-refer to <strong>url </strong>for more details.</p>
+36 projects, comprising 8 Flagship Projects and 28 Driver Projects.</p>
 <p></p>
 </li>
 <li>
