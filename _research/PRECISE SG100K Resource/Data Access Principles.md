@@ -117,7 +117,7 @@ the TRUST platform from 2027.</p>
 <p>Access by overseas researchers or industry partners will remain contingent
 on the application being led by a Singapore research team.</p>
 <p>All applications that request use of linked electronic health records
-will be subject to additional review by <a href="https://healthsg-my.sharepoint.com/personal/shihwee_seow_precise_cris_sg/Documents/Documents/WORKING_FILE_CSOO/DATA_ACCESS_PRINCIPLES/trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a>.</p>
+will be subject to additional review by <a href="https://trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a>.</p>
 <h3><strong>Early Access Mechanisms (2024 – 2026)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -177,7 +177,7 @@ data access requests to the PRECISE-SG100K resource that <u>do not</u> require
 linkage to electronic health records (EHR)* to ensure they are in line
 with the permitted use of the dataset and are intended for public good.</p>
 <p></p>
-<p>*<em>Access to linked EHR data on TRUST will require additional approval by the <a href="https://healthsg-my.sharepoint.com/personal/shihwee_seow_precise_cris_sg/Documents/Documents/WORKING_FILE_CSOO/DATA_ACCESS_PRINCIPLES/trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a> which assess the projects based on public interest and benefit to Singapore.</em>
+<p>*<em>Access to linked EHR data on TRUST will require additional approval by the <a href="https://trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a> which assess the projects based on public interest and benefit to Singapore.</em>
 </p>
 <p></p>
 </li>
