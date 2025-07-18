@@ -137,8 +137,7 @@ recognises that research proposals and data access requests from strategic
 national programmes will arise periodically. We welcome these requests
 for review.</p>
 <p></p>
-<p><strong>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</strong>
-</p>
+<p>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
 </li>
 <li>
@@ -149,8 +148,7 @@ reviewed by PRECISE-SG100K on a case-by-case basis, with the expectation
 that the overseas collaborator or industry partner must demonstrate return
 of tangible benefits to Singapore.</p>
 <p></p>
-<p><strong>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</strong>
-</p>
+<p>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 </li>
 </ul>
 <h3><strong>Data Access Governance</strong></h3>
