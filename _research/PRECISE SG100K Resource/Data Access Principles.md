@@ -176,11 +176,11 @@ cohort’s research on cardiovascular disease and diabetes.</p>
 data access requests to the PRECISE-SG100K resource that <u>do not</u> require
 linkage to electronic health records (EHR)* to ensure they are in line
 with the permitted use of the dataset and are intended for public good.</p>
-</li>
-</ul>
+<p></p>
 <p>*<em>Access to linked EHR data on TRUST will require additional approval by the <a href="https://healthsg-my.sharepoint.com/personal/shihwee_seow_precise_cris_sg/Documents/Documents/WORKING_FILE_CSOO/DATA_ACCESS_PRINCIPLES/trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a> which assess the projects based on public interest and benefit to Singapore.</em>
 </p>
-<ul data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p>The <u>PRECISE Business Development Team</u> reviews research proposals
 and data access requests with industry involvement or collaboration, in
