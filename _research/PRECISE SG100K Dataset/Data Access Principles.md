@@ -123,11 +123,11 @@ will be subject to additional review by <a href="https://healthsg-my.sharepoint.
 <h3><strong>Early Access Mechanisms (2024 – 2026)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>Access by public researchers in Singapore</u></strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-PRECISE-SG100K will launch a 2<sup>nd</sup> Call for Proposals in first
-half of 2026 to provide early access to the PRECISE-SG100K resource of
-100,000 participants dataset. This 2<sup>nd</sup> Call for Proposals is
-open only to Singapore public academic and clinical researchers.</p>
+<p><strong><u>Access by public researchers in Singapore</u></strong>: PRECISE-SG100K
+will launch a 2<sup>nd</sup> Call for Proposals in first half of 2026 to
+provide early access to the PRECISE-SG100K resource of 100,000 participants
+dataset. This 2<sup>nd</sup> Call for Proposals is open only to Singapore
+public academic and clinical researchers.</p>
 <p>Please check the <a href="http://www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">PRECISE website</a> and newsletters regularly for
 updates on the 2<sup>nd</sup> Call for Proposals. Until then, PRECISE-SG100K
 is not actively accepting new research proposals.</p>
