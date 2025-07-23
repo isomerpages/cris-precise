@@ -3,10 +3,11 @@ title: Professor Patrick Tan
 permalink: /bio/management-team/patrick-tan/
 description: ""
 third_nav_title: Management Team
+variant: markdown
 ---
 <img src="/images/Bio/Management%20Team/professor%20patrick%20tan.jpg" align="center" style="width:200px">
 
-**Prof. Patrick Tan** is the Executive Director of PRECISE. As Executive Director of PRECISE, Prof Tan will oversee the implementation of Phase II of Singapore’s Precision Medicine Strategy, which aims to transform healthcare in Singapore and improve patient outcomes through new insights into the Asian genome and data-driven healthcare solutions.
+**Prof. Patrick Tan** is the Executive Director of PRECISE. As Executive Director of PRECISE, Prof Tan will oversee the implementation of Phase II and Phase III of Singapore’s Precision Medicine Strategy, which aims to transform healthcare in Singapore and improve patient outcomes through new insights into the Asian genome and data-driven healthcare solutions.
 
 During the 2020 COVID-19 pandemic, he was Program Director of Operation Stronghold, establishing one of Singapore’s largest COVID-19 testing facilities through a joint effort involving A\*STAR (Agency for Science, Technology and Research), National University Health System, and Temasek Holdings.
 
