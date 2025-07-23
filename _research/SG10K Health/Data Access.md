@@ -5,15 +5,11 @@ variant: tiptap
 description: SG10K_Health Data Access
 third_nav_title: SG10K Health
 ---
-<h4><strong>Overview</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SG10K_Health" src="/images/Research/sg10khealth.jpg">
-</div>
 <h4><strong>SG10K_Health Portal</strong></h4>
 <p>Various web services have been established to query the SG10K_Health datasets,
 including allele frequencies, protein-drug interactions, imputation and
 polygenic risk scores.&nbsp;The web services can be accessed through the
-SG10K_Health web portal at:&nbsp;<a href="https://npm.a-star.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://npm.a-star.edu.sg</a> 
+SG10K_Health web portal at:&nbsp;<a href="https://npm.a-star.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://npm.a-star.edu.sg</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
