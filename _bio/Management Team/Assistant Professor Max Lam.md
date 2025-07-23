@@ -8,7 +8,7 @@ third_nav_title: Management Team
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="Assistant Professor Max Lam" src="/images/Bio/Management Team/Leadership_600x400_Max_Lam_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Assistant Professor Max Lam" src="/images/Bio/Management Team/Leadership_600x400_Max_Lam_.jpg">
 </div>
 <p>Asst Prof Max Lam is Chief Technology Officer of PRECISE, the central
 entity established to implement Phase II and Phase III of Singapore's National
