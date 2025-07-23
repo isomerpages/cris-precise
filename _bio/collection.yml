@@ -2,10 +2,10 @@ collections:
   bio:
     output: true
     order:
-      - Management Team/Assistant Professor Max Lam.md
-      - Management Team/Clinical Associate Professor Tan Ee Shien.md
       - Management Team/.keep
       - Management Team/Professor Patrick Tan.md
       - Management Team/Professor Tai E Shyong.md
       - Management Team/Professor John Chambers.md
+      - Management Team/Clinical Associate Professor Tan Ee Shien.md
+      - Management Team/Assistant Professor Max Lam.md
       - Management Team/Dr Seow Shih Wee.md
