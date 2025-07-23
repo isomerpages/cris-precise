@@ -8,7 +8,7 @@ third_nav_title: Management Team
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Clinical Associate Professor Tan Ee Shien" src="/images/Bio/Management Team/Leadership_600x400_Tan_Ee_Shien_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Clinical Associate Professor Tan Ee Shien" src="/images/Bio/Management Team/Leadership_600x400_Tan_Ee_Shien_.jpg">
 </div>
 <p><strong>Clinical A/Prof Tan Ee Shien</strong> is Chief Innovation Officer
 (CIO) of PRECISE. She is the Head of the clinical genetics service in KK
