@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SG10K Health/.keep
-      - SG10K Health.md
       - PRECISE SG100K Resource/Overview.md
       - PRECISE SG100K Resource/.keep
       - PRECISE SG100K Resource/Data Access Principles.md
