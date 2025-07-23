@@ -9,13 +9,14 @@ variant: tiptap
 <img style="width:200px" height="auto" width="100%" src="/images/Bio/Management%20Team/professor%20john%20chambers.jpg">
 </div>
 <p><strong>Professor John Chambers</strong> is Chief Scientific Officer (CSO)
-of PRECISE, the central entity established to implement Phase II of Singapore’s
-National Precision Medicine strategy. Prof Chambers is the lead investigator
-of the PRECISE-SG100K population cohort study, a multi-institutional effort
-that aims to study the genetic makeup of 100,000 healthy Singaporeans and
-specific disease cohorts. The genetic data will be integrated with detailed
-lifestyle, environmental, and clinical data to yield rich insights into
-factors that contribute to Asian diseases and conditions.</p>
+of PRECISE, the central entity established to implement Phase II and Phase
+III of Singapore’s National Precision Medicine strategy. Prof Chambers
+is the lead investigator of the PRECISE-SG100K population cohort study,
+a multi-institutional effort that aims to study the genetic makeup of 100,000
+healthy Singaporeans and specific disease cohorts. The genetic data will
+be integrated with detailed lifestyle, environmental, and clinical data
+to yield rich insights into factors that contribute to Asian diseases and
+conditions.</p>
 <p>Prof Chambers’ own research focuses on identification of mechanisms underlying
 the high rate of cardiovascular disease and diabetes in Asian populations
 and translational research to improve prevention and control of these major
