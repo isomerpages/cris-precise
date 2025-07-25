@@ -19,23 +19,5 @@ SG10K_Health is the headline project of the Singapore National Precision Medicin
 	</tbody>
 </table>
 			
-**SG10K_Health Portal**  
-Various web services have been established to query the SG10K_Health datasets, including allele frequencies, protein-drug interactions, imputation and polygenic risk scores.&nbsp;**The web services can be accessed through the SG10K_Health web portal at:&nbsp;[https://npm.a-star.edu.sg](https://npm.a-star.edu.sg/)**
-
-*   CHORUS Variant Browser
-*   CHORUS Beacon
-*   SNPdrug3D
-*   Imputation
-*   Polygenic Risk Score
-
-**Data Access**  
-The National Precision Medicine Data Access Committee (NPM DAC) has been established to oversee access to the SG10K_Health datasets to ensure:
-
-*   Data is used appropriately according to NPM terms and conditions, including adherence to informed consent forms and ethical approvals for the data in question.
-*   Data users are qualified investigators embedded within a recognised research-intensive organisation.
-
-Interested applicants are highly recommended to read through the data access policies and data access forms via the the [SG10K_Health portal.](https://npm.a-star.edu.sg/help/)
-
-For more information on the list of approved studies, please visit&nbsp;[https://npm.a-star.edu.sg/help](https://npm.a-star.edu.sg/help)
 
 ![](/images/Banners/banners_page%20footer%203%20-%20grey.png)
