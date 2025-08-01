@@ -10,7 +10,7 @@ third_nav_title: Leadership
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Ai Ling Sim-Devadas" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Ai Ling Sim-Devadas" src="/images/Bio/PPI Advisory Panel/Ai_Ling_Sim_Devadas_1x1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ Medicine, Nanyang Technological University, Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chew Kim Soon" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chew Kim Soon" src="/images/Bio/PPI Advisory Panel/Chew_Kim_Soon_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -33,7 +33,7 @@ Medicine, Nanyang Technological University, Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Cheung Siew Li" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Cheung Siew Li" src="/images/Bio/PPI Advisory Panel/Cheung_Siew_Li_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -44,7 +44,7 @@ Medicine, Nanyang Technological University, Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Fiona Pearce" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Fiona Pearce" src="/images/Bio/PPI Advisory Panel/Fiona_Pearce_1x1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -56,7 +56,7 @@ Education, Agency for Care Effectiveness (ACE), MOH</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Rajakanth R" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Rajakanth R" src="/images/Bio/PPI Advisory Panel/Raj.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
