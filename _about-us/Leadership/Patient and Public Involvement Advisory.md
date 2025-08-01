@@ -56,7 +56,7 @@ Education, Agency for Care Effectiveness (ACE), MOH</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Rajakanth R" src="/images/Bio/PPI Advisory Panel/Raj.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Rajakanth R" src="/images/Bio/PPI Advisory Panel/Raj_1x1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
