@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Board Oversight Committee/Ms Goh Wan Yee.md
       - Board Oversight Committee/Dr Goh Khean Teik.md
       - Board Oversight Committee/Prof Ivy Ng.md
       - Board Oversight Committee/Mr Peter Ho.md
