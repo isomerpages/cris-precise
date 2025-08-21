@@ -81,4 +81,4 @@ Phase II of Singapore’s National Precision Medicine Programme.</p>
 University (NTU); Singapore Population Health Studies (SPHS), National
 University of Singapore (NUS); Singapore Eye Research Institute (SERI)
 – Singapore Epidemiology of Eye Diseases (SEED); National Heart Centre
-Singapore (NHCS) – SingH</p>
+Singapore (NHCS) – SingHeart</p>
