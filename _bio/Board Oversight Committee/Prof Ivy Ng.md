@@ -10,12 +10,12 @@ third_nav_title: Board Oversight Committee
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Prof Ivy Ng" src="/images/Bio/Board Oversight Committee/Prof_Ivy_Ng_600x400.jpg">
 </div>
-<p>Professor Ivy Ng is Senior Advisor, SingHealth Board. From 2012 to 2024,
-she was Group Chief Executive Officer, SingHealth, Singapore’s largest
-public healthcare group, comprising 3 Acute Hospitals, 1 Specialist Hospital,
-5 National Specialty Centres (Cancer, Eye, Neurosciences, Dental and Heart),
-2 Community Hospitals, 9 polyclinics, and the upcoming Eastern General
-Hospital.&nbsp;</p>
+<p><strong>Professor Ivy Ng</strong> is Senior Advisor, SingHealth Board.
+From 2012 to 2024, she was Group Chief Executive Officer, SingHealth, Singapore’s
+largest public healthcare group, comprising 3 Acute Hospitals, 1 Specialist
+Hospital, 5 National Specialty Centres (Cancer, Eye, Neurosciences, Dental
+and Heart), 2 Community Hospitals, 9 polyclinics, and the upcoming Eastern
+General Hospital.&nbsp;</p>
 <p>She was inducted into the Singapore Women’s Hall of Fame in 2025 by Singapore
 Council of Women’s Organisations (SCWO). She has been conferred the National
 Day Award Public Administration Medal (Gold)(Bar) 2024, President’s Science
