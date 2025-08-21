@@ -27,7 +27,7 @@ population bottlenecks—severe reductions in population size due to incidents
 such as conflict, disease, famines and natural disasters. In addition,
 Finland’s relatively isolated location meant that there was limited migration—contributing
 to a genetically homogenous population. Put together—these qualities make
-the Finnish population uniquely suitable for genetic study.<sup>1</sup>&nbsp;</p>
+the Finnish population uniquely suitable for genetic study.&nbsp;</p>
 <p></p>
 <p>As Professor Aarno Palotie, FinnGen’s Scientific Director, explained,
 “Our small founder population has resulted in enriched genetic variants—some
