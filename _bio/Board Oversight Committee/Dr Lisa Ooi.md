@@ -10,14 +10,14 @@ third_nav_title: Board Oversight Committee
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Dr Lisa Ooi" src="/images/Bio/Board Oversight Committee/Dr_Lisa_Ooi_600x400.jpg">
 </div>
-<p>Dr Lisa Ooi is currently the Assistant Chief Executive of the A*STAR's
-Biomedical Research Council (BMRC). She drives the implementation of A*STAR's
-strategies and initiatives in the biomedical domains to create industry
-and societal impact, and to build long-term R&amp;D capabilities for Singapore.
-Spanning nine research institutes, the mission-directed biomedical R&amp;D
-portfolio she oversees leverages core research areas such as bioprocessing,
-genomics, proteomics, molecular and cell biology, bioengineering, nanotechnology
-and computational biology.</p>
+<p><strong>Dr Lisa Ooi</strong> is currently the Assistant Chief Executive
+of the A*STAR's Biomedical Research Council (BMRC). She drives the implementation
+of A*STAR's strategies and initiatives in the biomedical domains to create
+industry and societal impact, and to build long-term R&amp;D capabilities
+for Singapore. Spanning nine research institutes, the mission-directed
+biomedical R&amp;D portfolio she oversees leverages core research areas
+such as bioprocessing, genomics, proteomics, molecular and cell biology,
+bioengineering, nanotechnology and computational biology.</p>
 <p>Dr Ooi was the Chief Operating Officer at Hummingbird Bioscience, where
 she oversaw the company's pipeline and portfolio, with a focus on the development
 and commercialisation of new therapies and building of differentiated technology
