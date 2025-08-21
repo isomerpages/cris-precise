@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - Board Oversight Committee/Mr Gregory Vijayendran.md
       - Board Oversight Committee/Dr Lisa Ooi.md
       - Board Oversight Committee/Ms Goh Wan Yee.md
       - Board Oversight Committee/Dr Goh Khean Teik.md
