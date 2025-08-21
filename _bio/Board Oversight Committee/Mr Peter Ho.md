@@ -10,8 +10,8 @@ third_nav_title: Board Oversight Committee
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Mr Peter Ho (Chairman)" src="/images/Bio/Board Oversight Committee/Leadership_600x400_Peter_Ho.png">
 </div>
-<p>Peter Ho is the Senior Advisor to the Centre for Strategic Futures and
-a Senior Fellow of the Civil Service College.</p>
+<p><strong>Mr Peter Ho</strong> is the Senior Advisor to the Centre for Strategic
+Futures and a Senior Fellow of the Civil Service College.</p>
 <p>He also serves as Chairman of the Social Science Research Council (SSRC),
 Chairman of the Campus for Research Excellence and Technological Enterprise
 (CREATE) Governing Council, Chairman of the Office for Space Technology
