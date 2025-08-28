@@ -96,7 +96,8 @@ that men with these variants tended to drink less and had lower risks of
 developing conditions such as cardiovascular diseases or alcohol-related
 cancers. Consequently, they concluded that even one to two drinks a day
 could increase the risk for cardiovascular deaths by 15%, alcohol-related
-cancers by 12%, liver disease by 31%, and overall mortality by 7%<sup>4</sup>.&nbsp;&nbsp;</p>
+cancers by 12%, liver disease by 31%, and overall mortality by 7%.<a href="https://www.ckbiobank.org/news-1/alcohol-consumption-increases-the-risk-of-major-causes-of-death" rel="noopener nofollow" target="_blank"><sup>[4]</sup></a><sup>&nbsp;</sup>
+</p>
 <p></p>
 <p>Apart from showing the influence alcohol intake may have on the risk of
 health issues in populations around the world, “The study provided important
