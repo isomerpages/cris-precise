@@ -116,8 +116,9 @@ the ability to study proteins opens up new avenues for improving our understandi
 of disease etiology, and potentially changes the way we predict, diagnose,
 prevent and treat diseases.” Collaborations between Prof Chen and UK Biobank
 researchers have already identified many proteins that can be new therapeutic
-targets for ischaemic heart diseases<sup>6</sup> and used for predicting
-mortality<sup>7</sup> and disease risks.&nbsp;</p>
+targets for ischaemic heart diseases<a href="https://www.jacc.org/doi/abs/10.1016/j.jacc.2023.09.804" rel="noopener nofollow" target="_blank"><sup>[6]</sup></a> and
+used for predicting mortality<a href="https://www.nature.com/articles/s41591-024-03164-7" rel="noopener nofollow" target="_blank"><sup>[7]</sup></a> and
+disease risks.&nbsp;</p>
 <p></p>
 <p>Looking ahead, Prof Chen emphasises the importance of maintaining the
 cohort size for CKB to remain a valuable resource. “Around 100,000 of our
