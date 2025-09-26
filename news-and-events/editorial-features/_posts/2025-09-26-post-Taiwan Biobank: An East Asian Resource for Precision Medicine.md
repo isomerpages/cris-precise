@@ -74,15 +74,15 @@ data records helps remove a layer of uncertainty and supports our efforts
 to better understand psychiatric disorders.”</p>
 <h4><strong>Enabling Future Precision Medicine</strong></h4>
 <p>As of 2024, Taiwan Biobank data has been used in over 280 research projects
-and 300 publications, mostly by domestic researchers.<a href="https://globalgenomics.org/ihcc-cohort-spotlight-taiwan-biobank-twb/" rel="noopener nofollow" target="_blank"><sup>[4]</sup></a> Dr
-Lin said, “Existing polygenic risk scores—which estimate an individual’s
-genetic liability to disease—are typically developed from European datasets,
-and often do not translate well to non-European populations. In contrast,
-the Taiwan Biobank is uniquely designed to capture not only the health
-and genetic data of our population, but also environmental factors that
-may contribute to our polygenic risks. This makes it a valuable resource
-for researchers in Taiwan working to better understand genetic influences
-on disease within our population.”</p>
+and 300 publications, mostly by domestic researchers. Dr Lin said, “Existing
+polygenic risk scores—which estimate an individual’s genetic liability
+to disease—are typically developed from European datasets, and often do
+not translate well to non-European populations. In contrast, the Taiwan
+Biobank is uniquely designed to capture not only the health and genetic
+data of our population, but also environmental factors that may contribute
+to our polygenic risks. This makes it a valuable resource for researchers
+in Taiwan working to better understand genetic influences on disease within
+our population.”</p>
 <p>Work is also currently underway to establish a trusted research environment
 to enable international researchers to access biobank data, with the service
 targeted for launch in 2025. This is timely, as with its predominantly
