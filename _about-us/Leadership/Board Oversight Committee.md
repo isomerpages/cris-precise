@@ -18,7 +18,7 @@ variant: tiptap
 <div class="isomer-card-description">Senior Advisor, SingHealth Board</div>
 <div class="isomer-card-link">Bio</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://npm.sg/bio/board-oversight-committee/goh-khean-teik/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Bio/Board Oversight Committee/Dr_Goh_Khean_Teik_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Goh Khean Teik</div><div class="isomer-card-description">Group Director, Hospital Services Group, Ministry of Health</div><div class="isomer-card-link">Bio</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://npm.sg/bio/board-oversight-committee/goh-khean-teik/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Bio/Board Oversight Committee/Dr_Goh_Khean_Teik_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Goh Khean Teik</div><div class="isomer-card-description">Group Director, Health Services Group, Ministry of Health</div><div class="isomer-card-link">Bio</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://npm.sg/bio/board-oversight-committee/goh-wan-yee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
