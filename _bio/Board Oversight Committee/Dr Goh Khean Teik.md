@@ -11,7 +11,7 @@ third_nav_title: Board Oversight Committee
 <img style="width: 50%;" height="auto" width="100%" alt="Dr Goh Khean Teik" src="/images/Bio/Board Oversight Committee/Dr_Goh_Khean_Teik_600x400.jpg">
 </div>
 <p><strong>Dr Goh Khean Teik</strong> assumed the role of Group Director,
-Hospital Services Group, Ministry of Health Singapore (MOH) in September
+Health Services Group, Ministry of Health Singapore (MOH) in September
 2025, in addition to his appointment as the Director of the Hospital Services
 Division. The division is tasked with oversight of clinical services and
 polices in acute and community hospitals, capacity planning and management,
