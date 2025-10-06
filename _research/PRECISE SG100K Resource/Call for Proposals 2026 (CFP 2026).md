@@ -239,5 +239,14 @@ related to Call for Proposals 2026.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Evaluation_Criteria_CFP2026.png">
 </div>
-<p></p>
+<h4><strong>TIMELINES</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Timelines_CFP2026.png">
+</div>
+<p><em>*Timelines may be subject to change without prior information.</em>
+</p>
+<p><em>**Projects that do not submit to TRUST by December 2026 may be ended, to enable others to pursue similar work in CFP 2027.</em>
+</p>
+<p>Please submit completed CFP 2026 application forms to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>&nbsp;by
+14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
 <p></p>
