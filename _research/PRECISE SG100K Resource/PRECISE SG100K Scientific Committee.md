@@ -37,9 +37,4 @@ access, ensuring that research proposals demonstrate scientific merit,
 align with national priorities, and contribute meaningfully to advancing
 precision medicine. Through their expertise and guidance, the Committee
 helps foster a collaborative research environment that positions Singapore
-at the forefront of precision medicine research in Asia.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scientific_Committee_Members.png">
-</div>
-<p></p>
+at the forefront of precision medicine research in Asia</p>
