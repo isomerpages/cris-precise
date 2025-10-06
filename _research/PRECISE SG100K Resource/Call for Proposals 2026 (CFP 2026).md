@@ -197,8 +197,8 @@ PRECISE-SG100K researchers not included in the primary author list.</p>
 </li>
 <li>
 <p>Acknowledgements: The manuscript MUST include an approved PRECISE-SG100K
-acknowledgement text. Please check with PRECISE Programme Managers at
-<a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>for the approved text.</p>
+acknowledgement text. Please check with PRECISE Programme Managers for
+the approved text at <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 </li>
 <li>
 <p>All manuscripts <strong>MUST</strong> be shared with and approved by the
