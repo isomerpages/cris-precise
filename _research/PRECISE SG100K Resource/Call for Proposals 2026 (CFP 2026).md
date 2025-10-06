@@ -30,7 +30,9 @@ and conditions will continue to apply.</p>
 <h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource.png">
+</div>
 <p>* Comprehensive details about Clinical Data and other Health-related Data
 can be found on the TRUST1 website (https://trustplatform.sg) after registering
 as a TRUST member.</p>
@@ -51,7 +53,7 @@ University, National University of Singapore, SingHealth Institutions and
 A*STAR) through a controlled request process, in line with the existing
 data exclusivity arrangement. Summary Statistics will be available under
 these terms and conditions:</p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Each PI may request up to 20 specific traits with scientific justification,
 and requested traits must align with their approved research scope.</p>
@@ -64,7 +66,7 @@ case-by-case and subject to additional approval.</p>
 <p>Sharing of Summary Statistics with third parties and industry involvement
 is not permitted.</p>
 </li>
-</ul>
+</ol>
 <h4><strong>GUIDING PRINCIPLES FOR PROPOSAL</strong></h4>
 <p><strong>Scope for Proposals</strong>
 </p>
