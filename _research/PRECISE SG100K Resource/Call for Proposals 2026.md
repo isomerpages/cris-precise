@@ -5,28 +5,36 @@ variant: tiptap
 description: Call for Proposals 2026
 third_nav_title: PRECISE SG100K Resource
 ---
-<h3><strong>Call for Proposals for the PRECISE-SG100K dataset</strong></h3>
-<p></p>
-<blockquote>
-<p>Thank you for your interest.
-<br>Please note that the call for proposals is now closed.</p>
-</blockquote>
-<p>PRECISE-SG100K initiated an open Call for Proposals in November 2023 inviting
-researchers in Singapore to submit proposals that utilise the rich PRECISE-SG100K
-resource and aim to advance scientific knowledge and enable clinical translation.</p>
-<p>As part of the call, <strong>28 Driver Projects</strong> were selected based
-on the scientific value, deliverables, project plan, and project team.</p>
-<p>The PRECISE-SG100K Scientific Committee went through a rigorous evaluation
-process to select <strong>8 Flagship Projects </strong>based on their alignment
-to the research strategy of the National Precision Medicine programme and
-their potential to generate insightful and impactful observations.</p>
-<p>These Flagship Projects will be showcased as key research outcomes of
-the National Precision Medicine programme and will work closely with the
-PRECISE-SG100K Scientific Committee and Data Science Team to establish
-Singapore as a leader in the field of Precision Medicine.</p>
-<p>Please refer to the list of selected Driver and Flagship Projects here:
-<a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects.pdf" rel="noopener nofollow" target="_blank">PRECISE-SG100K Flagship and Driver Projects</a>
+<h3>Call for Proposals 2026 (CFP 2026)</h3>
+<p><strong>(Anticipated Call Launch: 2 January 2026. Check this page for updates)</strong>
 </p>
+<h4><strong>INTRODUCTION</strong></h4>
+<p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
+cohort dataset comprising ~100,000 Singaporean men and women. &nbsp;The
+resource provides an opportunity to advance precision medicine and related
+health research, in Singapore, Asia and the world.&nbsp;</p>
+<p>As part of our first open Call for Proposals in 2024 (CFP 2024), early
+access to the intermediate data release of 50,000 participants was enabled
+for Singapore public academic and clinical researchers. The PRECISE-SG100K
+Scientific Committee selected 36 projects, comprising 8 Flagship Projects
+and 28 Driver Projects (Details on the projects are available <strong><a href="https://www.npm.sg/files/PRECISE_SG100K_Flagship_and_Driver_Projects.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>).</p>
+<p>Building on the success of CFP 2024, and in anticipation of releasing
+baseline data for all ~100,000 participants, PRECISE-SG100K is planning
+a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite
+researchers in Singapore to submit proposals that make use of the unique
+PRECISE-SG100K dataset to advance scientific knowledge and clinical translation.</p>
+<p><strong>Important Update for Existing Projects:</strong> Current Flagship
+and Driver Projects approved under CFP 2024 will directly receive access
+to the PRECISE-SG100K baseline data release comprising all 100,000 participants.
+No additional application is required for the approved research scope.
+All existing terms and conditions will continue to apply.</p>
+<h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
+<p>All approved projects will have access to the standard PRECISE-SG100K
+Resource linked to Clinical Data. The linked Resource includes:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource.png">
+</div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -486,7 +494,6 @@ the FAQs</p>
 </div>
 </details>
 </div>
-<h5></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banners_page%20footer%202%20-%20purple.png">
 </div>
