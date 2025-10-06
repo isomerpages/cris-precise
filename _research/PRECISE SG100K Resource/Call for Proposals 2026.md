@@ -198,8 +198,8 @@ PRECISE-SG100K researchers not included in the primary author list.</p>
 </li>
 <li>
 <p>Acknowledgements: The manuscript MUST include an approved PRECISE-SG100K
-acknowledgement text. Please check with PRECISE Programme Managers at&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>for the approved text.</p>
+acknowledgement text. Please check with PRECISE Programme Managers at
+<a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>for the approved text.'</p>
 </li>
 <li>
 <p>All manuscripts <strong>MUST</strong> be shared with and approved by the
@@ -208,4 +208,34 @@ that they respect the principles of co-authorship and appropriate data
 sharing (no large-scale sharing of Summary Statistics).</p>
 </li>
 </ol>
+<h4><strong>REVIEW PROCESS</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>All proposals will be reviewed by the PRECISE-SG100K Scientific Committee.</p>
+</li>
+<li>
+<p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee
+is to maximise use of the Resource and to optimise the quality of the science
+carried out.</p>
+</li>
+<li>
+<p>PRECISE-SG100K Scientific Committee may make suggestions for ways in which
+the research could be strengthened or may ask groups to work together if
+their proposals are overlapping.</p>
+</li>
+<li>
+<p>Projects that are out of scope (e.g. do not align with participant consents)
+will be declined.</p>
+</li>
+<li>
+<p>All approved projects that require individual-level data will need to
+additionally apply for data access to TRUST DAC.</p>
+</li>
+<li>
+<p>PRECISE-SG100K Scientific Committee’s decisions will be final on all matters
+related to Call for Proposals 2026.</p>
+</li>
+</ol>
+<h4><strong>EVALUATION CRITERIA</strong></h4>
+<p></p>
 <p></p>
