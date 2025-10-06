@@ -253,4 +253,17 @@ related to Call for Proposals 2026.</p>
 <p>Please refer to website (link) for details of the PRECISE-SG100K Scientific
 Committee.</p>
 <p>Please direct all enquiries to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+<h4><strong>RESOURCES</strong></h4>
+<p><strong>Dataset</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.sg/sg100k-datadictionary" rel="noopener noreferrer nofollow" target="_blank">Data Dictionary</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.sg/sg100k-sample-evaluation-dataset" rel="noopener noreferrer nofollow" target="_blank">Sample Evaluation Dataset</a>
+</p>
+</li>
+</ul>
 <p></p>
