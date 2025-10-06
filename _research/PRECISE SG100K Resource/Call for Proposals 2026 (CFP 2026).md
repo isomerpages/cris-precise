@@ -237,9 +237,7 @@ related to Call for Proposals 2026.</p>
 </li>
 </ol>
 <h4><strong>EVALUATION CRITERIA</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Evaluation_Criteria_CFP2026.png">
-</div>
+<p></p>
 <h4><strong>TIMELINES</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Timelines_CFP2026.png">
