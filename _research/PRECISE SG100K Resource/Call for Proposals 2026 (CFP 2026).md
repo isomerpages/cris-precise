@@ -85,7 +85,7 @@ All data use must also comply with Institutional Review Board approval.</p>
 </li>
 <li>
 <p>External dataset linkages are not currently supported. All approved projects
-will receive access to the standard linked PRECISE-SG100K <a rel="noopener noreferrer nofollow" target="_blank">Resource</a>.</p>
+will receive access to the standard linked PRECISE-SG100K Resource.</p>
 </li>
 <li>
 <p>Proposals that seek to generate bulk analysis of the data (e.g. GWAS across
