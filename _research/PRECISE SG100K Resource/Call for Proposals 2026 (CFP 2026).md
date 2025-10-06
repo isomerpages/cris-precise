@@ -30,8 +30,9 @@ and conditions will continue to apply.</p>
 <h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/precise_sg100k_resource_table.png">
 </div>
 <p>* Comprehensive details about Clinical Data and other Health-related Data
 can be found on the TRUST1 website (https://trustplatform.sg) after registering
