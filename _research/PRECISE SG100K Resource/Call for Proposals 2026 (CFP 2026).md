@@ -266,6 +266,4 @@ details of the PRECISE-SG100K Scientific Committee.</p>
 </p>
 </li>
 </ul>
-<p><strong>CFP 2026 Application form </strong>- will be available from 2
-January 2026</p>
-<p></p>
+<p><strong>Application form </strong>- will be available from 2 January 20</p>
