@@ -5,7 +5,6 @@ variant: tiptap
 description: Call for Proposals 2026 (CFP 2026)
 third_nav_title: PRECISE SG100K Resource
 ---
-<h3>Call for Proposals 2026 (CFP 2026)</h3>
 <p><strong>(Anticipated Call Launch: 2 January 2026. Check this page for updates)</strong>
 </p>
 <h4><strong>INTRODUCTION</strong></h4>
@@ -69,7 +68,7 @@ is not permitted.</p>
 <h4><strong>GUIDING PRINCIPLES FOR PROPOSAL</strong></h4>
 <p><strong>Scope for Proposals</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>The primary focus should be analysis of the PRECISE-SG100K Resource.</p>
 </li>
@@ -94,10 +93,10 @@ be supported.</p>
 <p>Submitted proposals should <strong>not overlap</strong> with<strong> existing </strong>approved <strong><a href="https://www.npm.sg/files/PRECISE_SG100K_Flagship_and_Driver_Projects.pdf" rel="noopener noreferrer nofollow" target="_blank">projects</a>.</strong>
 </p>
 </li>
-</ul>
+</ol>
 <p><strong>Project Team</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Lead Principal Investigator (Lead-PI)</strong>&nbsp;– a senior
 researcher who takes overall responsibility for ensuring the research is
@@ -112,7 +111,7 @@ Co-Lead PIs.</p>
 <p><strong>Co-Investigators (Co-Is)</strong>&nbsp;– other researchers involved
 in completion of the research.</p>
 </li>
-</ul>
+</ol>
 <p>One researcher will generally be limited to being Lead-PI for no more
 than 1 proposal. In addition, Lead-PIs are required to hold a primary appointment
 in a local publicly funded institution throughout the duration of the project.&nbsp;</p>
