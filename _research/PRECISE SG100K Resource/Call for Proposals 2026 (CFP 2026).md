@@ -16,7 +16,7 @@ health research, in Singapore, Asia and the world.&nbsp;</p>
 access to the intermediate data release of 50,000 participants was enabled
 for Singapore public academic and clinical researchers. The PRECISE-SG100K
 Scientific Committee selected 36 projects, comprising 8 Flagship Projects
-and 28 Driver Projects (Details on the projects are available here).</p>
+and 28 Driver Projects (Details on the projects are available <a href="https://www.npm.sg/files/PRECISE_SG100K_Flagship_and_Driver_Projects.pdf" rel="noopener nofollow" target="_blank">here</a>).</p>
 <p>Building on the success of CFP 2024, and in anticipation of releasing
 baseline data for all ~100,000 participants, PRECISE-SG100K is planning
 a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite
