@@ -35,7 +35,7 @@ Resource linked to Clinical Data. The linked Resource includes:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/precise_sg100k_resource_table.png">
 </div>
 <p>* Comprehensive details about Clinical Data and other Health-related Data
-can be found on the TRUST1 website (https://trustplatform.sg) after registering
+can be found on the TRUST1 website (<a href="https://trustplatform.sg" rel="noopener noreferrer nofollow" target="_blank">https://trustplatform.sg</a>) after registering
 as a TRUST member.</p>
 <p>The linked PRECISE-SG100K Resource will be accessible on the TRUST platform.
 All data will be pseudonymised. This means that conventional personal identifiers
