@@ -30,7 +30,6 @@ and conditions will continue to apply.</p>
 <h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/precise_sg100k_resource_table.png">
 </div>
