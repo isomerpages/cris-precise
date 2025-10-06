@@ -249,4 +249,8 @@ related to Call for Proposals 2026.</p>
 </p>
 <p>Please submit completed CFP 2026 application forms to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>&nbsp;by
 14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
+<h4><strong>PRECISE-SG100K SCIENTIFIC COMMITTEE MEMBERS</strong></h4>
+<p>Please refer to website (link) for details of the PRECISE-SG100K Scientific
+Committee.</p>
+<p>Please direct all enquiries to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
