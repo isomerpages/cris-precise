@@ -22,11 +22,11 @@ baseline data for all ~100,000 participants, PRECISE-SG100K is planning
 a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite
 researchers in Singapore to submit proposals that make use of the unique
 PRECISE-SG100K dataset to advance scientific knowledge and clinical translation.</p>
-<p>Important Update for Existing Projects: Current Flagship and Driver Projects
-approved under CFP 2024 will directly receive access to the PRECISE-SG100K
-baseline data release comprising all 100,000 participants. No additional
-application is required for the approved research scope. All existing terms
-and conditions will continue to apply.</p>
+<p><strong>Important Update for Existing Projects</strong>: Current Flagship
+and Driver Projects approved under CFP 2024 will directly receive access
+to the PRECISE-SG100K baseline data release comprising all 100,000 participants.
+No additional application is required for the approved research scope.
+All existing terms and conditions will continue to apply.</p>
 <h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
