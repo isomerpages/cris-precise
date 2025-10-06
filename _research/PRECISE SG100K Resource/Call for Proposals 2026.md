@@ -54,7 +54,7 @@ University, National University of Singapore, SingHealth Institutions and
 A*STAR) through a controlled request process, in line with the existing
 data exclusivity arrangement. Summary Statistics will be available under
 these terms and conditions:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Each PI may request up to 20 specific traits with scientific justification,
 and requested traits must align with their approved research scope.</p>
@@ -67,7 +67,7 @@ case-by-case and subject to additional approval.</p>
 <p>Sharing of Summary Statistics with third parties and industry involvement
 is not permitted.</p>
 </li>
-</ol>
+</ul>
 <h4><strong>GUIDING PRINCIPLES FOR PROPOSAL</strong></h4>
 <p></p>
 <hr>
