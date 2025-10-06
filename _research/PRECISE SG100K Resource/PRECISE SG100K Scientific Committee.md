@@ -8,9 +8,9 @@ third_nav_title: PRECISE SG100K Resource
 <p>The PRECISE-SG100K Scientific Committee comprises distinguished experts
 from across Singapore's research ecosystem who provide strategic oversight
 and scientific guidance for research utilising the PRECISE-SG100K resource.
-This expert panel plays a pivotal role in ensuring the highest standards
-of scientific excellence while maximising the impact and public benefit
-of precision medicine research in Singapore.</p>
+This expert panel plays a pivotal role in promoting scientific excellence
+while maximising the impact and public benefit of precision medicine research
+in Singapore.</p>
 <p>The Committee's key responsibilities encompass:</p>
 <ul data-tight="true" class="tight">
 <li>
