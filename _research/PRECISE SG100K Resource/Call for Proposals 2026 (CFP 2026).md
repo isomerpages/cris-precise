@@ -242,7 +242,9 @@ related to Call for Proposals 2026.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Evaluation_Criteria_CFP2026.png">
 </div>
 <h4><strong>TIMELINES</strong></h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Timelines_CFP2026.png">
+</div>
 <p><em>*Timelines may be subject to change without prior information.</em>
 </p>
 <p><em>**Projects that do not submit to TRUST by December 2026 may be ended, to enable others to pursue similar work in CFP 2027.</em>
@@ -266,6 +268,17 @@ details of the PRECISE-SG100K Scientific Committee.</p>
 </p>
 </li>
 </ul>
-<p><strong>Application form </strong>- will be available from 2 January 2026.
-The application form will be similar to the TRUST Data Request (TDR) form
-to ensure streamlined subsequent application to TRUST DAC.</p>
+<p><strong>CFP 2026 application form </strong>- will be available for download
+from 2 January 2026. The application form will be similar to the TRUST
+Data Request (TDR) form to ensure streamlined subsequent application to
+TRUST DAC.</p>
+<p><strong>TRUST</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>TRUST documents, including the <em>TDR form</em> and <em>Guide to Submitting Quality TDR forms on TRUST</em> (available
+on the <a href="https://trustplatform.sg/member-login/" rel="noopener nofollow" target="_blank">TRUST Member's Portal</a> after
+registering as a TRUST Member).</p>
+</li>
+</ul>
+<p></p>
