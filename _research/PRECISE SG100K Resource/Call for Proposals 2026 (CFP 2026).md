@@ -94,7 +94,8 @@ a large number of traits) without clear scientific focus are&nbsp;unlikely&nbsp;
 be supported.</p>
 </li>
 <li>
-<p>Submitted proposals should <strong>not overlap</strong> with<strong> existing </strong>approved <strong><a href="https://www.npm.sg/files/PRECISE_SG100K_Flagship_and_Driver_Projects.pdf" rel="noopener noreferrer nofollow" target="_blank">projects</a>.</strong>
+<p>Submitted proposals should <strong>not overlap</strong> with<strong> existing </strong>approved
+<a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">projects</a><strong>.</strong>
 </p>
 </li>
 </ol>
