@@ -15,7 +15,7 @@ health research, in Singapore, Asia and the world.&nbsp;</p>
 <p>As part of our first open Call for Proposals in 2024 (CFP 2024), early
 access to the intermediate data release of 50,000 participants was enabled
 for Singapore public academic and clinical researchers. The PRECISE-SG100K
-Scientific Committee selected 36 projects, comprising 8 Flagship Projects
+Scientific Committee selected 37 projects, comprising 9 Flagship Projects
 and 28 Driver Projects (Details on the projects are available <a href="https://www.npm.sg/files/PRECISE_SG100K_Flagship_and_Driver_Projects.pdf" rel="noopener nofollow" target="_blank">here</a>).</p>
 <p>Building on the success of CFP 2024, and in anticipation of releasing
 baseline data for all ~100,000 participants, PRECISE-SG100K is planning
@@ -30,9 +30,7 @@ All existing terms and conditions will continue to apply.</p>
 <h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/precise_sg100k_resource_table.png">
-</div>
+<p></p>
 <p>* Comprehensive details about Clinical Data and other Health-related Data
 can be found on the TRUST<sup>1</sup> website (<a href="https://trustplatform.sg" rel="noopener noreferrer nofollow" target="_blank">https://trustplatform.sg</a>) after registering
 as a TRUST member.</p>
