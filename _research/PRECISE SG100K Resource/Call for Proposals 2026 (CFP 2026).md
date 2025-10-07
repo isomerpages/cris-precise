@@ -38,10 +38,12 @@ can be found in the TRUST Data Catalogue on the TRUST Member’s Portal after
 registering as a TRUST member.</p>
 <blockquote>
 <p>TRUST (“Trusted Research and Real world-data Utilisation and Sharing Tech”
-Platform) is a national health-data exchange platform to facilitate secure
-data sharing and analysis of anonymised research and real-world data to
-support data analytics between public institutions, and between the public
-and private sectors.</p>
+Platform) is a national health-related data governance framework and analytics
+platform that catalyses health data research and innovation to improve
+health.</p>
+<p>It supports public-private partnerships and enables anonymised health-related
+research and real-world data to be brought together, accessed and used
+in an expeditious and secure manner.</p>
 </blockquote>
 <p>The linked PRECISE-SG100K Resource will be accessible on the TRUST platform.
 All data will be pseudonymised. This means that conventional personal identifiers
