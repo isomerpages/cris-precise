@@ -9,9 +9,9 @@ third_nav_title: PRECISE SG100K Resource
 </p>
 <h4><strong>INTRODUCTION</strong></h4>
 <p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
-cohort dataset comprising ~100,000 Singaporean men and women. &nbsp;The
-resource provides an opportunity to advance precision medicine and related
-health research, in Singapore, Asia and the world.&nbsp;</p>
+cohort dataset comprising ~100,000 Singaporean men and women. The resource
+provides an opportunity to advance precision medicine and related health
+research, in Singapore, Asia and the world.&nbsp;</p>
 <p>As part of our first open Call for Proposals in 2024 (CFP 2024), early
 access to the intermediate data release of 50,000 participants was enabled
 for Singapore public academic and clinical researchers. The PRECISE-SG100K
