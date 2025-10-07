@@ -30,7 +30,9 @@ All existing terms and conditions will continue to apply.</p>
 <h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource_Table.png">
+</div>
 <p>* Comprehensive details about Clinical Data and other Health-related datasets
 can be found in the TRUST Data Catalogue on the <a href="https://trustplatform.sg/member-login/" rel="noopener nofollow" target="_blank">TRUST Member's Portal</a> after
 registering as a TRUST member.</p>
@@ -240,9 +242,7 @@ related to Call for Proposals 2026.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Evaluation_Criteria_CFP2026.png">
 </div>
 <h4><strong>TIMELINES</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Timelines_CFP2026.png">
-</div>
+<p></p>
 <p><em>*Timelines may be subject to change without prior information.</em>
 </p>
 <p><em>**Projects that do not submit to TRUST by December 2026 may be ended, to enable others to pursue similar work in CFP 2027.</em>
