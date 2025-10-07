@@ -204,6 +204,10 @@ PRECISE-SG100K Scientific Committee prior to journal submission to ensure
 that they respect the principles of co-authorship and appropriate data
 sharing (no large-scale sharing of Summary Statistics).</p>
 </li>
+<li>
+<p>Publications that make use of data accessed through the TRUST platform
+will also have to follow TRUST publication policy.</p>
+</li>
 </ol>
 <h4><strong>REVIEW PROCESS</strong></h4>
 <ol data-tight="true" class="tight">
@@ -225,8 +229,8 @@ their proposals are overlapping.</p>
 will be declined.</p>
 </li>
 <li>
-<p>All approved projects that require individual-level data will need to
-additionally apply for data access to TRUST DAC.</p>
+<p><strong>All approved projects that require individual-level data will need to additionally apply for data access to TRUST DAC.</strong>
+</p>
 </li>
 <li>
 <p>PRECISE-SG100K Scientific Committee’s decisions will be final on all matters
