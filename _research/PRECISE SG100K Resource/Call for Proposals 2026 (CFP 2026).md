@@ -34,7 +34,7 @@ Resource linked to Clinical Data. The linked Resource includes:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource_Table.png">
 </div>
 <p>* Comprehensive details about Clinical Data and other Health-related datasets
-can be found in the TRUST Data Catalogue on the TRUST Member’s Portal after
+can be found in the TRUST Data Catalogue on the <a href="https://trustplatform.sg/member-login/" rel="noopener nofollow" target="_blank">TRUST Member's Portal</a> after
 registering as a TRUST member.</p>
 <blockquote>
 <p>TRUST (“Trusted Research and Real world-data Utilisation and Sharing Tech”
@@ -45,7 +45,7 @@ health.</p>
 research and real-world data to be brought together, accessed and used
 in an expeditious and secure manner.</p>
 </blockquote>
-<p>The linked PRECISE-SG100K Resource will be accessible on the TRUST platform.
+<p>The linked PRECISE-SG100K Resource will be accessible on the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">TRUST platform</a>.
 All data will be pseudonymised. This means that conventional personal identifiers
 such as date of birth, NRIC, and residential address are removed. This
 is to preserve the privacy and prevent re-identification of the study participants.</p>
