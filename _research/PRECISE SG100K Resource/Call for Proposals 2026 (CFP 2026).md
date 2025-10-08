@@ -33,9 +33,6 @@ Resource linked to Clinical Data. The linked Resource includes:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource_Table.png">
 </div>
-<p>* Comprehensive details about Clinical Data and other Health-related datasets
-can be found in the TRUST Data Catalogue on the <a href="https://trustplatform.sg/member-login/" rel="noopener nofollow" target="_blank">TRUST Member's Portal</a> after
-registering as a TRUST member.</p>
 <p><em>TRUST (“Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-related data governance framework and analytics platform that catalyses health data research and innovation to improve health. It supports public-private partnerships and enables anonymised health-related research and real-world data to be brought together, accessed and used in an expeditious and secure manner.</em>
 </p>
 <p>The linked PRECISE-SG100K Resource will be accessible on the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">TRUST platform</a>.
@@ -127,8 +124,7 @@ the applications.</p>
 within 2 years.</p>
 </li>
 <li>
-<p>Approved projects should provide yearly progress reports to the PRECISE-SG100K
-Scientific Committee.</p>
+<p>Approved projects should provide yearly progress reports to the <a href="https://npm.sg/precise-sg100k-scientific-committee/" rel="noopener nofollow" target="_blank">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
 <p>Applicants should ensure sufficient funding for their research activities
@@ -212,7 +208,7 @@ will also have to follow TRUST publication policy.</p>
 <h4><strong>REVIEW PROCESS</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>All proposals will be reviewed by the PRECISE-SG100K Scientific Committee.</p>
+<p>All proposals will be reviewed by the <a href="https://npm.sg/precise-sg100k-scientific-committee/" rel="noopener nofollow" target="_blank">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
 <p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee
@@ -251,10 +247,6 @@ related to Call for Proposals 2026.</p>
 </p>
 <p>Please submit completed CFP 2026 application forms to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>&nbsp;by
 14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
-<h4><strong>PRECISE-SG100K SCIENTIFIC COMMITTEE MEMBERS</strong></h4>
-<p>Please refer to <a href="https://npm.sg/precise-sg100k-scientific-committee/" rel="noopener nofollow" target="_blank">this page</a> for
-details of the PRECISE-SG100K Scientific Committee.</p>
-<p>Please direct all enquiries to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <h4><strong>RESOURCES</strong></h4>
 <p><strong>Dataset</strong>
 </p>
