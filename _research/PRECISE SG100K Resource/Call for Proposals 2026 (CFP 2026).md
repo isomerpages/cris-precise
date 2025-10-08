@@ -201,8 +201,11 @@ that they respect the principles of co-authorship and appropriate data
 sharing (no large-scale sharing of Summary Statistics).</p>
 </li>
 <li>
-<p>Publications that make use of data accessed through the TRUST platform
-will also have to follow TRUST publication policy.</p>
+<p>In addition, any publications arising from the research would need to
+undergo pre-publication review by TRUST Data Concierge as well.
+<br>Please submit the completed pre-publication review form (together with
+your manuscript) via the following link at least 21 days in advance:
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/trust-import-export</a>.</p>
 </li>
 </ol>
 <h4><strong>REVIEW PROCESS</strong></h4>
@@ -264,13 +267,20 @@ related to Call for Proposals 2026.</p>
 from 2 January 2026. The application form will be similar to the TRUST
 Data Request (TDR) form to ensure subsequent streamlined application to
 TRUST DAC.</p>
-<p><strong>TRUST</strong>
-</p>
+<p><strong>TRUST </strong>(available on the <a href="https://trustplatform.sg/member-login/" rel="noopener nofollow" target="_blank">TRUST Member's Portal</a> after
+registering as a TRUST Member)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>TRUST documents, including the <em>TDR form</em> and <em>Guide to Submitting Quality TDR forms on TRUST</em> (available
-on the <a href="https://trustplatform.sg/member-login/" rel="noopener nofollow" target="_blank">TRUST Member's Portal</a> after
-registering as a TRUST Member).</p>
+<p>TRUST documents, including the <em>Guide to Submitting Quality TDRs on TRUST</em>
+</p>
+</li>
+<li>
+<p>TRUST <a href="https://trustplatform.sg/member-dashboard/trust-user-training/" rel="noopener noreferrer nofollow" target="_blank">User Training</a> and
+User Support Materials</p>
+</li>
+<li>
+<p><a href="https://trustplatform.sg/member-dashboard/chargingframework/charging-general/" rel="noopener noreferrer nofollow" target="_blank">Charging framework</a>
+</p>
 </li>
 </ul>
 <p></p>
