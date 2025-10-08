@@ -270,7 +270,7 @@ details of the PRECISE-SG100K Scientific Committee.</p>
 </ul>
 <p><strong>CFP 2026 application form </strong>- will be available for download
 from 2 January 2026. The application form will be similar to the TRUST
-Data Request (TDR) form to ensure streamlined subsequent application to
+Data Request (TDR) form to ensure subsequent streamlined application to
 TRUST DAC.</p>
 <p><strong>TRUST</strong>
 </p>
