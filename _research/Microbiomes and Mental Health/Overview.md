@@ -39,4 +39,5 @@ precise and locally relevant interventions. In the future, these findings
 could inform potentially leading to more targeted care, new dietary interventions
 or microbial therapies. &nbsp;</p>
 <p></p>
-<p>Click here for more details about the initiative.</p>
+<p>Click <a href="https://npm.sg/mental-health-s-new-frontier-the-microbiome-within/" rel="noopener nofollow" target="_blank">here</a> for
+more details about the initiative.</p>
