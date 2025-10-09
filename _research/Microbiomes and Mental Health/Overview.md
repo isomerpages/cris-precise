@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Microbiomes and Mental Health
 ---
-<h4><strong>Microbiomes and Mental Health</strong>&nbsp;</h4>
+<h3><strong>Microbiomes and Mental Health</strong>&nbsp;</h3>
 <p>The gut microbiome plays a powerful role not just in physical health,
 but in brain function and mental well-being. Growing evidence shows a deep
 connection between the gut and brain through complex biochemical and neural
