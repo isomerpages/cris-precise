@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /overview/
+permalink: /sg100k-overview/
 variant: tiptap
 description: Overview of PRECISE-SG100K Resource
 third_nav_title: PRECISE SG100K Resource
