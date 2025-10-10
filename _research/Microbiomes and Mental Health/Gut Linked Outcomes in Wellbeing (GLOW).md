@@ -7,7 +7,8 @@ third_nav_title: Microbiomes and Mental Health
 image: /images/Research/Microbiomes and Mental
   Health/MindOverMicrobes_infographic_final_150dpi_reduced_size.png
 ---
-<h3><strong>Microbiomes and Mental Health</strong>&nbsp;</h3>
+<h3><strong>Overview</strong></h3>
+<h4><strong>Microbiomes and Mental Health</strong>&nbsp;</h4>
 <p>The gut microbiome plays a powerful role not just in physical health,
 but in brain function and mental well-being. Growing evidence shows a deep
 connection between the gut and brain through complex biochemical and neural
