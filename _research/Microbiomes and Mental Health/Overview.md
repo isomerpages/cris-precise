@@ -41,3 +41,8 @@ or microbial therapies. &nbsp;</p>
 <p></p>
 <p>Click <a href="https://npm.sg/mental-health-s-new-frontier-the-microbiome-within/" rel="noopener nofollow" target="_blank">here</a> for
 more details about the initiative.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Microbiomes and Mental Health/MindOverMicrobes_infographic_final_150dpi_reduced_size.png">
+</div>
+<p></p>
