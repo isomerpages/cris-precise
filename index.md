@@ -28,26 +28,6 @@ sections:
       variant: center
       size: sm
       backgroundColor: gray
-  - textcards:
-      title: Our Core Pillars
-      id: textcards
-      cards:
-        - title: Research
-          description: ""
-          linktext: More
-          url: /research/research-highlights/
-        - title: Innovation
-          description: ""
-          linktext: More
-          url: /cip
-        - title: Enterprise
-          description: ""
-          linktext: More
-          url: /collaborate/partners/
-        - title: Data Access
-          description: ""
-          linktext: More
-          url: https://npm.sg/data-access-principles/
   - infopic:
       title: "Mental Health's New Frontier: The Microbiome Within"
       subtitle: EDITORIAL FEATURE
@@ -65,7 +45,7 @@ sections:
       id: infopic
       description: An East Asian Resource for Precision Medicine.
       button: Read more
-      url: https://www.npm.sg/ethical-horizons-in-precision-medicine/
+      url: /taiwan-biobank-an-east-asian-resource-for-precision-medicine/
       image: /images/Resources/Editorial
         Features/2025/Taiwan_Biobank___Dr_Lin_Yen_Feng.jpg
       alt: Image alt text
@@ -99,6 +79,26 @@ sections:
       url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
       image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
+  - textcards:
+      title: Our Core Pillars
+      id: textcards
+      cards:
+        - title: Research
+          description: ""
+          linktext: More
+          url: /research/research-highlights/
+        - title: Innovation
+          description: ""
+          linktext: More
+          url: /cip
+        - title: Enterprise
+          description: ""
+          linktext: More
+          url: /collaborate/partners/
+        - title: Data Access
+          description: ""
+          linktext: More
+          url: https://npm.sg/data-access-principles/
   - resources:
       title: Latest News and Events
       subtitle: Be in the know
