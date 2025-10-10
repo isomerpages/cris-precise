@@ -2,7 +2,7 @@ collections:
   research:
     output: true
     order:
-      - GLOW/Gut Linked Outcomes in Wellbeing (GLOW).md
+      - GLOW/GLOW (Gut Linked Outcomes in Wellbeing).md
       - GLOW/.keep
       - SG10K Health/Overview.md
       - SG10K Health/Data Access.md
