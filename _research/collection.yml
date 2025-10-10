@@ -2,8 +2,8 @@ collections:
   research:
     output: true
     order:
-      - Microbiomes and Mental Health/Gut Linked Outcomes in Wellbeing (GLOW).md
-      - Microbiomes and Mental Health/.keep
+      - GLOW/Gut Linked Outcomes in Wellbeing (GLOW).md
+      - GLOW/.keep
       - SG10K Health/Overview.md
       - SG10K Health/Data Access.md
       - SG10K Health/.keep
