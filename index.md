@@ -49,6 +49,27 @@ sections:
           linktext: More
           url: https://npm.sg/data-access-principles/
   - infopic:
+      title: "Mental Health's New Frontier: The Microbiome Within"
+      subtitle: EDITORIAL FEATURE
+      id: infopic
+      description: Could the key to tackling rising mental health challenges lie in
+        the microbiome? Researchers at GLOW are leading the charge to find out.
+      button: READ MORE
+      url: /mental-health-s-new-frontier-the-microbiome-within/
+      image: /images/Resources/Editorial
+        Features/2025/Glow_thumbnail_John_and_Patrick.png
+      alt: Image alt text
+  - infopic:
+      title: Taiwan Biobank
+      subtitle: EDITORIAL FEATURE
+      id: infopic
+      description: An East Asian Resource for Precision Medicine.
+      button: Read more
+      url: https://www.npm.sg/ethical-horizons-in-precision-medicine/
+      image: /images/Resources/Editorial
+        Features/2025/Taiwan_Biobank___Dr_Lin_Yen_Feng.jpg
+      alt: Image alt text
+  - infopic:
       title: Discoveries from mapping 10,000 genomes
       description: Two genetic studies involving 10,000 Singaporeans identify
         variations affecting predisposition to inherited diseases and response
@@ -67,26 +88,6 @@ sections:
       button: Read more
       url: /news-and-events/editorial-features/sg100k-translating-insights-from-100000-genomic-data-sets/
       image: /images/Homepage/sg100k.png
-      alt: Image alt text
-  - infopic:
-      title: Mapping Health Futures
-      subtitle: EDITORIAL FEATURE
-      id: infopic
-      description: Experts share more about genomic screening and its population
-        impact, ethical considerations, and newborn carrier screening.
-      button: READ MORE
-      url: /mapping-health-futures-genomic-screening-and-its-population-impact/
-      image: /images/Resources/Editorial Features/2025/PRECISE_Banner19D_1400x800.jpg
-      alt: Image alt text
-  - infopic:
-      title: Ethical Horizons in Precision Medicine
-      subtitle: EDITORIAL FEATURE
-      id: infopic
-      description: Ethics, cultural bias and trust building. How important is it to
-        give underrepresented populations a voice?
-      button: Read more
-      url: https://www.npm.sg/ethical-horizons-in-precision-medicine/
-      image: /images/Resources/Editorial Features/2024/Julian_2_rz.jpg
       alt: Image alt text
   - infopic:
       title: Event highlights of PRECISE-IHCC Conference 2024
