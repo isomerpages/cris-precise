@@ -29,6 +29,16 @@ sections:
       size: sm
       backgroundColor: gray
   - infopic:
+      title: GLOW
+      subtitle: RESEARCH PROGRAMME
+      id: infopic
+      description: Singapore to embark on study exploring links between Asian gut
+        microbiomes and mental health.
+      button: Read more
+      url: https://www.npm.sg/microbiomes-mental-health/glow-gut-linked-outcomes-in-wellbeing/
+      image: /images/Research/Microbiomes and Mental Health/IMG_0707_3x2.jpg
+      alt: Image alt text
+  - infopic:
       title: "Mental Health's New Frontier: The Microbiome Within"
       subtitle: EDITORIAL FEATURE
       id: infopic
@@ -40,14 +50,14 @@ sections:
         Features/2025/Glow_thumbnail_John_and_Patrick.png
       alt: Image alt text
   - infopic:
-      title: Taiwan Biobank
-      subtitle: EDITORIAL FEATURE
+      title: Event highlights of PRECISE-IHCC Conference 2024
+      subtitle: EVENTS
       id: infopic
-      description: An East Asian Resource for Precision Medicine.
-      button: Read more
-      url: /taiwan-biobank-an-east-asian-resource-for-precision-medicine/
-      image: /images/Resources/Editorial
-        Features/2025/Taiwan_Biobank___Dr_Lin_Yen_Feng.jpg
+      description: Over 700 thought leaders, clinicians, scientists, and industry
+        experts from around the world gathered for insightful discussions.
+      button: View conference highlights
+      url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
+      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - infopic:
       title: Discoveries from mapping 10,000 genomes
@@ -68,16 +78,6 @@ sections:
       button: Read more
       url: /news-and-events/editorial-features/sg100k-translating-insights-from-100000-genomic-data-sets/
       image: /images/Homepage/sg100k.png
-      alt: Image alt text
-  - infopic:
-      title: Event highlights of PRECISE-IHCC Conference 2024
-      subtitle: EVENTS
-      id: infopic
-      description: Over 700 thought leaders, clinicians, scientists, and industry
-        experts from around the world gathered for insightful discussions.
-      button: View conference highlights
-      url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
-      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - textcards:
       title: Our Core Pillars
