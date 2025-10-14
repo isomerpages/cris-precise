@@ -96,9 +96,9 @@ through its interactions with the nervous and immune systems. In addition,
 it plays a key role in regulating immunity and metabolism. We are only
 beginning to uncover its potential in the context of mental health.”</p>
 <hr>
-<p><strong>ABOUT “GLOW”</strong>
+<h4><strong>ABOUT “GLOW”</strong></h4>
+<p><strong>Gut Linked Outcomes in Wellbeing (GLOW)</strong>
 </p>
-<p>Gut Linked Outcomes in Wellbeing (GLOW)</p>
 <p>This study builds on the Singapore National Precision Medicine (NPM) programme’s
 foundational PRECISE-SG100K cohort, which collects genomic and health data
 from 100,000 Singaporeans to better understand disease risk and inform
@@ -127,17 +127,129 @@ will inform future research, including the identification of microbial
 biomarkers and novel therapeutic targets. In doing so, the study will contribute
 to the development of more effective, accessible, and contextually relevant
 approaches to mental health care in Singapore and the region.</p>
-<p><strong>ABOUT THE GLOW STUDY TEAM</strong>
+<p></p>
+<h4><strong>ABOUT THE GLOW STUDY TEAM</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name and Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Role</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Professor John Chambers</u>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Press Releases/About_GLOW_study_team.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_GLOW_study_team_2.png">
-</div>
+<p>Chief Scientific Officer, Precision Health Researh, Singapore (PRECISE)</p>
+<p></p>
+<p>Toh Kian Chui Distinguished Professor and Population &amp; Global Health
+Research Programme Director, Lee Kong Chian School of Medicine, Nanyang
+Technological University, Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Principal Investigator and Population Cohort Lead</p>
+<p></p>
+<p><em>Oversees the overall study design and integration of data from population cohorts to ensure robust, representative findings.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Professor Patrick Tan</u>
+</p>
+<p>Executive Director, Precision Health Research, Singapore (PRECISE)</p>
+<p></p>
+<p>Dean-designate of Duke-NUS Medical School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Population Cohort Co-Lead</p>
+<p></p>
+<p><em>Provides overarching leadership for the initiative, guiding its scientific direction and strategic vision. Also contributes to cohort development and supporting alignment across Singapore’s precision medicine projects.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Associate Professor Jimmy Lee</u>
+</p>
+<p>Senior Consultant Psychiatrist and Clinician-Scientist at the Institute
+of Mental Health (IMH), NHG Health</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mental Health Insights Lead</p>
+<p></p>
+<p><em>Clinical lead guiding the clinical and psychiatric components and contributing expertise on mental health outcomes and their link to the microbiome.</em>
+</p>
+<p></p>
+<p>Co-Leads:</p>
+<p>Associate Professor Sunny Wong, Associate Professor of Nutrition, Digestion
+and Metabolism and Assistant Dean, Academic Medicine, Lee Kong Chian School
+of Medicine, Nanyang Technological University, Singapore</p>
+<p></p>
+<p>Assistant Professor Sabrina Wong, Deputy Director and Principal Clinician
+Researcher, Clinical Research Unit, NHG Polyclinics</p>
+<p></p>
+<p>Clinical Director, Primary Care and Family Medicine, Lee Kong Chian School
+of Medicine, Nanyang Technological University, Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Associate Professor Niranjan Nagarajan</u>
+</p>
+<p>Associate Professor in the Yong Loo Lin School of Medicine and School
+of Computing at the National University of Singapore (NUS), and Associate
+Director, AI and Compute at the A*STAR Genome Institute of Singapore (A*STAR
+GIS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microbiome Phenotyping Lead</p>
+<p></p>
+<p><em>Directs microbiome analysis and interpretation, developing methods to profile microbial communities linked to mental health.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Assistant Professor Marie Loh</u>
+</p>
+<p>Assistant Professor of Molecular Epidemiology, Lee Kong Chian School of
+Medicine (LKCMedicine), Nanyang Technological University, Singapore</p>
+<p></p>
+<p>Senior Research Scientist, A*STAR Genome Institute of Singapore (A*STAR
+GIS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Host Molecular Phenotyping Lead</p>
+<p></p>
+<p><em>Investigates host (i.e. study participant) molecular signatures, including genetic and molecular pathways, to understand gut-brain interactions.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Assistant Professor Max Lam</u>
+</p>
+<p>Chief Technology Officer, Precision Health Research, Singapore (PRECISE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data Lead</p>
+<p></p>
+<p><em>Oversees data management and analytics, ensuring secure integration and analysis of large-scale multi-omics datasets.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
-<p><strong>GLOSSARY</strong>
-</p>
+<h4><strong>GLOSSARY</strong></h4>
 <p><strong>Biomarker: </strong>A measurable biological signal (such as a
 molecule, gene, or metabolite) that can indicate a normal or disease process,
 or a response to treatment.</p>
@@ -182,8 +294,7 @@ who are enrolled in a research study and followed over time to understand
 health outcomes and contributing factors. E.g. GLOW targets to have a study
 cohort of 6,000 participants.</p>
 <hr>
-<p><strong>About Precision Health Research, Singapore (PRECISE)</strong>
-</p>
+<h4><strong>About Precision Health Research, Singapore (PRECISE)</strong></h4>
 <p>PRECISE coordinates Singapore's National Precision Medicine Phase II programme,
 a multi-institutional collaboration including A*STAR, Lee Kong Chian School
 of Medicine, NHG Health, National University Health System, National University
@@ -201,8 +312,7 @@ Ministry of Health through the National Medical Research Council (NMRC)
 Office, MOH Holdings Pte Ltd.</p>
 <p>For more information, pls visit <a href="https://www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg</a>
 </p>
-<p><strong>About PRECISE-SG100K</strong>
-</p>
+<h4><strong>About PRECISE-SG100K</strong></h4>
 <p>The PRECISE-SG100K study is a long-term project focusing on the health
 and wellbeing of Singapore's diverse, multi-ethnic population. The study
 aims to engage over 100,000 participants and collect baseline health information
