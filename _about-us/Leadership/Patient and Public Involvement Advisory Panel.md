@@ -27,21 +27,10 @@ Medicine, Nanyang Technological University, Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Chew Kim Soon</div>
-<div class="isomer-card-description">Co-chair, SingHealth Patient Advocacy Network (SPAN)</div>
+<div class="isomer-card-description">Former Co-chair, SingHealth Patient Advocacy Network (SPAN)</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Cheung Siew Li" src="/images/Bio/PPI Advisory Panel/Cheung_Siew_Li_600x400.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Cheung Siew Li</div>
-<div class="isomer-card-description">Chief Operating Officer, St. Luke's Hospital</div>
-</div>
-</div>
-<div class="isomer-card">
+</div><a rel="noopener noreferrer nofollow" href="/ms-cheung-siew-li/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Cheung Siew Li" src="/images/Bio/PPI Advisory Panel/Cheung_Siew_Li_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Cheung Siew Li</div><div class="isomer-card-description">Chief Operating Officer, St. Luke's Hospital</div><div class="isomer-card-link">Bio</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ms-fiona-pearce/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Fiona Pearce" src="/images/Bio/PPI Advisory Panel/Fiona_Pearce_600x400.jpg">
@@ -51,19 +40,8 @@ Medicine, Nanyang Technological University, Singapore</div>
 <div class="isomer-card-title">Ms Fiona Pearce</div>
 <div class="isomer-card-description">Senior Advisor, Health Technology Assessment and Consumer Engagement and
 Education, Agency for Care Effectiveness (ACE), MOH</div>
+<div class="isomer-card-link">Bio</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Rajakanth R" src="/images/Bio/PPI Advisory Panel/RajakanthR_600x400.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Rajakanth R</div>
-<div class="isomer-card-description">Executive Director, Rainbow Across Borders; Visiting expert, Duke-NUS
-Centre of Regulatory Excellence</div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="/mr-rajakanth-r/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mr Rajakanth R" src="/images/Bio/PPI Advisory Panel/RajakanthR_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Rajakanth R</div><div class="isomer-card-description">Executive Director, Rainbow Across Borders; Visiting expert, Duke-NUS Centre of Regulatory Excellence</div><div class="isomer-card-link">Bio</div></div></a>
 </div>
 <p></p>
