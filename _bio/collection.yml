@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - PPI Advisory Panel/Mr Rajakanth R.md
       - PPI Advisory Panel/Ms Fiona Pearce.md
       - PPI Advisory Panel/Ms Cheung Siew Li.md
       - PPI Advisory Panel/.keep
