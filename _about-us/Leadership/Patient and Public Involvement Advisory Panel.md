@@ -6,19 +6,7 @@ description: Patient and Public Involvement Advisory Panel
 third_nav_title: Leadership
 ---
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Ai Ling Sim-Devadas" src="/images/Bio/PPI Advisory Panel/Ai_Ling_Sim_Devadas_600x400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Ai Ling Sim-Devadas</div>
-<div class="isomer-card-description">Deputy Director, Office of Patient Engagement, Lee Kong Chian School of
-Medicine, Nanyang Technological University, Singapore</div>
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/ms-ai-ling-sim-devadas/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Ai Ling Sim-Devadas" src="/images/Bio/PPI Advisory Panel/Ai_Ling_Sim_Devadas_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Ai Ling Sim-Devadas</div><div class="isomer-card-description">Deputy Director, Office of Patient Engagement, Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore</div><div class="isomer-card-link">Bio</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
