@@ -2,6 +2,7 @@ collections:
   bio:
     output: true
     order:
+      - PPI Advisory Panel/.keep
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Mr Peter Ho.md
       - Board Oversight Committee/Prof Ivy Ng.md
