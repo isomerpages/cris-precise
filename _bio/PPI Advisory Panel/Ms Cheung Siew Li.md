@@ -8,7 +8,7 @@ third_nav_title: PPI Advisory Panel
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Bio/PPI Advisory Panel/Cheung_Siew_Li_600x400.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Bio/PPI Advisory Panel/Cheung_Siew_Li_600x400.png">
 </div>
 <p>As Chief Operating Officer, Ms Cheung Siew Li will reinforce several critical
 functions, including Quality and Risk Management, Partnerships, Care and
