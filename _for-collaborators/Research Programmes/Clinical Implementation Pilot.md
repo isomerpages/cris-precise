@@ -76,7 +76,6 @@ or disease phenotypes.</p>
 </table>
 <p></p>
 <p></p>
-<p></p>
 <p>&lt;table&gt;</p>
 <p>&lt;tbody&gt;</p>
 <p>&lt;tr&gt;</p>
@@ -276,4 +275,3 @@ that should be incorporated into the genotyping platform.</p>
 <p>&lt;/tr&gt;</p>
 <p>&lt;/tbody&gt;</p>
 <p>&lt;/table&gt;</p>
-<p>![](/images/Banners/banners_page%20footer%201%20-%20purple.png)</p>
