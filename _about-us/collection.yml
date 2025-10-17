@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Partners/.keep
       - Leadership/.keep
       - Leadership/Board Oversight Committee.md
       - Leadership/Management Team.md
       - Leadership/Patient and Public Involvement Advisory Panel.md
+      - Partners/.keep
       - Our Story.md
       - Why We Do It.md
