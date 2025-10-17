@@ -2,6 +2,7 @@ collections:
   for-everyone:
     output: true
     order:
+      - Everyday Genomics/Impact of Genomics on Daily Health.md
       - Everyday Genomics/Testimonials.md
       - Everyday Genomics/Stories.md
       - Everyday Genomics/.keep
