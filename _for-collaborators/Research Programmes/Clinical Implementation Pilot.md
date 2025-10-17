@@ -16,7 +16,7 @@ and targeted treatments.</p>
 <p>The objectives of the CIP grant call were to:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Achieve progress towards&amp;nbsp;[Singapore’s RIE 2025 HHP goals](https://www.nrf.gov.sg/rie2025-plan/human-health-and-potential);
+<p>Achieve progress towards&nbsp;<a href="https://www.nrf.gov.sg/rie2025-plan/human-health-and-potential" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore’s RIE 2025 HHP goals</u></a>;
 and</p>
 </li>
 <li>
@@ -24,12 +24,10 @@ and</p>
 system</p>
 </li>
 </ol>
-<p>PRECISE has awarded 5 CIPs in :&amp;nbsp;**Breast Cancer, Hereditary &amp;amp;
-Familial Cancers, Familial Hypercholesterolemia, Primary Glomerular Diseases
-and Pharmacogenomics.**&amp;nbsp;These CIPs will seek to embed clinical
-application of genetic/genomic tests to diagnose, manage and/or treat a
-particular patient cohort(s) and/or population for their specific conditions
-or disease phenotypes.</p>
+<p>PRECISE has awarded 5 CIPs in :&nbsp;<strong>Breast Cancer, Hereditary &amp; Familial Cancers, Familial Hypercholesterolemia, Primary Glomerular Diseases and Pharmacogenomics.</strong>&nbsp;These
+CIPs will seek to embed clinical application of genetic/genomic tests to
+diagnose, manage and/or treat a particular patient cohort(s) and/or population
+for their specific conditions or disease phenotypes.</p>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
