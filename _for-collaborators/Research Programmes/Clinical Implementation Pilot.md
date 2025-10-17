@@ -145,6 +145,40 @@ Kong Chian School of Medicine
 and Management, Erasmus University Rotterdam</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>This pilot aims to improve access to clinical hereditary cancer genetic
+testing in probands (index cases) and First-Degree Relatives (FDRs) in
+Singapore. This will be done through addressing key barriers such as the
+identification and ascertainment of individuals with genetic risks of cancer,
+costs, shortcomings in the conventional proband-mediated process of cascade
+testing; and understanding reasons behind declining genetic testing.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Changi General Hospital
+<br>KK Women’s and Children’s Hospital
+<br>National Cancer Centre Singapore
+<br>National Healthcare Group
+<br>National University Health System
+<br>National University Cancer Institute, Singapore
+<br>Sengkang General Hospital
+<br>Singapore General Hospital
+<br>SingHealth
+<br>Tan Tock Seng Hospital</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3. Addressing the challenges in Case identification, Cascade Screening,
+Genetic testing and Treatment in Familial Hypercholesterolemia – a cross-cluster
+clinical implementation program by FHCARE (“FH”)
+<br>
+<br><strong>Clinical Co-PI:</strong> A/Prof Tavintharan Subramaniam Director,
+Diabetes Centre, Admiralty Medical Centre; Senior Consultant, Department
+of Medicine, Khoo Teck Puat Hospital;
+<br>
+<br><strong>Health Economist Co-PI:</strong> A/Prof Wee Hwee Lin Saw Swee Hock
+School of Public Health, National University of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>This pilot aims to address the frequent underdiagnosis and undertreatment
 of Familial Hypercholesterolemia (FH) patients in Singapore through introducing
 interventions at multiple points from increasing case identification, reducing
@@ -169,13 +203,76 @@ and adopting a registry approach to address treatment adherence and gaps.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4. Health and Economic Impact of Next Generation Sequencing in Primary
+Glomerular Diseases in Singapore (“PGD”)
+<br>
+<br><strong>Clinical Co-PI:</strong> A/Prof Ng Kar Hui Senior Consultant, Division
+of Paediatric Nephrology, Dialysis and Renal Transplantation, National
+University Hospital; National University of Singapore
+<br>
+<br><strong>Health Economist Co-PI:</strong> Prof David Matchar Programme in
+Health Services and Systems Research, Duke-NUS Medical School, Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This pilot aims to implement genetic testing for glomerular diseases in
+the clinics for Singapore. It also aims to evaluate the cost-effectiveness
+of genetic testing for glomerular diseases in the local context set against
+international guidelines. International guidelines have highly recommended
+genetic testing early in the workup of selected glomerular diseases in
+adults and children. Genetic testing will be provided to individuals with
+glomerular diseases, where the treatment plans can be better adjusted,
+thereby reducing unnecessary risks of immunosuppression to those will not
+benefit. Specific early interventions, made possible only by early genetic
+diagnosis, can also be instituted as a result of genetic testing, and they
+have also been shown to potentially delay kidney failure by more than 2
+decades.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Duke-NUS Medical School
+<br>KK Women’s and Children’s Hospital
+<br>National University Hospital
+<br>National University of Singapore
+<br>Singapore General Hospital
+<br>Tan Tock Seng Hospital</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5. Clinical Implementation of Pre-emptive Pharmacogenomic Testing as a
+Precision Medicine Tool in Routine Clinical Practice in Singapore (“PGx”)
+<br>
+<br><strong>Clinical Co-PI:</strong> Prof Goh Boon Cher Department of Haematology-Oncology,
+National University Cancer Institute, Singapore
+<br>
+<br><strong>Health Economist Co-PI:</strong> A/Prof Wee Hwee Lin Saw Swee Hock
+School of Public Health, National University of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This pilot aims to study the cost-effectiveness and implementation barriers
+of incorporating pre-emptive multi-drug/multi-gene PGx testing as a pre-emptive
+precision medicine clinical tool in routine clinical practice. It will
+also seek to identify the target population most likely to benefit from
+pre-emptive PGx, and prioritise the clinically actionable drug-gene pairs
+that should be incorporated into the genotyping platform.</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Khoo Teck Puat Hospital</p>
+</li>
+<li>
+<p>National University Hospital</p>
+</li>
+<li>
+<p>Ng Teng Fong General Hospital</p>
+</li>
+<li>
+<p>Singapore General Hospital</p>
+</li>
+<li>
+<p>Tan Tock Seng Hospital</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
