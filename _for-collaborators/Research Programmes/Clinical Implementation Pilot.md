@@ -75,27 +75,7 @@ or disease phenotypes.</p>
 </tbody>
 </table>
 <p></p>
-<p>&lt;table&gt;</p>
-<p>&lt;tbody&gt;</p>
-<p>&lt;tr&gt;</p>
-<p>&lt;td style="width:20%"&gt;</p>
-<p>&lt;img src="/images/Research Programmes/Clinical%20Implementation%20Pilots/hc-image.jpg"&gt;</p>
-<p>&lt;/td&gt;</p>
-<p>&lt;td style="width:20%"&gt;</p>
-<p>&lt;img src="/images/Research Programmes/Clinical%20Implementation%20Pilots/bcs-image.jpg"&gt;</p>
-<p>&lt;/td&gt;</p>
-<p>&lt;td style="width:20%"&gt;</p>
-<p>&lt;img src="/images/Research Programmes/Clinical%20Implementation%20Pilots/hafc-image.jpg"&gt;</p>
-<p>&lt;/td&gt;</p>
-<p>&lt;td style="width:20%"&gt;</p>
-<p>&lt;img src="/images/Research Programmes/Clinical%20Implementation%20Pilots/kd-image.jpg"&gt;</p>
-<p>&lt;/td&gt;</p>
-<p>&lt;td style="width:20%"&gt;</p>
-<p>&lt;img src="/images/Research Programmes/Clinical%20Implementation%20Pilots/dr-image.jpg"&gt;</p>
-<p>&lt;/td&gt;</p>
-<p>&lt;/tr&gt;</p>
-<p>&lt;/tbody&gt;</p>
-<p>&lt;/table&gt;</p>
+<p></p>
 <p></p>
 <p>&lt;table&gt;</p>
 <p>&lt;tbody&gt;</p>
