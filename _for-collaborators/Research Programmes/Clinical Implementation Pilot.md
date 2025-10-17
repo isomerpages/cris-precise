@@ -121,15 +121,41 @@ to increase participation in routine screening and to optimise efficiency
 and cost.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alexandra Hospital
-<br>Bukit Batok Polyclinic
-<br>Choa Chu Kang Polyclinic
-<br>Genome Institute of Singapore, A\*STAR
-<br>Jurong Medical Centre, National University Hospital
-<br>National Cancer Centre Singapore
-<br>Ng Teng Fong General Hospital
-<br>Saw Swee Hock School of Public Health, National University of Singapore
-<br>Yong Loo Lin School of Medicine, National University of Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alexandra Hospital</p>
+</li>
+<li>
+<p>Bukit Batok Polyclinic</p>
+</li>
+<li>
+<p>Choa Chu Kang Polyclinic</p>
+</li>
+<li>
+<p>Genome Institute of Singapore, A\*STAR</p>
+</li>
+<li>
+<p>Jurong Medical Centre</p>
+</li>
+<li>
+<p>National University Hospital</p>
+</li>
+<li>
+<p>National Cancer Centre Singapore</p>
+</li>
+<li>
+<p>Ng Teng Fong General Hospital</p>
+</li>
+<li>
+<p>Saw Swee Hock School of Public Health</p>
+</li>
+<li>
+<p>National University of Singapore</p>
+</li>
+<li>
+<p>Yong Loo Lin School of Medicine, National University of Singapore</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
