@@ -14,10 +14,16 @@ of Health’s Healthier SG](<a href="https://www.healthiersg.gov.sg/)&amp;nbsp;s
 leading to better patient outcomes through early detection, accurate diagnosis,
 and targeted treatments.</p>
 <p>The objectives of the CIP grant call were to:</p>
-<p>1\. Achieve progress towards&amp;nbsp;[Singapore’s RIE 2025 HHP goals](
-<a href="https://www.nrf.gov.sg/rie2025-plan/human-health-and-potential" rel="noopener noreferrer nofollow" target="_blank">https://www.nrf.gov.sg/rie2025-plan/human-health-and-potential</a>); and</p>
-<p>2\. Inform policy decision-making for implementation in the local healthcare
+<ol data-tight="true" class="tight">
+<li>
+<p>Achieve progress towards&amp;nbsp;[Singapore’s RIE 2025 HHP goals]( https://www.nrf.gov.sg/rie2025-plan/human-health-and-potential);
+and</p>
+</li>
+<li>
+<p>Inform policy decision-making for implementation in the local healthcare
 system</p>
+</li>
+</ol>
 <p>PRECISE has awarded 5 CIPs in :&amp;nbsp;**Breast Cancer, Hereditary &amp;amp;
 Familial Cancers, Familial Hypercholesterolemia, Primary Glomerular Diseases
 and Pharmacogenomics.**&amp;nbsp;These CIPs will seek to embed clinical
