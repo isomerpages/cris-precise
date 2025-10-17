@@ -2,6 +2,7 @@ collections:
   for-everyone:
     output: true
     order:
+      - About PRECISE/.keep
       - GLOW/GLOW (Gut Linked Outcomes in Wellbeing).md
       - GLOW/.keep
       - SG10K Health/Overview.md
