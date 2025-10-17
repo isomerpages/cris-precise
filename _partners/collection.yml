@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Trusted Research and Real World Data Utilisation (TRUST).md
       - LifeStrands.md
       - Health Intervention and Policy Evaluation Research (HIPER).md
       - Health Intervention and Technology Assessment Program (HITAP).md
