@@ -135,6 +135,41 @@ and cost.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2. Improving access for clinical hereditary cancer genetic testing in
+Singapore (“HC”)
+<br>
+<br><strong>Clinical Co-PI:</strong> A/Prof Joanne Ngeow Head and Senior Consultant,
+Cancer Genetics Service, National Cancer Centre Singapore; Genomic Medicine,
+Lee Kong Chian School of Medicine
+<br>
+<br><strong>Health Economist Co-PI:</strong> A/Prof Ken Redekop Erasmus School
+of Health Policy and Management, Erasmus University Rotterdam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This pilot aims to address the frequent underdiagnosis and undertreatment
+of Familial Hypercholesterolemia (FH) patients in Singapore through introducing
+interventions at multiple points from increasing case identification, reducing
+barriers to maximise cascade screening of First Degree Relatives (FDRs)
+and adopting a registry approach to address treatment adherence and gaps.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admiralty Medical Centre
+<br>Alexandra Hospital
+<br>Changi General Hospital
+<br>KK Women’s and Children’s Hospital
+<br>Khoo Teck Puat Hospital
+<br>National Healthcare Group Polyclinics
+<br>National University Polyclinics
+<br>National Heart Centre of Singapore
+<br>National University Hospital
+<br>Ng Teng Fong General Hospital
+<br>Sengkang General Hospital
+<br>Singapore General Hospital
+<br>Tan Tock Seng Hospital</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,5 +181,4 @@ and cost.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <p></p>
