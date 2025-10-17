@@ -13,18 +13,12 @@ sections:
       subtitle: Transforming health in Singapore through Precision Medicine
       background: /images/landing-page-banner_humans-1.jpg
       key_highlights:
-        - title: Research Highlights
+        - title: For Everyone
           description: ""
-          url: /research/research-highlights
-        - title: Latest News
+          url: /for-everyone/
+        - title: For Collaborators
           description: ""
-          url: /news-and-events/
-        - title: Clinical Implementation Pilots
-          description: ""
-          url: /cip
-        - title: Editorial features
-          description: ""
-          url: /news-and-events/editorial-features/
+          url: /for-collaborators/
       variant: center
       size: sm
       backgroundColor: gray
