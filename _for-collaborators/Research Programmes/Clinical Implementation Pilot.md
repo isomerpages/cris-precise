@@ -9,14 +9,13 @@ third_nav_title: Research Programmes
 funding for pilots which facilitate the incorporation of genetic/genomic
 tests into clinical pathways that improve patient outcomes while maintaining
 sustainable per capita cost and optimising the healthcare experiences for
-both healthcare providers and patients. This aligns with the&amp;nbsp;[Ministry
-of Health’s Healthier SG](<a href="https://www.healthiersg.gov.sg/)&amp;nbsp;strategy" rel="noopener noreferrer nofollow" target="_blank">https://www.healthiersg.gov.sg/)&amp;nbsp;strategy</a>,
+both healthcare providers and patients. This aligns with the&nbsp;<a href="https://www.healthiersg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Health’s Healthier SG</u></a>&nbsp;strategy,
 leading to better patient outcomes through early detection, accurate diagnosis,
 and targeted treatments.</p>
 <p>The objectives of the CIP grant call were to:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Achieve progress towards&nbsp;<a href="https://www.nrf.gov.sg/rie2025-plan/human-health-and-potential" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore’s RIE 2025 HHP goals</u></a>;
+<p>Achieve progress towards&nbsp;<a href="https://www.nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore’s RIE 2025 HHP goals</u></a>;
 and</p>
 </li>
 <li>
