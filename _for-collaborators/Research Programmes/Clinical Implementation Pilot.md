@@ -228,12 +228,26 @@ have also been shown to potentially delay kidney failure by more than 2
 decades.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Duke-NUS Medical School
-<br>KK Women’s and Children’s Hospital
-<br>National University Hospital
-<br>National University of Singapore
-<br>Singapore General Hospital
-<br>Tan Tock Seng Hospital</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Duke-NUS Medical School</p>
+</li>
+<li>
+<p>KK Women’s and Children’s Hospital</p>
+</li>
+<li>
+<p>National University Hospital</p>
+</li>
+<li>
+<p>National University of Singapore</p>
+</li>
+<li>
+<p>Singapore General Hospital</p>
+</li>
+<li>
+<p>Tan Tock Seng Hospital</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
