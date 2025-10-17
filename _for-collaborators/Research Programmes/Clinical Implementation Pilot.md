@@ -186,19 +186,47 @@ barriers to maximise cascade screening of First Degree Relatives (FDRs)
 and adopting a registry approach to address treatment adherence and gaps.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admiralty Medical Centre
-<br>Alexandra Hospital
-<br>Changi General Hospital
-<br>KK Women’s and Children’s Hospital
-<br>Khoo Teck Puat Hospital
-<br>National Healthcare Group Polyclinics
-<br>National University Polyclinics
-<br>National Heart Centre of Singapore
-<br>National University Hospital
-<br>Ng Teng Fong General Hospital
-<br>Sengkang General Hospital
-<br>Singapore General Hospital
-<br>Tan Tock Seng Hospital</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Admiralty Medical Centre</p>
+</li>
+<li>
+<p>Alexandra Hospital</p>
+</li>
+<li>
+<p>Changi General Hospital</p>
+</li>
+<li>
+<p>KK Women’s and Children’s Hospital</p>
+</li>
+<li>
+<p>Khoo Teck Puat Hospital</p>
+</li>
+<li>
+<p>National Healthcare Group Polyclinics</p>
+</li>
+<li>
+<p>National University Polyclinics</p>
+</li>
+<li>
+<p>National Heart Centre of Singapore</p>
+</li>
+<li>
+<p>National University Hospital</p>
+</li>
+<li>
+<p>Ng Teng Fong General Hospital</p>
+</li>
+<li>
+<p>Sengkang General Hospital</p>
+</li>
+<li>
+<p>Singapore General Hospital</p>
+</li>
+<li>
+<p>Tan Tock Seng Hospital</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
