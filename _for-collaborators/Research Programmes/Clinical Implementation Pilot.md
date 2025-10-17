@@ -41,23 +41,6 @@ or disease phenotypes.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -91,6 +74,7 @@ or disease phenotypes.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>&lt;table&gt;</p>
 <p>&lt;tbody&gt;</p>
 <p>&lt;tr&gt;</p>
