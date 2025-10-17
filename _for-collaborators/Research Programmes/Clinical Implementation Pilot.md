@@ -20,7 +20,8 @@ and targeted treatments.</p>
 and</p>
 </li>
 <li>
-<p>Inform policy decision-making for implementation in the local healthcare system</p>
+<p>Inform policy decision-making for implementation in the local healthcare
+system</p>
 </li>
 </ol>
 <p>PRECISE has awarded 5 CIPs in :&amp;nbsp;**Breast Cancer, Hereditary &amp;amp;
