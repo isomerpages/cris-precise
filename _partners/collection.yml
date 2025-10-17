@@ -2,6 +2,4 @@ collections:
   partners:
     output: true
     order:
-      - Global Economics and Evaluation of Clinical Genomics Sequencing Working
-        Group (GEECS).md
       - NalaGenetics.md
