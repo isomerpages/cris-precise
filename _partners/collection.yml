@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - National Supercomputing Centre (NSCC).md
       - Trusted Research and Real World Data Utilisation (TRUST).md
       - LifeStrands.md
       - Health Intervention and Policy Evaluation Research (HIPER).md
