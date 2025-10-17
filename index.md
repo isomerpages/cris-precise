@@ -24,7 +24,7 @@ sections:
       backgroundColor: gray
   - infopic:
       title: GLOW
-      subtitle: RESEARCH PROGRAMME
+      subtitle: Latest updates
       id: infopic
       description: Singapore to embark on study exploring links between Asian gut
         microbiomes and mental health.
@@ -34,7 +34,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: "Mental Health's New Frontier: The Microbiome Within"
-      subtitle: EDITORIAL FEATURE
+      subtitle: Latest updates
       id: infopic
       description: Could the key to tackling rising mental health challenges lie in
         the microbiome? Researchers at GLOW are leading the charge to find out.
@@ -45,7 +45,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Event highlights of PRECISE-IHCC Conference 2024
-      subtitle: EVENTS
+      subtitle: Latest updates
       id: infopic
       description: Over 700 thought leaders, clinicians, scientists, and industry
         experts from around the world gathered for insightful discussions.
