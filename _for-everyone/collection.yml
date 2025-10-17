@@ -2,7 +2,6 @@ collections:
   for-everyone:
     output: true
     order:
-      - Our Data Users/.keep
       - About PRECISE/.keep
       - About PRECISE/FAQs.md
       - About PRECISE/Singapore's Big Health Project.md
@@ -10,6 +9,7 @@ collections:
       - Everyday Genomics/Stories.md
       - Everyday Genomics/Testimonials.md
       - Everyday Genomics/Impact of Genomics on Daily Health.md
+      - Our Data Users/.keep
       - GLOW/.keep
       - SG10K Health/.keep
       - SG10K Health/Data Access.md
