@@ -81,16 +81,14 @@ for their specific conditions or disease phenotypes.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Awarded CIPs</strong>
-</p>
+<p>Awarded CIPs</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Summary of Proposal</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Institutions Involved</strong>
-</p>
+<p>Institutions Involved</p>
 </th>
 </tr>
 <tr>
