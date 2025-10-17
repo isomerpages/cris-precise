@@ -153,16 +153,38 @@ costs, shortcomings in the conventional proband-mediated process of cascade
 testing; and understanding reasons behind declining genetic testing.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Changi General Hospital
-<br>KK Women’s and Children’s Hospital
-<br>National Cancer Centre Singapore
-<br>National Healthcare Group
-<br>National University Health System
-<br>National University Cancer Institute, Singapore
-<br>Sengkang General Hospital
-<br>Singapore General Hospital
-<br>SingHealth
-<br>Tan Tock Seng Hospital</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Changi General Hospital</p>
+</li>
+<li>
+<p>KK Women’s and Children’s Hospital</p>
+</li>
+<li>
+<p>National Cancer Centre Singapore</p>
+</li>
+<li>
+<p>National Healthcare Group</p>
+</li>
+<li>
+<p>National University Health System</p>
+</li>
+<li>
+<p>National University Cancer Institute, Singapore</p>
+</li>
+<li>
+<p>Sengkang General Hospital</p>
+</li>
+<li>
+<p>Singapore General Hospital</p>
+</li>
+<li>
+<p>SingHealth</p>
+</li>
+<li>
+<p>Tan Tock Seng Hospital</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
