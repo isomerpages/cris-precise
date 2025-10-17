@@ -98,18 +98,17 @@ or disease phenotypes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1. <strong>BREA</strong>st Screening&nbsp;<strong>T</strong>ailored for&nbsp;<strong>HE</strong>r
-(BREATHE) – Pilot study of a risk-based breast cancer screening approach
-in Singapore (“BREATHE”)
+<p>1. BREAst Screening&nbsp;Tailored for&nbsp;HEr (BREATHE) – Pilot study
+of a risk-based breast cancer screening approach in Singapore (“BREATHE”)
 <br>
-<br><strong>Clinical Co-PI:</strong> A/Prof Mikael Hartman Department of Surgery,
-National University Hospital
+<br>Clinical Co-PI: A/Prof Mikael Hartman Department of Surgery, National
+University Hospital
 <br>
-<br><strong>Health Economist Co-PI:</strong> Dr Wang Yi Senior Research Fellow,
-Saw Swee Hock School of Public Health, National University of Singapore
+<br>Health Economist Co-PI: Dr Wang Yi Senior Research Fellow, Saw Swee Hock
+School of Public Health, National University of Singapore
 <br>
-<br><strong>Scientific Co-PI:</strong> Dr Li Jingmei Group Leader, Genome Institute
-of Singapore Agency for Science, Technology and Research (A\*STAR)</p>
+<br>Scientific Co-PI: Dr Li Jingmei Group Leader, Genome Institute of Singapore
+Agency for Science, Technology and Research (A\*STAR)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This pilot aims to integrate breast cancer risk prediction tools, incorporating
@@ -138,12 +137,12 @@ and cost.</p>
 <p>2. Improving access for clinical hereditary cancer genetic testing in
 Singapore (“HC”)
 <br>
-<br><strong>Clinical Co-PI:</strong> A/Prof Joanne Ngeow Head and Senior Consultant,
-Cancer Genetics Service, National Cancer Centre Singapore; Genomic Medicine,
-Lee Kong Chian School of Medicine
+<br>Clinical Co-PI: A/Prof Joanne Ngeow Head and Senior Consultant, Cancer
+Genetics Service, National Cancer Centre Singapore; Genomic Medicine, Lee
+Kong Chian School of Medicine
 <br>
-<br><strong>Health Economist Co-PI:</strong> A/Prof Ken Redekop Erasmus School
-of Health Policy and Management, Erasmus University Rotterdam</p>
+<br>Health Economist Co-PI: A/Prof Ken Redekop Erasmus School of Health Policy
+and Management, Erasmus University Rotterdam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This pilot aims to address the frequent underdiagnosis and undertreatment
