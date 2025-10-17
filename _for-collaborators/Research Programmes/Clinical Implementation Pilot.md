@@ -135,10 +135,7 @@ and cost.</p>
 <p>Genome Institute of Singapore, A\*STAR</p>
 </li>
 <li>
-<p>Jurong Medical Centre</p>
-</li>
-<li>
-<p>National University Hospital</p>
+<p>Jurong Medical Centre, National University Hospital</p>
 </li>
 <li>
 <p>National Cancer Centre Singapore</p>
@@ -147,10 +144,7 @@ and cost.</p>
 <p>Ng Teng Fong General Hospital</p>
 </li>
 <li>
-<p>Saw Swee Hock School of Public Health</p>
-</li>
-<li>
-<p>National University of Singapore</p>
+<p>Saw Swee Hock School of Public Health, National University of Singapore</p>
 </li>
 <li>
 <p>Yong Loo Lin School of Medicine, National University of Singapore</p>
