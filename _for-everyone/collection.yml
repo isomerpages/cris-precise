@@ -1,5 +1,5 @@
 collections:
-  research:
+  for-everyone:
     output: true
     order:
       - GLOW/GLOW (Gut Linked Outcomes in Wellbeing).md
