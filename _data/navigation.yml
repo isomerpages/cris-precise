@@ -4,9 +4,9 @@ links:
     collection: about-us
   - title: News and Highlights
     resource_room: true
-  - title: Research
+  - title: For Everyone
     collection: research
-  - title: Collaborate
+  - title: For Collaborators
     collection: collaborate
   - title: FAQs
     url: /faqs
