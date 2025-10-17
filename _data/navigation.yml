@@ -2,12 +2,12 @@ logo: /images/Logos/precise logo - transparent.png
 links:
   - title: About Us
     collection: about-us
+  - title: News and Highlights
+    resource_room: true
   - title: Research
     collection: research
   - title: Collaborate
     collection: collaborate
-  - title: News and Events
-    resource_room: true
   - title: FAQs
     url: /faqs
   - title: Contact Us
