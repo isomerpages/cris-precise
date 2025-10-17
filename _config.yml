@@ -2,8 +2,8 @@ title: Precision Health Research, Singapore (PRECISE)
 url: https://npm.sg
 favicon: /images/Logos/favicon.png
 colors:
-  primary-color: "#583f98"
-  secondary-color: "#49a287"
+  primary-color: "#584199"
+  secondary-color: "#bb2029"
   media-colors:
     - title: media-color-one
       color: "#213966"
@@ -54,7 +54,7 @@ plugins:
 staging: https://staging.dqnzptkrohwji.amplifyapp.com
 prod: https://master.dqnzptkrohwji.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/Logos/PRECISE.jpg
+shareicon: /images/Logos/1_Email_Signature_Logo_10cm_72dpi.png
 is_government: false
 google_analytics: ""
 google_analytics_ga4: G-F4BEQT87XS
