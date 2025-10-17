@@ -16,7 +16,7 @@ and targeted treatments.</p>
 <p>The objectives of the CIP grant call were to:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Achieve progress towards&amp;nbsp;[Singapore’s RIE 2025 HHP goals]( https://www.nrf.gov.sg/rie2025-plan/human-health-and-potential);
+<p>Achieve progress towards&amp;nbsp;[Singapore’s RIE 2025 HHP goals](https://www.nrf.gov.sg/rie2025-plan/human-health-and-potential);
 and</p>
 </li>
 <li>
