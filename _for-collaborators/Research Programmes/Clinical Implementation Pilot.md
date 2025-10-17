@@ -61,40 +61,32 @@ or disease phenotypes.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Clinical Implementation Pilots/hc-image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research Programmes/Clinical Implementation Pilots/hc-image.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Clinical Implementation Pilots/bcs-image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research Programmes/Clinical Implementation Pilots/bcs-image.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research Programmes/Clinical Implementation Pilots/hafc-image.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research Programmes/Clinical Implementation Pilots/kd-image.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research Programmes/Clinical Implementation Pilots/dr-image.jpg">
+</div>
 </td>
 </tr>
 </tbody>
