@@ -356,4 +356,7 @@ that should be incorporated into the genotyping platform.</p>
 </tbody>
 </table>
 <p></p>
-<p>!\[\](/images/Banners/banners\_page%20footer%201%20-%20purple.png)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banners_page footer 1 - purple.png">
+</div>
+<p></p>
