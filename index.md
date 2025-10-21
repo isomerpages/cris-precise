@@ -98,6 +98,24 @@ sections:
           link_text: ""
           link_url: ""
   - textcards:
+      title: For Everyone
+      id: textcards
+      description: Precision medicine can improve healthcare by giving doctors a more
+        detailed understanding of each patient.
+      cards:
+        - title: Singapore Big's Health Project
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Everyday Genomics
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Our Data Users
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - textcards:
       title: Our Core Pillars
       id: textcards
       cards:
