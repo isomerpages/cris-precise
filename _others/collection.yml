@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - Why We Do It.md
       - Our Story.md
       - test faq.md
