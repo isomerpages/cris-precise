@@ -18,7 +18,7 @@ sections:
           url: /singapore-big-health-project/
         - title: For Collaborators
           description: ""
-          url: /data-access/
+          url: /sg10k-health/
       variant: center
       size: sm
       backgroundColor: gray
