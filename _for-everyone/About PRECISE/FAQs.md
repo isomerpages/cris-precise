@@ -39,8 +39,7 @@ tailored and more targeted healthcare when needed.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-1-image.jpg">
 </div>
 <p></p>
-<p>ACCURATE</p>
-<p>PREDICTION</p>
+<p>ACCURATE PREDICTION</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -48,9 +47,7 @@ tailored and more targeted healthcare when needed.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-2-image.jpg">
 </div>
 <p></p>
-<p><strong>FASTER</strong>
-</p>
-<p><strong>DIAGNOSIS</strong>
+<p><strong>FASTER DIAGNOSIS</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -68,9 +65,7 @@ tailored and more targeted healthcare when needed.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-4-image.jpg">
 </div>
 <p></p>
-<p><strong>NEW</strong>
-</p>
-<p><strong>TREATMENTS</strong>
+<p><strong>NEW TREATMENTS</strong>
 </p>
 </th>
 </tr>
