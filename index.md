@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Everyone
           description: ""
-          url: /for-everyone/
+          url: /singapore-big-health-project/
         - title: For Collaborators
           description: ""
           url: /for-collaborators/
