@@ -16,6 +16,9 @@ The NPM Programme is a national research effort in Singapore. It studies how our
 ##### 2. What does "precision medicine" mean?
 
 Precision medicine is about using science and data to improve health for both individuals and populations. By studying genetic, lifestyle, and environmental factors across large groups of people and understanding the differences, doctors and researchers can design better ways to prevent disease, detect conditions earlier, and guide treatments more effectively. In this way, precision medicine strengthens public health while also supporting more tailored and more targeted healthcare when needed.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/Why%20We%20Do%20It/po-3-image.jpg">
+</div>
 
 ##### 3. Why is Singapore doing this?
 
