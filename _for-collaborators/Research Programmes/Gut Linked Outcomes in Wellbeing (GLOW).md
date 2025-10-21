@@ -45,6 +45,6 @@ or microbial therapies. &nbsp;</p>
 more details about the initiative.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Microbiomes and Mental Health/MindOverMicrobes_infographic_final_150dpi_reduced_size.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banners_page footer 1 - purple.png">
 </div>
 <p></p>
