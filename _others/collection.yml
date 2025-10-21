@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Long Read Sequencing.md
       - Research Highlights.md
       - Clinical Implementation Pilots.md
       - PRECISE SG100K Resource/PRECISE SG100K Scientific Committee.md
