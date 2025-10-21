@@ -116,6 +116,20 @@ sections:
           linktext: Learn more
           url: ""
   - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Research Programmes
+          description: Card description
+          linktext: Learn more
+          url: /phase-i-sg10k-health/
+        - title: Resources
+          description: Card description
+          linktext: Learn more
+          url: /data-access/
+  - textcards:
       title: Our Core Pillars
       id: textcards
       cards:
