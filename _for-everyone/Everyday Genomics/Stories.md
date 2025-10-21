@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Everyday Genomics
 ---
-<p><strong>Patient Story: Living With Familial Hypercholesterolemia</strong>
-</p>
+<h4><strong>Living With Familial Hypercholesterolemia</strong></h4>
 <p><strong><em>“All these years we just thought it was high cholesterol. We never imagined it was something genetic.”</em></strong>
 </p>
 <p>For more than three decades, <em>Patient A</em> (a healthcare professional)
@@ -46,10 +45,11 @@ has become an <strong>FH ambassador</strong>, helping to build a supportive
 community for patients and families.</p>
 <p>“The unknown can be fearful,” she says. “But there’s no need to avoid
 it.”</p>
-<p>&nbsp;</p>
+<p></p>
+<hr>
 <h3><strong>How can I share my story?</strong></h3>
 <p>You can email us at <strong><a rel="noopener noreferrer nofollow" target="_blank">contact@precise.cris.sg</a></strong> with
 a short summary of your experience or interest. Our communications team
 will follow up with you to guide the process.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
