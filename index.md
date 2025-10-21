@@ -129,7 +129,7 @@ sections:
         - title: Resources
           description: Card description
           linktext: Learn more
-          url: /data-access/
+          url: /data-user1/
   - textcards:
       title: Our Core Pillars
       id: textcards
