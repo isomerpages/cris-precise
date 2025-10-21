@@ -31,7 +31,7 @@ first time.</p>
 <p>“Concerns about genetic privacy are personal. But if you are not overly
 worried, testing is worth it. The benefits far outweigh the risks — for
 you and your loved ones.”</p>
-<p></p>
+<hr>
 <h3><strong>How can I share my story?</strong></h3>
 <p>You can email us at <strong><a rel="noopener noreferrer nofollow" target="_blank">contact@precise.cris.sg</a></strong> with
 a short summary of your experience or interest. Our communications team
