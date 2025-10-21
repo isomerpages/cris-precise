@@ -8,9 +8,8 @@ third_nav_title: Research Programmes
 <h4>Collecting, Characterising, and Cataloguing Biological and Molecular Data of 100,000 Singaporeans</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research/Call for Proposals/PRECISE_SG100K_Resource_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research Programmes/Call for Proposals/PRECISE_SG100K_Resource_.png">
 </div>
-<p></p>
 <h3><strong>Overview of PRECISE-SG100K Resource</strong></h3>
 <p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
 cohort dataset of ~100,000 Singaporean residents drawn from four major
