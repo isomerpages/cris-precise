@@ -15,8 +15,10 @@ and targeted treatments.</p>
 <p>The objectives of the CIP grant call were to:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Achieve progress towards Singapore’s RIE 2025 HHP goals and 
-</p><p>Inform policy decision-making for implementation in the local healthcare
+<p>Achieve progress towards Singapore’s RIE 2025 HHP goals and</p>
+</li>
+<li>
+<p>Inform policy decision-making for implementation in the local healthcare
 system</p>
 </li>
 </ol>
