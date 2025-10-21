@@ -25,7 +25,7 @@ Phase III is the biggest stage yet, involving up to 450,000 residents. Unlike ea
 
 Enrolment for NPM Phase III has not started yet. You can register your interest by emailing contact@precise.cris.sg. When enrolment begins, and if you meet the participation criteria, our hospital partners will contact you. Please check [**www.npm.sg**](https://www.npm.sg/) for the latest updates.
 
-##### 6. What will participants be asked to do?
+##### 6.What will participants be asked to do?
 
 Singaporean residents participating in NPM Phase III will be invited to donate a small blood sample to read your genetic code. You will also you will also be asked to give permission for researchers to look at your medical records (with personal details removed), this helps scientists understand how genes, health conditions, and treatments are linked.
 
@@ -33,10 +33,12 @@ Singaporean residents participating in NPM Phase III will be invited to donate a
 
 Currently, individual participant genetic results are not routinely returned to participants. The focus of this programme is on research to benefit the broader Singapore population rather than individual diagnosis. However, if researchers discover something important for your health during the study, there are processes in place to inform you through a genetic counsellor or your doctor.
 
-##### 8.        
+##### 8.Is my personal information safe?
 
-**Is my personal information safe?**
+Yes. Personal details like your name or NRIC are removed from the start, and all data is stored securely in Singapore. Only approved researchers working on projects that aim to improve healthcare for Singaporeans can access it under strict rules. Importantly, they will never know that the data belongs to you specifically. Participants also choose how their data may be used, and can opt out of future use at any time. These safeguards ensure privacy while allowing research to benefit public health.
 
-The programme spans 10 years. We have completed the first phase, in which we studied the genomes of 10,000 Singaporeans and identified common genetic variants (&gt;1%) that occur in the Singaporean population. In the next few years, we hope to collect data from 100,000 Singaporeans to reveal more uniquely Singaporean insights into the roles of genetic variants in disease. Another important focus will be testing precision medicine pilot programmes in real hospital settings. In the long run, we also hope to train future generations of skilled workers in the high-growth genomics and big data industries, who will help to propel Singapore to the forefront of precision medicine worldwide.
+##### 9.Is my personal information safe?
+
+Yes. Personal details like your name or NRIC are removed from the start, and all data is stored securely in Singapore. Only approved researchers working on projects that aim to improve healthcare for Singaporeans can access it under strict rules. Importantly, they will never know that the data belongs to you specifically. Participants also choose how their data may be used, and can opt out of future use at any time. These safeguards ensure privacy while allowing research to benefit public health.
 
 ![](/images/Banners/banners_page%20footer%203%20-%20purple.png)
