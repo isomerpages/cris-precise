@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - PRECISE SG100K Resource/Call for Proposals 2026 (CFP 2026).md
       - PRECISE SG100K Resource/Data Access Principles.md
       - PRECISE SG100K Resource/Overview.md
       - PRECISE SG100K Resource/.keep
