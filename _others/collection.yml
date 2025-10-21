@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - PRECISE SG100K Resource/.keep
       - Data Access.md
       - Why We Do It.md
       - Our Story.md
