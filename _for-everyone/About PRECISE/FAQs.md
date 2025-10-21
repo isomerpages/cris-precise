@@ -9,6 +9,10 @@ third_nav_title: About PRECISE
 
 The NPM Programme is a national research effort in Singapore. It studies how our genes (DNA), lifestyle, and environment affect health. This knowledge can help doctors move from "one-size-fits-all" care to more precise healthcare including preventive care, earlier screening, and closer monitoring for those at higher risk of developing for those at higher risk of developing genetic conditions. The goal is to keep people healthier for longer, not just treat disease after it develops.
 
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/patients_1.gif">
+</div>
+
 ##### 2. What does "precision medicine" mean?
 
 Precision medicine is about using science and data to improve health for both individuals and populations. By studying genetic, lifestyle, and environmental factors across large groups of people and understanding the differences, doctors and researchers can design better ways to prevent disease, detect conditions earlier, and guide treatments more effectively. In this way, precision medicine strengthens public health while also supporting more tailored and more targeted healthcare when needed.
