@@ -41,47 +41,43 @@ tailored and more targeted healthcare when needed.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-2-image.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-3-image.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-4-image.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ACCURATE PREDICTION</p>
+<p><strong>ACCURATE PREDICTION</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FASTER DIAGNOSIS</p>
+<p><strong>FASTER DIAGNOSIS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OPTIMISED TREATMENTS</p>
+<p><strong>OPTIMISED TREATMENTS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NEW TREATMENTS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>NEW TREATMENTS</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/Why%20We%20Do%20It/po-3-image.jpg">
-</div>
 <h5>3. Why is Singapore doing this?</h5>
 <p>Every population is different. Most genetic research has been done on
 Western populations. Singapore’s diverse Asian population gives us a chance
