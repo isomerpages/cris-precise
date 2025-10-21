@@ -29,7 +29,7 @@ sections:
       description: Singapore to embark on study exploring links between Asian gut
         microbiomes and mental health.
       button: Read more
-      url: https://www.npm.sg/microbiomes-mental-health/glow-gut-linked-outcomes-in-wellbeing/
+      url: /glow-gut-linked-outcomes-in-wellbeing/
       image: /images/Research Programmes/Microbiomes and Mental
         Health/IMG_0707_3x2.jpg
       alt: Image alt text
