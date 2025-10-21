@@ -15,8 +15,7 @@ and targeted treatments.</p>
 <p>The objectives of the CIP grant call were to:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Achieve progress towards&nbsp;<a href="https://www.nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore’s RIE 2025 HHP goals</u></a>;
-and</p>
+<p>Achieve progress towards&nbsp;Singapore’s RIE 2025 HHP goals; and</p>
 </li>
 <li>
 <p>Inform policy decision-making for implementation in the local healthcare
@@ -357,4 +356,4 @@ that should be incorporated into the genotyping platform.</p>
 </tbody>
 </table>
 <p></p>
-!\[\](/images/Banners/banners\_page%20footer%201%20-%20purple.png)
+<p>!\[\](/images/Banners/banners\_page%20footer%201%20-%20purple.png)</p>
