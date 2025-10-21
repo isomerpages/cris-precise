@@ -1,5 +1,5 @@
 collections:
-  faqs:
+  others:
     output: true
     order:
       - test faq.md
