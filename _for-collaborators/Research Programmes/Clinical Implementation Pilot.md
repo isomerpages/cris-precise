@@ -357,3 +357,4 @@ that should be incorporated into the genotyping platform.</p>
 </tbody>
 </table>
 <p></p>
+!\[\](/images/Banners/banners\_page%20footer%201%20-%20purple.png)
