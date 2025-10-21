@@ -60,7 +60,7 @@ tailored and more targeted healthcare when needed.</p>
 <p>OPTIMISED TREATMENTS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NEW TREATMENTS</p>
 </td>
 </tr>
 <tr>
