@@ -11,31 +11,23 @@ The NPM Programme is a national research effort in Singapore. It studies how our
 
 ##### 2. What does "precision medicine" mean?
 
-Precision medicine is about using science and data to improve health for both individuals and populations. By studying genetic, lifestyle, and
+Precision medicine is about using science and data to improve health for both individuals and populations. By studying genetic, lifestyle, and environmental factors across large groups of people and understanding the differences, doctors and researchers can design better ways to prevent disease, detect conditions earlier, and guide treatments more effectively. In this way, precision medicine strengthens public health while also supporting more tailored and more targeted healthcare when needed.
 
-##### 3. HOW CAN I GET PRESCRIBED PRECISION MEDICINE?
+##### 3. Why is Singapore doing this?
 
-Precision medicine is not available over the counter. Rather, precision medicine is an approach that uses results from genetic tests to help doctors put together a plan for care that usually involves very specific recommendations. In some cases, precision medicine can help make a more accurate diagnosis and improve treatment. In other cases, it can help people make decisions about healthy habits, earlier screening tests and other steps towards prevention if they are at risk for a particular disease.
+Every population is different. Most genetic research has been done on Western populations. Singapore’s diverse Asian population gives us a chance to discover important insights that are directly relevant to our communities, and to improve healthcare here at home.
 
-Currently, precision medicine approaches such as genetic testing are being used to diagnose some cancers and rare diseases. Research is ongoing to expand the types of diseases that can benefit from precision medicine approaches in the future. To achieve this, we have planned several pilot studies to investigate the large scale implementation of precision medicine in clinics and hospitals, as well as to evaluate its health and economic benefits.
+##### 4. What is Phase III of NPM about?
 
-##### 4. HOW WILL THE DATA THAT I CONTRIBUTE BE USED?
+Phase III is the biggest stage yet, involving up to 450,000 residents. Unlike earlier phases with healthy volunteers, this phase includes patients in hospitals. Studying patients allows researchers to see how genes affect real diseases, test new approaches in clinical care, and make findings more useful for preventive care and everyday healthcare in Singapore.
 
-Scientists and doctors will use the data to increase their understanding of how diseases develop and why some Singaporeans develop a disease, while others do not. Based on this understanding, scientists and doctors will be able to develop more targeted preventions and treatments for diseases, which may be more effective than current therapies and will benefit Singaporeans in the future.
+##### 5. How can I participate?
 
-##### 5. HOW WILL THE PROGRAMME KEEP THE DATA THAT I CONTRIBUTE SECURE AND PROTECT MY PRIVACY?
+Enrolment for NPM Phase III has not started yet. You can register your interest by emailing contact@precise.cris.sg. When enrolment begins, and if you meet the participation criteria, our hospital partners will contact you. Please check [**www.npm.sg**](https://www.npm.sg/) for the latest updates.
 
-Security and privacy are of utmost importance and will be strictly managed. Firstly, any personal information that identifies you, such as name, NRIC and address, will be removed from the data that you contribute. Secondly, this de-identified data will be accessed in a safe and secure manner by researchers who will use it for research that aligns with the national objective to deliver better healthcare outcomes for Singaporeans. These researchers will not know that the data they access is associated with you.
+##### 6. What will participants be asked to do?
 
-##### 6. WILL INSURANCE COMPANIES OR EMPLOYERS BE ABLE TO USE THE DATA (IF THEY OBTAINED IT SOMEHOW) TO DISCRIMINATE AGAINST ME?
-
-No, insurance companies or employers cannot use the data contributed by you to discriminate against you. Insurance companies need to abide by the relevant laws that prohibit unfair discrimination. Employers have to adhere to the Tripartite Guidelines on Fair Employment Practices (TGFEP), which prohibits any form of discrimination based on factors that are not related to merit, such as skills, experience or ability to perform the job.
-
-The Ministry of Health (MOH) and the Life Insurance Association (LIA) have developed the ‘Moratorium on Genetic Testing and Insurance’ to support Precision Medicine (PM) in Singapore. The Moratorium aims to prevent individuals from being deterred to undergo clinical genetic tests for any medical indications and/or participating in PM research due to concerns about insurability. With effect from 27 October 2021, life insurers in Singapore are not allowed to use predictive genetic test results in assessing or deciding the outcomes of insurance applications, unless certain criteria are satisfied.
-
-For more information, please head over to  MOH’s announcement – Moratorium on Genetic Testing & Insurance.
-
-For enquiries, please write to eLIS@moh.gov.sg
+Singaporean residents participating in NPM Phase III will be invited to donate a small blood sample to read your genetic code. You will also you will also be asked to give permission for researchers to look at your medical records (with personal details removed), this helps scientists understand how genes, health conditions, and treatments are linked.
 
 ##### 7. DO OTHER COUNTRIES HAVE PRECISION MEDICINE PROGRAMMES? IF SO, HOW IS SINGAPORE’S DIFFERENT?
 
