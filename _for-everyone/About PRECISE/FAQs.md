@@ -45,12 +45,14 @@ No. The [Ministry of Health](https://www.moh.gov.sg/others/resources-and-statist
 
 By joining, you help doctors and scientists understand how health and disease affect people like us in Singapore. This knowledge can lead to earlier screening, better prevention, and more effective treatments in our hospitals and clinics. Even if you don’t benefit right away, your contribution will help improve care for your family, friends, and future generations.
 
-##### 11. Will this affect my insurance?
+##### 11.What is genomic sequencing?
 
-No. The [Ministry of Health](https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance) and the Life Insurance Association of Singapore have agreed that genetic test results from research like NPM cannot be used to decide your insurance coverage or premiums.
+Genomic sequencing is like creating a detailed map of all the~n~ genes in your DNA. This map shows the tiny differences in genes (genetic variants) from person to person. These tiny differences influence your physical characteristics, how you respond to food and medications, your environment, and your risk of developing diseases. Having these genetic maps from many Singaporeans will help researchers study how diseases develop and design more targeted treatments.
 
-##### 12. Will this affect my insurance?
+##### 12.How can I get prescribed precision medicine?**
 
-No. The [Ministry of Health](https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance) and the Life Insurance Association of Singapore have agreed that genetic test results from research like NPM cannot be used to decide your insurance coverage or premiums.
+Precision medicine is not available over the counter. Rather, precision medicine is an approach that uses results from genetic tests to help doctors put together a care plan with very specific recommendations. In some cases, precision medicine can help make a more accurate diagnosis and improve treatment. In other cases, it can help people opt for earlier screening tests and other prevention steps if they are at risk for a particular disease.
+
+Currently, precision medicine approaches such as genetic testing are being used to diagnose some inherited cancers, inherited high cholesterol and rare diseases. NPM is doing research to expand the types of medical conditions that can benefit from precision medicine approaches.
 
 ![](/images/Banners/banners_page%20footer%203%20-%20purple.png)
