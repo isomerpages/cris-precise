@@ -79,6 +79,9 @@ Unlike earlier phases with healthy volunteers, this phase includes patients
 in hospitals. Studying patients allows researchers to see how genes affect
 real diseases, test new approaches in clinical care, and make findings
 more useful for preventive care and everyday healthcare in Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/Q4.jpg">
+</div>
 <h5>5. How can I participate?</h5>
 <p>Enrolment for NPM Phase III has not started yet. You can register your
 interest by emailing contact@precise.cris.sg. When enrolment begins, and
