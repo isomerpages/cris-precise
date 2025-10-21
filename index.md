@@ -110,7 +110,7 @@ sections:
         - title: Everyday Genomics
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /stories/
         - title: Our Data Users
           description: Card description
           linktext: Learn more
