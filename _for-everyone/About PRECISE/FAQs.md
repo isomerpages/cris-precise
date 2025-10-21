@@ -24,6 +24,10 @@ doctors and researchers can design better ways to prevent disease, detect
 conditions earlier, and guide treatments more effectively. In this way,
 precision medicine strengthens public health while also supporting more
 tailored and more targeted healthcare when needed.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/FAQ_Q2.png">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
