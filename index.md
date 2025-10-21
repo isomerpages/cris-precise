@@ -73,6 +73,30 @@ sections:
       url: /news-and-events/editorial-features/sg100k-translating-insights-from-100000-genomic-data-sets/
       image: /images/Homepage/sg100k.png
       alt: Image alt text
+  - announcements:
+      title: Latest Updates
+      id: announcements
+      subtitle: News and highlights
+      announcement_items:
+        - title: Conference 2025
+          date: 21 October 2025
+          announcement: The conference discussed opportunities and challenges in
+            translating advances in precision medicine to reshape the landscape
+            of modern healthcare.
+          link_text: Sign up
+          link_url: https://www.npm.sg/
+        - title: "Our Future Health: Reimagining Prevention for the NHS"
+          date: 21 October 2025
+          announcement: As the saying goes, prevention is better than cure. But how do you
+            deliver preventive care at scale—for 68 million people—in a way that
+            is evidence-based and cost-effective?
+          link_text: Read more
+          link_url: https://www.npm.sg/
+        - title: Discoveries from mapping 10,000 genomes
+          date: 21 October 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
   - textcards:
       title: Our Core Pillars
       id: textcards
