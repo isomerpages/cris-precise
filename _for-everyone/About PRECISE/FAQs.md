@@ -40,6 +40,9 @@ Currently, individual participant genetic results are not routinely returned to 
 ##### 8.Is my personal information safe?
 
 Yes. Personal details like your name or NRIC are removed from the start, and all data is stored securely in Singapore. Only approved researchers working on projects that aim to improve healthcare for Singaporeans can access it under strict rules. Importantly, they will never know that the data belongs to you specifically. Participants also choose how their data may be used, and can opt out of future use at any time. These safeguards ensure privacy while allowing research to benefit public health.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/the-way-precise-run2-1161px.jpg">
+</div>
 
 ##### 9. Will this affect my insurance?
 
