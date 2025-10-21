@@ -38,18 +38,18 @@ tailored and more targeted healthcare when needed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-1-image.jpg">
 </div>
+<p><strong>ACCURATE PREDICTION</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-2-image.jpg">
-</div>
+<p><strong>FASTER DIAGNOSIS</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-3-image.jpg">
-</div>
+<p><strong>OPTIMISED TREATMENTS</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -60,20 +60,16 @@ tailored and more targeted healthcare when needed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ACCURATE PREDICTION</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FASTER DIAGNOSIS</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>OPTIMISED TREATMENTS</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NEW TREATMENTS</strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
