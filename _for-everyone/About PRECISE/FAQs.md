@@ -7,13 +7,11 @@ third_nav_title: About PRECISE
 ---
 ##### 1.  What is the National Precise Medicine (NPM) Programme?
 
-We are working with the SG100K study to bring participants into the precision medicine programme. SG100K is a state-of-the-art population health research study, established as a collaboration between leading researchers at Singapore’s National Universities and hospitals. SG100K is coordinated by Professor John Chambers at LKC Medicine, NTU. Participation in SG100K involves completing a consent form and providing blood for genomic sequencing and biological samples for a range of other analyses. The team will also ask you for your permission to access your health records and other questions about your health and lifestyle to help us understand how these factors influence Singaporeans’ health. 
+The NPM Programme is a national research effort in Singapore. It studies how our genes (DNA), lifestyle, and environment affect health. This knowledge can help doctors move from "one-size-fits-all" care to more precise healthcare including preventive care, earlier screening, and closer monitoring for those at higher risk of developing for those at higher risk of developing genetic conditions. The goal is to keep people healthier for longer, not just treat disease after it develops.
 
-For more information, please visit the SG100K website [here](https://www.healthforlife.sg/Home).
+##### 2. What does "precision medicine" mean?
 
-##### 2. WHAT IS THE PURPOSE OF GENOMIC SEQUENCING?
-
-Genomic sequencing will produce a map of each person’s genes and the differences in these genes from person to person. These differences, which are called genetic variants, influence the physical characteristics of each person, how they respond to food, medications and their environment, as well as their risk of developing disease. Having these genetic variant maps of many people in Singapore will help researchers to study how we develop diseases and to design more targeted treatments for these diseases.
+Precision medicine is about using science and data to improve health for both individuals and populations. By studying genetic, lifestyle, and
 
 ##### 3. HOW CAN I GET PRESCRIBED PRECISION MEDICINE?
 
