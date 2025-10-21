@@ -30,7 +30,8 @@ sections:
         microbiomes and mental health.
       button: Read more
       url: https://www.npm.sg/microbiomes-mental-health/glow-gut-linked-outcomes-in-wellbeing/
-      image: /images/Research/Microbiomes and Mental Health/IMG_0707_3x2.jpg
+      image: /images/Research Programmes/Microbiomes and Mental
+        Health/IMG_0707_3x2.jpg
       alt: Image alt text
   - infopic:
       title: "Mental Health's New Frontier: The Microbiome Within"
