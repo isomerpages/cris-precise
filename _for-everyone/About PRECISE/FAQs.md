@@ -14,7 +14,7 @@ those at higher risk of developing for those at higher risk of developing
 genetic conditions. The goal is to keep people healthier for longer, not
 just treat disease after it develops.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/patients_1.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/patients_1.gif">
 </div>
 <h5>2. What does "precision medicine" mean?</h5>
 <p>Precision medicine is about using science and data to improve health for
@@ -36,7 +36,7 @@ tailored and more targeted healthcare when needed.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-1-image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/po-1-image.jpg">
 </div>
 <p></p>
 <p>ACCURATE PREDICTION</p>
@@ -44,7 +44,7 @@ tailored and more targeted healthcare when needed.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-2-image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/po-2-image.jpg">
 </div>
 <p></p>
 <p><strong>FASTER DIAGNOSIS</strong>
@@ -53,7 +53,7 @@ tailored and more targeted healthcare when needed.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-3-image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/po-3-image.jpg">
 </div>
 <p></p>
 <p><strong>OPTIMISED TREATMENTS</strong>
@@ -62,7 +62,7 @@ tailored and more targeted healthcare when needed.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-4-image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/po-4-image.jpg">
 </div>
 <p></p>
 <p><strong>NEW TREATMENTS</strong>
@@ -83,7 +83,7 @@ in hospitals. Studying patients allows researchers to see how genes affect
 real diseases, test new approaches in clinical care, and make findings
 more useful for preventive care and everyday healthcare in Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/Q4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/Q4.jpg">
 </div>
 <h5>5. How can I participate?</h5>
 <p>Enrolment for NPM Phase III has not started yet. You can register your
@@ -113,7 +113,7 @@ data belongs to you specifically. Participants also choose how their data
 may be used, and can opt out of future use at any time. These safeguards
 ensure privacy while allowing research to benefit public health.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/the-way-precise-run2-1161px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/the-way-precise-run2-1161px.jpg">
 </div>
 <h5>9. Will this affect my insurance?</h5>
 <p>No. The <a href="https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a> and
