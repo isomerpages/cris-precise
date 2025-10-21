@@ -104,7 +104,7 @@ sections:
       description: Precision medicine can improve healthcare by giving doctors a more
         detailed understanding of each patient.
       cards:
-        - title: Singapore Big's Health Project
+        - title: Singapore's Big Health Project
           description: Card description
           linktext: Learn more
           url: /singapore-s-big-health-project/
@@ -115,7 +115,7 @@ sections:
         - title: Our Data Users
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /our-data-users/
   - textcards:
       title: For Collaborators
       id: textcards
