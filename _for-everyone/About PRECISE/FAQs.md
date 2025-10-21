@@ -28,53 +28,6 @@ tailored and more targeted healthcare when needed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/FAQ_Q2.png">
 </div>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/po-1-image.jpg">
-</div>
-<p></p>
-<p>ACCURATE PREDICTION</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/po-2-image.jpg">
-</div>
-<p></p>
-<p><strong>FASTER DIAGNOSIS</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/po-3-image.jpg">
-</div>
-<p></p>
-<p><strong>OPTIMISED TREATMENTS</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/po-4-image.jpg">
-</div>
-<p></p>
-<p><strong>NEW TREATMENTS</strong>
-</p>
-</th>
-</tr>
-</tbody>
-</table>
 <h5>3. Why is Singapore doing this?</h5>
 <p>Every population is different. Most genetic research has been done on
 Western populations. Singapore’s diverse Asian population gives us a chance
