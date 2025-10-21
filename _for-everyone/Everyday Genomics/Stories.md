@@ -14,6 +14,9 @@ was not clear whether the symptoms were due to the heart condition or the
 treatment itself.</p>
 <p>That was when pharmacogenomics (PGx) testing provided the answer.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/Stories/02_Patient_Story_PGx_Patient_image.png">
+</div>
 <p>The transition was not just about switching medication — it was about
 clarity and confidence. While the genetic report itself was technical,
 pharmacists took the time to explain what the results meant in everyday
