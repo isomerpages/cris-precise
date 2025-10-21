@@ -40,7 +40,7 @@ sections:
       description: Could the key to tackling rising mental health challenges lie in
         the microbiome? Researchers at GLOW are leading the charge to find out.
       button: READ MORE
-      url: /mental-health-s-new-frontier-the-microbiome-within/
+      url: //mental-health-s-new-frontier-the-microbiome-within/
       image: /images/Resources/Editorial
         Features/2025/Glow_thumbnail_John_and_Patrick.png
       alt: Image alt text
@@ -51,7 +51,7 @@ sections:
       description: Over 700 thought leaders, clinicians, scientists, and industry
         experts from around the world gathered for insightful discussions.
       button: View conference highlights
-      url: https://www.npm.sg/news-and-events/events/precise-ihcc-conference/
+      url: //events/precise-ihcc-conference/
       image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - infopic:
