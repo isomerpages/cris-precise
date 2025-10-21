@@ -88,20 +88,20 @@ interest by emailing contact@precise.cris.sg. When enrolment begins, and
 if you meet the participation criteria, our hospital partners will contact
 you. Please check <strong><a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">www.npm.sg</a></strong> for
 the latest updates.</p>
-<h5>6.What will participants be asked to do?</h5>
+<h5>6. What will participants be asked to do?</h5>
 <p>Singaporean residents participating in NPM Phase III will be invited to
 donate a small blood sample to read your genetic code. You will also you
 will also be asked to give permission for researchers to look at your medical
 records (with personal details removed), this helps scientists understand
 how genes, health conditions, and treatments are linked.</p>
-<h5>7.Will I receive my genetic test results?</h5>
+<h5>7. Will I receive my genetic test results?</h5>
 <p>Currently, individual participant genetic results are not routinely returned
 to participants. The focus of this programme is on research to benefit
 the broader Singapore population rather than individual diagnosis. However,
 if researchers discover something important for your health during the
 study, there are processes in place to inform you through a genetic counsellor
 or your doctor.</p>
-<h5>8.Is my personal information safe?</h5>
+<h5>8. Is my personal information safe?</h5>
 <p>Yes. Personal details like your name or NRIC are removed from the start,
 and all data is stored securely in Singapore. Only approved researchers
 working on projects that aim to improve healthcare for Singaporeans can
@@ -117,13 +117,13 @@ ensure privacy while allowing research to benefit public health.</p>
 the Life Insurance Association of Singapore have agreed that genetic test
 results from research like NPM cannot be used to decide your insurance
 coverage or premiums.</p>
-<h5>10.What are the benefits of joining?</h5>
+<h5>10. What are the benefits of joining?</h5>
 <p>By joining, you help doctors and scientists understand how health and
 disease affect people like us in Singapore. This knowledge can lead to
 earlier screening, better prevention, and more effective treatments in
 our hospitals and clinics. Even if you don’t benefit right away, your contribution
 will help improve care for your family, friends, and future generations.</p>
-<h5>11.What is genomic sequencing?</h5>
+<h5>11. What is genomic sequencing?</h5>
 <p>Genomic sequencing is like creating a detailed map of all the~n~ genes
 in your DNA. This map shows the tiny differences in genes (genetic variants)
 from person to person. These tiny differences influence your physical characteristics,
@@ -131,7 +131,7 @@ how you respond to food and medications, your environment, and your risk
 of developing diseases. Having these genetic maps from many Singaporeans
 will help researchers study how diseases develop and design more targeted
 treatments.</p>
-<h5>12.How can I get prescribed precision medicine?**</h5>
+<h5>12. How can I get prescribed precision medicine?**</h5>
 <p>Precision medicine is not available over the counter. Rather, precision
 medicine is an approach that uses results from genetic tests to help doctors
 put together a care plan with very specific recommendations. In some cases,
