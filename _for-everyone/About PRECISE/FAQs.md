@@ -29,14 +29,14 @@ Enrolment for NPM Phase III has not started yet. You can register your interest 
 
 Singaporean residents participating in NPM Phase III will be invited to donate a small blood sample to read your genetic code. You will also you will also be asked to give permission for researchers to look at your medical records (with personal details removed), this helps scientists understand how genes, health conditions, and treatments are linked.
 
-##### 7. DO OTHER COUNTRIES HAVE PRECISION MEDICINE PROGRAMMES? IF SO, HOW IS SINGAPORE’S DIFFERENT?
+##### 7.Will I receive my genetic test results?
 
-Several countries including the U.S., Canada, U.K., China and Japan, have started national precision medicine programmes and most of these are in their early days. Based on initial findings, it is becoming increasingly obvious there are diseases more common in Asians than in Caucasians and this is largely attributed to the genetic differences between races, yet the Asian genetic makeup is not extensively studied and poorly understood. This “Asian genetic diversity gap” has hindered efforts to discover disease-associated genes that impact Asians.
+Currently, individual participant genetic results are not routinely returned to participants. The focus of this programme is on research to benefit the broader Singapore population rather than individual diagnosis. However, if researchers discover something important for your health during the study, there are processes in place to inform you through a genetic counsellor or your doctor.
 
-The Singapore precision medicine programme aims to help fill this “genetic diversity gap” and facilitate the discovery of more effective preventions and treatments for Asian populations.
+##### 8.        
 
-##### 8. WHAT’S COMING UP NEXT FOR THE PRECISION MEDICINE PROGRAMME?
+**Is my personal information safe?**
 
-The programme spans 10 years. We have completed the first phase, in which we studied the genomes of 10,000 Singaporeans and identified common genetic variants (>1%) that occur in the Singaporean population. In the next few years, we hope to collect data from 100,000 Singaporeans to reveal more uniquely Singaporean insights into the roles of genetic variants in disease. Another important focus will be testing precision medicine pilot programmes in real hospital settings. In the long run, we also hope to train future generations of skilled workers in the high-growth genomics and big data industries, who will help to propel Singapore to the forefront of precision medicine worldwide.
+The programme spans 10 years. We have completed the first phase, in which we studied the genomes of 10,000 Singaporeans and identified common genetic variants (&gt;1%) that occur in the Singaporean population. In the next few years, we hope to collect data from 100,000 Singaporeans to reveal more uniquely Singaporean insights into the roles of genetic variants in disease. Another important focus will be testing precision medicine pilot programmes in real hospital settings. In the long run, we also hope to train future generations of skilled workers in the high-growth genomics and big data industries, who will help to propel Singapore to the forefront of precision medicine worldwide.
 
 ![](/images/Banners/banners_page%20footer%203%20-%20purple.png)
