@@ -43,11 +43,17 @@ tailored and more targeted healthcare when needed.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-2-image.jpg">
+</div>
 <p><strong>FASTER DIAGNOSIS</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-3-image.jpg">
+</div>
 <p><strong>OPTIMISED TREATMENTS</strong>
 </p>
 </th>
@@ -56,21 +62,9 @@ tailored and more targeted healthcare when needed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Why We Do It/po-4-image.jpg">
 </div>
+<p><strong>NEW TREATMENTS</strong>
+</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
