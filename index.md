@@ -51,7 +51,7 @@ sections:
       description: Over 700 thought leaders, clinicians, scientists, and industry
         experts from around the world gathered for insightful discussions.
       button: View conference highlights
-      url: //events/precise-ihcc-conference/
+      url: /news-and-highlights/events/precise-ihcc-conference/
       image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - infopic:
