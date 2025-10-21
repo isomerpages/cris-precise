@@ -13,7 +13,6 @@ medication but soon experienced troubling breathlessness. At first, it
 was not clear whether the symptoms were due to the heart condition or the
 treatment itself.</p>
 <p>That was when pharmacogenomics (PGx) testing provided the answer.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/Stories/02_Patient_Story_PGx_Patient_image.png">
 </div>
