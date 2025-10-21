@@ -37,8 +37,8 @@ Currently, individual participant genetic results are not routinely returned to 
 
 Yes. Personal details like your name or NRIC are removed from the start, and all data is stored securely in Singapore. Only approved researchers working on projects that aim to improve healthcare for Singaporeans can access it under strict rules. Importantly, they will never know that the data belongs to you specifically. Participants also choose how their data may be used, and can opt out of future use at any time. These safeguards ensure privacy while allowing research to benefit public health.
 
-##### 9.Is my personal information safe?
+##### 9. Will this affect my insurance?
 
-Yes. Personal details like your name or NRIC are removed from the start, and all data is stored securely in Singapore. Only approved researchers working on projects that aim to improve healthcare for Singaporeans can access it under strict rules. Importantly, they will never know that the data belongs to you specifically. Participants also choose how their data may be used, and can opt out of future use at any time. These safeguards ensure privacy while allowing research to benefit public health.
+No. The [Ministry of Health](https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance) and the Life Insurance Association of Singapore have agreed that genetic test results from research like NPM cannot be used to decide your insurance coverage or premiums.
 
 ![](/images/Banners/banners_page%20footer%203%20-%20purple.png)
