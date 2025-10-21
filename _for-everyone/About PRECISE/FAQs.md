@@ -131,7 +131,7 @@ how you respond to food and medications, your environment, and your risk
 of developing diseases. Having these genetic maps from many Singaporeans
 will help researchers study how diseases develop and design more targeted
 treatments.</p>
-<h5>12. How can I get prescribed precision medicine?**</h5>
+<h5>12. How can I get prescribed precision medicine?</h5>
 <p>Precision medicine is not available over the counter. Rather, precision
 medicine is an approach that uses results from genetic tests to help doctors
 put together a care plan with very specific recommendations. In some cases,
