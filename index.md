@@ -116,10 +116,10 @@ sections:
           linktext: Learn more
           url: ""
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: For Collaborators
       id: textcards
-      description: Text card description
+      description: Precision medicine can improve healthcare by giving doctors a more
+        detailed understanding of each patient.
       cards:
         - title: Research Programmes
           description: Card description
