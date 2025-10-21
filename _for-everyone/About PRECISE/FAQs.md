@@ -41,4 +41,16 @@ Yes. Personal details like your name or NRIC are removed from the start, and all
 
 No. The [Ministry of Health](https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance) and the Life Insurance Association of Singapore have agreed that genetic test results from research like NPM cannot be used to decide your insurance coverage or premiums.
 
+##### 10.What are the benefits of joining?
+
+By joining, you help doctors and scientists understand how health and disease affect people like us in Singapore. This knowledge can lead to earlier screening, better prevention, and more effective treatments in our hospitals and clinics. Even if you don’t benefit right away, your contribution will help improve care for your family, friends, and future generations.
+
+##### 11. Will this affect my insurance?
+
+No. The [Ministry of Health](https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance) and the Life Insurance Association of Singapore have agreed that genetic test results from research like NPM cannot be used to decide your insurance coverage or premiums.
+
+##### 12. Will this affect my insurance?
+
+No. The [Ministry of Health](https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance) and the Life Insurance Association of Singapore have agreed that genetic test results from research like NPM cannot be used to decide your insurance coverage or premiums.
+
 ![](/images/Banners/banners_page%20footer%203%20-%20purple.png)
