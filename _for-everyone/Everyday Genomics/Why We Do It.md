@@ -12,6 +12,9 @@ book is largely the same between individuals as all humans share 99.9%
 of their DNA. But the 0.1% difference is what makes each of us unique,
 and can sometimes even make the difference between health and disease.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/dna zoom.gif">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/Why%20We%20Do%20It/dna%20zoom.gif">
 </div>
 <h3><strong>Medicine as it is Practised Today</strong></h3>
@@ -40,7 +43,13 @@ by tools to analyse data on a large scale and with DNA sequencing becoming
 more affordable, precision medicine can improve healthcare by giving doctors
 a more detailed understanding of each patient.</p>
 <h3><strong>Positive Outcomes of Precision Medicine</strong></h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
