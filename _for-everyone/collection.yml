@@ -2,7 +2,6 @@ collections:
   for-everyone:
     output: true
     order:
-      - About PRECISE/.keep
       - Everyday Genomics/Stories.md
       - Everyday Genomics/.keep
       - Everyday Genomics/Testimonials.md
