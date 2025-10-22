@@ -52,7 +52,7 @@ a more detailed understanding of each patient.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/Why%20We%20Do%20It/po-1-image.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-1-image.jpg">
 </div>
 <p><strong>ACCURATE PREDICTION</strong>
 </p>
@@ -61,7 +61,7 @@ and act before it is too late</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/Why%20We%20Do%20It/po-2-image.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-2-image.jpg">
 </div>
 <p><strong>FASTER DIAGNOSES</strong>
 </p>
