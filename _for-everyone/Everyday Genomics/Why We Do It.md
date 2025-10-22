@@ -69,7 +69,7 @@ treatments</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomic/po-3-image.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-3-image.jpg">
 </div>
 <p><strong>OPTIMISED TREATMENTS</strong>
 </p>
@@ -99,11 +99,9 @@ European populations. Asian people—who make up 60% of the world population—a
 under-represented in these databases.</p>
 <h3><strong>SINGAPORE’S CONTRIBUTION TO PRECISION MEDICINE</strong></h3>
 <p></p>
+
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/1_Email_Signature_Logo_10cm_72dpi.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" src="/images/About%20Us/Why%20We%20Do%20It/precise-logo.png">
+<img style="width:150px" height="auto" width="100%" src="/images/Logos/1_Email_Signature_Logo_10cm_72dpi.png">
 </div>
 <p>With its multi-ethnic population that captures the diversity of Asia's
 genomes and strong research capabilities, Singapore is in an ideal position
