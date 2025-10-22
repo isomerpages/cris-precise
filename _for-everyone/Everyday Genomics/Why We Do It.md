@@ -12,7 +12,7 @@ book is largely the same between individuals as all humans share 99.9%
 of their DNA. But the 0.1% difference is what makes each of us unique,
 and can sometimes even make the difference between health and disease.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/dna%20zoom.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/Why%20We%20Do%20It/dna%20zoom.gif">
 </div>
 <h3><strong>Medicine as it is Practised Today</strong></h3>
 <p>Although doctors know that your DNA can influence how you respond to treatments,
@@ -23,13 +23,13 @@ third is determined by genetics, while the rest is affected by social or
 environmental factors and behavioural patterns which are poorly captured
 during routine medical consultations.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/iceberg.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/Why%20We%20Do%20It/iceberg.png">
 </div>
 <p>With this "one-size-fits-all" approach, all patients are given the same
 treatment even though
 <br>not all experience benefits and some even face negative side effects.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/patients_1.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/Why%20We%20Do%20It/patients_1.gif">
 </div>
 <h4>What is Precision Medicine?</h4>
 <p>Instead of treating all patients the same way, precision medicine takes
