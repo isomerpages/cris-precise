@@ -70,7 +70,7 @@ treatments</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/Why%20We%20Do%20It/po-3-image.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomic/po-3-image.jpg">
 </div>
 <p><strong>OPTIMISED TREATMENTS</strong>
 </p>
