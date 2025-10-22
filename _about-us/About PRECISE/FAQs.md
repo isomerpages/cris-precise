@@ -14,7 +14,7 @@ those at higher risk of developing for those at higher risk of developing
 genetic conditions. The goal is to keep people healthier for longer, not
 just treat disease after it develops.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/patients_1.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/patients_1.gif">
 </div>
 <h5>2. What does "precision medicine" mean?</h5>
 <p>Precision medicine is about using science and data to improve health for
@@ -70,7 +70,7 @@ data belongs to you specifically. Participants also choose how their data
 may be used, and can opt out of future use at any time. These safeguards
 ensure privacy while allowing research to benefit public health.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/the-way-precise-run2-1161px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/the-way-precise-run2-1161px.jpg">
 </div>
 <h5>9. Will this affect my insurance?</h5>
 <p>No. The <a href="https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a> and
