@@ -14,7 +14,6 @@ and can sometimes even make the difference between health and disease.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/dna zoom.gif">
 </div>
-
 <h3><strong>Medicine as it is Practised Today</strong></h3>
 <p>Although doctors know that your DNA can influence how you respond to treatments,
 they don’t routinely sequence your entire DNA book to predict your treatment
@@ -99,6 +98,10 @@ around the world have initiated national genomics programmes.</p>
 European populations. Asian people—who make up 60% of the world population—are
 under-represented in these databases.</p>
 <h3><strong>SINGAPORE’S CONTRIBUTION TO PRECISION MEDICINE</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos/1_Email_Signature_Logo_10cm_72dpi.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" src="/images/About%20Us/Why%20We%20Do%20It/precise-logo.png">
 </div>
@@ -108,8 +111,6 @@ to address our lack of understanding of Asian-specific genetic conditions.
 Precision Health Research, Singapore (PRECISE) is the central entity coordinating
 a whole of government effort to implement phase II of Singapore's 10-year
 National Precision Medicine strategy.</p>
-<div class="isomer-image-wrapper">
-</div>
 <h3><strong>HOW WILL MY DATA BE USED?</strong></h3>
 <p>To realise the potential of precision medicine, genetic data needs to
 be linked to lifestyle and health information. Scientists can then use
@@ -120,7 +121,6 @@ each occur in different populations at different levels. To identify the
 relevant variants, large databases are required. In other words, the more
 people that participate, the more accurate the predictions can be.</p>
 <div class="isomer-image-wrapper">
-
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/genetic-data-1161px.jpg">
 </div>
 <h3><strong>Public Engagement Efforts</strong></h3>
