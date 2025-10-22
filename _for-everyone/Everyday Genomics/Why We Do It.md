@@ -120,8 +120,9 @@ each occur in different populations at different levels. To identify the
 relevant variants, large databases are required. In other words, the more
 people that participate, the more accurate the predictions can be.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/strategy-1161px-1%20(1).jpg">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday GenomicsEveryday Genomic/genetic-data-1161px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20W<img src=">
+t/strategy-1161px-1%20(1).jpg" alt="" width="100%" height="auto" style="width: 100%"&gt;
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday GenomicsEveryday Genom/genetic-data-1161px.jpg">
 </div>
 <h3><strong>Public Engagement Efforts</strong></h3>
 <p>Our work will not succeed without a Here are some activities we have conducted
