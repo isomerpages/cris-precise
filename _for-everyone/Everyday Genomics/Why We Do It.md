@@ -79,7 +79,7 @@ reducing side-effects</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/Why%20We%20Do%20It/po-4-image.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-4-image.jpg">
 </div>
 <p><strong>New Treatment</strong>
 </p>
