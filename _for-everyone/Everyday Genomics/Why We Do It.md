@@ -109,7 +109,6 @@ Precision Health Research, Singapore (PRECISE) is the central entity coordinatin
 a whole of government effort to implement phase II of Singapore's 10-year
 National Precision Medicine strategy.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/strategy-1161px-1%20(1).jpg">
 </div>
 <h3><strong>HOW WILL MY DATA BE USED?</strong></h3>
 <p>To realise the potential of precision medicine, genetic data needs to
@@ -121,19 +120,20 @@ each occur in different populations at different levels. To identify the
 relevant variants, large databases are required. In other words, the more
 people that participate, the more accurate the predictions can be.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/genetic-data-1161px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/strategy-1161px-1%20(1).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday GenomicsEveryday Genomic/genetic-data-1161px.jpg">
 </div>
 <h3><strong>Public Engagement Efforts</strong></h3>
 <p>Our work will not succeed without a Here are some activities we have conducted
 over the years to get your input on what precision medicine can do for
 Singapore and how we should go about doing it:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/public-engagement-efforts_1.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/public-engagement-efforts_1.gif">
 </div>
 <p>Your valuable feedback has shaped the way PRECISE is run, including how
 the data collected is stored, secured and retrieved.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/the-way-precise-run2-1161px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/the-way-precise-run2-1161px.jpg">
 </div>
 <h3><strong>MAKING THE FUTURE OF MEDICINE A REALITY</strong></h3>
 <p>Healthcare has made great strides in the last hundred years. But the next
@@ -141,7 +141,7 @@ hundred years promise to be even more exciting. Precision medicine will
 not only improve the lives of patients but will also have a profound impact
 on the way research is conducted and shape our future economy.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/mtf-image.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/mtf-image.png">
 </div>
 <h3><strong>HOW CAN I TAKE PART?</strong></h3>
 <p>Whether you are a researcher, company representative or ordinary citizen,
@@ -149,6 +149,6 @@ we want to work with you. Get in touch with us today by emailing&nbsp;
 <a href="mailto:contact@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">contact@precise.cris.sg</a>&nbsp;to find out more about how you can participate
 in this landmark project.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Why%20We%20Do%20It/take-part.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/take-part.jpg">
 </div>
 <p></p>
