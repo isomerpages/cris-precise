@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About PRECISE/.keep
-      - About PRECISE/FAQs.md
       - Everyday Genomics/Stories.md
       - Everyday Genomics/.keep
       - Everyday Genomics/Testimonials.md
