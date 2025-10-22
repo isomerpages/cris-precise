@@ -1,5 +1,5 @@
 collections:
-  others:
+  old-files:
     output: true
     order:
       - Long Read Sequencing2/Call for Sample Submission (closed).md
