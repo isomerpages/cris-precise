@@ -130,8 +130,7 @@ metabolic disease.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Liu Dianbo</strong>
-<br>National University of</p>
-<p>Singapore
+<br>National University of Singapore
 <br>Ophthamology</p>
 </li>
 <li>
