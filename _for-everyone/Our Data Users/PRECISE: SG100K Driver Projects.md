@@ -899,7 +899,7 @@ design.</p>
 <p><strong>Institutions involved:</strong> Nanyang Technological University,
 Lee Kong Chian School of Medicine, Institute of Mental Health</p>
 <hr>
-<h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects1</strong></h4>
+<h4><strong>Asian-specific Parkinson’s disease-linked genetic risk variants and systemic clinical outcomes</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
