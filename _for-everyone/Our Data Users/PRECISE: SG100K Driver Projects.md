@@ -180,10 +180,6 @@ ocular health.</p>
 National University of Singapore, A*STAR Genome Institute of Singapore</p>
 <hr>
 <h4><strong>Genetic variants contributing to clonal haematopoiesis across diverse Asian genomes</strong></h4>
-<blockquote>
-<p><strong>Topic: Clonal Haematopoiesis</strong>
-</p>
-</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -237,8 +233,7 @@ three major ancestry groups.</p>
 </li>
 <li>
 <p>Correlate CH status with clinical metadata, measures of ageing and disease
-incidence, and disease-related</p>
-<p>variables including biomarkers.</p>
+incidence, and disease-related variables including biomarkers.</p>
 </li>
 <li>
 <p>Discover novel genetic associations with CH.</p>
