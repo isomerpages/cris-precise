@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h4><strong>Topic: Mendelian</strong></h4>
+<h4><strong>Topic: Mendelian Diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
