@@ -630,8 +630,7 @@ Duke-NUS Medical School</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Huang Jian</strong>
-<br>A*STAR Singapore Institute for</p>
-<p>Clinical Sciences and Bioinformatics Institute</p>
+<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Dennis Wan</strong>
@@ -647,15 +646,13 @@ health outcomes using an observational study design</p>
 </li>
 <li>
 <p>Identify the non-synonymous single nucleotide polymorphisms (SNPs) of
-GLP-1</p>
-<p>receptor agonist prescription and predict nsSNPs responsible for the differential
-response to GLP-1 receptor agonist.</p>
+GLP-1 receptor agonist prescription and predict nsSNPs responsible for
+the differential response to GLP-1 receptor agonist.</p>
 </li>
 <li>
-<p>Provide genetic evidence for the therapeutic</p>
-<p>potentials and adverse effects of GLP-1 receptor agonists by adopting
-a drug target</p>
-<p>Mendelian randomisation design.</p>
+<p>Provide genetic evidence for the therapeutic potentials and adverse effects
+of GLP-1 receptor agonists by adopting a drug target Mendelian randomisation
+design.</p>
 </li>
 </ol>
 </td>
