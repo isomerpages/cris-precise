@@ -520,14 +520,15 @@ of Singapore, Lee Kong Chian School of Medicine</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Mark Chan</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Lead PI: Joanne Ngeow</strong>
+</p>
+<p>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicholas Chew</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Co-Lead PI: Rajkumar s/o</strong>
+</p>
+<p><strong>Dorajoo</strong>
+<br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
 </td>
