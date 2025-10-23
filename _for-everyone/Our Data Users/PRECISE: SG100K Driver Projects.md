@@ -765,8 +765,9 @@ National University of Singapore</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Generate a SG100K genome wide TR variation catalogue and characterisation
-their respective prevalence in Asian populations.</p>
+<p>Validate disease-associated genetic polymorphisms and enviromental factors
+that were previously identified and functionally characterised in the SMCGES
+cohort, using the PRECISE-SG100K dataset.</p>
 </li>
 <li>
 <p>Characterise the contributions of TR variations to the aetiology of complex
