@@ -212,34 +212,34 @@ muscle mass.</p>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Jimmy Lee</strong>
-<br>Institute of Mental Health</p>
+<p><strong>Co-Lead PI: Dr Leong Khai Pang</strong>
+<br>Tan Tock Seng Hospital</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Liu Jianjun</strong>
-<br>Acting Executive Director, Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Dr Wharton Chan</strong>
+<br>Duke-NUS Medical School</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Establish the biological underpinnings for cognitive function in diverse
-Asian and global populations.</p>
+<p>Generate a high-resolution human leukocyte antigen (HLA) reference panel
+in Asian populations.</p>
 </li>
 <li>
-<p>Establish the biological convergence between cognitive function and disease
-traits.</p>
+<p>Generate frequencies of HLA alleles and haplotypes in Asian populations
+for local reference and for global population comparisons.</p>
 </li>
 <li>
-<p>Establish epidemiological and genomic risk predictors of cognitive health.</p>
+<p>Conduct association analyses of HLAalleles in outcomes including auto
+immune diseases and pharmacogenomic responses.</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
-Nanyang Technological University, Institute of Mental Health, National
-Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
+<p><strong>Institutions involved:</strong> National University of Singapore,
+Tan Tock Seng Hospital, Duke-NUS Medical School</p>
 <p></p>
