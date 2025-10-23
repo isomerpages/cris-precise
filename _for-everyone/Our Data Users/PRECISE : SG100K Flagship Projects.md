@@ -266,31 +266,35 @@ Tan Tock Seng Hospital, Duke-NUS Medical School</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Max Lam</strong>
+<p><strong>Lead PI: Prof John Chambers</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Jimmy Lee</strong>
+<p><strong>Co-Lead PI: A/P Sim Xueling</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Liu Jianjun</strong>
-<br>Acting Executive Director, Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Prof Chen Ching-Yu</strong>
+<br>Duke-NUS Medical School</p>
+</li>
+<li>
+<p><strong>Lead PI: Prof Yeo Khung Keong</strong>
+<br>National Heart Centre Singapore</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Establish the biological underpinnings for cognitive function in diverse
-Asian and global populations.</p>
+<p>Determine the behavioural (including nutrition and physical activity),
+environmental, genetic and other molecular factors that underpin CVD and
+diabetes in the multi-ethnic Asian</p>
+<p>population of Singapore.</p>
 </li>
 <li>
-<p>Establish the biological convergence between cognitive function and disease
-traits.</p>
-</li>
-<li>
-<p>Establish epidemiological and genomic risk predictors of cognitive health.</p>
+<p>Develop and validate algorithms for accurate identification of Asian individuals
+who are at increased risk of CVD and</p>
+<p>diabetes.</p>
 </li>
 </ol>
 </td>
