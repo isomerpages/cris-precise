@@ -31,10 +31,8 @@ Health</p>
 <p>Co-Lead PI: Dr Jimmy Lee, Institute of Mental Health</p>
 </li>
 <li>
-<p>Co-Lead PI: Prof Liu Jianjun, Acting Executive Director, Genome Institute</p>
-</li>
-<li>
-<p>of Singapore</p>
+<p>Co-Lead PI: Prof Liu Jianjun, Acting Executive Director, Genome Institute
+of Singapore</p>
 </li>
 </ul>
 </td>
