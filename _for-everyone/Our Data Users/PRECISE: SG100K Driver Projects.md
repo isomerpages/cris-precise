@@ -343,8 +343,9 @@ Chian School of Medicine</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate associations between established non-invasive Chronic Liver
-Disease (CLD) biomarkers and cardiometabolic outcomes.</p>
+<p>Conduct phenotypic associations of macronutrients with visceral adiposity
+as primary outcome, and the visceral fat linked cardiometabolic traits
+and diseases as secondary outcomes in multiethnic Asian population.</p>
 </li>
 <li>
 <p>Evaluate how these associations relate to major adverse cardiac events.</p>
