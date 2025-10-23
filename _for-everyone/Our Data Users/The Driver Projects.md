@@ -10,7 +10,7 @@ third_nav_title: Our Data Users
 <p><strong>Topic: Kidney Disease</strong>
 </p>
 </blockquote>
-<table style="minWidth: 100%">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -43,18 +43,81 @@ third_nav_title: Our Data Users
 <p>Determine prevalence of chronic kidney disease (CKD) among adults.</p>
 </li>
 <li>
-<p>Examine association of CKD with genetic, clinical and socio-behavioural predictors.</p>
+<p>Examine association of CKD with genetic, clinical and socio-behavioural
+predictors.</p>
 </li>
 <li>
-<p>Examine relative contribution of key predictors driving differences in CKD risks across different sub-population.</p>
+<p>Examine relative contribution of key predictors driving differences in
+CKD risks across different sub-population.</p>
 </li>
 <li>
-<p>Develop and validate an integrated risk score for the development of CKD in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
-</li></ol></td>
+<p>Develop and validate an integrated risk score for the development of CKD
+in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
+</li>
+</ol>
+</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong Chian School of Medicine</p>
+<p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong
+Chian School of Medicine</p>
 <hr>
-<h4></h4>
+<h4><strong>The high variability of tandem repeats offers insights into population diversity and may explain the missing heritability of complex neurological and neurocognitive disorders in Asian populations</strong></h4>
+<blockquote>
+<p><strong>Topic: Tandem Repeats</strong>
+</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Prof Liu Jianjun</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Prof John Chambers</strong>
+<br>Lee Kong Chian School of Medicine</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Determine prevalence of chronic kidney disease (CKD) among adults.</p>
+</li>
+<li>
+<p>Examine association of CKD with genetic, clinical and socio-behavioural
+predictors.</p>
+</li>
+<li>
+<p>Examine relative contribution of key predictors driving differences in
+CKD risks across different sub-population.</p>
+</li>
+<li>
+<p>Develop and validate an integrated risk score for the development of CKD
+in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong
+Chian School of Medicine</p>
+<hr>
+<p></p>
 <p></p>
