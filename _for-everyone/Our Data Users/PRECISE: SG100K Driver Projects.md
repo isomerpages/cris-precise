@@ -695,20 +695,13 @@ Clinical Sciences</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Identify Genetic Variants Associated with</p>
-<p>IBD and Related Immune-Mediated</p>
-<p>Disorders in the Multi-Ethnic Singaporean</p>
-<p>Population.</p>
-<p>Explore and characterise both common and</p>
-<p>rare genetic variants linked to IBD, and</p>
-<p>spondyloarthropathies, uveitis, Behcet's</p>
-<p>disease, psoriasis, and other related</p>
-<p>immune-mediated conditions within the</p>
-<p>diverse Singaporean population. This</p>
-<p>comprehensive genetic investigation aims</p>
-<p>to unravel the unique genetic landscape of</p>
-<p>this disease cluster, considering the multi-</p>
-<p>ethnic composition of the population.</p>
+<p>Identify Genetic Variants Associated with IBD and Related Immune-Mediated
+Disorders in the Multi-Ethnic Singaporean Population. Explore and characterise
+both common and rare genetic variants linked to IBD, and spondyloarthropathies,
+uveitis, Behcet's disease, psoriasis, and other related immune-mediated
+conditions within the diverse Singaporean population. This comprehensive
+genetic investigation aims to unravel the unique genetic landscape of this
+disease cluster, considering the multi- ethnic composition of the population.</p>
 </li>
 <li>
 <p>Investigate the Effects of Lifestyle Factors</p>
