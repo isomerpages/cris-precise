@@ -629,35 +629,40 @@ Duke-NUS Medical School</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Mark Chan</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Lead PI: Huang Jian</strong>
+<br>A*STAR Singapore Institute for</p>
+<p>Clinical Sciences and Bioinformatics Institute</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicholas Chew</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Co-Lead PI: Dennis Wan</strong>
+<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate associations between established non-invasive Chronic Liver
-Disease (CLD) biomarkers and cardiometabolic outcomes.</p>
+<p>Investigate the effects of GLP-1 receptor agonist on various domains of
+health outcomes using an observational study design</p>
 </li>
 <li>
-<p>Evaluate how these associations relate to major adverse cardiac events.</p>
+<p>Identify the non-synonymous single nucleotide polymorphisms (SNPs) of
+GLP-1</p>
+<p>receptor agonist prescription and predict nsSNPs responsible for the differential
+response to GLP-1 receptor agonist.</p>
 </li>
 <li>
-<p>Examine whether these associations with CLD are independent from associated
-metabolic disease.</p>
+<p>Provide genetic evidence for the therapeutic</p>
+<p>potentials and adverse effects of GLP-1 receptor agonists by adopting
+a drug target</p>
+<p>Mendelian randomisation design.</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University Hospital</p>
+<p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
+Clinical Sciences</p>
 <p></p>
 <p></p>
