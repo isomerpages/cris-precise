@@ -60,10 +60,6 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 <p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
 <hr>
 <h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes</strong></h4>
-<blockquote>
-<p><strong>Topic: Tandem Repeats</strong>
-</p>
-</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
