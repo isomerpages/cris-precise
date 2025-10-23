@@ -1078,13 +1078,15 @@ research phenotypes.</p>
 <p>Evaluate the effectiveness of selected PRS models across the major ancestries
 represented in the SG100K dataset (i.e. distribution, discrimination, calibration).</p>
 </li>
+<li>
+<p>Analyse and compare performance metrics to identify any ancestry-specific
+nuances in predictive accuracy.</p>
+</li>
+<li>
+<p>Recommendations and portability assessment of EBI-catalogued published
+PRS in a Singapore context.</p>
+</li>
 </ul>
-<p>• Analyse and compare performance</p>
-<p>metrics to identify any ancestry-specific</p>
-<p>nuances in predictive accuracy.</p>
-<p>• Recommendations and portability</p>
-<p>assessment of EBI-catalogued published</p>
-<p>PRS in a Singapore context.</p>
 </li>
 </ol>
 </td>
@@ -1146,6 +1148,5 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 </tbody>
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
-<p></p>
 <p></p>
 <p></p>
