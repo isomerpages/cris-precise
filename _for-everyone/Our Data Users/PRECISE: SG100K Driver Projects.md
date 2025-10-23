@@ -813,38 +813,35 @@ and progression of allergic diseases.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Huang Jian</strong>
-<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Dennis Wan</strong>
-<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+<p><strong>Lead PI: Ho Han Kiat</strong>
+<br>National University of Singapore</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate the effects of GLP-1 receptor agonist on various domains of
-health outcomes using an observational study design</p>
+<p>Determine the prevalence of CYP7A1 single nucleotide polymorphisms (SNP)
+locally, on extrapolation, to the region that presents similar ethnicities.</p>
 </li>
 <li>
-<p>Identify the non-synonymous single nucleotide polymorphisms (SNPs) of
-GLP-1 receptor agonist prescription and predict nsSNPs responsible for
-the differential response to GLP-1 receptor agonist.</p>
+<p>Ascertain the relationship between CYP7A1 SNPs and hypercholesterolemia
+in our local population.</p>
 </li>
 <li>
-<p>Provide genetic evidence for the therapeutic potentials and adverse effects
-of GLP-1 receptor agonists by adopting a drug target Mendelian randomisation
-design.</p>
+<p>Identify the target population most likely to benefit from targeting CYP7A1
+as an orthogonal approach to cholesterol control.</p>
+</li>
+<li>
+<p>Study the impact of non-genetic extrinsic factors, such as comorbidities
+and comedications, on the genotypes to discern the possibility of phenoconversion.</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
-Clinical Sciences</p>
+<p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
 <h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects2</strong></h4>
 <table style="minWidth: 50px">
