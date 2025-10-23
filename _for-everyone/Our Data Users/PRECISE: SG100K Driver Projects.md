@@ -1021,7 +1021,8 @@ health during aging</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
-Clinical Sciences</p>
+<p><strong>Institutions involved:</strong> A*STAR Bioinformatics Institute
+and Genome Institute of Singapore, Lee Kong Chian School of Medicine, National
+University of Singapore</p>
 <p></p>
 <p></p>
