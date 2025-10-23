@@ -553,5 +553,6 @@ common cancer status (breast, colorectal, liver, lung, and prostate cancers).</p
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University Hospital</p>
+<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
+A*STAR Genome Institute of Singapore, Bioinformatics Institute</p>
 <p></p>
