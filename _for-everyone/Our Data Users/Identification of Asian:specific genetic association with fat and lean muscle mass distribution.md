@@ -39,19 +39,11 @@ third_nav_title: Our Data Users
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
 <p>Establish the biological underpinnings for cognitive function in diverse
 Asian and global populations.</p>
-</li>
-<li>
 <p>Establish the biological convergence between cognitive function and disease
 traits.</p>
-</li>
-<li>
 <p>Establish epidemiological and genomic risk predictors of cognitive health.</p>
-</li>
-</ol>
 </td>
 </tr>
 </tbody>
