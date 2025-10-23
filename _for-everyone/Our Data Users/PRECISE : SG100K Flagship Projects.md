@@ -125,8 +125,12 @@ National University of Singapore, National Heart Centre Singapore, National
 Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological
 University</p>
 <hr>
-<p></p>
-<h4><strong>Topic 3 : Fat and Lean</strong></h4>
+<h4><strong>Identification of Asian-specific genetic association with fat andlean muscle massdistribution</strong></h4>
+<blockquote>
+<p><strong>Topic: Fat and Lean</strong>
+</p>
+</blockquote>
+<h4><strong>Topic 3 : Fat and Lean Muscle Mass</strong></h4>
 <p>Muscle Mass</p>
 <table style="minWidth: 50px">
 <colgroup>
