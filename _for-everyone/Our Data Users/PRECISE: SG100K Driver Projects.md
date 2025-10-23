@@ -1333,8 +1333,7 @@ and CVDs.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National Cancer Centre Singapore,
-SingHealth</p>
+<p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
 <h4><strong>Unravelling the correlation between sarcopenia with lifestyle, genetics, and comorbid diseases5</strong></h4>
 <table style="minWidth: 50px">
