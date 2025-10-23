@@ -353,8 +353,14 @@ SG100K dataset and a GWAS meta-analysis using the UK Biobank macronutrient
 intake data.</p>
 </li>
 <li>
-<p>Examine whether these associations with CLD are independent from associated
-metabolic disease.</p>
+<p>Perform functional annotation of significant loci and estimate the genetic
+correlations of macronutrient intake with visceral fat linked cardiometabolic
+traits and diseases as secondary outcomes.</p>
+</li>
+<li>
+<p>Conduct one-sample and two-sample Mendelian Randomisation (MR) with macronutrient
+intake as exposure variables and visceral adiposity as outcome variables,
+with relevant sensitivity analyses.</p>
 </li>
 </ol>
 </td>
