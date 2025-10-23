@@ -176,8 +176,7 @@ ocular health.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Bioinformatics Institute,
-National University of Singapore, A*STAR Genome Institute of Singapore</p>
+<p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
 <h4><strong>Genetic variants contributing to clonal haematopoiesis across diverse Asian genomes</strong></h4>
 <table style="minWidth: 50px">
