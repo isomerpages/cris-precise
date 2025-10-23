@@ -38,23 +38,21 @@ of Singapore</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
+<p>Taking reference from similar work performed by the Pan-UK Biobank, the
+team will compute in-sample dosage-based LD matrices and scores for each
+of the three major ancestry groups in SG100K:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Determine prevalence of chronic kidney disease (CKD) among adults.</p>
+<p>LD score regression analysis to estimate heritabilities</p>
 </li>
 <li>
-<p>Examine association of CKD with genetic, clinical and socio-behavioural
-predictors.</p>
+<p>Fine-mapping analysis to identify causal variants of well-powered complex
+traits</p>
 </li>
-<li>
-<p>Examine relative contribution of key predictors driving differences in
-CKD risks across different sub-population.</p>
-</li>
-<li>
-<p>Develop and validate an integrated risk score for the development of CKD
-in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
-</li>
-</ol>
+</ul>
+<p>The plan is to make the LD matrices available in Hail's BlockMatrix format
+or similar. LD scores are also made available in LDSC-compatible flat files
+(.l2.ldscore.gz and .M_5_50).</p>
 </td>
 </tr>
 </tbody>
