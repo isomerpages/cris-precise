@@ -713,18 +713,12 @@ between lifestyle choices and disease outcomes, contributing valuable insights
 for developing targeted interventions and improving patient wellbeing.</p>
 </li>
 <li>
-<p>Delineate shared and distinct mechanisms</p>
-<p>underlying IBD, spondyloarthropathy,</p>
-<p>uveitis, psoriasis, Behcet's and other related</p>
-<p>conditions.</p>
-<p>Elucidate the shared and unique genetic</p>
-<p>and biological pathways driving IBD,</p>
-<p>spondyloarthropathy, uveitis, psoriasis,</p>
-<p>Behcet's disease, and other related</p>
-<p>conditions. This will provide critical insights</p>
-<p>into disease mechanisms to guide targeted</p>
-<p>prevention and treatment strategies for this</p>
-<p>nexus of related diseases.</p>
+<p>Delineate shared and distinct mechanisms underlying IBD, spondyloarthropathy,
+uveitis, psoriasis, Behcet's and other related conditions. Elucidate the
+shared and unique genetic and biological pathways driving IBD, spondyloarthropathy,
+uveitis, psoriasis, Behcet's disease, and other related conditions. This
+will provide critical insights into disease mechanisms to guide targeted
+prevention and treatment strategies for this nexus of related diseases.</p>
 </li>
 <li>
 <p>lucidate Potential Interactions Between</p>
