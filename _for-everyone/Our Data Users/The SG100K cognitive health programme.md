@@ -55,7 +55,6 @@ traits.</p>
 </tbody>
 </table>
 <hr>
-<p></p>
 <p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
 Nanyang Technological University, Institute of Mental Health, National
 Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
