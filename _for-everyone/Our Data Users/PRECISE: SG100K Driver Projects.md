@@ -170,6 +170,15 @@ associations. Aim to gain insights into the</p>
 eye diseases and contribute to a more comprehensive understanding of the
 biology involved.</p>
 </li>
+<li>
+<p>Evaluate the public health implications of the identified non-linear genetic
+associations, considering their potential impact on disease prevention,
+intervention,</p>
+<p>and personalised treatment strategies. Assess the translational potential
+of the</p>
+<p>research findings to inform clinical practice, public health policies,
+and contribute to advancements in precision medicine for ocular health.</p>
+</li>
 </ol>
 </td>
 </tr>
