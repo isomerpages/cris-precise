@@ -260,6 +260,12 @@ Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
 <p><strong>Co-Lead PI: Sunny Wong</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
+<li>
+<p><strong>Co-Lead PI: Chen Kok Pun</strong>
+<br>Gastroenterology &amp; Hepatology
+<br>Tan Tock Seng</p>
+<p>Hospital</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
