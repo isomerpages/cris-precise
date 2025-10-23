@@ -85,8 +85,8 @@ Chian School of Medicine</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Janice Goh</strong>
-<br>A*STAR Bioinformatics Institute</p>
+<p><strong>Lead PI: Prof Liu Jianjun</strong>
+<br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: A/P Wee Hwee</strong>
@@ -95,7 +95,9 @@ Chian School of Medicine</p>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Lim Weng Khong</strong>
+<p><strong>Co-Lead PI: Dr Nicolas</strong>
+</p>
+<p><strong>Bertin</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 </ul>
@@ -141,12 +143,20 @@ Duke-NUS Medical School, National Neuroscience Institute</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Yeo See Cheng</strong>
-<br>Tan Tock Seng Hospital</p>
+<p><strong>Lead PI: Dr Janice Goh</strong>
+<br>A*STAR Bioinformatics Institute</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof John Chambers</strong>
-<br>Lee Kong Chian School of Medicine</p>
+<p><strong>Co-Lead PI: A/P Wee Hwee</strong>
+</p>
+<p><strong>Lin</strong>
+<br>National University of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Dr Nicolas</strong>
+</p>
+<p><strong>Bertin</strong>
+<br>Duke-NUS Medical School</p>
 </li>
 </ul>
 </td>
