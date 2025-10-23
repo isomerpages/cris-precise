@@ -477,8 +477,7 @@ in Asian patients with diabetes mellitus.</p>
 </li>
 <li>
 <p>Identify potential gene-environment interactions (for example, tobacco
-smoking)</p>
-<p>associated with the risk ofdiabetic foot ulcers.</p>
+smoking) associated with the risk ofdiabetic foot ulcers.</p>
 </li>
 <li>
 <p>Identify socio-economical and other risk factors associated with diabetic
@@ -486,8 +485,7 @@ foot ulcers.</p>
 </li>
 <li>
 <p>Identify correlations between macro-angiopathy, micro-vascular reactivity
-nephropathy and retinopathy and diabetic</p>
-<p>foot ulcers.</p>
+nephropathy and retinopathy and diabetic foot ulcers.</p>
 </li>
 <li>
 <p>Develop multi-polygenic risk score for developing diabetic foot ulcers.</p>
