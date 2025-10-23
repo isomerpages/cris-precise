@@ -127,11 +127,9 @@ University</p>
 <hr>
 <h4><strong>Identification of Asian-specific genetic association with fat andlean muscle massdistribution</strong></h4>
 <blockquote>
-<p><strong>Topic: Fat and Lean</strong>
+<p><strong>Topic: Fat and Lean Muscle Mass</strong>
 </p>
 </blockquote>
-<h4><strong>Topic 3 : Fat and Lean Muscle Mass</strong></h4>
-<p>Muscle Mass</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -150,16 +148,16 @@ University</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Max Lam</strong>
-<br>Lee Kong Chian School of Medicine, Institute of Mental Health</p>
+<p><strong>Lead PI: Dr Liu Boxiang</strong>
+<br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Jimmy Lee</strong>
-<br>Institute of Mental Health</p>
+<p><strong>Co-Lead PI: A/P Sim Xueling</strong>
+<br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Liu Jianjun</strong>
-<br>Acting Executive Director, Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Prof Tai E Shyong</strong>
+<br>National University of Singapore</p>
 </li>
 </ul>
 </td>
