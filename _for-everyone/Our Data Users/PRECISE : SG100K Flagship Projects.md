@@ -56,9 +56,7 @@ traits.</p>
 </tbody>
 </table>
 <hr>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
-Nanyang Technological University, Institute of Mental Health, National
-Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
+<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine, Nanyang Technological University, Institute of Mental Health, National Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 <p></p>
 <h4><strong>Topic 2 : Mendelian Diseases</strong></h4>
 <table style="minWidth: 100px">
@@ -88,7 +86,7 @@ Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Dr Saumya Jamuar </strong>
-<br>KK Women's and Children's HospitalSingapore</p>
+<br>KK Women's and Children's Hospital</p>
 </li>
 </ul>
 </td>
