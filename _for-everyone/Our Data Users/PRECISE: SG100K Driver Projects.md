@@ -1022,5 +1022,115 @@ health during aging</p>
 <p><strong>Institutions involved:</strong> A*STAR Bioinformatics Institute
 and Genome Institute of Singapore, Lee Kong Chian School of Medicine, National
 University of Singapore</p>
+<hr>
+<h4><strong>Computation of genome - wide LD scores and matrices from the SG100K resource1</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Li Jingmei</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Khor Chiea Chuen </strong>A*STAR Genome Institute
+of Singapore</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Taking reference from similar work performed by the Pan-UK Biobank, the
+team will compute in-sample dosage-based LD matrices and scores for each
+of the three major ancestry groups in SG100K:
+<br>- LD score regression analysis to estimate heritabilities
+<br>- Fine-mapping analysis to identify causal variants of well-powered complex
+traits</p>
+</li>
+<li>
+<p>The plan is to make the LD matrices available in Hail's BlockMatrix format
+or similar. LD scores are also made available in LDSC-compatible flat files
+(.l2.ldscore.gz and .M_5_50).</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
+<hr>
+<h4><strong>Computation of genome - wide LD scores and matrices from the SG100K resource2</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Li Jingmei</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Khor Chiea Chuen </strong>A*STAR Genome Institute
+of Singapore</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Taking reference from similar work performed by the Pan-UK Biobank, the
+team will compute in-sample dosage-based LD matrices and scores for each
+of the three major ancestry groups in SG100K:
+<br>- LD score regression analysis to estimate heritabilities
+<br>- Fine-mapping analysis to identify causal variants of well-powered complex
+traits</p>
+</li>
+<li>
+<p>The plan is to make the LD matrices available in Hail's BlockMatrix format
+or similar. LD scores are also made available in LDSC-compatible flat files
+(.l2.ldscore.gz and .M_5_50).</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
