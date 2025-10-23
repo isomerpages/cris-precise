@@ -10,7 +10,7 @@ third_nav_title: Our Data Users
 <p><strong>Topic: Kidney Disease</strong>
 </p>
 </blockquote>
-<table style="minWidth: 100%">
+<table height="300" width="600">
 <colgroup>
 <col>
 <col>
