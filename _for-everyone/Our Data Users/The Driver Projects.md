@@ -43,20 +43,14 @@ third_nav_title: Our Data Users
 <p>Determine prevalence of chronic kidney disease (CKD) among adults.</p>
 </li>
 <li>
-<p>Examine association of CKD with</p>
-<p>genetic, clinical and socio-behavioural predictors.</p>
+<p>Examine association of CKD with genetic, clinical and socio-behavioural predictors.</p>
 </li>
 <li>
-<p>Examine relative contribution of key</p>
+<p>Examine relative contribution of key predictors driving differences in CKD risks across different sub-population.</p>
 </li>
-</ol>
-<p>predictors driving differences in CKD</p>
-<p>risks across different sub-population.</p>
-<p></p>
-<p>Develop and validate an integrated risk</p>
-<p>score for the development of CKD in a</p>
-<p>representative multi-ethnic Asian population-based cohort in Singapore.</p>
-</td>
+<li>
+<p>Develop and validate an integrated risk score for the development of CKD in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
+</li></ol></td>
 </tr>
 </tbody>
 </table>
