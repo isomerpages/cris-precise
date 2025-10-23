@@ -308,7 +308,7 @@ precision medicine strategies.</p>
 Chian School of Medicine</p>
 <hr>
 <p></p>
-<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes</strong></h4>
+<h4><strong>The contribution of genetics to dietary habit and its relation to adiposity and cardiometabolic diseases in multiethnic Asian population</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -327,14 +327,16 @@ Chian School of Medicine</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Mark Chan</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Lead PI: Theresia Mina</strong>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicholas Chew</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Co-Lead PI: Jojn Chambers</strong>
+<br>Lee Kong Chian School of Medicine</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Sim Xueling</strong>
+<br>National University of Singapore</p>
 </li>
 </ul>
 </td>
