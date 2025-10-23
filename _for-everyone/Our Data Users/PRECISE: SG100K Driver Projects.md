@@ -577,14 +577,19 @@ A*STAR Genome Institute of Singapore, Bioinformatics Institute</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Mark Chan</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Lead PI: Liu Jianjun</strong>
+<br>A*STAR Genome Institute</p>
+<p>of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicholas Chew</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Co-Lead PI: Nicolas Bertin</strong>
+<br>A*STAR Genome Institute</p>
+<p>of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Lim Weng Khong</strong>
+<br>Duke-NUS Medical</p>
+<p>School</p>
 </li>
 </ul>
 </td>
