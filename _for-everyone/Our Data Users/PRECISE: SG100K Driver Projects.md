@@ -38,21 +38,21 @@ of Singapore</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Taking reference from similar work performed by the Pan-UK Biobank, the
-team will compute in-sample dosage-based LD matrices and scores for each
-of the three major ancestry groups in SG100K:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>LD score regression analysis to estimate heritabilities</p>
-</li>
-<li>
-<p>Fine-mapping analysis to identify causal variants of well-powered complex
+<p>Taking reference from similar work performed by the Pan-UK Biobank, the
+team will compute in-sample dosage-based LD matrices and scores for each
+of the three major ancestry groups in SG100K:
+<br>- LD score regression analysis to estimate heritabilities
+<br>- Fine-mapping analysis to identify causal variants of well-powered complex
 traits</p>
 </li>
-</ol>
+<li>
 <p>The plan is to make the LD matrices available in Hail's BlockMatrix format
 or similar. LD scores are also made available in LDSC-compatible flat files
 (.l2.ldscore.gz and .M_5_50).</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
@@ -165,19 +165,17 @@ of gene- environment interactions in the context of ocular health.</p>
 </li>
 <li>
 <p>Investigate and interpret the biological relevance of non-linear genetic
-associations. Aim to gain insights into the</p>
-<p>underlying mechanisms linking identified genetic variants to specific
-eye diseases and contribute to a more comprehensive understanding of the
-biology involved.</p>
+associations. Aim to gain insights into the underlying mechanisms linking
+identified genetic variants to specific eye diseases and contribute to
+a more comprehensive understanding of the biology involved.</p>
 </li>
 <li>
 <p>Evaluate the public health implications of the identified non-linear genetic
 associations, considering their potential impact on disease prevention,
-intervention,</p>
-<p>and personalised treatment strategies. Assess the translational potential
-of the</p>
-<p>research findings to inform clinical practice, public health policies,
-and contribute to advancements in precision medicine for ocular health.</p>
+intervention, and personalised treatment strategies. Assess the translational
+potential of the research findings to inform clinical practice, public
+health policies, and contribute to advancements in precision medicine for
+ocular health.</p>
 </li>
 </ol>
 </td>
