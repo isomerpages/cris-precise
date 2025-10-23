@@ -234,7 +234,7 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 <p><strong>Institutions involved:</strong> National skin Centre, Lee Kong
 Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
 <hr>
-<h4><strong>The contribution of genetics to dietary habit and its relation to adiposity and cardiometabolic diseases in multiethnic Asian population</strong></h4>
+<h4><strong>Mood and diet in patients with irritable bowel syndrome (IBS) in Singapore</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
