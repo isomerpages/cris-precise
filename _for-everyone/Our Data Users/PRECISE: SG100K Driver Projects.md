@@ -1058,14 +1058,18 @@ of Singapore</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Integration of Research Phenotypes with PRS Catalogue Ontologies and Identification</p>
-<p>of Applicable PRS Models:</p>
-<p>• Align research phenotypes with the trait</p>
-<p>ontologies in the EBI-maintained PRS</p>
-<p>catalogue.</p>
-<p>• Systematically select pertinent PRS</p>
-<p>models based on the relevance to</p>
-<p>mapped research phenotypes.</p>
+<p>Integration of Research Phenotypes with PRS Catalogue Ontologies and Identification
+of Applicable PRS Models:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Align research phenotypes with the trait ontologies in the EBI-maintained
+PRS catalogue.</p>
+</li>
+<li>
+<p>Systematically select pertinent PRS models based on the relevance to mapped
+research phenotypes.</p>
+</li>
+</ul>
 </li>
 <li>
 <p>The plan is to make the LD matrices available in Hail's BlockMatrix format
