@@ -213,23 +213,18 @@ ocular health.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Determine age-related incidence of clonal haematopoiesis (CH) among our
-three major ancestry groups.</p>
+<p>Identify host genetic factors associated with chronic inflammatory skin
+diseases, specifically AD, psoriasis and chronic urticaria using genome
+wide association and rare variant analyses among SG100K study participants,
+taking advantage of whole genome sequence data and linkage to disease information
+from national electronic health records (NEHR).</p>
 </li>
 <li>
-<p>Correlate CH status with clinical metadata, measures of ageing and disease
-incidence, and disease-related variables including biomarkers.</p>
-</li>
-<li>
-<p>Discover novel genetic associations with CH.</p>
-</li>
-<li>
-<p>Integrate functional genomics for novel Asian CH driver mutation discovery
-and validation.</p>
-</li>
-<li>
-<p>Correlate CH status with cell clusters and gene expression signatures
-in the AIDA scRNA-seq dataset.</p>
+<p>Examine the relationship between genetic variants and polygenic risk scores
+(PRS) associated with skin phenotypes and real-world health data for skin
+diseases (including diagnosis, onset, severity and treatment outcomes)
+to identify genetic predictors of disease trajectories, complications and
+co-morbidities and treatment outcomes using the TRUST dataset.</p>
 </li>
 </ol>
 </td>
