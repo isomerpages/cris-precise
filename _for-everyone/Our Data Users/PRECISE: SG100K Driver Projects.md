@@ -843,7 +843,7 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
-<h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects2</strong></h4>
+<h4><strong>Multi-omics data analysis for novel depression mechanisms using deep learning tools</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -862,12 +862,20 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Huang Jian</strong>
-<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+<p><strong>Lead PI: Mu Yuguang</strong>
+<br>Nanyang Technological</p>
+<p>University</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dennis Wan</strong>
-<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+<p><strong>Co-Lead PI: Bernett Lee</strong>
+<br>Lee Kong Chian School of</p>
+<p>Medicine</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Geoffrey Tan</strong>
+</p>
+<p>Chern-Yee, Institute of</p>
+<p>Mental Health</p>
 </li>
 </ul>
 </td>
