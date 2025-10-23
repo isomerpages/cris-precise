@@ -205,18 +205,8 @@ ocular health.</p>
 <br>National Skin Centre</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Chng Wee</strong>
-</p>
-<p><strong>Joo</strong>
-<br>National University of Singapore</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Prof John Chambers</strong>
+<p><strong>Co-Lead PI: Marie Loh</strong>
 <br>Lee Kong Chian School of Medicine</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Prof Nicolas Bertin</strong>
-<br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
 </td>
