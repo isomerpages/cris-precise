@@ -234,7 +234,7 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 <p><strong>Institutions involved:</strong> National skin Centre, Lee Kong
 Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
 <hr>
-<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes</strong></h4>
+<h4><strong>Mood and diet in patients with irritable bowel syndrome (IBS) in Singapore</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -253,14 +253,15 @@ Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Mark Chan</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Lead PI: Kuang Ziyang</strong>
+</p>
+<p><strong>Jonathan</strong>
+<br>Gastroenterology &amp; Hepatology, Tan Tock Seng Hospital</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicholas Chew</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Co-Lead PI: Sunny Wong</strong>
+<br>Lee Kong Chian School of</p>
+<p>Medicine</p>
 </li>
 </ul>
 </td>
