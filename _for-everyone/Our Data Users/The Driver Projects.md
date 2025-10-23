@@ -159,19 +159,18 @@ Duke-NUS Medical School, National Neuroscience Institute</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Determine prevalence of chronic kidney disease (CKD) among adults.</p>
+<p>Evaluate the occurrence of known drug- gene interactions based on EHR
+data and its impact on efficacy and toxicity.</p>
 </li>
 <li>
-<p>Examine association of CKD with genetic, clinical and socio-behavioural
-predictors.</p>
+<p>Explore genotype-drug response associations using SG100K and linked EHR
+datasets augmented by a dedicated pipeline for haplotyping highly polymorphic
+drug metabolising enzyme CYP2D6.</p>
 </li>
 <li>
-<p>Examine relative contribution of key predictors driving differences in
-CKD risks across different sub-population.</p>
-</li>
-<li>
-<p>Develop and validate an integrated risk score for the development of CKD
-in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
+<p>Develop a pharmacokinetics-informed framework for evaluating and ranking
+both known and novel drug-gene = sets for clinical action to make dose
+recommendations.</p>
 </li>
 </ol>
 </td>
