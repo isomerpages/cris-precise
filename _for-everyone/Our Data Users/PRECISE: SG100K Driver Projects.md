@@ -110,11 +110,7 @@ metabolic disease.</p>
 </table>
 <p><strong>Institutions involved:</strong> National University Hospital</p>
 <hr>
-<h4><strong>An integrated pharmacoeconomic- pharmacokinetic framework for prioritising and testing clinically important drug-gene interactions</strong></h4>
-<blockquote>
-<p><strong>Topic: Pharmacogenomics</strong>
-</p>
-</blockquote>
+<h4><strong>Nonlinear methods for genomic association analysis of eye diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
