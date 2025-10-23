@@ -1072,9 +1072,18 @@ research phenotypes.</p>
 </ul>
 </li>
 <li>
-<p>The plan is to make the LD matrices available in Hail's BlockMatrix format
-or similar. LD scores are also made available in LDSC-compatible flat files
-(.l2.ldscore.gz and .M_5_50).</p>
+<p>Assessment of Performance Across Diverse</p>
+<p>Ancestries within SG100K:</p>
+<p>• Evaluate the effectiveness of selected</p>
+<p>PRS models across the major ancestries</p>
+<p>represented in the SG100K dataset (i.e.</p>
+<p>distribution, discrimination, calibration).</p>
+<p>• Analyse and compare performance</p>
+<p>metrics to identify any ancestry-specific</p>
+<p>nuances in predictive accuracy.</p>
+<p>• Recommendations and portability</p>
+<p>assessment of EBI-catalogued published</p>
+<p>PRS in a Singapore context.</p>
 </li>
 </ol>
 </td>
