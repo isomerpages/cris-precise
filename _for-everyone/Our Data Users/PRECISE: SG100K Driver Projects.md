@@ -293,15 +293,12 @@ insights for developing targeted interventions and improving patient outcomes.</
 </li>
 <li>
 <p>Elucidate potential interactions between genetic and environmental influences
-on</p>
-<p>IBS. Uncover and elucidate potential interactions between genetic factors
-and</p>
-<p>environmental influences in the</p>
-<p>development and progression of IBS. This integrated approach aims to provide
-a</p>
-<p>nuanced understanding of how genetic predispositions and environmental
-exposures collaboratively contribute to the manifestation of IBS, offering
-a foundation for personalised and precision medicine strategies.</p>
+on IBS. Uncover and elucidate potential interactions between genetic factors
+and environmental influences in the development and progression of IBS.
+This integrated approach aims to provide a nuanced understanding of how
+genetic predispositions and environmental exposures collaboratively contribute
+to the manifestation of IBS, offering a foundation for personalised and
+precision medicine strategies.</p>
 </li>
 </ol>
 </td>
