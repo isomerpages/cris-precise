@@ -431,5 +431,5 @@ scRNA-seq data.</p>
 </tbody>
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
-<p></p>
+<hr>
 <p></p>
