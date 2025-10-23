@@ -1136,9 +1136,12 @@ of Singapore</p>
 in Asian populations.</p>
 </li>
 <li>
-<p>The plan is to make the LD matrices available in Hail's BlockMatrix format
-or similar. LD scores are also made available in LDSC-compatible flat files
-(.l2.ldscore.gz and .M_5_50).</p>
+<p>Interrogate the contribution of dietary components, alcohol intake and
+physical activity to MASLD and MetALD disease spectrum.</p>
+</li>
+<li>
+<p>Develop machine learning frameworks for risk stratification and identification
+of predictive markers for MASLD disease spectrum.</p>
 </li>
 </ol>
 </td>
