@@ -1117,8 +1117,7 @@ PRS in a Singapore context.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Tan Nguan Soon</strong>
-<br>Lee Kong Chian School of</p>
-<p>Medicine</p>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Yew Kuo Chao</strong>
