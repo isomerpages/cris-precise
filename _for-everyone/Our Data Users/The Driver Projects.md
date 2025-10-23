@@ -89,15 +89,11 @@ Chian School of Medicine</p>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: A/P Wee Hwee</strong>
-</p>
-<p><strong>Lin</strong>
-<br>National University of Singapore</p>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
+<br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas</strong>
-</p>
-<p><strong>Bertin</strong>
+<p><strong>Co-Lead PI: Dr Lim Weng Khong</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 </ul>
