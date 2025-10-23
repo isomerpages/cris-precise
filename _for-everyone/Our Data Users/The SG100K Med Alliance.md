@@ -24,11 +24,11 @@ third_nav_title: Our Data Users
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Lim Weng Khong </strong>
+<p><strong>Lead PI: Dr Lim Weng Khong</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Joanne Ngeow </strong>
+<p><strong>Co-Lead PI: Dr Joanne Ngeow</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
@@ -45,8 +45,7 @@ through a comprehensive analysis of structural variation and short tandem
 repeat expansions.</p>
 </li>
 <li>
-<p>Demonstrate how SG100K data can</p>
-<p>resolve variants of uncertain significance.</p>
+<p>Demonstrate how SG100K data can resolve variants of uncertain significance.</p>
 </li>
 <li>
 <p>Explore impact of polygenic backgrounds on penetrance in autosomal dominant
