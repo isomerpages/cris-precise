@@ -59,7 +59,7 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
 <hr>
-<h4><strong>The high variability of tandem repeats offers insights into population diversity and may explain the missing heritability of complex neurological and neurocognitive disorders in Asian populations</strong></h4>
+<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes</strong></h4>
 <blockquote>
 <p><strong>Topic: Tandem Repeats</strong>
 </p>
@@ -82,28 +82,30 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Liu Jianjun</strong>
-<br>A*STAR Genome Institute of Singapore</p>
+<p><strong>Lead PI: Mark Chan</strong>
+</p>
+<p>National University Hospital
+<br>Cardiology</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
-<br>A*STAR Genome Institute of Singapore</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Dr Lim Weng Khong</strong>
-<br>Duke-NUS Medical School</p>
+<p><strong>Co-Lead PI: Dr Nicholas Chew</strong>
+<br>National University Hospital
+<br>Cardiology</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Generate SG100K genome wide tandem repeats (TR) variation catalogue and
-characterisation their respective prevalence in Asian populations.</p>
+<p>Investigate associations between established non-invasive Chronic Liver
+Disease (CLD) biomarkers and cardiometabolic outcomes</p>
 </li>
 <li>
-<p>Characterise contributions of TR variations to the aetiology of complex
-neurological and neurocognitive disorders.</p>
+<p>Evaluate how these associations relate to major adverse cardiac events.</p>
+</li>
+<li>
+<p>Examine whether these associations with CLD are independent from associated
+metabolic disease.</p>
 </li>
 </ol>
 </td>
