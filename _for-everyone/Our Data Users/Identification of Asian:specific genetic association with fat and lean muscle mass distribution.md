@@ -29,12 +29,11 @@ third_nav_title: Our Data Users
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: A/P Sim Xueling</strong>
-<br>National University of Singapore</p>
+<p><strong>Co-Lead PI: A/P Sim Xueling </strong>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Tai E Shyong</strong>
-<br>National University of Singapore</p>
+<p><strong>Co-Lead PI: Prof Tai E Shyong </strong>National University of
+Singapore</p>
 </li>
 </ul>
 </td>
