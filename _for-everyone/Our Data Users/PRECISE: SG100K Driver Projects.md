@@ -704,19 +704,13 @@ genetic investigation aims to unravel the unique genetic landscape of this
 disease cluster, considering the multi- ethnic composition of the population.</p>
 </li>
 <li>
-<p>Investigate the Effects of Lifestyle Factors</p>
-<p>on IBD and Associated Diseases Risk and</p>
-<p>Progression. Systematically examine the impact of</p>
-<p>lifestyle factors, including diet, physical</p>
-<p>activity, sleep, stress, and mental health, on</p>
-<p>the risk and progression of IBD and</p>
-<p>associated immune-mediated diseases. This</p>
-<p>multifaceted investigation seeks to discern</p>
-<p>the intricate relationships between lifestyle</p>
-<p>choices and disease outcomes, contributing</p>
-<p>valuable insights for developing targeted</p>
-<p>interventions and improving patient</p>
-<p>wellbeing.</p>
+<p>Investigate the Effects of Lifestyle Factors on IBD and Associated Diseases
+Risk and Progression. Systematically examine the impact of lifestyle factors,
+including diet, physical activity, sleep, stress, and mental health, on
+the risk and progression of IBD and associated immune-mediated diseases.
+This multifaceted investigation seeks to discern the intricate relationships
+between lifestyle choices and disease outcomes, contributing valuable insights
+for developing targeted interventions and improving patient wellbeing.</p>
 </li>
 <li>
 <p>Delineate shared and distinct mechanisms</p>
@@ -806,6 +800,5 @@ neurological and neurocognitive disorders.</p>
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore,
 Duke-NUS Medical School</p>
-<p></p>
 <p></p>
 <p></p>
