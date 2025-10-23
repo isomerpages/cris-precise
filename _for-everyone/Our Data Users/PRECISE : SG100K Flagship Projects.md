@@ -240,64 +240,6 @@ immune diseases and pharmacogenomic responses.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Team</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Aims of Project</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Lead PI: A/P Sim Xueling</strong>
-<br>National University of Singapore</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Dr Leong Khai Pang</strong>
-<br>Tan Tock Seng Hospital</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Dr Wharton Chan</strong>
-<br>Duke-NUS Medical School</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Generate a high-resolution human leukocyte antigen (HLA) reference panel
-in Asian populations.</p>
-</li>
-<li>
-<p>Generate frequencies of HLA alleles and haplotypes in Asian populations
-for local reference and for global population comparisons.</p>
-</li>
-<li>
-<p>Conduct association analyses of HLAalleles in outcomes including auto
-immune diseases and pharmacogenomic responses.</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Institutions involved:</strong> National University of Singapore,
 Tan Tock Seng Hospital, Duke-NUS Medical School</p>
 <p></p>
