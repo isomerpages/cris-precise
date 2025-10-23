@@ -24,15 +24,15 @@ third_nav_title: Our Data Users
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Lead PI: Dr Max Lam
+<p><strong>Lead PI: Dr Max Lam </strong>
 <br>Lee Kong Chian School of Medicine, Institute of Mental Health</p>
 </li>
 <li>
-<p>Co-Lead PI: Dr Jimmy Lee
+<p><strong>Co-Lead PI: Dr Jimmy Lee </strong>
 <br>Institute of Mental Health</p>
 </li>
 <li>
-<p>Co-Lead PI: Prof Liu Jianjun
+<p><strong>Co-Lead PI: Prof Liu Jianjun </strong>
 <br>Acting Executive Director, Genome Institute of Singapore</p>
 </li>
 </ul>
