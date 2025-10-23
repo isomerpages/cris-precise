@@ -118,13 +118,13 @@ conditions for under- represented Asian populations.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <p><strong>Institutions involved:</strong> Duke-NUS Medical School, Lee Kong
 Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome
 Institute of Singapore, Singapore National Eye Centre, Tan Tock Seng Hospital,
 National University of Singapore, National Heart Centre Singapore, National
 Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological
 University</p>
+<hr>
 <p></p>
 <h4><strong>Topic 3 : Fat and Lean</strong></h4>
 <p>Muscle Mass</p>
