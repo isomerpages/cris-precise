@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h4><strong>Unravelling the determinants of kidney health in a multi-ethnic Asian population</strong></h4>
-<blockquote>
-<p><strong>Topic: Kidney Disease</strong>
-</p>
-</blockquote>
+<h4><strong>Computation of genome - wide LD scores and matrices from the SG100K resource</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
