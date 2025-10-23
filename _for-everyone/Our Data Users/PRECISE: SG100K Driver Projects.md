@@ -498,7 +498,8 @@ nephropathy and retinopathy and diabetic foot ulcers.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University Hospital</p>
+<p><strong>Institutions involved:</strong> Woodlands Health, National University
+of Singapore, Lee Kong Chian School of Medicine</p>
 <hr>
 <h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes2</strong></h4>
 <table style="minWidth: 50px">
