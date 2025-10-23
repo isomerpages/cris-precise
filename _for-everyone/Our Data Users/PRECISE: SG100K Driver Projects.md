@@ -233,3 +233,6 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 </table>
 <p><strong>Institutions involved:</strong> National skin Centre, Lee Kong
 Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
+<hr>
+<p></p>
+<p></p>
