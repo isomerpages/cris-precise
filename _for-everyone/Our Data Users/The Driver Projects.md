@@ -224,6 +224,10 @@ National University of Singapore, A*STAR Genome Institute of Singapore</p>
 <p><strong>Co-Lead PI: Prof John Chambers</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
+<li>
+<p><strong>Co-Lead PI: Prof Nicolas Bertin</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
