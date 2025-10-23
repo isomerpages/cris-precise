@@ -371,7 +371,7 @@ with relevant sensitivity analyses.</p>
 National University Hospital</p>
 <hr>
 <p></p>
-<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes</strong></h4>
+<h4><strong>A structural variation catalogue across three ancestrally diverse Singapore populations</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
