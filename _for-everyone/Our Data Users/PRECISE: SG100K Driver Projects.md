@@ -660,7 +660,7 @@ design.</p>
 <p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
 Clinical Sciences</p>
 <hr>
-<h4><strong>Genetic susceptibility of age-related hearing loss1</strong></h4>
+<h4><strong>Unravelling the pathogenesis of inflammatory bowel disease and associated immune- mediated disorders in the Singaporean population</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -695,20 +695,74 @@ Clinical Sciences</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Generate a SG100K genome wide TR variation catalogue and characterisation
-their respective prevalence in Asian populations.</p>
+<p>Identify Genetic Variants Associated with</p>
+<p>IBD and Related Immune-Mediated</p>
+<p>Disorders in the Multi-Ethnic Singaporean</p>
+<p>Population.</p>
+<p>Explore and characterise both common and</p>
+<p>rare genetic variants linked to IBD, and</p>
+<p>spondyloarthropathies, uveitis, Behcet's</p>
+<p>disease, psoriasis, and other related</p>
+<p>immune-mediated conditions within the</p>
+<p>diverse Singaporean population. This</p>
+<p>comprehensive genetic investigation aims</p>
+<p>to unravel the unique genetic landscape of</p>
+<p>this disease cluster, considering the multi-</p>
+<p>ethnic composition of the population.</p>
 </li>
 <li>
-<p>Characterise the contributions of TR variations to the aetiology of complex
-neurological and neurocognitive disorders.</p>
+<p>Investigate the Effects of Lifestyle Factors</p>
+<p>on IBD and Associated Diseases Risk and</p>
+<p>Progression. Systematically examine the impact of</p>
+<p>lifestyle factors, including diet, physical</p>
+<p>activity, sleep, stress, and mental health, on</p>
+<p>the risk and progression of IBD and</p>
+<p>associated immune-mediated diseases. This</p>
+<p>multifaceted investigation seeks to discern</p>
+<p>the intricate relationships between lifestyle</p>
+<p>choices and disease outcomes, contributing</p>
+<p>valuable insights for developing targeted</p>
+<p>interventions and improving patient</p>
+<p>wellbeing.</p>
+</li>
+<li>
+<p>Delineate shared and distinct mechanisms</p>
+<p>underlying IBD, spondyloarthropathy,</p>
+<p>uveitis, psoriasis, Behcet's and other related</p>
+<p>conditions.</p>
+<p>Elucidate the shared and unique genetic</p>
+<p>and biological pathways driving IBD,</p>
+<p>spondyloarthropathy, uveitis, psoriasis,</p>
+<p>Behcet's disease, and other related</p>
+<p>conditions. This will provide critical insights</p>
+<p>into disease mechanisms to guide targeted</p>
+<p>prevention and treatment strategies for this</p>
+<p>nexus of related diseases.</p>
+</li>
+<li>
+<p>lucidate Potential Interactions Between</p>
+<p>Genetic and Environmental Influences on</p>
+<p>This Disease Cluster.</p>
+<p>Uncover and elucidate potential</p>
+<p>interactions between genetic factors and</p>
+<p>environmental influences in the</p>
+<p>development and progression of IBD and</p>
+<p>related conditions. This integrated</p>
+<p>approach aims to provide a nuanced</p>
+<p>understanding of how genetic</p>
+<p>predispositions and environmental</p>
+<p>exposures collaboratively contribute to the</p>
+<p>manifestation of this disease cluster,</p>
+<p>offering a foundation for personalised and</p>
+<p>precision medicine strategies.</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore,
-Duke-NUS Medical School</p>
+<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
+National University of Singapore</p>
 <hr>
 <h4><strong>Genetic susceptibility of age-related hearing loss2</strong></h4>
 <table style="minWidth: 50px">
