@@ -263,8 +263,7 @@ Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
 <li>
 <p><strong>Co-Lead PI: Chen Kok Pun</strong>
 <br>Gastroenterology &amp; Hepatology
-<br>Tan Tock Seng</p>
-<p>Hospital</p>
+<br>Tan Tock Seng Hospital</p>
 </li>
 </ul>
 </td>
