@@ -1042,16 +1042,12 @@ University of Singapore</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Li Jingmei</strong>
+<p><strong>Lead PI: Pierre-Alexis Goy</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
+<p><strong>Co-Lead PI: Li Jingmei</strong>
 <br>A*STAR Genome Institute of Singapore</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Khor Chiea Chuen </strong>A*STAR Genome Institute
-of Singapore</p>
 </li>
 </ul>
 </td>
