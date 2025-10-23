@@ -1150,7 +1150,8 @@ of predictive markers for MASLD disease spectrum.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
+<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
+Tan Tock Seng Hospital</p>
 <hr>
 <h4><strong>Computation of genome - wide LD scores and matrices from the SG100K resource3</strong></h4>
 <table style="minWidth: 50px">
