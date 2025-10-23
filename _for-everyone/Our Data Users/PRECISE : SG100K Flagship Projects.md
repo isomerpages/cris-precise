@@ -63,10 +63,11 @@ traits.</p>
 Nanyang Technological University, Institute of Mental Health, National
 Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 <hr>
-<p></p>
-<p></p>
 <h4><strong>The SG100K_Med Alliance - clinical genetics researchers united for the analysis of mendelian disease variation in SG100K</strong></h4>
-<h4><strong>Topic 2 : Mendelian Diseases</strong></h4>
+<blockquote>
+<p><strong>Topic: Mendelian Diseases</strong>
+</p>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
