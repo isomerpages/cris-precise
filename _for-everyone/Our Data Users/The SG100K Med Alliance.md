@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our Data Users
 ---
 <h4><strong>Topic: Mendelian</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
