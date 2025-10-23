@@ -558,7 +558,7 @@ common cancer status (breast, colorectal, liver, lung, and prostate cancers).</p
 <p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
 A*STAR Genome Institute of Singapore, Bioinformatics Institute</p>
 <hr>
-<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes1</strong></h4>
+<h4><strong>Genetic susceptibility of age-related hearing loss</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -591,15 +591,12 @@ A*STAR Genome Institute of Singapore, Bioinformatics Institute</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate associations between established non-invasive Chronic Liver
-Disease (CLD) biomarkers and cardiometabolic outcomes.</p>
+<p>Generate a SG100K genome wide TR variation catalogue and characterisation
+their respective prevalence in Asian populations.</p>
 </li>
 <li>
-<p>Evaluate how these associations relate to major adverse cardiac events.</p>
-</li>
-<li>
-<p>Examine whether these associations with CLD are independent from associated
-metabolic disease.</p>
+<p>Characterise the contributions of TR variations to the aetiology of complex
+neurological and neurocognitive disorders.</p>
 </li>
 </ol>
 </td>
