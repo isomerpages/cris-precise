@@ -79,7 +79,7 @@ Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Lim Weng Khong </strong>
+<p><strong>Lead PI: Dr Lim Weng Khong</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 <li>
@@ -88,7 +88,7 @@ Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Dr Saumya Jamuar </strong>
-<br>KK Women's and Children's Hospital</p>
+<br>KK Women's and Children's HospitalSingapore</p>
 </li>
 </ul>
 </td>
@@ -111,6 +111,7 @@ conditions for under- represented Asian populations.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <hr>
 <p><strong>Institutions involved:</strong> Duke-NUS Medical School, Lee Kong
 Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome
