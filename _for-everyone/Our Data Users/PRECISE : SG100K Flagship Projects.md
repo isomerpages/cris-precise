@@ -288,13 +288,11 @@ Tan Tock Seng Hospital, Duke-NUS Medical School</p>
 <li>
 <p>Determine the behavioural (including nutrition and physical activity),
 environmental, genetic and other molecular factors that underpin CVD and
-diabetes in the multi-ethnic Asian</p>
-<p>population of Singapore.</p>
+diabetes in the multi-ethnic Asian population of Singapore.</p>
 </li>
 <li>
 <p>Develop and validate algorithms for accurate identification of Asian individuals
-who are at increased risk of CVD and</p>
-<p>diabetes.</p>
+who are at increased risk of CVD and diabetes.</p>
 </li>
 </ol>
 </td>
