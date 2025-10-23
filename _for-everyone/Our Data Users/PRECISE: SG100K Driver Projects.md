@@ -410,11 +410,20 @@ National University Hospital</p>
 translocations, and tandem repeats) from the PRECISE-SG100K dataset.</p>
 </li>
 <li>
-<p>Evaluate how these associations relate to major adverse cardiac events.</p>
+<p>Investigate the identified SVs to uncover population-specific trends.</p>
 </li>
 <li>
-<p>Examine whether these associations with CLD are independent from associated
-metabolic disease.</p>
+<p>Examine the functional consequences of SVs in different genomic regions
+as well as predict the impact of SVs in medically relevant genes.</p>
+</li>
+<li>
+<p>Identify SVs that are associated with phenotypic traits within the PRECISE-SG100K
+dataset.</p>
+</li>
+<li>
+<p>Elucidate the impact of SVs on variation in cell type-specific gene expression
+(SV-eQTLs) and validate SVs through copy number variation inferences from
+scRNA-seq data.</p>
 </li>
 </ol>
 </td>
