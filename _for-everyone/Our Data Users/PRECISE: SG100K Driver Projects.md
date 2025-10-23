@@ -305,5 +305,6 @@ precision medicine strategies.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University Hospital</p>
+<p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong
+Chian School of Medicine</p>
 <p></p>
