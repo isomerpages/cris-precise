@@ -1116,16 +1116,18 @@ PRS in a Singapore context.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Li Jingmei</strong>
-<br>A*STAR Genome Institute of Singapore</p>
+<p><strong>Lead PI: Tan Nguan Soon</strong>
+<br>Lee Kong Chian School of</p>
+<p>Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
-<br>A*STAR Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Yew Kuo Chao</strong>
+<br>Tan Tock Seng Hospital</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Khor Chiea Chuen </strong>A*STAR Genome Institute
-of Singapore</p>
+<p><strong>Co-Lead PI: Cheng Hong Sheng</strong>
+<br>Lee Kong Chian</p>
+<p>School of Medicine</p>
 </li>
 </ul>
 </td>
