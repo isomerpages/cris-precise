@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our Data Users
 ---
 <h4><strong>Topic 1 : Mental Health</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -56,10 +56,12 @@ traits.</p>
 </tbody>
 </table>
 <hr>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine, Nanyang Technological University, Institute of Mental Health, National Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
+<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
+Nanyang Technological University, Institute of Mental Health, National
+Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 <p></p>
 <h4><strong>Topic 2 : Mendelian Diseases</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -101,7 +103,8 @@ repeat expansions.</p>
 <p>Demonstrate how SG100K data can resolve variants of uncertain significance.</p>
 </li>
 <li>
-<p>Explore impact of polygenic backgrounds on penetrance in autosomal dominant conditions for under- represented Asian populations.</p>
+<p>Explore impact of polygenic backgrounds on penetrance in autosomal dominant
+conditions for under- represented Asian populations.</p>
 </li>
 </ol>
 </td>
@@ -109,6 +112,9 @@ repeat expansions.</p>
 </tbody>
 </table>
 <hr>
-<hr>
-<p><strong>Institutions involved:</strong> Duke-NUS Medical School, Lee Kong Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome Institute of Singapore, Singapore National Eye Centre, Tan Tock Seng Hospital,
-National University of Singapore, National Heart Centre Singapore, National Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological University</p>
+<p><strong>Institutions involved:</strong> Duke-NUS Medical School, Lee Kong
+Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome
+Institute of Singapore, Singapore National Eye Centre, Tan Tock Seng Hospital,
+National University of Singapore, National Heart Centre Singapore, National
+Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological
+University</p>
