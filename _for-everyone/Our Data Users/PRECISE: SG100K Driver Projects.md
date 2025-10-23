@@ -451,14 +451,12 @@ scRNA-seq data.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Mark Chan</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Lead PI: Joseph Lo</strong>
+<br>Woodlands Health</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicholas Chew</strong>
-<br>National University Hospital
-<br>Cardiology</p>
+<p><strong>Co-Lead PI: Kavita Venkataraman</strong>
+<br>National University of Singapore</p>
 </li>
 </ul>
 </td>
