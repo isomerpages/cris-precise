@@ -1236,24 +1236,18 @@ SingHealth</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Correlates of obesity before age 45 and</p>
-<p>incidence of cancer (EHR). Compare risk</p>
-<p>relationships by ethnicity and sex.</p>
+<p>Correlates of obesity before age 45 and incidence of cancer (EHR). Compare
+risk relationships by ethnicity and sex.</p>
 </li>
 <li>
-<p>Develop a dietary pattern score</p>
-<p>characterising inflammatory potential of</p>
-<p>diet. Relate this score to circulating markers</p>
-<p>of inflammation and metabolic health</p>
-<p>among PRECISE-SG100K participants under</p>
-<p>age 45.</p>
+<p>Develop a dietary pattern score characterising inflammatory potential
+of diet. Relate this score to circulating markers of inflammation and metabolic
+health among PRECISE-SG100K participants under age 45.</p>
 </li>
 <li>
-<p>Determine whether medications and</p>
-<p>bariatric surgery mitigate cancer risk in</p>
-<p>young onset obese PRECISE-SG100K</p>
-<p>participants. Compare effectiveness across</p>
-<p>ethnic groups and cancer sites.</p>
+<p>Determine whether medications and bariatric surgery mitigate cancer risk
+in young onset obese PRECISE-SG100K participants. Compare effectiveness
+across ethnic groups and cancer sites.</p>
 </li>
 </ol>
 </td>
