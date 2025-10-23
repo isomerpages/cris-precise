@@ -164,15 +164,19 @@ University</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Establish the biological underpinnings for cognitive function in diverse
-Asian and global populations.</p>
+<p>Perform multi-ethnic meta-analysis of fat and lean muscle mass using SG100K
+and UKBB datasets.</p>
 </li>
 <li>
-<p>Establish the biological convergence between cognitive function and disease
-traits.</p>
+<p>Mendelian randomisation analysis to identify the contribution of fat and
+lean muscle mass to cardiometabolic diseases.</p>
 </li>
 <li>
-<p>Establish epidemiological and genomic risk predictors of cognitive health.</p>
+<p>Colocalisation analysis to identify risk genes affecting fat and lean
+muscle mass.</p>
+</li>
+<li>
+<p>Conduct functional validation studies of identified genetic loci.</p>
 </li>
 </ol>
 </td>
