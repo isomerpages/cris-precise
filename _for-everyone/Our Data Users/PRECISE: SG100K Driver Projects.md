@@ -348,7 +348,9 @@ as primary outcome, and the visceral fat linked cardiometabolic traits
 and diseases as secondary outcomes in multiethnic Asian population.</p>
 </li>
 <li>
-<p>Evaluate how these associations relate to major adverse cardiac events.</p>
+<p>Perform GWAS of macronutrients in multiethnic Asian population using the
+SG100K dataset and a GWAS meta-analysis using the UK Biobank macronutrient
+intake data.</p>
 </li>
 <li>
 <p>Examine whether these associations with CLD are independent from associated
