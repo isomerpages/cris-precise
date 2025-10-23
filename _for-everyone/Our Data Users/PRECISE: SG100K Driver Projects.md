@@ -872,10 +872,8 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 <p>Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Geoffrey Tan</strong>
-</p>
-<p>Chern-Yee, Institute of</p>
-<p>Mental Health</p>
+<p><strong>Co-Lead PI: Geoffrey Tan Chern-Yee</strong>
+<br>Institute of Mental Health</p>
 </li>
 </ul>
 </td>
