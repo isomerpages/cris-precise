@@ -24,15 +24,15 @@ third_nav_title: Our Data Users
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Lim Weng Khong</strong>
+<p><strong>Lead PI: Dr Lim Weng Khong </strong>
 <br>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Joanne Ngeow</strong>
+<p><strong>Co-Lead PI: Dr Joanne Ngeow  </strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Saumya Jamuar</strong>
+<p><strong>Co-Lead PI: Dr Saumya Jamuar </strong>
 <br>KK Women's and Children's Hospital</p>
 </li>
 </ul>
