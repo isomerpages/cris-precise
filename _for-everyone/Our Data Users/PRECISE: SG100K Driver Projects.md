@@ -79,8 +79,7 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Mark Chan</strong>
-</p>
-<p>National University Hospital
+<br>National University Hospital
 <br>Cardiology</p>
 </li>
 <li>
