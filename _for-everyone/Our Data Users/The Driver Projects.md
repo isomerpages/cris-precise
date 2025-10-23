@@ -152,7 +152,7 @@ Duke-NUS Medical School, National Neuroscience Institute</p>
 <p><strong>Co-Lead PI: Dr Nicolas</strong>
 </p>
 <p><strong>Bertin</strong>
-<br>Duke-NUS Medical School</p>
+<br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
 </td>
