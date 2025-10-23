@@ -257,6 +257,8 @@ in the AIDA scRNA-seq dataset.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong
-Chian School of Medicine</p>
+<p><strong>Institutions involved:</strong> Duke-NUS Medical School, National
+University of Singapore, Lee Kong Chian School of Medicine, A*STAR Genome
+Institute of Singapore, National University Hospital, Singapore General
+Hospital</p>
 <p></p>
