@@ -465,19 +465,8 @@ scRNA-seq data.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Investigate associations between established non-invasive Chronic Liver
-Disease (CLD) biomarkers and cardiometabolic outcomes.</p>
-</li>
-<li>
-<p>Evaluate how these associations relate to major adverse cardiac events.</p>
-</li>
-<li>
-<p>Examine whether these associations with CLD are independent from associated
-metabolic disease.</p>
-</li>
-</ol>
+<p>Primary aim: Identify genetic loci associated with diabetic foot ulcers
+in Asian patients with diabetes mellitus.</p>
 </td>
 </tr>
 </tbody>
