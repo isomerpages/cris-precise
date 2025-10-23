@@ -1335,7 +1335,7 @@ and CVDs.</p>
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
-<h4><strong>Unravelling the correlation between sarcopenia with lifestyle, genetics, and comorbid diseases5</strong></h4>
+<h4><strong>Alport syndrome in the Singapore population: an under-recognised kidney disease?24</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1354,13 +1354,12 @@ and CVDs.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Teh Bin Tean</strong>
-<br>National Cancer Centre</p>
-<p>Singapore</p>
+<p><strong>Lead PI: Ng Kar Hui</strong>
+<br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Frederick Koh Hong Xiang</strong>
-<br>SingHealth</p>
+<p><strong>Co-Lead PI: David Bryce Matchar</strong>
+<br>Duke-NUS Medical School</p>
 </li>
 </ul>
 </td>
