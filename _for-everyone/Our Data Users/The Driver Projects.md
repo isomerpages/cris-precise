@@ -40,17 +40,23 @@ third_nav_title: Our Data Users
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Establish the biological underpinnings for cognitive function in diverse
-Asian and global populations.</p>
+<p>Determine prevalence of chronic kidney disease (CKD) among adults.</p>
 </li>
 <li>
-<p>Establish the biological convergence between cognitive function and disease
-traits.</p>
+<p>Examine association of CKD with</p>
+<p>genetic, clinical and socio-behavioural predictors.</p>
 </li>
 <li>
-<p>Establish epidemiological and genomic risk predictors of cognitive health.</p>
+<p>Examine relative contribution of key</p>
 </li>
 </ol>
+<p>predictors driving differences in CKD</p>
+<p>risks across different sub-population.</p>
+<p></p>
+<p>Develop and validate an integrated risk</p>
+<p>score for the development of CKD in a</p>
+<p>representative multi-ethnic Asian</p>
+<p>population-based cohort in Singapore.</p>
 </td>
 </tr>
 </tbody>
