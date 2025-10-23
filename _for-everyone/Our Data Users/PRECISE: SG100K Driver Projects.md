@@ -234,7 +234,7 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 <p><strong>Institutions involved:</strong> National skin Centre, Lee Kong
 Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
 <hr>
-<h4><strong>Mood and diet in patients with irritable bowel syndrome (IBS) in Singapore</strong></h4>
+<h4><strong>The contribution of genetics to dietary habit and its relation to adiposity and cardiometabolic diseases in multiethnic Asian population</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -307,4 +307,105 @@ precision medicine strategies.</p>
 </table>
 <p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong
 Chian School of Medicine</p>
+<hr>
 <p></p>
+<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Mark Chan</strong>
+<br>National University Hospital
+<br>Cardiology</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Dr Nicholas Chew</strong>
+<br>National University Hospital
+<br>Cardiology</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Investigate associations between established non-invasive Chronic Liver
+Disease (CLD) biomarkers and cardiometabolic outcomes.</p>
+</li>
+<li>
+<p>Evaluate how these associations relate to major adverse cardiac events.</p>
+</li>
+<li>
+<p>Examine whether these associations with CLD are independent from associated
+metabolic disease.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> National University Hospital</p>
+<hr>
+<p></p>
+<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Mark Chan</strong>
+<br>National University Hospital
+<br>Cardiology</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Dr Nicholas Chew</strong>
+<br>National University Hospital
+<br>Cardiology</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Investigate associations between established non-invasive Chronic Liver
+Disease (CLD) biomarkers and cardiometabolic outcomes.</p>
+</li>
+<li>
+<p>Evaluate how these associations relate to major adverse cardiac events.</p>
+</li>
+<li>
+<p>Examine whether these associations with CLD are independent from associated
+metabolic disease.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> National University Hospital</p>
