@@ -792,7 +792,6 @@ and progression of allergic diseases.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore,
-Duke-NUS Medical School</p>
+<p><strong>Institutions involved:</strong> National University of Singapore</p>
 <p></p>
 <p></p>
