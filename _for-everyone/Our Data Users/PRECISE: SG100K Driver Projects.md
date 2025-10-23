@@ -757,16 +757,8 @@ National University of Singapore</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Liu Jianjun</strong>
-<br>A*STAR Genome Institute of Singapore</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Nicolas Bertin</strong>
-<br>A*STAR Genome Institute of Singapore</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Lim Weng Khong</strong>
-<br>Duke-NUS Medical School</p>
+<p><strong>Lead PI: Chew Fook Tim</strong>
+<br>National University of Singapore</p>
 </li>
 </ul>
 </td>
