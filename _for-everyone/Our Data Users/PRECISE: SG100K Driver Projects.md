@@ -465,9 +465,11 @@ scRNA-seq data.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary aim: Identify genetic loci associated with diabetic foot ulcers
-in Asian patients with diabetes mellitus.</p>
-<p>Secondary aims:</p>
+<p><strong>Primary aim:</strong>
+<br>Identify genetic loci associated with diabetic foot ulcers in Asian patients
+with diabetes mellitus.</p>
+<p><strong>Secondary aims:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Identify differences in genetic loci within Malay/Indian ethnicities.</p>
