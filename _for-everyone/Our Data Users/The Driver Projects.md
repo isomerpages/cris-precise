@@ -101,27 +101,20 @@ Chian School of Medicine</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Determine prevalence of chronic kidney disease (CKD) among adults.</p>
+<p>Generate SG100K genome wide tandem repeats (TR) variation catalogue and
+characterisation their respective prevalence in Asian populations.</p>
 </li>
 <li>
-<p>Examine association of CKD with genetic, clinical and socio-behavioural
-predictors.</p>
-</li>
-<li>
-<p>Examine relative contribution of key predictors driving differences in
-CKD risks across different sub-population.</p>
-</li>
-<li>
-<p>Develop and validate an integrated risk score for the development of CKD
-in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
+<p>Characterise contributions of TR variations to the aetiology of complex
+neurological and neurocognitive disorders.</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong
-Chian School of Medicine</p>
+<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore,
+Duke-NUS Medical School, National Neuroscience Institute</p>
 <hr>
 <p></p>
 <p></p>
