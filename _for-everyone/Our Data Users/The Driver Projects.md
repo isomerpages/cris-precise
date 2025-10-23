@@ -233,19 +233,20 @@ National University of Singapore, A*STAR Genome Institute of Singapore</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Determine prevalence of chronic kidney disease (CKD) among adults.</p>
+<p>Determine age-related incidence of clonal haematopoiesis (CH) among our
+three major ancestry groups.</p>
 </li>
 <li>
-<p>Examine association of CKD with genetic, clinical and socio-behavioural
-predictors.</p>
+<p>Correlate CH status with clinical metadata, measures of ageing and disease
+incidence, and disease-related</p>
+<p>variables including biomarkers.</p>
 </li>
 <li>
-<p>Examine relative contribution of key predictors driving differences in
-CKD risks across different sub-population.</p>
+<p>Discover novel genetic associations with CH.</p>
 </li>
 <li>
-<p>Develop and validate an integrated risk score for the development of CKD
-in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
+<p>Integrate functional genomics for novel Asian CH driver mutation discovery
+and validation.</p>
 </li>
 <li>
 <p>Correlate CH status with cell clusters and gene expression signatures
