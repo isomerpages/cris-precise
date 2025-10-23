@@ -980,12 +980,22 @@ Duke-NUS Medical School</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Huang Jian</strong>
-<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+<p><strong>Lead PI: Neerja Karnani</strong>
+<br>A*STAR Bioinformatics Institute</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dennis Wan</strong>
-<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+<p><strong>Co-Lead PI: Joanne Ngeow</strong>
+<br>Lee Kong Chian School of Medicine</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Brian Kennedy</strong>
+<br>National University of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Rajkumar s/o</strong>
+</p>
+<p><strong>Dorajoo</strong>
+<br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
 </td>
