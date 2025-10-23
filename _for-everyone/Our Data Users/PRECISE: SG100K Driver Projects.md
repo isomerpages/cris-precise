@@ -896,7 +896,9 @@ design.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
-Clinical Sciences</p>
+<p><strong>Institutions involved:</strong> Nanyang Technological University,
+Lee Kong Chian School of Medicine, Institute of Mental Health</p>
+<hr>
+<p></p>
 <p></p>
 <p></p>
