@@ -659,5 +659,106 @@ design.</p>
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
 Clinical Sciences</p>
+<hr>
+<h4><strong>Genetic susceptibility of age-related hearing loss1</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Liu Jianjun</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Nicolas Bertin</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Lim Weng Khong</strong>
+<br>Duke-NUS Medical School</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Generate a SG100K genome wide TR variation catalogue and characterisation
+their respective prevalence in Asian populations.</p>
+</li>
+<li>
+<p>Characterise the contributions of TR variations to the aetiology of complex
+neurological and neurocognitive disorders.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore,
+Duke-NUS Medical School</p>
+<hr>
+<h4><strong>Genetic susceptibility of age-related hearing loss2</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Liu Jianjun</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Nicolas Bertin</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Lim Weng Khong</strong>
+<br>Duke-NUS Medical School</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Generate a SG100K genome wide TR variation catalogue and characterisation
+their respective prevalence in Asian populations.</p>
+</li>
+<li>
+<p>Characterise the contributions of TR variations to the aetiology of complex
+neurological and neurocognitive disorders.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore,
+Duke-NUS Medical School</p>
+<p></p>
 <p></p>
 <p></p>
