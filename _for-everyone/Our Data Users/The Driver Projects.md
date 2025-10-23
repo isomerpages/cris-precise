@@ -85,8 +85,8 @@ Chian School of Medicine</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Liu Jianjun</strong>
-<br>A*STAR Genome Institute of Singapore</p>
+<p><strong>Lead PI: Dr Janice Goh</strong>
+<br>A*STAR Bioinformatics Institute</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
