@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: About PRECISE
 ---
-<p><strong>About PRECISE / NPM</strong>
-<br>Precision Health Research, Singapore (PRECISE) is the national central
+<h4><strong>About PRECISE / NPM</strong></h4>
+<p>Precision Health Research, Singapore (PRECISE) is the national central
 entity coordinating Singapore’s multi-phase National Precision Medicine
 (NPM) programme. Established to drive a whole-of-Singapore effort, PRECISE
 works with research, clinical, and industry partners to generate insights
@@ -31,8 +31,7 @@ MOH Holdings Pte Ltd under the NMRC RIE2025 NPM Phase III Funding Initiative
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>SHORT VERSION</strong>
-</p>
+<h4><strong>SHORT VERSION</strong></h4>
 <p>Precision Health Research, Singapore (PRECISE) leads the National Precision
 Medicine (NPM) programme, advancing genomics to improve health and grow
 Singapore’s biomedical sector. Phase II sequenced 100,000 Singaporeans,
