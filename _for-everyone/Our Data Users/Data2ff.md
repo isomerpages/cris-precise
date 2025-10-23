@@ -37,15 +37,17 @@ third_nav_title: Our Data Users
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Establish the biological underpinnings for cognitive function in diverse
-Asian and global populations.</p>
+<p>Seek a deeper understanding of genetic disease burden in major Asian populations
+through a comprehensive analysis of structural variation and short tandem
+repeat expansions.</p>
 </li>
 <li>
-<p>Establish the biological convergence between cognitive function and disease
-traits.</p>
+<p>Demonstrate how SG100K data can</p>
+<p>resolve variants of uncertain significance.</p>
 </li>
 <li>
-<p>Establish epidemiological and genomic risk predictors of cognitive health.</p>
+<p>Explore impact of polygenic backgrounds on penetrance in autosomal dominant
+conditions for under- represented Asian populations.</p>
 </li>
 </ol>
 </td>
@@ -53,6 +55,10 @@ traits.</p>
 </tbody>
 </table>
 <hr>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
-Nanyang Technological University, Institute of Mental Health, National
-Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
+<p><strong>Institutions involved:</strong> Duke-NUS Medical School, Lee Kong
+Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome
+Institute of Singapore, Singapore National Eye Centre, Tan Tock Seng Hospital,
+National University of Singapore, National Heart Centre Singapore, National
+Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological
+University</p>
+<p></p>
