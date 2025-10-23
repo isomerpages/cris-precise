@@ -588,8 +588,7 @@ A*STAR Genome Institute of Singapore, Bioinformatics Institute</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Lim Weng Khong</strong>
-<br>Duke-NUS Medical</p>
-<p>School</p>
+<br>Duke-NUS Medical School</p>
 </li>
 </ul>
 </td>
@@ -608,9 +607,10 @@ neurological and neurocognitive disorders.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University Hospital</p>
+<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore,
+Duke-NUS Medical School</p>
 <hr>
-<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes2</strong></h4>
+<h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
