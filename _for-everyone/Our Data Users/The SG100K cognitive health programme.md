@@ -22,26 +22,36 @@ third_nav_title: Our Data Users
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead PI: Dr Max Lam, Lee</p>
-<p>Kong Chian School of</p>
-<p>Medicine, Institute of</p>
-<p>Mental Health</p>
-<p>Co-Lead PI: Dr Jimmy Lee,</p>
-<p>Institute of Mental Health</p>
-<p>Co-Lead PI: Prof Liu</p>
-<p>Jianjun, Acting Executive</p>
-<p>Director, Genome Institute</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lead PI: Dr Max Lam, Lee Kong Chian School of Medicine, Institute of Mental
+Health</p>
+</li>
+<li>
+<p>Co-Lead PI: Dr Jimmy Lee, Institute of Mental Health</p>
+</li>
+<li>
+<p>Co-Lead PI: Prof Liu Jianjun, Acting Executive Director, Genome Institute</p>
+</li>
+<li>
 <p>of Singapore</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Establish the biological underpinnings</p>
-<p>for cognitive function in diverse Asian</p>
-<p>and global populations.</p>
-<p>2. Establish the biological convergence</p>
-<p>between cognitive function and disease</p>
-<p>traits.</p>
-<p>3. Establish epidemiological and genomic</p>
-<p>risk predictors of cognitive health.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Establish the biological underpinnings for cognitive function in diverse
+Asian and global populations.</p>
+</li>
+<li>
+<p>Establish the biological convergence between cognitive function and disease
+traits.</p>
+</li>
+<li>
+<p>Establish epidemiological and genomic risk predictors of cognitive health.</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
