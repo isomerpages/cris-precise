@@ -578,13 +578,11 @@ A*STAR Genome Institute of Singapore, Bioinformatics Institute</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Liu Jianjun</strong>
-<br>A*STAR Genome Institute</p>
-<p>of Singapore</p>
+<br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Nicolas Bertin</strong>
-<br>A*STAR Genome Institute</p>
-<p>of Singapore</p>
+<br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Lim Weng Khong</strong>
