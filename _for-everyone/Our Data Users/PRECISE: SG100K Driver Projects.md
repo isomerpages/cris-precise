@@ -868,8 +868,7 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 </li>
 <li>
 <p><strong>Co-Lead PI: Bernett Lee</strong>
-<br>Lee Kong Chian School of</p>
-<p>Medicine</p>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Geoffrey Tan Chern-Yee</strong>
