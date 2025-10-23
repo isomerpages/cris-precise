@@ -10,7 +10,7 @@ third_nav_title: Our Data Users
 <p><strong>Topic: Mental Health</strong>
 </p>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -68,7 +68,7 @@ Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 <p><strong>Topic: Mendelian Diseases</strong>
 </p>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -130,7 +130,7 @@ University</p>
 <p><strong>Topic: Fat and Lean Muscle Mass</strong>
 </p>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -190,7 +190,7 @@ muscle mass.</p>
 <p><strong>Topic: Human Leukocyte Antigen</strong>
 </p>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
