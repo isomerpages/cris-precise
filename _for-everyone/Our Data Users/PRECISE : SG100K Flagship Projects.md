@@ -267,11 +267,11 @@ Tan Tock Seng Hospital, Duke-NUS Medical School</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Dr Max Lam</strong>
-<br>Lee Kong Chian School of Medicine, Institute of Mental Health</p>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Dr Jimmy Lee</strong>
-<br>Institute of Mental Health</p>
+<br>National University of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Prof Liu Jianjun</strong>
