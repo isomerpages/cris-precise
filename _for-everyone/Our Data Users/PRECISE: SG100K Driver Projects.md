@@ -283,6 +283,14 @@ the diverse Singaporean population. This comprehensive genetic investigation
 aims to unravel the unique genetic landscape of IBS, considering the multi-ethnic
 composition of the population.</p>
 </li>
+<li>
+<p>Investigate the effects of lifestyle factors on IBS Risk and progression.
+Systematically examine the impact of lifestyle factors, including diet,
+physical activity, sleep, stress, and mental health, on the risk and progression
+of IBS. This multifaceted investigation seeks to discern the intricate
+relationships between lifestyle choices and IBS, contributing valuable
+insights for developing targeted interventions and improving patient outcomes.</p>
+</li>
 </ol>
 </td>
 </tr>
