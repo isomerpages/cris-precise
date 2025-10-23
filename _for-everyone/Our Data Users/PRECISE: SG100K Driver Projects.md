@@ -253,8 +253,8 @@ Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Kuang Ziyang Jonathan</strong>
-<br>Gastroenterology &amp; Hepatology, Tan Tock Seng Hospital</p>
+<p><strong>Lead PI: Theresia Mina</strong>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Sunny Wong</strong>
