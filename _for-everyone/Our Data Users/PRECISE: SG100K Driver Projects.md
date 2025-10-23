@@ -406,8 +406,8 @@ National University Hospital</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate associations between established non-invasive Chronic Liver
-Disease (CLD) biomarkers and cardiometabolic outcomes.</p>
+<p>Build a catalogue of SVs (deletions, insertions, duplications, inversions,
+translocations, and tandem repeats) from the PRECISE-SG100K dataset.</p>
 </li>
 <li>
 <p>Evaluate how these associations relate to major adverse cardiac events.</p>
