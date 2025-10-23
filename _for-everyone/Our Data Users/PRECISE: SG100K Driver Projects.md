@@ -721,21 +721,14 @@ will provide critical insights into disease mechanisms to guide targeted
 prevention and treatment strategies for this nexus of related diseases.</p>
 </li>
 <li>
-<p>lucidate Potential Interactions Between</p>
-<p>Genetic and Environmental Influences on</p>
-<p>This Disease Cluster.</p>
-<p>Uncover and elucidate potential</p>
-<p>interactions between genetic factors and</p>
-<p>environmental influences in the</p>
-<p>development and progression of IBD and</p>
-<p>related conditions. This integrated</p>
-<p>approach aims to provide a nuanced</p>
-<p>understanding of how genetic</p>
-<p>predispositions and environmental</p>
-<p>exposures collaboratively contribute to the</p>
-<p>manifestation of this disease cluster,</p>
-<p>offering a foundation for personalised and</p>
-<p>precision medicine strategies.</p>
+<p>lucidate Potential Interactions Between Genetic and Environmental Influences
+on This Disease Cluster. Uncover and elucidate potential interactions between
+genetic factors and environmental influences in the development and progression
+of IBD and related conditions. This integrated approach aims to provide
+a nuanced understanding of how genetic predispositions and environmental
+exposures collaboratively contribute to the manifestation of this disease
+cluster, offering a foundation for personalised and precision medicine
+strategies.</p>
 </li>
 </ol>
 </td>
