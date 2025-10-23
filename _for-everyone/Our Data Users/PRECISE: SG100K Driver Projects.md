@@ -178,7 +178,7 @@ ocular health.</p>
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
-<h4><strong>Genetic variants contributing to clonal haematopoiesis across diverse Asian genomes</strong></h4>
+<h4><strong>Advancing the understanding of biological mechanisms influencing chronic inflammatory skin diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -197,16 +197,14 @@ ocular health.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Ong Sin</strong>
-</p>
-<p><strong>Tiong</strong>
-<br>Duke-NUS Medical School</p>
+<p><strong>Lead PI: Yew Yik Weng</strong>
+<br>National Skin Centre</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Ashok</strong>
+<p><strong>Co-Lead PI: Steven Thng</strong>
 </p>
-<p><strong>Venkitaraman</strong>
-<br>National University of Singapore</p>
+<p><strong>Tien Guan</strong>
+<br>National Skin Centre</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Prof Chng Wee</strong>
