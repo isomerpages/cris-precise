@@ -793,5 +793,110 @@ and progression of allergic diseases.</p>
 </tbody>
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore</p>
+<hr>
+<h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects1</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Huang Jian</strong>
+<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Dennis Wan</strong>
+<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Investigate the effects of GLP-1 receptor agonist on various domains of
+health outcomes using an observational study design</p>
+</li>
+<li>
+<p>Identify the non-synonymous single nucleotide polymorphisms (SNPs) of
+GLP-1 receptor agonist prescription and predict nsSNPs responsible for
+the differential response to GLP-1 receptor agonist.</p>
+</li>
+<li>
+<p>Provide genetic evidence for the therapeutic potentials and adverse effects
+of GLP-1 receptor agonists by adopting a drug target Mendelian randomisation
+design.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
+Clinical Sciences</p>
+<hr>
+<h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects2</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Huang Jian</strong>
+<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Dennis Wan</strong>
+<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Investigate the effects of GLP-1 receptor agonist on various domains of
+health outcomes using an observational study design</p>
+</li>
+<li>
+<p>Identify the non-synonymous single nucleotide polymorphisms (SNPs) of
+GLP-1 receptor agonist prescription and predict nsSNPs responsible for
+the differential response to GLP-1 receptor agonist.</p>
+</li>
+<li>
+<p>Provide genetic evidence for the therapeutic potentials and adverse effects
+of GLP-1 receptor agonists by adopting a drug target Mendelian randomisation
+design.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
+Clinical Sciences</p>
+<p></p>
 <p></p>
 <p></p>
