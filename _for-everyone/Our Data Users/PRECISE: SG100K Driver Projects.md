@@ -961,7 +961,7 @@ tissue microstructure between carriers and non- carriers.</p>
 <p><strong>Institutions involved:</strong> National Neuroscience Institute,
 Duke-NUS Medical School</p>
 <hr>
-<h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects2</strong></h4>
+<h4><strong>Physiological, environmental and genetic determinants of heterogeneity in Singaporeans’ health span</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -992,18 +992,19 @@ Duke-NUS Medical School</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate the effects of GLP-1 receptor agonist on various domains of
-health outcomes using an observational study design</p>
+<p>Investigate the stressors associated with aging and identify the factors
+contributing to resilience.</p>
 </li>
 <li>
-<p>Identify the non-synonymous single nucleotide polymorphisms (SNPs) of
-GLP-1 receptor agonist prescription and predict nsSNPs responsible for
-the differential response to GLP-1 receptor agonist.</p>
+<p>Investigate gender-specific variations in aging stressors and assess the
+influence of reproductive aging.</p>
 </li>
 <li>
-<p>Provide genetic evidence for the therapeutic potentials and adverse effects
-of GLP-1 receptor agonists by adopting a drug target Mendelian randomisation
-design.</p>
+<p>Examine the effects of Asian ethnicity on the aging process and healthspan.</p>
+</li>
+<li>
+<p>Evaluate the pharmacogenomic effects of medications on lifespan and overall
+health during aging</p>
 </li>
 </ol>
 </td>
