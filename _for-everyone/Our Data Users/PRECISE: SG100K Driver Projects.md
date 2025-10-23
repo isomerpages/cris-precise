@@ -42,10 +42,16 @@ of Singapore</p>
 <li>
 <p>Taking reference from similar work performed by the Pan-UK Biobank, the
 team will compute in-sample dosage-based LD matrices and scores for each
-of the three major ancestry groups in SG100K:
-<br>- LD score regression analysis to estimate heritabilities
-<br>- Fine-mapping analysis to identify causal variants of well-powered complex
+of the three major ancestry groups in SG100K:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>LD score regression analysis to estimate heritabilities</p>
+</li>
+<li>
+<p>Fine-mapping analysis to identify causal variants of well-powered complex
 traits</p>
+</li>
+</ul>
 </li>
 <li>
 <p>The plan is to make the LD matrices available in Hail's BlockMatrix format
@@ -1091,7 +1097,57 @@ PRS in a Singapore context.</p>
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
 <hr>
-<h4><strong>Computation of genome - wide LD scores and matrices from the SG100K resource2</strong></h4>
+<h4><strong>Advancing Asian-centric liver disease treatment: machine learning applications in MASLD and MetALD precision medicine</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Li Jingmei</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Khor Chiea Chuen </strong>A*STAR Genome Institute
+of Singapore</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Investigate the genomic risk of MASLD and associated metabolic traits
+in Asian populations.</p>
+</li>
+<li>
+<p>The plan is to make the LD matrices available in Hail's BlockMatrix format
+or similar. LD scores are also made available in LDSC-compatible flat files
+(.l2.ldscore.gz and .M_5_50).</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
+<hr>
+<h4><strong>Computation of genome - wide LD scores and matrices from the SG100K resource3</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1144,5 +1200,4 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 </tbody>
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
-<p></p>
 <p></p>
