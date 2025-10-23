@@ -770,8 +770,22 @@ that were previously identified and functionally characterised in the SMCGES
 cohort, using the PRECISE-SG100K dataset.</p>
 </li>
 <li>
-<p>Characterise the contributions of TR variations to the aetiology of complex
-neurological and neurocognitive disorders.</p>
+<p>Investigate the associations of previously identified asthma/AR/AD/acne
+candidate genes with the other clinical parameters relevant to the disease
+of interest. For instance, whether the allelic/genotypic differences of
+genetic variants would affect the treatment response, lung functon (spirometry),
+skin condition (sites of flexural dermatitis and psoriasis, etc.) in complex
+disease.</p>
+</li>
+<li>
+<p>Reproduce and validate the observed associations between specific dietary
+habits and allergic diseases, using a more extensive and culturally relevant
+FFQ.</p>
+</li>
+<li>
+<p>Explore causal relationship between dietary habits and allergic diseases
+by understanding how changes in dietary patterns influence the development
+and progression of allergic diseases.</p>
 </li>
 </ol>
 </td>
