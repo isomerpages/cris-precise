@@ -112,8 +112,7 @@ metabolic disease.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore,
-Duke-NUS Medical School, National Neuroscience Institute</p>
+<p><strong>Institutions involved:</strong> National University Hospital</p>
 <hr>
 <h4><strong>An integrated pharmacoeconomic- pharmacokinetic framework for prioritising and testing clinically important drug-gene interactions</strong></h4>
 <blockquote>
