@@ -679,16 +679,16 @@ Clinical Sciences</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: </strong>Sunny Wong
+<p><strong>Lead PI: Sun</strong>ny Wong
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Nicolas Bertin</strong>
-<br>A*STAR Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Anselm Mak</strong>
+<br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Lim Weng Khong</strong>
-<br>Duke-NUS Medical School</p>
+<p><strong>Co-Lead PI: Bernett Lee</strong>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 </ul>
 </td>
