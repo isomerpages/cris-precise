@@ -919,8 +919,7 @@ Lee Kong Chian School of Medicine, Institute of Mental Health</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Tan Eng King</strong>
-<br>National Neuroscience</p>
-<p>Institute</p>
+<br>National Neuroscience Institute</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Thomas Welton</strong>
@@ -942,8 +941,8 @@ and Chinese in the SG100k cohort.</p>
 <li>
 <p>Investigate the association of PD risk genes with comorbidities (Diabetes,
 Hypertension, Heart disease, Autoimmune diseases, Infectious diseases,
-vaccination</p>
-<p>history etc) in carriers and compare the associations with non-carriers.</p>
+vaccination history etc) in carriers and compare the associations with
+non-carriers.</p>
 </li>
 <li>
 <p>Investigate the association with motor and non-motor features between
