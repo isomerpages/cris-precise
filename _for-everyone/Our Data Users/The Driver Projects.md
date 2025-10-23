@@ -55,8 +55,7 @@ third_nav_title: Our Data Users
 <p></p>
 <p>Develop and validate an integrated risk</p>
 <p>score for the development of CKD in a</p>
-<p>representative multi-ethnic Asian</p>
-<p>population-based cohort in Singapore.</p>
+<p>representative multi-ethnic Asian population-based cohort in Singapore.</p>
 </td>
 </tr>
 </tbody>
