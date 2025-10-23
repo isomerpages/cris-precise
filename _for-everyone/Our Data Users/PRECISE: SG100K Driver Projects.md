@@ -501,7 +501,7 @@ nephropathy and retinopathy and diabetic foot ulcers.</p>
 <p><strong>Institutions involved:</strong> Woodlands Health, National University
 of Singapore, Lee Kong Chian School of Medicine</p>
 <hr>
-<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes2</strong></h4>
+<h4><strong>The SG100K_cancer and aging workgroup: Developing risk models for cancer associations</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -534,11 +534,15 @@ of Singapore, Lee Kong Chian School of Medicine</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate associations between established non-invasive Chronic Liver
-Disease (CLD) biomarkers and cardiometabolic outcomes.</p>
+<p>Generate common variant polygenic risk scores for common cancers (breast,
+colorectal, liver, lung, and prostate cancers) and identify potential functional
+rare coding genetic mutations in strong cancer related genes in the SG100K
+dataset.</p>
 </li>
 <li>
-<p>Evaluate how these associations relate to major adverse cardiac events.</p>
+<p>Generate additional age-related biomarkers (i.e as telomere length estimates)
+related to cancer risk from the SG100K WGS data and identify genetic predispositions
+associated with these biomarkers.</p>
 </li>
 <li>
 <p>Examine whether these associations with CLD are independent from associated
