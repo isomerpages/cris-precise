@@ -206,11 +206,13 @@ National University of Singapore, A*STAR Genome Institute of Singapore</p>
 <p><strong>Lead PI: Prof Ong Sin</strong>
 </p>
 <p><strong>Tiong</strong>
-<br>Tan Tock Seng Hospital</p>
+<br>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof John Chambers</strong>
-<br>Lee Kong Chian School of Medicine</p>
+<p><strong>Co-Lead PI: Prof Ashok</strong>
+</p>
+<p><strong>Venkitaraman</strong>
+<br>National University of Singapore</p>
 </li>
 </ul>
 </td>
