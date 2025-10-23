@@ -236,8 +236,5 @@ in the AIDA scRNA-seq dataset.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Duke-NUS Medical School, National
-University of Singapore, Lee Kong Chian School of Medicine, A*STAR Genome
-Institute of Singapore, National University Hospital, Singapore General
-Hospital</p>
-<p></p>
+<p><strong>Institutions involved:</strong> National skin Centre, Lee Kong
+Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
