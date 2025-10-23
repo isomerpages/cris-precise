@@ -201,9 +201,7 @@ ocular health.</p>
 <br>National Skin Centre</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Steven Thng</strong>
-</p>
-<p><strong>Tien Guan</strong>
+<p><strong>Co-Lead PI: Steven Thng Tien Guan</strong>
 <br>National Skin Centre</p>
 </li>
 <li>
