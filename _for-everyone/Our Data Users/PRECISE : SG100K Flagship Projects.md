@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h4><strong>Topic: Mental Health</strong></h4>
+<h4><strong>Topic 1 : Mental Health</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -60,7 +60,7 @@ traits.</p>
 Nanyang Technological University, Institute of Mental Health, National
 Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 <p></p>
-<h4><strong>Topic: Mendelian Diseases</strong></h4>
+<h4><strong>Topic 2 : Mendelian Diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
