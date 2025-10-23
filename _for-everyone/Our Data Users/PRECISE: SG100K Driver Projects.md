@@ -93,7 +93,7 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 <ol data-tight="true" class="tight">
 <li>
 <p>Investigate associations between established non-invasive Chronic Liver
-Disease (CLD) biomarkers and cardiometabolic outcomes</p>
+Disease (CLD) biomarkers and cardiometabolic outcomes.</p>
 </li>
 <li>
 <p>Evaluate how these associations relate to major adverse cardiac events.</p>
@@ -145,7 +145,7 @@ metabolic disease.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Identify non-linear genetic associations contributing to the susceptibility
+<p>Identify non-linear genetic associations contributing to \ the susceptibility
 and manifestation of diverse eye diseases.</p>
 </li>
 <li>
@@ -270,15 +270,18 @@ Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate associations between established non-invasive Chronic Liver
-Disease (CLD) biomarkers and cardiometabolic outcomes</p>
+<p>Evaluate the dietary pattern and characteristics of patients with IBS
+in Singapore.</p>
 </li>
 <li>
-<p>Evaluate how these associations relate to major adverse cardiac events.</p>
+<p>Identify patterns of mood disorders in patients with IBS in Singapore.</p>
 </li>
 <li>
-<p>Examine whether these associations with CLD are independent from associated
-metabolic disease.</p>
+<p>Identify genetic variants associated with IBS in the multi-ethnic Singaporean
+Population. Explore and characterise common genetic polymorphisms IBS within
+the diverse Singaporean population. This comprehensive genetic investigation
+aims to unravel the unique genetic landscape of IBS, considering the multi-ethnic
+composition of the population.</p>
 </li>
 </ol>
 </td>
