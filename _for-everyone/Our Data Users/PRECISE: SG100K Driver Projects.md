@@ -367,7 +367,8 @@ with relevant sensitivity analyses.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University Hospital</p>
+<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
+National University Hospital</p>
 <hr>
 <p></p>
 <h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes</strong></h4>
