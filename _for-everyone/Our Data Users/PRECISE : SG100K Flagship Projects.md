@@ -208,8 +208,8 @@ muscle mass.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Max Lam</strong>
-<br>Lee Kong Chian School of Medicine, Institute of Mental Health</p>
+<p><strong>Lead PI: A/P Sim Xueling</strong>
+<br>National University of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Dr Jimmy Lee</strong>
