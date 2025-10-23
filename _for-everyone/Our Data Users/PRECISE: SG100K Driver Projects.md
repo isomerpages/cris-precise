@@ -57,8 +57,7 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong
-Chian School of Medicine</p>
+<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
 <hr>
 <h4><strong>The high variability of tandem repeats offers insights into population diversity and may explain the missing heritability of complex neurological and neurocognitive disorders in Asian populations</strong></h4>
 <blockquote>
