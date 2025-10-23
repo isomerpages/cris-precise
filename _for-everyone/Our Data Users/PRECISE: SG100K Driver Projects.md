@@ -863,8 +863,7 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Mu Yuguang</strong>
-<br>Nanyang Technological</p>
-<p>University</p>
+<br>Nanyang Technological University</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Bernett Lee</strong>
@@ -899,6 +898,5 @@ design.</p>
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
 Clinical Sciences</p>
-<p></p>
 <p></p>
 <p></p>
