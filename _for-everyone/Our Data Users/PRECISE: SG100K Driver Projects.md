@@ -1290,7 +1290,7 @@ in the SG100K cohort.</p>
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
-<h4><strong>Unravelling the correlation between sarcopenia with lifestyle, genetics, and comorbid diseases3</strong></h4>
+<h4><strong>Exploring the impact and origins of somatic mutagenesis in cardiovascular disease</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1309,28 +1309,26 @@ in the SG100K cohort.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Teh Bin Tean</strong>
-<br>National Cancer Centre</p>
-<p>Singapore</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Frederick Koh Hong Xiang</strong>
-<br>SingHealth</p>
+<p><strong>Lead PI: Tan Kar-Tong</strong>
+</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Validate the multi-omics signature of people with various stages of sarcopenia.</p>
+<p>Assess the impact of genetic variations the</p>
+<p>rate of somatic mutagenesis, and the risk of CVDs.</p>
 </li>
 <li>
-<p>Identify the influence of sarcopenia on comorbidities and its impact on
-clinically relevant outcomes.</p>
+<p>Assess the impact of environmental</p>
+<p>exposures on the rate of somatic</p>
+<p>mutagenesis, and the risk of CVDs.</p>
 </li>
 <li>
-<p>Evaluate correlation of biomarkers of sarcopenia with social economic
-status</p>
+<p>Assess the impact of DNA damaging drugs</p>
+<p>on the rate of somatic mutagenesis and</p>
+<p>CVDs.</p>
 </li>
 </ol>
 </td>
