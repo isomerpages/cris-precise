@@ -1126,8 +1126,7 @@ PRS in a Singapore context.</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Cheng Hong Sheng</strong>
-<br>Lee Kong Chian</p>
-<p>School of Medicine</p>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 </ul>
 </td>
