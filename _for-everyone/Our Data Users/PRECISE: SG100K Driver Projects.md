@@ -129,8 +129,10 @@ metabolic disease.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Janice Goh</strong>
-<br>A*STAR Bioinformatics Institute</p>
+<p><strong>Lead PI: Liu Dianbo</strong>
+<br>National University of</p>
+<p>Singapore
+<br>Ophthamology</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: A/P Wee Hwee</strong>
@@ -149,18 +151,24 @@ metabolic disease.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Evaluate the occurrence of known drug- gene interactions based on EHR
-data and its impact on efficacy and toxicity.</p>
+<p>Identify non-linear genetic associations contributing to the susceptibility
+and manifestation of diverse eye diseases.</p>
 </li>
 <li>
-<p>Explore genotype-drug response associations using SG100K and linked EHR
-datasets augmented by a dedicated pipeline for haplotyping highly polymorphic
-drug metabolising enzyme CYP2D6.</p>
+<p>Explore epistatic interactions and allelic heterogeneity within the genomic
+data to unravel the complex relationships between multiple genetic variants.</p>
 </li>
 <li>
-<p>Develop a pharmacokinetics-informed framework for evaluating and ranking
-both known and novel drug-gene = sets for clinical action to make dose
-recommendations.</p>
+<p>Investigate how non-linear responses to environmental variables contribute
+to the phenotypic variation, with a focus on refining our understanding
+of gene- environment interactions in the context of ocular health.</p>
+</li>
+<li>
+<p>Investigate and interpret the biological relevance of non-linear genetic
+associations. Aim to gain insights into the</p>
+<p>underlying mechanisms linking identified genetic variants to specific
+eye diseases and contribute to a more comprehensive understanding of the
+biology involved.</p>
 </li>
 </ol>
 </td>
