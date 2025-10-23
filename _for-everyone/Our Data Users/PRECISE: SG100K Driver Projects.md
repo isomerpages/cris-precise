@@ -521,8 +521,7 @@ of Singapore, Lee Kong Chian School of Medicine</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Joanne Ngeow</strong>
-</p>
-<p>Lee Kong Chian School of Medicine</p>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Rajkumar s/o</strong>
