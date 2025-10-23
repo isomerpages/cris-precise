@@ -992,9 +992,7 @@ Duke-NUS Medical School</p>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Rajkumar s/o</strong>
-</p>
-<p><strong>Dorajoo</strong>
+<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
