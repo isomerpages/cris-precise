@@ -794,7 +794,7 @@ and progression of allergic diseases.</p>
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
-<h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects1</strong></h4>
+<h4><strong>Modulation of cholesterol 7α-hydroxylase (CYP7A1) activity as an orthogonal approach to the management of hypercholesterolemia</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
