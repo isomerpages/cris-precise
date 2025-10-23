@@ -1153,7 +1153,7 @@ of predictive markers for MASLD disease spectrum.</p>
 <p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
 Tan Tock Seng Hospital</p>
 <hr>
-<h4><strong>Computation of genome - wide LD scores and matrices from the SG100K resource3</strong></h4>
+<h4><strong>Unravelling the correlation between sarcopenia with lifestyle, genetics, and comorbid diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1172,12 +1172,13 @@ Tan Tock Seng Hospital</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Li Jingmei</strong>
-<br>A*STAR Genome Institute of Singapore</p>
+<p><strong>Lead PI: Teh Bin Tean</strong>
+<br>National Cancer Centre</p>
+<p>Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
-<br>A*STAR Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Frederick Koh Hong Xiang</strong>
+<br>SingHealth</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Khor Chiea Chuen </strong>A*STAR Genome Institute
@@ -1188,17 +1189,11 @@ of Singapore</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Taking reference from similar work performed by the Pan-UK Biobank, the
-team will compute in-sample dosage-based LD matrices and scores for each
-of the three major ancestry groups in SG100K:
-<br>- LD score regression analysis to estimate heritabilities
-<br>- Fine-mapping analysis to identify causal variants of well-powered complex
-traits</p>
+<p>Validate the multi-omics signature of people with various stages of sarcopenia.</p>
 </li>
 <li>
-<p>The plan is to make the LD matrices available in Hail's BlockMatrix format
-or similar. LD scores are also made available in LDSC-compatible flat files
-(.l2.ldscore.gz and .M_5_50).</p>
+<p>Identify the influence of sarcopenia on comorbidities and its impact on
+clinically relevant outcomes.</p>
 </li>
 </ol>
 </td>
