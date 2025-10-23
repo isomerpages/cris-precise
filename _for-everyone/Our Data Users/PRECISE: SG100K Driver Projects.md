@@ -24,12 +24,16 @@ third_nav_title: Our Data Users
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Yeo See Cheng</strong>
-<br>Tan Tock Seng Hospital</p>
+<p><strong>Lead PI: Li Jingmei</strong>
+<br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof John Chambers</strong>
-<br>Lee Kong Chian School of Medicine</p>
+<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
+<br>A*STAR Genome Institute of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Khor Chiea Chuen </strong>A*STAR Genome Institute
+of Singapore</p>
 </li>
 </ul>
 </td>
