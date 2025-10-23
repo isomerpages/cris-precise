@@ -1201,7 +1201,7 @@ status</p>
 <p><strong>Institutions involved:</strong> National Cancer Centre Singapore,
 SingHealth</p>
 <hr>
-<h4><strong>Unravelling the correlation between sarcopenia with lifestyle, genetics, and comorbid diseases1</strong></h4>
+<h4><strong>Young-onset obesity and determinants of cancer prevalence</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1220,36 +1220,47 @@ SingHealth</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Teh Bin Tean</strong>
-<br>National Cancer Centre</p>
-<p>Singapore</p>
+<p><strong>Lead PI: Yusuf Ali</strong>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Frederick Koh Hong Xiang</strong>
-<br>SingHealth</p>
+<p><strong>Co-Lead PI: Sunny Wong</strong>
+<br>Lee Kong Chian School of Medicine</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Fan Xiuyi</strong>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Validate the multi-omics signature of people with various stages of sarcopenia.</p>
+<p>Correlates of obesity before age 45 and</p>
+<p>incidence of cancer (EHR). Compare risk</p>
+<p>relationships by ethnicity and sex.</p>
 </li>
 <li>
-<p>Identify the influence of sarcopenia on comorbidities and its impact on
-clinically relevant outcomes.</p>
+<p>Develop a dietary pattern score</p>
+<p>characterising inflammatory potential of</p>
+<p>diet. Relate this score to circulating markers</p>
+<p>of inflammation and metabolic health</p>
+<p>among PRECISE-SG100K participants under</p>
+<p>age 45.</p>
 </li>
 <li>
-<p>Evaluate correlation of biomarkers of sarcopenia with social economic
-status</p>
+<p>Determine whether medications and</p>
+<p>bariatric surgery mitigate cancer risk in</p>
+<p>young onset obese PRECISE-SG100K</p>
+<p>participants. Compare effectiveness across</p>
+<p>ethnic groups and cancer sites.</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National Cancer Centre Singapore,
-SingHealth</p>
+<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine</p>
 <hr>
 <h4><strong>Unravelling the correlation between sarcopenia with lifestyle, genetics, and comorbid diseases2</strong></h4>
 <table style="minWidth: 50px">
