@@ -1072,12 +1072,13 @@ research phenotypes.</p>
 </ul>
 </li>
 <li>
-<p>Assessment of Performance Across Diverse</p>
-<p>Ancestries within SG100K:</p>
-<p>• Evaluate the effectiveness of selected</p>
-<p>PRS models across the major ancestries</p>
-<p>represented in the SG100K dataset (i.e.</p>
-<p>distribution, discrimination, calibration).</p>
+<p>Assessment of Performance Across Diverse Ancestries within SG100K:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Evaluate the effectiveness of selected PRS models across the major ancestries
+represented in the SG100K dataset (i.e. distribution, discrimination, calibration).</p>
+</li>
+</ul>
 <p>• Analyse and compare performance</p>
 <p>metrics to identify any ancestry-specific</p>
 <p>nuances in predictive accuracy.</p>
@@ -1145,7 +1146,6 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 </tbody>
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
