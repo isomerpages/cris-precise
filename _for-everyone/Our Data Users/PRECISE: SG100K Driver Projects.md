@@ -738,7 +738,7 @@ strategies.</p>
 <p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
 National University of Singapore</p>
 <hr>
-<h4><strong>Genetic susceptibility of age-related hearing loss2</strong></h4>
+<h4><strong>Genetic of allergic diseases and acne vulgaris in the Singapore population: validation and functional characterisation of candidates</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
