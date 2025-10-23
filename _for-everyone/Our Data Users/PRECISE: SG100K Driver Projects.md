@@ -1023,7 +1023,7 @@ health during aging</p>
 and Genome Institute of Singapore, Lee Kong Chian School of Medicine, National
 University of Singapore</p>
 <hr>
-<h4><strong>Computation of genome - wide LD scores and matrices from the SG100K resource1</strong></h4>
+<h4><strong>Portability of catalogued polygenic risk scores across ancestrally diverse Singaporean populations</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1058,12 +1058,14 @@ of Singapore</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Taking reference from similar work performed by the Pan-UK Biobank, the
-team will compute in-sample dosage-based LD matrices and scores for each
-of the three major ancestry groups in SG100K:
-<br>- LD score regression analysis to estimate heritabilities
-<br>- Fine-mapping analysis to identify causal variants of well-powered complex
-traits</p>
+<p>Integration of Research Phenotypes with PRS Catalogue Ontologies and Identification</p>
+<p>of Applicable PRS Models:</p>
+<p>• Align research phenotypes with the trait</p>
+<p>ontologies in the EBI-maintained PRS</p>
+<p>catalogue.</p>
+<p>• Systematically select pertinent PRS</p>
+<p>models based on the relevance to</p>
+<p>mapped research phenotypes.</p>
 </li>
 <li>
 <p>The plan is to make the LD matrices available in Hail's BlockMatrix format
