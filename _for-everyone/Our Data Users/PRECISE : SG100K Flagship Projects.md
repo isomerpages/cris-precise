@@ -59,7 +59,7 @@ traits.</p>
 <p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine, Nanyang Technological University, Institute of Mental Health, National Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 <p></p>
 <h4><strong>Topic 2 : Mendelian Diseases</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 130px">
 <colgroup>
 <col>
 <col>
