@@ -467,6 +467,32 @@ scRNA-seq data.</p>
 <td rowspan="1" colspan="1">
 <p>Primary aim: Identify genetic loci associated with diabetic foot ulcers
 in Asian patients with diabetes mellitus.</p>
+<p>Secondary aims:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Identify differences in genetic loci within Malay/Indian ethnicities.</p>
+</li>
+<li>
+<p>Identify genetic loci associated with diabetic peripheral neuropathy.</p>
+</li>
+<li>
+<p>Identify potential gene-environment interactions (for example, tobacco
+smoking)</p>
+<p>associated with the risk ofdiabetic foot ulcers.</p>
+</li>
+<li>
+<p>Identify socio-economical and other risk factors associated with diabetic
+foot ulcers.</p>
+</li>
+<li>
+<p>Identify correlations between macro-angiopathy, micro-vascular reactivity
+nephropathy and retinopathy and diabetic</p>
+<p>foot ulcers.</p>
+</li>
+<li>
+<p>Develop multi-polygenic risk score for developing diabetic foot ulcers.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
