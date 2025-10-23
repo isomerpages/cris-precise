@@ -918,38 +918,49 @@ Lee Kong Chian School of Medicine, Institute of Mental Health</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Huang Jian</strong>
-<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+<p><strong>Lead PI: Tan Eng King</strong>
+<br>National Neuroscience</p>
+<p>Institute</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dennis Wan</strong>
-<br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
+<p><strong>Co-Lead PI: Thomas Welton</strong>
+<br>Duke-NUS Medical School</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Chan Ling Ling</strong>
+<br>Duke-NUS Medical School</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate the effects of GLP-1 receptor agonist on various domains of
-health outcomes using an observational study design</p>
+<p>Determine the prevalence of Asian specific LRRK2 coding variants and other
+PD risk genes (e.g., APOE, SNCA, GBA1, HLA alleles, etc) in Malays, Indians
+and Chinese in the SG100k cohort.</p>
 </li>
 <li>
-<p>Identify the non-synonymous single nucleotide polymorphisms (SNPs) of
-GLP-1 receptor agonist prescription and predict nsSNPs responsible for
-the differential response to GLP-1 receptor agonist.</p>
+<p>Investigate the association of PD risk genes with comorbidities (Diabetes,
+Hypertension, Heart disease, Autoimmune diseases, Infectious diseases,
+vaccination</p>
+<p>history etc) in carriers and compare the associations with non-carriers.</p>
 </li>
 <li>
-<p>Provide genetic evidence for the therapeutic potentials and adverse effects
-of GLP-1 receptor agonists by adopting a drug target Mendelian randomisation
-design.</p>
+<p>Investigate the association with motor and non-motor features between
+PD risk gene carriers and non-carriers based on the quantitative outcome
+measures (e.g. eye, cognition, bone mass, etc).</p>
+</li>
+<li>
+<p>Investigate the differences in MRI regional volumes, lesion burden and
+tissue microstructure between carriers and non- carriers.</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
-Clinical Sciences</p>
+<p><strong>Institutions involved:</strong> National Neuroscience Institute,
+Duke-NUS Medical School</p>
 <hr>
 <h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects2</strong></h4>
 <table style="minWidth: 50px">
