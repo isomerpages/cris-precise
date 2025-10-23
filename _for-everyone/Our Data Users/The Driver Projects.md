@@ -177,6 +177,8 @@ recommendations.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong
-Chian School of Medicine</p>
+<p><strong>Institutions involved:</strong> A*STAR Bioinformatics Institute,
+National University of Singapore, A*STAR Genome Institute of Singapore</p>
+<hr>
+<p></p>
 <p></p>
