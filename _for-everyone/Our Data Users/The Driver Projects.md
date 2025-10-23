@@ -214,6 +214,16 @@ National University of Singapore, A*STAR Genome Institute of Singapore</p>
 <p><strong>Venkitaraman</strong>
 <br>National University of Singapore</p>
 </li>
+<li>
+<p><strong>Co-Lead PI: Prof Chng Wee</strong>
+</p>
+<p><strong>Joo</strong>
+<br>National University of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Prof John Chambers</strong>
+<br>Lee Kong Chian School of Medicine</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
