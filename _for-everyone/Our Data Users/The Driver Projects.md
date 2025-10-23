@@ -247,6 +247,10 @@ CKD risks across different sub-population.</p>
 <p>Develop and validate an integrated risk score for the development of CKD
 in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
 </li>
+<li>
+<p>Correlate CH status with cell clusters and gene expression signatures
+in the AIDA scRNA-seq dataset.</p>
+</li>
 </ol>
 </td>
 </tr>
