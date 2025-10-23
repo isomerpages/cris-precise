@@ -1191,6 +1191,10 @@ Tan Tock Seng Hospital</p>
 <p>Identify the influence of sarcopenia on comorbidities and its impact on
 clinically relevant outcomes.</p>
 </li>
+<li>
+<p>Evaluate correlation of biomarkers of sarcopenia with social economic
+status</p>
+</li>
 </ol>
 </td>
 </tr>
