@@ -432,7 +432,7 @@ scRNA-seq data.</p>
 </table>
 <p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
 <hr>
-<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes1</strong></h4>
+<h4><strong>Genome-wide association study and population- based evaluation of patients with diabetic foot ulcers</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
