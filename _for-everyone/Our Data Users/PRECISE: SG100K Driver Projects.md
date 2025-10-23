@@ -545,8 +545,8 @@ related to cancer risk from the SG100K WGS data and identify genetic predisposit
 associated with these biomarkers.</p>
 </li>
 <li>
-<p>Examine whether these associations with CLD are independent from associated
-metabolic disease.</p>
+<p>Linkage of genetic datasets with TRUST to derive clinical data and determine
+common cancer status (breast, colorectal, liver, lung, and prostate cancers).</p>
 </li>
 </ol>
 </td>
