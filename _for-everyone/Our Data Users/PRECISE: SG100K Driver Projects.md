@@ -1317,18 +1317,16 @@ in the SG100K cohort.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Assess the impact of genetic variations the</p>
-<p>rate of somatic mutagenesis, and the risk of CVDs.</p>
+<p>Assess the impact of genetic variations the rate of somatic mutagenesis,
+and the risk of CVDs.</p>
 </li>
 <li>
-<p>Assess the impact of environmental</p>
-<p>exposures on the rate of somatic</p>
-<p>mutagenesis, and the risk of CVDs.</p>
+<p>Assess the impact of environmental exposures on the rate of somatic mutagenesis,
+and the risk of CVDs.</p>
 </li>
 <li>
-<p>Assess the impact of DNA damaging drugs</p>
-<p>on the rate of somatic mutagenesis and</p>
-<p>CVDs.</p>
+<p>Assess the impact of DNA damaging drugs on the rate of somatic mutagenesis
+and CVDs.</p>
 </li>
 </ol>
 </td>
@@ -1387,4 +1385,3 @@ status</p>
 </table>
 <p><strong>Institutions involved:</strong> National Cancer Centre Singapore,
 SingHealth</p>
-<p></p>
