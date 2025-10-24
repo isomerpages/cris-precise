@@ -1375,7 +1375,17 @@ in Singapore.</p>
 <p>2a. Determine the penetrance of Kidney, eye and hearing phenotypes in
 AD Alport, XL male Alport and XL female Alport syndrome, stratified according
 to age groups and gender in Singapore.</p>
-<p>2b. E</p>
+<p>2b. Estimate the number of diagnosed Alport and versus mis-diagnosed or
+undiagnosed Alport cases in Singapore and the differences in healthcare
+costs, service utilisation and patterns of care among these groups.</p>
+<p>2c. Correlate the severity of the kidney phenotypes with the genotypes
+in COL4A3 and COL4A4, specifically comparing collagenous domain glycine
+missense variants with other types of genetic variants.</p>
+<p>3a. Determine the clinical features that predict an Alport genetic diagnosis.</p>
+<p>3b. Determine the added risk of AD Alport on bad kidney outcomes (ESKD,
+rapid GFR decline or heavy proteinuria).</p>
+<p>3c. Determine the clinical features that predict a poor kidney outcome
+in AD Alport subjects.</p>
 </td>
 </tr>
 </tbody>
