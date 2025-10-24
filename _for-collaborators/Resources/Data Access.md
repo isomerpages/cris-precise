@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Resources
 ---
 <h3><strong>SG100K_Health</strong></h3>
-<p></p>
-<h3><strong>Principles Governing Access to PRECISE-SG100K Resource</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2023/precise-sg10k.jpg">
+</div>
 <p>The guiding principles for accessing the PRECISE-SG100K resource is anchored
 on Singapore’s Research, Innovation, Enterprise master plan. Our overarching
 goal is to advance precision medicine and related health research and innovation
