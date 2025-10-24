@@ -1428,11 +1428,18 @@ Duke-NUS Medical School</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Describe the genetic landscape of congenital and early-onset hearing loss
+in multi-ethnic Singapore. Identify the prevalence of known genetic variants
+and novel variants associated with hearing loss.</p>
 </li>
 <li>
-<p>Evaluate correlation of biomarkers of sarcopenia with social economic
-status</p>
+<p>Analyse interactions between hearing loss-associated genetic variants
+and clinical events that may potentiate hearing loss (e.g. use of ototoxic
+drugs).</p>
+</li>
+<li>
+<p>Develop and validate a polygenic risk score for congenital and early onset
+hearing loss based on an individual's genotype.</p>
 </li>
 </ol>
 </td>
