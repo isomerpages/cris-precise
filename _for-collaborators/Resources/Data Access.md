@@ -5,68 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Resources
 ---
-<p><strong>Published Date: 18-Jul-2025</strong>
-</p>
-<blockquote>
-<p><em>NOTE: These guiding principles will be updated periodically as needed. Please check the website regularly for updates or contact the Secretariat at research@precise.cris.sg</em>
-</p>
-</blockquote>
-<h3><strong>Our Commitment to Responsible Data Sharing</strong></h3>
-<p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
-cohort dataset of ~100,000 Singaporean residents, jointly created by PRECISE,
-SG100K Institutions and GIS.</p>
-<p>As joint stewards of this national resource, PRECISE and the SG100K PIs
-strive to maximise public good from the PRECISE-SG100K dataset while respecting
-participant consent and privacy, upholding scientific rigour, aligning
-with national priorities, and fulfilling commitments to funders and existing
-collaborators.</p>
-<h3><strong>About the PRECISE-SG100K Resource</strong></h3>
-<p>SG100K reached the milestone of recruiting 100,000 participants in Apr
-2025 and whole genome sequencing of these participants was completed in
-Jun 2025. All data components are currently undergoing extensive quality
-checks and curation, both prior to <em>and</em> following linkage to electronic
-health records on the TRUST platform.</p>
-<p>The first release of the integrated dataset for 100,000 participants is
-projected to be released in the first half of 2026.</p>
-<p>The PRECISE-SG100K integrated dataset includes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Research phenotype data</strong> from four longitudinal population
-health cohorts (“SG100K Institutions”) supported by the SG100K OF-LCG award:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://healthforlife.sg/" rel="noopener noreferrer nofollow" target="_blank">Health for Life in Singapore (HELIOS), NTU</a>&nbsp;</p>
-</li>
-<li>
-<p><a href="https://blog.nus.edu.sg/sphs/" rel="noopener noreferrer nofollow" target="_blank">Singapore Population Health Studies (SPHS), NUS</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.snec.com.sg/research-innovation/key-programme-singapore-epidemiology-of-eye-diseases" rel="noopener noreferrer nofollow" target="_blank">Singapore Epidemiology of Eye Diseases (SEED), SERI</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.nhcs.com.sg/news/research/the-singheart-study-focusing-on-asian-cardiovascular-risk" rel="noopener noreferrer nofollow" target="_blank">SingHeart, NHCS</a>
-</p>
-</li>
-</ul>
+<h3><strong>SG100K_Health</strong></h3>
 <p></p>
-</li>
-<li>
-<p><strong>Whole genome sequencing</strong> (short read 30X coverage sequencing)
-generated in partnership with the Genome Institute of Singapore (GIS, A*STAR)
-under Phase II of Singapore’s National Precision Medicine Programme.</p>
-<p></p>
-</li>
-</ul>
-<blockquote>
-<p><em>SG100K Institutions, GIS and PRECISE are collectively referred to as “PRECISE-SG100K”.</em>
-</p>
-</blockquote>
-<p>The PRECISE-SG100K dataset is also linked to<strong> electronic health records (EHRs) </strong>that
-includes routinely collected clinical data and other health-related information.
-This integrated research dataset is accessible only through the TRUST platform
-with additional approval of the TRUST Data Access Committee.</p>
 <h3><strong>Principles Governing Access to PRECISE-SG100K Resource</strong></h3>
 <p>The guiding principles for accessing the PRECISE-SG100K resource is anchored
 on Singapore’s Research, Innovation, Enterprise master plan. Our overarching
