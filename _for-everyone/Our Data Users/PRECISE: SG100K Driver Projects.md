@@ -1393,7 +1393,7 @@ in AD Alport subjects.</p>
 <p><strong>Institutions involved:</strong> National University of Singapore,
 Duke-NUS Medical School</p>
 <hr>
-<h4><strong>Risk prediction for congenital and early-onset hearing loss25</strong></h4>
+<h4><strong>Risk prediction for congenital and early-onset hearing loss</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
