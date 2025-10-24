@@ -1601,15 +1601,6 @@ in our population.</p>
 <p>Assessing and developing genetic risk scores of disease severity, susceptibility
 and long COVID outcomes in our population.</p>
 </li>
-<li>
-<p>Develop and validate a biological clock on organ systems (cardiovascular,
-pulmonary, metabolic, immune, hepatic, and musculoskeletal systems) based
-on Singaporean data.</p>
-</li>
-<li>
-<p>Explore the lifestyle and genetic risk factors associated with advanced
-biological organ age.</p>
-</li>
 </ol>
 </td>
 </tr>
