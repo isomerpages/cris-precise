@@ -1335,7 +1335,7 @@ and CVDs.</p>
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
-<h4><strong>Alport syndrome in the Singapore population: an under-recognised kidney disease?24</strong></h4>
+<h4><strong>Alport syndrome in the Singapore population: an under-recognised kidney disease?</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
