@@ -1559,7 +1559,7 @@ these factors.</p>
 <p><strong>Institutions involved:</strong> Duke-NUS Medical School, A*STAR
 Genome Institute of Singapore</p>
 <hr>
-<h4><strong>Biological age clocks for multiple organ systems and the lifestyle and genetic risk factors of advanced biological age90</strong></h4>
+<h4><strong>Genomic associations of COVID-19 susceptibility &amp; severity in Singapore</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1578,20 +1578,28 @@ Genome Institute of Singapore</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Andrea B. Maier</strong>
-<br>National University of Singapore</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Weilan Wang</strong>
-<br>National University of Singapore</p>
+<p><strong>Lead PI: Kelvin Bryan Tan</strong>
+<br>Ministry of Health</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate the optimal versus current reference ranges of organ systems
-against the risk of age-related diseases using Singaporean data.</p>
+<p>Mine and catalogue published disease severity and susceptibility genetic
+variants and testing their prevalence in Singaporeans. This will include
+not just previously published variants but identify potential new variants
+which are associated with COVID severity, susceptibility and long COVID
+outcomes. Prevalence and allele frequencies of these variants will be further
+studied.</p>
+</li>
+<li>
+<p>Genome wide association study (GWAS) to identify novel host genetic factors
+in our population.</p>
+</li>
+<li>
+<p>Assessing and developing genetic risk scores of disease severity, susceptibility
+and long COVID outcomes in our population.</p>
 </li>
 <li>
 <p>Develop and validate a biological clock on organ systems (cardiovascular,
