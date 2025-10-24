@@ -38,8 +38,6 @@ of Singapore</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
 <p>Taking reference from similar work performed by the Pan-UK Biobank, the
 team will compute in-sample dosage-based LD matrices and scores for each
 of the three major ancestry groups in SG100K:</p>
@@ -52,13 +50,9 @@ of the three major ancestry groups in SG100K:</p>
 traits</p>
 </li>
 </ul>
-</li>
-<li>
 <p>The plan is to make the LD matrices available in Hail's BlockMatrix format
 or similar. LD scores are also made available in LDSC-compatible flat files
 (.l2.ldscore.gz and .M_5_50).</p>
-</li>
-</ol>
 </td>
 </tr>
 </tbody>
