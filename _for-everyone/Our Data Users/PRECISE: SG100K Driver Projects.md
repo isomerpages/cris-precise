@@ -1498,5 +1498,103 @@ biological organ age.</p>
 </tbody>
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore</p>
-<p></p>
-<p></p>
+<hr>
+<h4><strong>Identification of risk factors for gastrointestinal cancers through analysis of genetic and phenotypic data</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Patrick Tan</strong>
+<br>Duke-NUS Medical School</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Lim Weng Khong</strong>
+<br>Duke-NUS Medical School</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Investigate the optimal versus current reference ranges of organ systems
+against the risk of age-related diseases using Singaporean data.</p>
+</li>
+<li>
+<p>Develop and validate a biological clock on organ systems (cardiovascular,
+pulmonary, metabolic, immune, hepatic, and musculoskeletal systems) based
+on Singaporean data.</p>
+</li>
+<li>
+<p>Explore the lifestyle and genetic risk factors associated with advanced
+biological organ age.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> National University of Singapore</p>
+<hr>
+<h4><strong>Biological age clocks for multiple organ systems and the lifestyle and genetic risk factors of advanced biological age90</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Andrea B. Maier</strong>
+<br>National University of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Weilan Wang</strong>
+<br>National University of Singapore</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Investigate the optimal versus current reference ranges of organ systems
+against the risk of age-related diseases using Singaporean data.</p>
+</li>
+<li>
+<p>Develop and validate a biological clock on organ systems (cardiovascular,
+pulmonary, metabolic, immune, hepatic, and musculoskeletal systems) based
+on Singaporean data.</p>
+</li>
+<li>
+<p>Explore the lifestyle and genetic risk factors associated with advanced
+biological organ age.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> National University of Singapore</p>
