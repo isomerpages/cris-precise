@@ -1480,22 +1480,23 @@ KK Women’s &amp; Children’s Hospital, National University Hospital</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Validate the multi-omics signature of people with various stages of sarcopenia.</p>
+<p>Investigate the optimal versus current reference ranges of organ systems
+against the risk of age-related diseases using Singaporean data.</p>
 </li>
 <li>
-<p>Identify the influence of sarcopenia on comorbidities and its impact on
-clinically relevant outcomes.</p>
+<p>Develop and validate a biological clock on organ systems (cardiovascular,
+pulmonary, metabolic, immune, hepatic, and musculoskeletal systems) based
+on Singaporean data.</p>
 </li>
 <li>
-<p>Evaluate correlation of biomarkers of sarcopenia with social economic
-status</p>
+<p>Explore the lifestyle and genetic risk factors associated with advanced
+biological organ age.</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore,
-Duke-NUS Medical School</p>
+<p><strong>Institutions involved:</strong> National University of Singapore</p>
 <p></p>
 <p></p>
