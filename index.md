@@ -40,7 +40,7 @@ sections:
       description: Could the key to tackling rising mental health challenges lie in
         the microbiome? Researchers at GLOW are leading the charge to find out.
       button: READ MORE
-      url: /mental-health-s-new-frontier-the-microbiome-within/
+      url: /news-and-highlights/editorials-features/mental-health-s-new-frontier-the-microbiome-within/
       image: /images/Resources/Editorial
         Features/2025/Glow_thumbnail_John_and_Patrick.png
       alt: Image alt text
