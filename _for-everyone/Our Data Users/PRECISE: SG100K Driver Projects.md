@@ -1534,31 +1534,22 @@ biological organ age.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Systematically identify genes associated</p>
-<p>with gastrointestinal cancer risks and</p>
-<p>survival and estimate penetrance (the</p>
-<p>cancer risk associated with gene variants)</p>
-<p>of both novel and known pathogenic</p>
-<p>genes in gastrointestinal cancer.</p>
+<p>Systematically identify genes associated with gastrointestinal cancer
+risks and survival and estimate penetrance (the cancer risk associated
+with gene variants) of both novel and known pathogenic genes in gastrointestinal
+cancer.</p>
 </li>
 <li>
-<p>Investigate the interactions between the</p>
-<p>human genome, lifestyle factors and</p>
-<p>presence of precursor lesions. This aim to</p>
-<p>determine the extent that a healthier</p>
-<p>lifestyle can mitigate gastrointestinal</p>
-<p>cancer risk in subjects with premalignant</p>
-<p>lesions or carrying a cancer</p>
-<p>predisposition gene.</p>
+<p>Investigate the interactions between the human genome, lifestyle factors
+and presence of precursor lesions. This aim to determine the extent that
+a healthier lifestyle can mitigate gastrointestinal cancer risk in subjects
+with premalignant lesions or carrying a cancer predisposition gene.</p>
 </li>
 <li>
-<p>Quantify the proportional contribution of</p>
-<p>human genome and lifestyle factors to</p>
-<p>risks and survival outcomes of</p>
-<p>gastrointestinal cancers. We also aim to</p>
-<p>develop predictive models for</p>
-<p>gastrointestinal risks by integrating these</p>
-<p>factors.</p>
+<p>Quantify the proportional contribution of human genome and lifestyle factors
+to risks and survival outcomes of gastrointestinal cancers. We also aim
+to develop predictive models for gastrointestinal risks by integrating
+these factors.</p>
 </li>
 </ol>
 </td>
