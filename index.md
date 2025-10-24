@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Transforming health in Singapore through Precision Medicine
+      title: Transforming Health in Singapore through Precision Medicine
       subtitle: Welcome to PRECISE
       background: /images/Homepage/download.png
       key_highlights:
