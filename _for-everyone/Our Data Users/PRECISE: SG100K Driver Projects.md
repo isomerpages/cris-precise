@@ -1436,5 +1436,58 @@ status</p>
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore,
 KK Women’s &amp; Children’s Hospital, National University Hospital</p>
+<hr>
+<h4><strong>Alport syndrome in the Singapore population: an under-recognised kidney disease?26</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Ng Kar Hui</strong>
+<br>National University of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: David Bryce Matchar</strong>
+<br>Duke-NUS Medical School</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Jason Choo Chon Jun</strong>
+<br>Duke-NUS Medical School</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Validate the multi-omics signature of people with various stages of sarcopenia.</p>
+</li>
+<li>
+<p>Identify the influence of sarcopenia on comorbidities and its impact on
+clinically relevant outcomes.</p>
+</li>
+<li>
+<p>Evaluate correlation of biomarkers of sarcopenia with social economic
+status</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Institutions involved:</strong> National University of Singapore,
+Duke-NUS Medical School</p>
 <p></p>
 <p></p>
