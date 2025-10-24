@@ -1368,14 +1368,10 @@ and CVDs.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Determine the prevalence of autosomal dominant (AD), X-linked (XL), autosomal
-recessive (AR) and digenic Alport syndrome in Singapore; and differences
-in these prevalences among the Chines, Malay and Indian populations in
-Singapore.</p>
-</li>
-</ol>
+<p>1.Determine the prevalence of autosomal dominant (AD), X-linked (XL),
+autosomal recessive (AR) and digenic Alport syndrome in Singapore; and
+differences in these prevalences among the Chines, Malay and Indian populations
+in Singapore.</p>
 <p>2a. Determine the penetrance of Kidney, eye and hearing phenotypes in
 AD Alport, XL male Alport and XL female Alport syndrome, stratified according
 to age groups and gender in Singapore.</p>
