@@ -1534,24 +1534,39 @@ biological organ age.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Investigate the optimal versus current reference ranges of organ systems
-against the risk of age-related diseases using Singaporean data.</p>
+<p>Systematically identify genes associated</p>
+<p>with gastrointestinal cancer risks and</p>
+<p>survival and estimate penetrance (the</p>
+<p>cancer risk associated with gene variants)</p>
+<p>of both novel and known pathogenic</p>
+<p>genes in gastrointestinal cancer.</p>
 </li>
 <li>
-<p>Develop and validate a biological clock on organ systems (cardiovascular,
-pulmonary, metabolic, immune, hepatic, and musculoskeletal systems) based
-on Singaporean data.</p>
+<p>Investigate the interactions between the</p>
+<p>human genome, lifestyle factors and</p>
+<p>presence of precursor lesions. This aim to</p>
+<p>determine the extent that a healthier</p>
+<p>lifestyle can mitigate gastrointestinal</p>
+<p>cancer risk in subjects with premalignant</p>
+<p>lesions or carrying a cancer</p>
+<p>predisposition gene.</p>
 </li>
 <li>
-<p>Explore the lifestyle and genetic risk factors associated with advanced
-biological organ age.</p>
+<p>Quantify the proportional contribution of</p>
+<p>human genome and lifestyle factors to</p>
+<p>risks and survival outcomes of</p>
+<p>gastrointestinal cancers. We also aim to</p>
+<p>develop predictive models for</p>
+<p>gastrointestinal risks by integrating these</p>
+<p>factors.</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore</p>
+<p><strong>Institutions involved:</strong> Duke-NUS Medical School, A*STAR
+Genome Institute of Singapore</p>
 <hr>
 <h4><strong>Biological age clocks for multiple organ systems and the lifestyle and genetic risk factors of advanced biological age90</strong></h4>
 <table style="minWidth: 50px">
