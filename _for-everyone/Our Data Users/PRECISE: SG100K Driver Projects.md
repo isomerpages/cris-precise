@@ -882,22 +882,24 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Investigate the effects of GLP-1 receptor agonist on various domains of
-health outcomes using an observational study design</p>
-</li>
-<li>
-<p>Identify the non-synonymous single nucleotide polymorphisms (SNPs) of
-GLP-1 receptor agonist prescription and predict nsSNPs responsible for
-the differential response to GLP-1 receptor agonist.</p>
-</li>
-<li>
-<p>Provide genetic evidence for the therapeutic potentials and adverse effects
-of GLP-1 receptor agonists by adopting a drug target Mendelian randomisation
-design.</p>
-</li>
-</ol>
+<p>1.1 Build machine learning and deep learning models specific to Singaporean
+demographics which aid in prediction of depression.</p>
+<p>1.2 To identify gene by marker and gene by environment interactions predicting
+depressive and anxiety symptomswith dietary, nutrient, metabolic, lifestyle,
+sociodemographic and cognitive factors</p>
+<p>1.3 Apply feature selection approaches to discover important environmental
+and genetic features used by the machine learning and deep learning models
+to predict depression to ensure the model is explainable and reasonable
+to physicians.</p>
+<p>1.4 Explore the potential for the depression machine learning models to
+be deployed in clinical settings.</p>
+<p>2.1 Construct a language model which could extract complex interrelations
+between patient features under Singapore context.</p>
+<p>2.2 Assess the capability of the language model in imputing missing features
+of a patient when other features were provided to extrapolate patient features
+in clinical settings.</p>
+<p>2.3 Assess suitability of leveraging the trained language model for transfer
+learning.</p>
 </td>
 </tr>
 </tbody>
@@ -938,18 +940,14 @@ Lee Kong Chian School of Medicine, Institute of Mental Health</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Determine the prevalence of Asian specific LRRK2 coding variants and other
-PD risk genes (e.g., APOE, SNCA, GBA1, HLA alleles, etc) in Malays, Indians
-and Chinese in the SG100k cohort.</p>
-</li>
-<li>
-<p>Investigate the association of PD risk genes with comorbidities (Diabetes,
+<p>1a. Determine the prevalence of Asian specific LRRK2 coding variants and
+other PD risk genes (e.g., APOE, SNCA, GBA1, HLA alleles, etc) in Malays,
+Indians and Chinese in the SG100k cohort.</p>
+<p>1b. Investigate the association of PD risk genes with comorbidities (Diabetes,
 Hypertension, Heart disease, Autoimmune diseases, Infectious diseases,
 vaccination history etc) in carriers and compare the associations with
 non-carriers.</p>
-</li>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Investigate the association with motor and non-motor features between
 PD risk gene carriers and non-carriers based on the quantitative outcome
