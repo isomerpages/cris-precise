@@ -1370,17 +1370,16 @@ and CVDs.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Validate the multi-omics signature of people with various stages of sarcopenia.</p>
-</li>
-<li>
-<p>Identify the influence of sarcopenia on comorbidities and its impact on
-clinically relevant outcomes.</p>
-</li>
-<li>
-<p>Evaluate correlation of biomarkers of sarcopenia with social economic
-status</p>
+<p>Determine the prevalence of autosomal dominant (AD), X-linked (XL), autosomal
+recessive (AR) and digenic Alport syndrome in Singapore; and differences
+in these prevalences among the Chines, Malay and Indian populations in
+Singapore.</p>
 </li>
 </ol>
+<p>2a. Determine the penetrance of Kidney, eye and hearing phenotypes in
+AD Alport, XL male Alport and XL female Alport syndrome, stratified according
+to age groups and gender in Singapore.</p>
+<p>2b. E</p>
 </td>
 </tr>
 </tbody>
