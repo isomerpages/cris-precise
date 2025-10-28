@@ -338,7 +338,7 @@ your manuscript) via the following link at least 21 days in advance:
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/trust-import-export</a>.</p>
 </li>
 </ol>
-<h4><strong>REVIEW PROCESS</strong></h4>
+<h4><strong>Review process</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>All proposals will be reviewed by the <a href="https://npm.sg/precise-sg100k-scientific-committee/" rel="noopener nofollow" target="_blank">PRECISE-SG100K Scientific Committee</a>.</p>
@@ -366,7 +366,7 @@ will be declined.</p>
 related to Call for Proposals 2026.</p>
 </li>
 </ol>
-<h4><strong>EVALUATION CRITERIA</strong></h4>
+<h4><strong>Evaluation criteria</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
