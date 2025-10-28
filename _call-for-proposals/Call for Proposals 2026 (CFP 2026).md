@@ -501,7 +501,8 @@ related to Call for Proposals 2026.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anticipated Call Launch</p>
+<p><strong>Anticipated Call Launch</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Jan 2026</p>
@@ -512,7 +513,8 @@ related to Call for Proposals 2026.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deadline for submission</p>
+<p><strong>Deadline for submission</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14 Feb 2026</p>
@@ -523,7 +525,8 @@ related to Call for Proposals 2026.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Review of submissions</p>
+<p><strong>Review of submissions</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Feb - Mar 2026</p>
@@ -534,7 +537,8 @@ related to Call for Proposals 2026.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Final selection and approval process</p>
+<p><strong>Final selection and approval process</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>April - May 2026</p>
@@ -545,7 +549,8 @@ related to Call for Proposals 2026.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Projects' submission to TRUST DAC</p>
+<p><strong>Projects' submission to TRUST DAC</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May 2026 onwards**</p>
