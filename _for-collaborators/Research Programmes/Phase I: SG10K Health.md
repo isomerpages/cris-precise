@@ -54,7 +54,4 @@ access policies and data access forms via the the <a href="https://npm.a-star.ed
 <a href="https://npm.a-star.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://npm.a-star.edu.sg/help</u>
 </a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SG10K_Health" src="/images/Research/sg10khealth.jpg">
-</div>
 <p></p>
