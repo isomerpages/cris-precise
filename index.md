@@ -76,7 +76,6 @@ sections:
       alt: Image alt text
   - infobar:
       title: Singapore's National Precision Medicine Strategy
-      subtitle: Add informational text
       id: infobar
       button: watch video
       url: https://www.youtube.com/watch?v=ZrEv0cmGFUE&t=3s
