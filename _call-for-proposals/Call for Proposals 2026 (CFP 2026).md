@@ -431,7 +431,8 @@ related to Call for Proposals 2026.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project plan</p>
+<p><strong>Project plan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -442,7 +443,8 @@ related to Call for Proposals 2026.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project plan</p>
+<p><strong>Project Overlap</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -453,7 +455,8 @@ related to Call for Proposals 2026.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Project plan</p>
+<p><strong>Compliance Requirements</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
