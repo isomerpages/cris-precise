@@ -68,13 +68,10 @@ sections:
       image: /images/Homepage/homepage-what-is-the-precision-section.png
       subtitle: SG10K_Health
   - infopic:
-      title: Insights from 100,000 Singaporean genomes
-      subtitle: PRECISE-SG100K
+      title: Singapore's National Precision Medicine Strategy
       id: infopic
-      description: Translating insights from 100,000 genomic data sets into improved
-        health strategies.
-      button: Read more
-      url: /news-and-events/editorial-features/sg100k-translating-insights-from-100000-genomic-data-sets/
+      button: video
+      url: https://www.youtube.com/watch?v=ZrEv0cmGFUE&t=3s
       image: /images/Homepage/sg100k.png
       alt: Image alt text
   - announcements:
@@ -102,38 +99,6 @@ sections:
           link_text: ""
           link_url: ""
   - textcards:
-      title: For Everyone
-      id: textcards
-      description: Precision medicine can improve healthcare by giving doctors a more
-        detailed understanding of each patient.
-      cards:
-        - title: Singapore's Big Health Project
-          description: Card description
-          linktext: Learn more
-          url: /singapore-s-big-health-project/
-        - title: Everyday Genomics
-          description: Card description
-          linktext: Learn more
-          url: /stories/
-        - title: Our Data Users
-          description: Card description
-          linktext: Learn more
-          url: /our-data-users/
-  - textcards:
-      title: For Collaborators
-      id: textcards
-      description: Precision medicine can improve healthcare by giving doctors a more
-        detailed understanding of each patient.
-      cards:
-        - title: Research Programmes
-          description: Card description
-          linktext: Learn more
-          url: /phase-i-sg10k-health/
-        - title: Resources
-          description: Card description
-          linktext: Learn more
-          url: /data-user1/
-  - textcards:
       title: Our Core Pillars
       id: textcards
       cards:
@@ -153,8 +118,4 @@ sections:
           description: ""
           linktext: More
           url: https://npm.sg/data-access-principles/
-  - resources:
-      title: Latest News and Events
-      subtitle: Be in the know
-      id: resources
 ---
