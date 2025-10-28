@@ -26,7 +26,7 @@ and Driver Projects approved under CFP 2024 will directly receive access
 to the PRECISE-SG100K baseline data release comprising all 100,000 participants.
 No additional application is required for the approved research scope.
 All existing terms and conditions will continue to apply.</p>
-<h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
+<h4><strong>Brief description of PRECISE-SG100K Resource</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
 <blockquote>
