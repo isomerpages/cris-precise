@@ -2,6 +2,8 @@ collections:
   old-files:
     output: true
     order:
+      - Partners/Erasmus School of Health Policy & Management (ESHPM), Erasmus
+        University Rotterdam.md
       - Partners/Global Economics and Evaluation of Clinical Genomics Sequencing
         Working Group (GEECS).md
       - Partners/NalaGenetics.md
