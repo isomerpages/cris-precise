@@ -19,7 +19,7 @@ The Global Economics and Evaluation of Clinical Genomics Sequencing Working Grou
 ​GEECS first published several theme issues and journal themed sections in 2018 on assessing the value of precision medicine and next-generation sequencing tests. In 2020, GEECS focused on moving the evaluation of precision medicine into practice, resulting in a themed section and a JAMA paper on the global availability and funding of clinical genomic sequencing. GEECS is continuing its work on value assessment with an emphasis on building the necessary infrastructure for use across the globe.
 							</td>
 			<td style="width:40%">
-				<img src="/images/Collaborate/Partners/logo_nalagenetics_vertical.png">
+				<img src="/images/Collaborate/Partners/geecs_logo.png">
 			</td>
 			</tr></tbody></table>
 			
