@@ -435,7 +435,17 @@ related to Call for Proposals 2026.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Feasibility of methodology and approach</p>
+</li>
+<li>
+<p>Adequacy of project</p>
+</li>
+<li>
+<p>Optimal use of dataset</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
