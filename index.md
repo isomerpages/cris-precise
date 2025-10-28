@@ -18,7 +18,7 @@ sections:
           url: /singapore-s-big-health-project/
         - title: For Collaborators
           description: ""
-          url: /overview/
+          url: /our-data-users/
         - title: Call for Proposals
           description: ""
           url: /call-for-proposals-2026/
