@@ -2,6 +2,7 @@ collections:
   old-files:
     output: true
     order:
+      - Partners/.keep
       - Testimonials.md
       - Long Read Sequencing2/.keep
       - Long Read Sequencing.md
