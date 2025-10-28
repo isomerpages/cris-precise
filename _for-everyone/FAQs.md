@@ -101,7 +101,3 @@ tests and other prevention steps if they are at risk for a particular disease.</
 used to diagnose some inherited cancers, inherited high cholesterol and
 rare diseases. NPM is doing research to expand the types of medical conditions
 that can benefit from precision medicine approaches.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banners_page%20footer%203%20-%20purple.png">
-</div>
-<p></p>
