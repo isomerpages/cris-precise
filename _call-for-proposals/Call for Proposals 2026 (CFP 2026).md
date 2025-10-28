@@ -93,7 +93,6 @@ dietary patterns and nutrient intake</p>
 <blockquote>
 <p><strong>Genome Data</strong>
 </p>
-<p></p>
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
