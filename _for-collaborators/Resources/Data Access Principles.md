@@ -254,7 +254,7 @@ for data access policy and operations at <a rel="noopener noreferrer nofollow" t
 <p></p>
 <h3><strong>PRECISE-SG100K Data Access Governance Process</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Research/Call for Proposals/Data_Access_Governance_Flowchart.png">
+<img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Collaborate/Data_Access_Governance_Flowchart.png">
 </div>
 <p></p>
 <p>You can download a copy of the PRECISE-SG100K Data Access Principles
