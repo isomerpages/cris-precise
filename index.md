@@ -22,7 +22,7 @@ sections:
         - title: Call for Proposals
           description: Key Highlight description
           url: /call-for-proposals/
-      variant: center
+      variant: side
       size: sm
       backgroundColor: gray
   - infopic:
