@@ -141,7 +141,7 @@ on the way research is conducted and shape our future economy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/mtf-image.png">
 </div>
-<h3><strong>HOW CAN I TAKE PART?</strong></h3>
+<h3><strong>How Can I Take Part?</strong></h3>
 <p>Whether you are a researcher, company representative or ordinary citizen,
 we want to work with you. Get in touch with us today by emailing&nbsp;
 <a href="mailto:contact@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">contact@precise.cris.sg</a>&nbsp;to find out more about how you can participate
