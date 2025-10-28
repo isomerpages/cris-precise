@@ -59,7 +59,7 @@ status</p>
 </li>
 <li>
 <p>Singapore-specific food frequency data, enabling detailed analysis of
-dietary patterns and untrient intake</p>
+dietary patterns and nutrient intake</p>
 </li>
 </ul>
 </td>
