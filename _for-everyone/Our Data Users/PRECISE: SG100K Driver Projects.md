@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h4><strong>Computation of genome - wide LD scores and matrices from the SG100K resource</strong></h4>
+<h4><strong>Computation of Genome - Wide LD Scores and Matrices from the SG100K resource</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,9 +57,10 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
+</p>
 <hr>
-<h4><strong>Chronic liver disease is a significant risk factor for adverse cardiometabolic outcomes</strong></h4>
+<h4><strong>Chronic Liver Disease is a Significant Risk Factor for Adverse Cardiometabolic Outcomes</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -107,9 +108,10 @@ metabolic disease.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University Hospital</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University Hospital</em>
+</p>
 <hr>
-<h4><strong>Nonlinear methods for genomic association analysis of eye diseases</strong></h4>
+<h4><strong>Nonlinear Methods for Genomic Association Aanalysis of Eye Diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -176,9 +178,10 @@ ocular health.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+</p>
 <hr>
-<h4><strong>Advancing the understanding of biological mechanisms influencing chronic inflammatory skin diseases</strong></h4>
+<h4><strong>Advancing the Understanding of Biological Mechanisms Influencing Chronic Inflammatory Skin Diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -231,10 +234,10 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National skin Centre, Lee Kong
-Chian School of Medicine, A*STAR Skin Research Institute of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> National skin Centre, Lee Kong Chian School of Medicine, A*STAR Skin Research Institute of Singapore</em>
+</p>
 <hr>
-<h4><strong>Mood and diet in patients with irritable bowel syndrome (IBS) in Singapore</strong></h4>
+<h4><strong>Mood and Diet in Patients with Irritable Bowel Syndrome (IBS) in Singapore</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -304,11 +307,11 @@ precision medicine strategies.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Tan Tock Seng Hospital, Lee Kong
-Chian School of Medicine</p>
+<p><strong><em>Institutions involved:</em></strong><em> Tan Tock Seng Hospital, Lee Kong Chian School of Medicine</em>
+</p>
 <hr>
 <p></p>
-<h4><strong>The contribution of genetics to dietary habit and its relation to adiposity and cardiometabolic diseases in multiethnic Asian population</strong></h4>
+<h4><strong>The Contribution of Genetics to Dietary Habit and Its Relation to Adiposity and Cardiometabolic Diseases in Multiethnic Asian Population</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -367,11 +370,11 @@ with relevant sensitivity analyses.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
-National University Hospital</p>
+<p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, National University Hospital</em>
+</p>
 <hr>
 <p></p>
-<h4><strong>A structural variation catalogue across three ancestrally diverse Singapore populations</strong></h4>
+<h4><strong>A Structural Variation Catalogue Across Three Ancestrally Diverse Singapore Populations</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -430,9 +433,10 @@ scRNA-seq data.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
+</p>
 <hr>
-<h4><strong>Genome-wide association study and population- based evaluation of patients with diabetic foot ulcers</strong></h4>
+<h4><strong>Genome - Wide Association Study and Population- Based Evaluation of Patients with Diabetic Foot Ulcers</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -497,10 +501,10 @@ nephropathy and retinopathy and diabetic foot ulcers.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Woodlands Health, National University
-of Singapore, Lee Kong Chian School of Medicine</p>
+<p><strong><em>Institutions involved:</em></strong><em> Woodlands Health, National University of Singapore, Lee Kong Chian School of Medicine</em>
+</p>
 <hr>
-<h4><strong>The SG100K_cancer and aging workgroup: Developing risk models for cancer associations</strong></h4>
+<h4><strong>The SG100K_Cancer and Aging Workgroup: Developing Risk Models for Cancer Associations</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -554,10 +558,10 @@ common cancer status (breast, colorectal, liver, lung, and prostate cancers).</p
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
-A*STAR Genome Institute of Singapore, Bioinformatics Institute</p>
+<p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, A*STAR Genome Institute of Singapore, Bioinformatics Institute</em>
+</p>
 <hr>
-<h4><strong>Genetic susceptibility of age-related hearing loss</strong></h4>
+<h4><strong>Genetic Susceptibility of Age-Related Hearing Loss</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -604,10 +608,10 @@ neurological and neurocognitive disorders.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore,
-Duke-NUS Medical School</p>
+<p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore, Duke-NUS Medical School</em>
+</p>
 <hr>
-<h4><strong>Evaluating the promise and perils of glucagon-like peptide-1 (GLP-1) receptor agonist: a deep dive into therapeutic potentials and adverse effects</strong></h4>
+<h4><strong>Evaluating the Promise and Perils of Glucagon - Like Peptide-1 (GLP-1) Receptor Agonist: A Deep Dive into Therapeutic Potentials and Adverse Effects</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -656,10 +660,10 @@ design.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Singapore Institute for
-Clinical Sciences</p>
+<p><strong><em>Institutions involved:</em></strong><em> A*STAR Singapore Institute for Clinical Sciences</em>
+</p>
 <hr>
-<h4><strong>Unravelling the pathogenesis of inflammatory bowel disease and associated immune- mediated disorders in the Singaporean population</strong></h4>
+<h4><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune - Mediated Disorders in the Singaporean Population</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -734,10 +738,10 @@ strategies.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
-National University of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, National University of Singapore</em>
+</p>
 <hr>
-<h4><strong>Genetic of allergic diseases and acne vulgaris in the Singapore population: validation and functional characterisation of candidates</strong></h4>
+<h4><strong>Genetic of Allergic Diseases and Acne Vulgaris in the Singapore Population: Validation and Functional Characterisation of Candidates</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -791,9 +795,10 @@ and progression of allergic diseases.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+</p>
 <hr>
-<h4><strong>Modulation of cholesterol 7α-hydroxylase (CYP7A1) activity as an orthogonal approach to the management of hypercholesterolemia</strong></h4>
+<h4><strong>Modulation of Cholesterol 7α-hydroxylase (CYP7A1) Activity as an Orthogonal Approach to the Management of Hypercholesterolemia</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -840,9 +845,10 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+</p>
 <hr>
-<h4><strong>Multi-omics data analysis for novel depression mechanisms using deep learning tools</strong></h4>
+<h4><strong>Multi-Omics Data Analysis for Novel Depression Mechanisms using Deep Learning Tools</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -897,10 +903,10 @@ learning.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Nanyang Technological University,
-Lee Kong Chian School of Medicine, Institute of Mental Health</p>
+<p><strong><em>Institutions involved:</em></strong><em> Nanyang Technological University, Lee Kong Chian School of Medicine, Institute of Mental Health</em>
+</p>
 <hr>
-<h4><strong>Asian-specific Parkinson’s disease-linked genetic risk variants and systemic clinical outcomes</strong></h4>
+<h4><strong>Asian-Specific Parkinson’s Disease-Linked Genetic Risk Variants and Systemic Clinical Outcomes</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -955,10 +961,10 @@ tissue microstructure between carriers and non- carriers.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National Neuroscience Institute,
-Duke-NUS Medical School</p>
+<p><strong><em>Institutions involved:</em></strong><em> National Neuroscience Institute, Duke-NUS Medical School</em>
+</p>
 <hr>
-<h4><strong>Physiological, environmental and genetic determinants of heterogeneity in Singaporeans’ health span</strong></h4>
+<h4><strong>Physiological, Environmental and Genetic Determinants of Heterogeneity in Singaporeans’ Health Span</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1016,11 +1022,10 @@ health during aging</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Bioinformatics Institute
-and Genome Institute of Singapore, Lee Kong Chian School of Medicine, National
-University of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> A*STAR Bioinformatics Institute and Genome Institute of Singapore, Lee Kong Chian School of Medicine, National University of Singapore</em>
+</p>
 <hr>
-<h4><strong>Portability of catalogued polygenic risk scores across ancestrally diverse Singaporean populations</strong></h4>
+<h4><strong>Portability of Catalogued Polygenic Risk Scores Across Ancestrally Diverse Singaporean Populations</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1086,9 +1091,10 @@ PRS in a Singapore context.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> A*STAR Genome Institute of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
+</p>
 <hr>
-<h4><strong>Advancing Asian-centric liver disease treatment: machine learning applications in MASLD and MetALD precision medicine</strong></h4>
+<h4><strong>Advancing Asian-Centric Liver Disease Treatment: Machine Learning Applications in MASLD and MetALD Precision Medicine</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1139,8 +1145,8 @@ of predictive markers for MASLD disease spectrum.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
-Tan Tock Seng Hospital</p>
+<p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, Tan Tock Seng Hospital</em>
+</p>
 <hr>
 <h4><strong>Unravelling the correlation between sarcopenia with lifestyle, genetics, and comorbid diseases</strong></h4>
 <table style="minWidth: 50px">
