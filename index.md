@@ -62,11 +62,6 @@ sections:
       url: https://www.youtube.com/watch?v=ZrEv0cmGFUE&t=3s
       image: /images/Homepage/precise_video.jpg
       alt: NPM video
-  - infobar:
-      title: Singapore's National Precision Medicine Strategy
-      id: infobar
-      button: watch video
-      url: https://www.youtube.com/watch?v=ZrEv0cmGFUE&t=3s
   - announcements:
       title: Latest Updates
       id: announcements
