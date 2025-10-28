@@ -23,7 +23,7 @@ sections:
           description: ""
           url: /call-for-proposals-cfp/
       variant: side
-      size: md
+      size: sm
       backgroundColor: gray
   - infopic:
       title: GLOW
