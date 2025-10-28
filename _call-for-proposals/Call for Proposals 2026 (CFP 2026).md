@@ -488,13 +488,72 @@ related to Call for Proposals 2026.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Evaluation_Criteria_CFP2026.png">
-</div>
 <h4><strong>TIMELINES</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Timelines_CFP2026.png">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anticipated Call Launch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Jan 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deadline for submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 Feb 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Review of submissions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Feb - Mar 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Final selection and approval process</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April - May 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Projects' submission to TRUST DAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May 2026 onwards**</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><em>*Timelines may be subject to change without prior information.</em>
 </p>
 <p><em>**Projects that do not submit to TRUST by December 2026 may be ended, to enable others to pursue similar work in CFP 2027.</em>
