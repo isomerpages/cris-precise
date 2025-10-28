@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Health Intervention and Policy Evaluation Research (HIPER).md
+      - Partners/PRECISE SG100K.md
       - Partners/Illumina.md
       - Partners/National Supercomputing Centre (NSCC).md
       - Partners/Trusted Research and Real World Data Utilisation (TRUST).md
