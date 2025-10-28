@@ -165,10 +165,6 @@ and demand.</p>
 </li>
 </ul>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource_Table.png">
-</div>
 <p><em>TRUST (“Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-related data governance framework and analytics platform that catalyses health data research and innovation to improve health. It supports public-private partnerships and enables anonymised health-related research and real-world data to be brought together, accessed and used in an expeditious and secure manner.</em>
 </p>
 <p>The linked PRECISE-SG100K Resource will be accessible on the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">TRUST platform</a>.
