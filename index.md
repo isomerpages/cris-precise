@@ -23,7 +23,7 @@ sections:
           description: Key Highlight description
           url: /call-for-proposals/
       variant: side
-      size: md
+      size: sm
       backgroundColor: gray
   - infopic:
       title: GLOW
