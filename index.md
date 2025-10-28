@@ -36,11 +36,14 @@ sections:
         Features/2025/Glow_thumbnail_John_and_Patrick.png
       alt: Image alt text
   - infopic:
-      title: Singapore's National Precision Medicine Strategy
+      title: Phase III
+      subtitle: Latest updates
       id: infopic
-      button: watch video
-      url: https://www.youtube.com/watch?v=ZrEv0cmGFUE&t=3s
-      image: /images/Homepage/precise_video.png
+      description: Over 700 thought leaders, clinicians, scientists, and industry
+        experts from around the world gathered for insightful discussions.
+      button: REad more
+      url: /news-and-highlights/events/precise-ihcc-conference/
+      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - infopic:
       title: GLOW
@@ -54,14 +57,11 @@ sections:
         Health/IMG_0707_3x2.jpg
       alt: Image alt text
   - infopic:
-      title: Event highlights of PRECISE-IHCC Conference 2024
-      subtitle: Latest updates
+      title: Singapore's National Precision Medicine Strategy
       id: infopic
-      description: Over 700 thought leaders, clinicians, scientists, and industry
-        experts from around the world gathered for insightful discussions.
-      button: View conference highlights
-      url: /news-and-highlights/events/precise-ihcc-conference/
-      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
+      button: watch video
+      url: https://www.youtube.com/watch?v=ZrEv0cmGFUE&t=3s
+      image: /images/Homepage/precise_video.png
       alt: Image alt text
   - infobar:
       title: Singapore's National Precision Medicine Strategy
