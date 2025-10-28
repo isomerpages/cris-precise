@@ -32,8 +32,7 @@ sections:
       description: update
       button: READ MORE
       url: /mental-health-s-new-frontier-the-microbiome-within/
-      image: /images/Resources/Editorial
-        Features/2025/Glow_thumbnail_John_and_Patrick.png
+      image: /images/Homepage/PhaseIII_info.png
       alt: Image alt text
   - infopic:
       title: Phase III
