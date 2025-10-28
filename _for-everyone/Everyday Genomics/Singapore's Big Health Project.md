@@ -133,7 +133,7 @@ the data collected is stored, secured and retrieved.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/the-way-precise-run2-1161px.jpg">
 </div>
-<h3><strong>MAKING THE FUTURE OF MEDICINE A REALITY</strong></h3>
+<h3><strong>Making The Future of Medicine a Reality</strong></h3>
 <p>Healthcare has made great strides in the last hundred years. But the next
 hundred years promise to be even more exciting. Precision medicine will
 not only improve the lives of patients but will also have a profound impact
