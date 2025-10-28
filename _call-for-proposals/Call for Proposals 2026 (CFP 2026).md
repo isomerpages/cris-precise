@@ -367,6 +367,50 @@ related to Call for Proposals 2026.</p>
 </li>
 </ol>
 <h4><strong>EVALUATION CRITERIA</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Citeria</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description of criteria</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Project Team</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quality of the project team: Relevant domain expertise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Evaluation_Criteria_CFP2026.png">
 </div>
