@@ -29,6 +29,51 @@ All existing terms and conditions will continue to apply.</p>
 <h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Research Phenotype Data</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Questionaire Data include:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Detailed health and lifestyle information, including medical histroy,
+medications, behavioural risk factors, mental health , and socio-economic
+status</p>
+</li>
+<li>
+<p>Singapore-specific food frequency data, enabling detailed analysis of
+dietary patterns and untrient intake</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource_Table.png">
 </div>
