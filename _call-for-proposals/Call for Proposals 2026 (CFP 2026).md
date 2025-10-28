@@ -76,9 +76,22 @@ dietary patterns and nutrient intake</p>
 <li>
 <p>Serum creatinine</p>
 </li>
+<li>
+<p>Glucose</p>
+</li>
+<li>
+<p>Blood lipids</p>
+</li>
+<li>
+<p>HbA1C</p>
+</li>
 </ul>
-<p></p>
+<p><em>Note:Imaging files and other raw data BLOBs are currently not available</em>
+</p>
 <hr>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource_Table.png">
