@@ -19,9 +19,14 @@ sections:
         - title: For Collaborators
           description: ""
           url: /phase-i-sg10k-health/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
       variant: center
       size: sm
       backgroundColor: gray
+      button: Call for Proposals
+      url: /call-for-proposals/
   - infopic:
       title: GLOW
       subtitle: Latest updates
