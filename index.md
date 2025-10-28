@@ -26,24 +26,13 @@ sections:
       size: sm
       backgroundColor: gray
   - infopic:
-      title: GLOW
-      subtitle: Latest updates
-      id: infopic
-      description: Singapore to embark on study exploring links between Asian gut
-        microbiomes and mental health.
-      button: Read more
-      url: /glow-gut-linked-outcomes-in-wellbeing/
-      image: /images/Research Programmes/Microbiomes and Mental
-        Health/IMG_0707_3x2.jpg
-      alt: Image alt text
-  - infopic:
       title: "Mental Health's New Frontier: The Microbiome Within"
       subtitle: Latest updates
       id: infopic
       description: Could the key to tackling rising mental health challenges lie in
         the microbiome? Researchers at GLOW are leading the charge to find out.
       button: READ MORE
-      url: https://www.npm.sg/mental-health-s-new-frontier-the-microbiome-within/
+      url: /mental-health-s-new-frontier-the-microbiome-within/
       image: /images/Resources/Editorial
         Features/2025/Glow_thumbnail_John_and_Patrick.png
       alt: Image alt text
@@ -58,15 +47,16 @@ sections:
       image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - infopic:
-      title: Discoveries from mapping 10,000 genomes
-      description: Two genetic studies involving 10,000 Singaporeans identify
-        variations affecting predisposition to inherited diseases and response
-        to medications
-      button: Learn More
-      url: /news-and-events/editorial-features/sg10k-discoveries-from-mapping-10000-genomes/
-      alt: infographic
-      image: /images/Homepage/homepage-what-is-the-precision-section.png
-      subtitle: SG10K_Health
+      title: GLOW
+      subtitle: Latest updates
+      id: infopic
+      description: Singapore to embark on study exploring links between Asian gut
+        microbiomes and mental health.
+      button: Read more
+      url: /glow-gut-linked-outcomes-in-wellbeing/
+      image: /images/Research Programmes/Microbiomes and Mental
+        Health/IMG_0707_3x2.jpg
+      alt: Image alt text
   - infopic:
       title: Singapore's National Precision Medicine Strategy
       id: infopic
