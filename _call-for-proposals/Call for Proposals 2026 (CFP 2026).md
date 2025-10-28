@@ -124,7 +124,6 @@ and demand.</p>
 <blockquote>
 <p><strong>Clinical Data and other Health-related Data</strong>
 </p>
-<p></p>
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
@@ -415,6 +414,4 @@ User Support Materials</p>
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
