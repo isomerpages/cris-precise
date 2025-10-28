@@ -266,7 +266,7 @@ and associated compute costs including analyses on the TRUST platform. <strong>N
 may encourage the researchers to converge them into a single proposal.</p>
 </li>
 </ul>
-<h4><strong>PUBLICATION POLICY</strong></h4>
+<h4><strong>Publication policy</strong></h4>
 <p>Publications arising from the proposals should include an author list
 that adopts the following principles:</p>
 <ol data-tight="true" class="tight">
