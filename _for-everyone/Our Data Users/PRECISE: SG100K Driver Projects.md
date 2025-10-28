@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h4><strong>Computation of Genome - Wide LD Scores and Matrices from the SG100K resource</strong></h4>
+<h4><strong>Computation of Genome-Wide LD Scores and Matrices from the SG100K resource</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -436,7 +436,7 @@ scRNA-seq data.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h4><strong>Genome - Wide Association Study and Population- Based Evaluation of Patients with Diabetic Foot Ulcers</strong></h4>
+<h4><strong>Genome-Wide Association Study and Population- Based Evaluation of Patients with Diabetic Foot Ulcers</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -611,7 +611,7 @@ neurological and neurocognitive disorders.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore, Duke-NUS Medical School</em>
 </p>
 <hr>
-<h4><strong>Evaluating the Promise and Perils of Glucagon - Like Peptide-1 (GLP-1) Receptor Agonist: A Deep Dive into Therapeutic Potentials and Adverse Effects</strong></h4>
+<h4><strong>Evaluating the Promise and Perils of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist: A Deep Dive into Therapeutic Potentials and Adverse Effects</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -663,7 +663,7 @@ design.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Singapore Institute for Clinical Sciences</em>
 </p>
 <hr>
-<h4><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune - Mediated Disorders in the Singaporean Population</strong></h4>
+<h4><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune-Mediated Disorders in the Singaporean Population</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1148,7 +1148,7 @@ of predictive markers for MASLD disease spectrum.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, Tan Tock Seng Hospital</em>
 </p>
 <hr>
-<h4><strong>Unravelling the correlation between sarcopenia with lifestyle, genetics, and comorbid diseases</strong></h4>
+<h4><strong>Unravelling the Correlation between Sarcopenia with Lifestyle, Genetics, and Comorbid diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1195,10 +1195,10 @@ status</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National Cancer Centre Singapore,
-SingHealth</p>
+<p><strong><em>Institutions involved:</em></strong><em> National Cancer Centre Singapore, SingHealth</em>
+</p>
 <hr>
-<h4><strong>Young-onset obesity and determinants of cancer prevalence</strong></h4>
+<h4><strong>Young-Onset Obesity and Determinants of Cancer Prevalence</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1251,9 +1251,10 @@ across ethnic groups and cancer sites.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine</p>
+<p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine</em>
+</p>
 <hr>
-<h4><strong>Implications of alternative splicing of voltagegated calcium channels in schizophrenia</strong></h4>
+<h4><strong>Implications of Alternative Splicing of Voltagegated Calcium Channels in Schizophrenia</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1285,9 +1286,10 @@ in the SG100K cohort.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+</p>
 <hr>
-<h4><strong>Exploring the impact and origins of somatic mutagenesis in cardiovascular disease</strong></h4>
+<h4><strong>Exploring the Impact and Origins of Somatic Mutagenesis in Cardiovascular Disease</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1330,9 +1332,10 @@ and CVDs.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+</p>
 <hr>
-<h4><strong>Alport syndrome in the Singapore population: an under-recognised kidney disease?</strong></h4>
+<h4><strong>Alport Syndrome in the Singapore Population: An Under-Recognised Kidney Disease?</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1387,10 +1390,10 @@ in AD Alport subjects.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore,
-Duke-NUS Medical School</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore, Duke-NUS Medical School</em>
+</p>
 <hr>
-<h4><strong>Risk prediction for congenital and early-onset hearing loss</strong></h4>
+<h4><strong>Risk Prediction for Congenital and Early-Onset Hearing Loss</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1443,10 +1446,10 @@ hearing loss based on an individual's genotype.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore,
-KK Women’s &amp; Children’s Hospital, National University Hospital</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore, KK Women’s &amp; Children’s Hospital, National University Hospital</em>
+</p>
 <hr>
-<h4><strong>Biological age clocks for multiple organ systems and the lifestyle and genetic risk factors of advanced biological age</strong></h4>
+<h4><strong>Biological Age Clocks for Multiple Organ Systems and the Lifestyle and Genetic Risk Factors of Advanced Biological Age</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1494,9 +1497,10 @@ biological organ age.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+</p>
 <hr>
-<h4><strong>Identification of risk factors for gastrointestinal cancers through analysis of genetic and phenotypic data</strong></h4>
+<h4><strong>Identification of Risk Factors for Gastrointestinal Cancers through Analysis of Genetic and Phenotypic Data</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1553,10 +1557,10 @@ these factors.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Duke-NUS Medical School, A*STAR
-Genome Institute of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> Duke-NUS Medical School, A*STAR Genome Institute of Singapore</em>
+</p>
 <hr>
-<h4><strong>Genomic associations of COVID-19 susceptibility &amp; severity in Singapore</strong></h4>
+<h4><strong>Genomic Associations of COVID-19 Susceptibility &amp; Severity in Singapore</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1603,5 +1607,6 @@ and long COVID outcomes in our population.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Ministry of Health</p>
+<p><strong><em>Institutions involved:</em></strong><em> Ministry of Health</em>
+</p>
 <p></p>
