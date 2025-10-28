@@ -6,7 +6,11 @@ variant: tiptap
 third_nav_title: Partners
 ---
 <h3>Enabling Clinical-Grade Genetic &amp; Genomic Testing Services in Singapore</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,8 +38,9 @@ that clinicians have access to the most accurate and up-to-date information
 possible.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Collaborate/Partners/lifestrands_logo-01_small.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collaborate/Partners/life_strands.png">
 </div>
 </td>
 </tr>
