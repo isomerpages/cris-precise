@@ -16,7 +16,7 @@ The Health Intervention and Technology Assessment Program (HITAP) is a semi-auto
 <br><br>
 HITAP is a member of the International Decision Support Initiative (iDSI), a global network of priority setting institutions. It works closely with its regional partners in the region through the Strengthening Active Partnerships for Policy and Health Intervention Research and Evaluation (SAPPHIRE), which includes the National Health Foundation (NHF), the Saw Swee Hock School of Public Health, National University of Singapore (NUS), the Mahidol Oxford Tropical Research Unit (MORU) and Hitotsubashi University. In recognition of its efforts, in 2013, the World Health Organization (WHO) cited HITAP as a research institute that was pivotal for the advancement of Universal Health Coverage (UHC) and, in 2019, the Wellcome Trust and Overseas Development Institute of the United Kingdom acknowledged HITAP as a health innovation to achieve the Sustainable Development Goals (SDGs).
 							</td>
-			<td style="width:50%">
+			<td style="width:40%">
 				<img src="/images/Collaborate/Partners/hitap-logo1.png">
 			</td>
 		</tr>
