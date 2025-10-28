@@ -26,25 +26,21 @@ sections:
       size: sm
       backgroundColor: gray
   - infopic:
-      title: "Mental Health's New Frontier: The Microbiome Within"
+      title: NPM Phase III
       subtitle: Latest updates
       id: infopic
-      description: Could the key to tackling rising mental health challenges lie in
-        the microbiome? Researchers at GLOW are leading the charge to find out.
+      description: update
       button: READ MORE
       url: /mental-health-s-new-frontier-the-microbiome-within/
       image: /images/Resources/Editorial
         Features/2025/Glow_thumbnail_John_and_Patrick.png
       alt: Image alt text
   - infopic:
-      title: Event highlights of PRECISE-IHCC Conference 2024
-      subtitle: Latest updates
+      title: Singapore's National Precision Medicine Strategy
       id: infopic
-      description: Over 700 thought leaders, clinicians, scientists, and industry
-        experts from around the world gathered for insightful discussions.
-      button: View conference highlights
-      url: /news-and-highlights/events/precise-ihcc-conference/
-      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
+      button: watch video
+      url: https://www.youtube.com/watch?v=ZrEv0cmGFUE&t=3s
+      image: /images/Homepage/precise_video.png
       alt: Image alt text
   - infopic:
       title: GLOW
@@ -58,11 +54,14 @@ sections:
         Health/IMG_0707_3x2.jpg
       alt: Image alt text
   - infopic:
-      title: Singapore's National Precision Medicine Strategy
+      title: Event highlights of PRECISE-IHCC Conference 2024
+      subtitle: Latest updates
       id: infopic
-      button: watch video
-      url: https://www.youtube.com/watch?v=ZrEv0cmGFUE&t=3s
-      image: /images/Homepage/precise_video.png
+      description: Over 700 thought leaders, clinicians, scientists, and industry
+        experts from around the world gathered for insightful discussions.
+      button: View conference highlights
+      url: /news-and-highlights/events/precise-ihcc-conference/
+      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
       alt: Image alt text
   - infobar:
       title: Singapore's National Precision Medicine Strategy
