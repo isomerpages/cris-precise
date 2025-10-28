@@ -20,7 +20,7 @@ sections:
           description: ""
           url: /phase-i-sg10k-health/
         - title: Call for Proposals
-          description: Key Highlight description
+          description: ""
           url: /call-for-proposals/
       variant: side
       size: md
