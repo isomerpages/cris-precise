@@ -109,7 +109,7 @@ to address our lack of understanding of Asian-specific genetic conditions.
 Precision Health Research, Singapore (PRECISE) is the central entity coordinating
 a whole of government effort to implement phase II of Singapore's 10-year
 National Precision Medicine strategy.</p>
-<h3><strong>HOW WILL MY DATA BE USED?</strong></h3>
+<h3><strong>How Will My Data be Used?</strong></h3>
 <p>To realise the potential of precision medicine, genetic data needs to
 be linked to lifestyle and health information. Scientists can then use
 this data to find out the significance of each genetic variant and how
