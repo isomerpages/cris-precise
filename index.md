@@ -60,7 +60,7 @@ sections:
       id: infopic
       button: watch video
       url: https://www.youtube.com/watch?v=ZrEv0cmGFUE&t=3s
-      image: /images/Homepage/precise_video.png
+      image: /images/Homepage/precise_video.jpg
       alt: Image alt text
   - infobar:
       title: Singapore's National Precision Medicine Strategy
