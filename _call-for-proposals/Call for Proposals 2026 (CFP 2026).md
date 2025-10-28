@@ -114,48 +114,42 @@ for missense variants.</p>
 and relatedness.</p>
 </li>
 <li>
-<p>File Formats: Hail Variant Dataset (VDS) and PLINK</p>
-<p></p>
+<p>File Formats: Hail Variant Dataset (VDS) and PLINK 2.0 (including a QC-filtered
+PLINK2 set). Additional formats (e.g., VCF, BGEN) subject to governance
+and demand.</p>
 </li>
 </ul>
-<p><strong>Physical Measurements include:: G</strong>
+<hr>
+<p></p>
+<blockquote>
+<p><strong>Clinical Data and other Health-related Data</strong>
 </p>
+</blockquote>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Comprehensive anthropometric measurements</p>
+<p>Whole Genome Sequences: 30X short-read WGS data generated for 100K participants.</p>
 </li>
 <li>
-<p>Digital blood pressure readings</p>
+<p>Variant Catalogue: Genome-wide dataset of single nucleotide variants (SNVs),
+insertions/deletions (indels), and other variant types, harmonised into
+bi-allelic representation.</p>
 </li>
 <li>
-<p>12-lead ECG for cardiac assessment</p>
+<p>Functional Annotations: Predicted consequences of variants on genes and
+transcripts (e.g., VEP), with integrated clinical pathogenicity scores
+for missense variants.</p>
 </li>
 <li>
-<p>Spirometry results</p>
+<p>Sample Metadata: Genetic ancestry assignment, sequencing quality metrics,
+and relatedness.</p>
 </li>
 <li>
-<p>7-day physical activity data using Axivity tri-axial accelerometry</p>
-<p></p>
+<p>File Formats: Hail Variant Dataset (VDS) and PLINK 2.0 (including a QC-filtered
+PLINK2 set). Additional formats (e.g., VCF, BGEN) subject to governance
+and demand.</p>
 </li>
 </ul>
-<p><strong>Biochemical Laboratory Assays include:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Serum creatinine</p>
-</li>
-<li>
-<p>Glucose</p>
-</li>
-<li>
-<p>Blood lipids</p>
-</li>
-<li>
-<p>HbA1C</p>
-</li>
-</ul>
-<p><em>Note:Imaging files and other raw data BLOBs are currently not available</em>
-</p>
 <p></p>
 <p></p>
 <p></p>
