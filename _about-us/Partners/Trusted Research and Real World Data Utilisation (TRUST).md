@@ -16,7 +16,7 @@ Singapore has valuable research and real-world data managed by different researc
 
 TRUST is Singapore’s national data exchange platform that aims to address these challenges by enabling the fusion and secured sharing of anonymised health-related research and real-world data for research purposes between public institutions, and between the public and private sectors. TRUST is jointly developed by the Ministry of Health, the Smart Nation and Digital Government Office (SNGDO), the Government Technology Agency (GovTech) and Synapxe.
 							</td>
-			<td style="width:50%">
+			<td style="width:40%">
 				<img src="/images/Collaborate/Partners/trust_subpage_featured.jpg">
 			</td>
 			</tr></tbody></table>
