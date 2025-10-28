@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: About PRECISE
 ---
-<h4><strong>Singapore's National Precision Medicine Programme</strong></h4>
 <p>Precision Health Research, Singapore (PRECISE) is the national central
 entity coordinating Singapore’s multi-phase National Precision Medicine
 (NPM) programme. Established to drive a whole-of-Singapore effort, PRECISE
