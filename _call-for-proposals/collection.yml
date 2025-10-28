@@ -1,4 +1,5 @@
 collections:
   call-for-proposals:
     output: true
-    order: []
+    order:
+      - Call for Proposals (CFP).md
