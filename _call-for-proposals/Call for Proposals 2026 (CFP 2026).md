@@ -394,12 +394,63 @@ related to Call for Proposals 2026.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Quality of the project team: Relevant domain expertise</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Scientific ambition/ hypothesis</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Clarity and significance of research objectives</p>
+</li>
+<li>
+<p>Scientific merit and quality</p>
+</li>
+<li>
+<p>Potential impact and value of deliverables</p>
+</li>
+<li>
+<p>Contribution to addressing research gaps</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
