@@ -2,6 +2,7 @@ collections:
   old-files:
     output: true
     order:
+      - Partners/Health Intervention and Policy Evaluation Research (HIPER).md
       - Partners/SG10K HEALTH.md
       - Partners/PRECISE SG100K.md
       - Partners/Illumina.md
