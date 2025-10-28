@@ -1,0 +1,4 @@
+collections:
+  call-for-proposals:
+    output: true
+    order: []
