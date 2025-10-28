@@ -191,7 +191,7 @@ case-by-case and subject to additional approval.</p>
 is not permitted.</p>
 </li>
 </ol>
-<h4><strong>GUIDING PRINCIPLES FOR PROPOSAL</strong></h4>
+<h4><strong>Guiding principles for proposal</strong></h4>
 <p><strong>Scope for Proposals</strong>
 </p>
 <ol data-tight="true" class="tight">
