@@ -29,26 +29,10 @@ All existing terms and conditions will continue to apply.</p>
 <h4><strong>BRIEF DESCRIPTION OF PRECISE-SG100K RESOURCE</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<blockquote>
 <p><strong>Research Phenotype Data</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</blockquote>
 <p><strong>Questionaire Data include:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -63,9 +47,9 @@ dietary patterns and nutrient intake</p>
 </li>
 <li>
 <p>Cognitive function assessments using validated memory and thinking tests</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Physical Measurements include:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -83,9 +67,9 @@ dietary patterns and nutrient intake</p>
 </li>
 <li>
 <p>7-day physical activity data using Axivity tri-axial accelerometry</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Biochemical Laboratory Assays include:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -93,18 +77,9 @@ dietary patterns and nutrient intake</p>
 <p>Serum creatinine</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<hr>
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource_Table.png">
 </div>
