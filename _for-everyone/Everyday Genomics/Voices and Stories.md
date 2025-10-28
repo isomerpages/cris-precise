@@ -5,31 +5,46 @@ variant: tiptap
 description: ""
 third_nav_title: Everyday Genomics
 ---
-<h4><strong>Patient Story: Finding the Right Medication Through Pharmacogenomics</strong></h4>
-<p><strong><em>“Genetic testing ensures you receive the most effective medication without unnecessary delays — especially when it is needed the most.”</em></strong>
+<h4><strong>Patient Story: Living With Familial Hypercholesterolemia</strong></h4>
+<p><strong><em>“All these years we just thought it was high cholesterol. We never imagined it was something genetic.”</em></strong>
 </p>
-<p>After a heart attack, <em>Mr Tan (not his real name)</em> was prescribed
-medication but soon experienced troubling breathlessness. At first, it
-was not clear whether the symptoms were due to the heart condition or the
-treatment itself.</p>
-<p>That was when pharmacogenomics (PGx) testing provided the answer.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/Stories/02_Patient_Story_PGx_Patient_image.png">
-</div>
-<p>The transition was not just about switching medication — it was about
-clarity and confidence. While the genetic report itself was technical,
-pharmacists took the time to explain what the results meant in everyday
-terms.</p>
-<p>For the patient, it was eye-opening:</p>
-<p>“Genetic testing equips doctors with more precise information to make
-better treatment decisions.”</p>
-<p>Today, this experience has changed the way the patient views healthcare.
-Instead of trial-and-error, genetic testing now ensures the right drug,
-first time.</p>
-<p>And his message to others?</p>
-<p>“Concerns about genetic privacy are personal. But if you are not overly
-worried, testing is worth it. The benefits far outweigh the risks — for
-you and your loved ones.”</p>
+<p>For more than three decades, <em>Patient A</em> (a healthcare professional)
+lived by the book when it came to health. No alcohol. No smoking. A diet
+carefully balanced to be low in cholesterol. To anyone looking in, she
+appeared to be doing everything right to protect her health.</p>
+<p>Her family history told a different story. Her mother, uncles and aunt
+had all been diagnosed with high cholesterol in their 40s. Despite strict
+diets, five of them eventually succumbed to heart failure in their 50s
+and 60s. “Only making lifestyle changes was not enough,” she reflects.</p>
+<p>The turning point came last year, when her daughter — still in her twenties
+— went for a routine health screening at work. High cholesterol was detected,
+and she was referred to FHCARE, a clinical <a href="https://www.npm.sg/news-and-events/editorial-features/getting-to-the-heart-of-the-matter/" rel="noopener noreferrer nofollow" target="_blank">research programme</a> supported
+by PRECISE, at Khoo Teck Puat Hospital (KTPH). Genetic testing confirmed
+her daughter had familial hypercholesterolemia (FH) — a genetic condition
+that affects how the body manages cholesterol.</p>
+<p>“At first, I was stunned,” <em>Patient A</em> recalls. “All these years
+we just thought it was high cholesterol. We never imagined it was something
+genetic.”</p>
+<p>Encouraged by her daughter’s diagnosis, she underwent testing herself.
+In February, she too was diagnosed with FH. The news landed harder than
+expected. “Even though I wasn’t surprised, my anxiety doubled,” she says.
+“Why? How? What now? I did not even know what I needed to know.”</p>
+<p>That was when support from the FHCARE team became invaluable. With guidance
+from doctors and genetic counsellors, she learned about the importance
+of <strong>cascade screening</strong> — the practice of testing family members
+of an affected individual — and began medication early. She was also connected
+to the FH Advocacy Circle, a support group where families living with FH
+share experiences and access reliable information.</p>
+<p>“Understanding the genetic aspect helps us make sense of FH, which is
+a chronic condition,” she explains. “It meant my daughter and I could act
+decisively, rather than rely only on lifestyle changes, which had not been
+enough for my uncles and aunt.”</p>
+<p>Today, <em>Patient A</em> is thriving. Her condition is stable, and she
+only needs to attend follow-ups every nine months. More importantly, she
+has become an <strong>FH ambassador</strong>, helping to build a supportive
+community for patients and families.</p>
+<p>“The unknown can be fearful,” she says. “But there’s no need to avoid
+it.”</p>
 <hr>
 <h3><strong>How can I share my story?</strong></h3>
 <p>You can email us at <strong><a rel="noopener noreferrer nofollow" target="_blank">contact@precise.cris.sg</a></strong> with
