@@ -2,10 +2,10 @@ collections:
   for-everyone:
     output: true
     order:
-      - FAQs.md
+      - Everyday Genomics/.keep
       - Everyday Genomics/Voices and Stories.md
       - Everyday Genomics/Singapore's Big Health Project.md
-      - Everyday Genomics/.keep
       - Our Data Users/.keep
       - "Our Data Users/PRECISE: SG100K Flagship Projects.md"
       - "Our Data Users/PRECISE: SG100K Driver Projects.md"
+      - FAQs.md
