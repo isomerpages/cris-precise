@@ -93,8 +93,8 @@ dietary patterns and nutrient intake</p>
 <blockquote>
 <p><strong>Genome Data</strong>
 </p>
-</blockquote>
 <p></p>
+</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Whole Genome Sequences: 30X short-read WGS data generated for 100K participants.</p>
@@ -120,7 +120,6 @@ and demand.</p>
 </li>
 </ul>
 <hr>
-<p></p>
 <blockquote>
 <p><strong>Clinical Data and other Health-related Data</strong>
 </p>
