@@ -21,7 +21,7 @@ sections:
           url: /phase-i-sg10k-health/
         - title: Call for Proposals
           description: ""
-          url: /call-for-proposals-cfp/
+          url: /call-for-proposals-2026/
       variant: side
       size: sm
       backgroundColor: gray
