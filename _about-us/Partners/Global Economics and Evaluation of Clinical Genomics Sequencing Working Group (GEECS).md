@@ -41,8 +41,6 @@ medicine into practice, resulting in a themed section and a JAMA paper
 on the global availability and funding of clinical genomic sequencing.
 GEECS is continuing its work on value assessment with an emphasis on building
 the necessary infrastructure for use across the globe.</p>
-
-	
 	
 	
 </td>
