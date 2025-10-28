@@ -61,7 +61,13 @@ status</p>
 <p>Singapore-specific food frequency data, enabling detailed analysis of
 dietary patterns and nutrient intake</p>
 </li>
+<li>
+<p>Cognitive function assessments using validated memory and thinking tests</p>
+</li>
 </ul>
+<p></p>
+<p><strong>Physical Measurements include</strong>
+</p>
 </td>
 </tr>
 <tr>
