@@ -44,7 +44,4 @@ variant: tiptap
 </div>
 </a>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banners/banners_page%20footer%203%20-%20purple.png">
-</div>
 <p></p>
