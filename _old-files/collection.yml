@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Testimonials.md
-      - Long Read Sequencing2/Call for Sample Submission (closed).md
       - Long Read Sequencing2/Awarded Projects.md
       - Long Read Sequencing2/.keep
       - Long Read Sequencing.md
