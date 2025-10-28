@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h4><strong>The SG100K cognitive health programme</strong></h4>
+<h4><strong>The SG100K Cognitive Health Programme</strong></h4>
 <blockquote>
 <p><strong>Topic: Mental Health</strong>
 </p>
@@ -63,7 +63,7 @@ traits.</p>
 Nanyang Technological University, Institute of Mental Health, National
 Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
 <hr>
-<h4><strong>The SG100K_Med Alliance - clinical genetics researchers united for the analysis of mendelian disease variation in SG100K</strong></h4>
+<h4><strong>The SG100K_Med Alliance - Clinical Genetics Researchers United for the Analysis of Mendelian Disease Variation in SG100K</strong></h4>
 <blockquote>
 <p><strong>Topic: Mendelian Diseases</strong>
 </p>
@@ -125,7 +125,7 @@ National University of Singapore, National Heart Centre Singapore, National
 Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological
 University</p>
 <hr>
-<h4><strong>Identification of Asian-specific genetic association with fat andlean muscle massdistribution</strong></h4>
+<h4><strong>Identification of Asian - Specific Genetic Association with Fat and Lean Muscle Mass Distribution</strong></h4>
 <blockquote>
 <p><strong>Topic: Fat and Lean Muscle Mass</strong>
 </p>
@@ -185,7 +185,7 @@ muscle mass.</p>
 </table>
 <p><strong>Institutions involved:</strong> National University of Singapore</p>
 <hr>
-<h4><strong>HLA alleles and its association with auto immune diseases and pharmacogenomics in multi-ancestral Asian populations</strong></h4>
+<h4><strong>HLA Alleles and its Association with Auto Immune Diseases and Pharmacogenomics in Multi - Ancestral Asian Populations</strong></h4>
 <blockquote>
 <p><strong>Topic: Human Leukocyte Antigen</strong>
 </p>
@@ -243,7 +243,7 @@ immune diseases and pharmacogenomic responses.</p>
 <p><strong>Institutions involved:</strong> National University of Singapore,
 Tan Tock Seng Hospital, Duke-NUS Medical School</p>
 <hr>
-<h4><strong>Advancing precision medicine for cardiovascular disease and diabetes in Asian populations</strong></h4>
+<h4><strong>Advancing Precision Medicine for Cardiovascular Disease and Diabetes in Asian Populations</strong></h4>
 <blockquote>
 <p><strong>Topic: Cardiovascular and Metabolic Diseases</strong>
 </p>
