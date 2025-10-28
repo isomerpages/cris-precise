@@ -560,7 +560,7 @@ related to Call for Proposals 2026.</p>
 </p>
 <p>Please submit completed CFP 2026 application forms to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>&nbsp;by
 14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
-<h4><strong>RESOURCES</strong></h4>
+<h4><strong>Resources</strong></h4>
 <p><strong>Dataset</strong>
 </p>
 <ul data-tight="true" class="tight">
