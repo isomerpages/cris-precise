@@ -66,8 +66,33 @@ dietary patterns and nutrient intake</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Physical Measurements include</strong>
+<p><strong>Physical Measurements include:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Comprehensive anthropometric measurements</p>
+</li>
+<li>
+<p>Digital blood pressure readings</p>
+</li>
+<li>
+<p>12-lead ECG for cardiac assessment</p>
+</li>
+<li>
+<p>Spirometry results</p>
+</li>
+<li>
+<p>7-day physical activity data using Axivity tri-axial accelerometry</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Biochemical Laboratory Assays include:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Serum creatinine</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -333,4 +358,6 @@ User Support Materials</p>
 </p>
 </li>
 </ul>
-<p></p>
+<p>
+<br>
+</p>
