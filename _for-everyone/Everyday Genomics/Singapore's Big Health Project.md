@@ -31,7 +31,7 @@ treatment even though
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/patients_1.gif">
 </div>
-<h4>What is Precision Medicine?</h4>
+<h3><strong>What is Precision Medicine?</strong></h3>
 <p>Instead of treating all patients the same way, precision medicine takes
 individual variations in genetics, environmental and lifestyle factors
 into account, allowing doctors to more accurately predict which treatment
@@ -80,7 +80,7 @@ reducing side-effects</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-4-image.jpg">
 </div>
-<p><strong>New Treatment</strong>
+<p><strong>NEW TREATMENT</strong>
 </p>
 <p>Understanding the basis of disease will inform the development of&nbsp;<strong>new drugs and therapies</strong>
 </p>
