@@ -2,6 +2,7 @@ collections:
   old-files:
     output: true
     order:
+      - Partners/NalaGenetics.md
       - Partners/.keep
       - Testimonials.md
       - Long Read Sequencing2/.keep
