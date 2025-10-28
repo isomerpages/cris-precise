@@ -59,9 +59,8 @@ traits.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
-Nanyang Technological University, Institute of Mental Health, National
-Neuroscience Institute, A*STAR Genome Institute of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, Nanyang Technological University, Institute of Mental Health, National Neuroscience Institute, A*STAR Genome Institute of Singapore</em>
+</p>
 <hr>
 <h4><strong>The SG100K_Med Alliance - Clinical Genetics Researchers United for the Analysis of Mendelian Disease Variation in SG100K</strong></h4>
 <blockquote>
@@ -118,12 +117,8 @@ conditions for under- represented Asian populations.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Duke-NUS Medical School, Lee Kong
-Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome
-Institute of Singapore, Singapore National Eye Centre, Tan Tock Seng Hospital,
-National University of Singapore, National Heart Centre Singapore, National
-Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological
-University</p>
+<p><strong><em>Institutions involved:</em></strong><em> Duke-NUS Medical School, Lee Kong Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome Institute of Singapore, Singapore National Eye Centre, Tan Tock Seng Hospital, National University of Singapore, National Heart Centre Singapore, National Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological University</em>
+</p>
 <hr>
 <h4><strong>Identification of Asian - Specific Genetic Association with Fat and Lean Muscle Mass Distribution</strong></h4>
 <blockquote>
@@ -183,7 +178,8 @@ muscle mass.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+</p>
 <hr>
 <h4><strong>HLA Alleles and its Association with Auto Immune Diseases and Pharmacogenomics in Multi - Ancestral Asian Populations</strong></h4>
 <blockquote>
@@ -240,8 +236,8 @@ immune diseases and pharmacogenomic responses.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> National University of Singapore,
-Tan Tock Seng Hospital, Duke-NUS Medical School</p>
+<p><strong>I<em>nstitutions involved:</em></strong><em> National University of Singapore, Tan Tock Seng Hospital, Duke-NUS Medical School</em>
+</p>
 <hr>
 <h4><strong>Advancing Precision Medicine for Cardiovascular Disease and Diabetes in Asian Populations</strong></h4>
 <blockquote>
@@ -299,7 +295,6 @@ who are at increased risk of CVD and diabetes.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Institutions involved:</strong> Lee Kong Chian School of Medicine,
-National University of Singapore, Duke-NUS Medical School, Singapore Eye
-Research Institute, National Heart Centre Singapore</p>
+<p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, National University of Singapore, Duke-NUS Medical School, Singapore Eye Research Institute, National Heart Centre Singapore</em>
+</p>
 <p></p>
