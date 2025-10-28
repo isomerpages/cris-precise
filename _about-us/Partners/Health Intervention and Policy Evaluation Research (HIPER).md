@@ -8,18 +8,7 @@ third_nav_title: Partners
 ### Evidence Empower Decisions
 
 
-<table>
-	<tbody>
-		<tr>
-			<td style="width:50%">
-The Health Intervention and Policy Evaluation Research unit, HIPER, was launched by the Saw Swee Hock School of Public Health in January 2019. HIPER’s vision, “Evidence Empower Decisions”, was established with the aim to grow Health Technology Assessment (HTA) capacity for healthcare priority-setting in developing countries. Our efforts to build HTA capacity include a range of activities, including consulting services and advisory work, development of software tools to support HTA research, education, and networking at domestic and international levels.
-<br><br>
-				We believe that&nbsp;<b>better evidence</b>&nbsp;can be generated only through better research capacity. Eventually, these evidence will&nbsp;<b>empower decision-making</b>&nbsp;resulting in sustainable health systems.
-							</td>
-			<td style="width:50%">
-				<img src="/images/Collaborate/Partners/sawsweehockschoolofpublichealth_v_no-background.png">
-			</td>
-			</tr></tbody></table>
+
 
 **Our work**
 
@@ -35,4 +24,16 @@ HIPER is part of the International Decision Support Initiative (iDSI), a network
 
 In line with our mission to build HTA capacity, HIPER has signed a Memorandum of Understanding with the Centre for Innovation in Healthcare (CIH) in Singapore to facilitate building up CIH’s HTA capacity and supporting local innovators that require HTA expertise/research to assess their suitability for clinical adoption.
 
+			<table>
+	<tbody>
+		<tr>
+			<td style="width:50%">
+The Health Intervention and Policy Evaluation Research unit, HIPER, was launched by the Saw Swee Hock School of Public Health in January 2019. HIPER’s vision, “Evidence Empower Decisions”, was established with the aim to grow Health Technology Assessment (HTA) capacity for healthcare priority-setting in developing countries. Our efforts to build HTA capacity include a range of activities, including consulting services and advisory work, development of software tools to support HTA research, education, and networking at domestic and international levels.
+<br><br>
+				We believe that&nbsp;<b>better evidence</b>&nbsp;can be generated only through better research capacity. Eventually, these evidence will&nbsp;<b>empower decision-making</b>&nbsp;resulting in sustainable health systems.
+							</td><td style="width:40%">
+				<img src="/images/Collaborate/Partners/logo_nalagenetics_vertical.png">
+			</td>
+			</tr></tbody></table>
+			
 ![](/images/Banners/banners_page%20footer%203%20-%20grey.png)
