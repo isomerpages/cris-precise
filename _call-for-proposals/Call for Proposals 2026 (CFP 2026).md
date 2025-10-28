@@ -488,7 +488,7 @@ related to Call for Proposals 2026.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>TIMELINES</strong></h4>
+<h4><strong>Timelines</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
