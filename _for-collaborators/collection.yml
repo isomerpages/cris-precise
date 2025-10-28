@@ -2,17 +2,17 @@ collections:
   for-collaborators:
     output: true
     order:
-      - Pre Competitive Consortium/.keep
-      - Research Programmes/Overview.md
       - Research Programmes/.keep
+      - Research Programmes/Overview.md
       - "Research Programmes/Phase I: SG10K Health.md"
       - "Research Programmes/Phase II: PRECISE SG100K.md"
       - "Research Programmes/Phase III: SG INSIGHT.md"
       - Research Programmes/Gut Linked Outcomes in Wellbeing (GLOW).md
       - Research Programmes/Clinical Implementation Pilot.md
-      - Resources/Data Access Principles.md
       - Resources/.keep
+      - Resources/Data Access Principles.md
       - Resources/Research Highlights.md
+      - Pre Competitive Consortium/.keep
+      - Long Read Sequencing/.keep
       - Long Read Sequencing/Awarded Projects.md
       - Long Read Sequencing/Call for Sample Submission (closed).md
-      - Long Read Sequencing/.keep
