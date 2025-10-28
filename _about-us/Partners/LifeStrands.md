@@ -36,16 +36,12 @@ excellence in providing high-quality genetic testing services. Together,
 they aim to advance patient care in Singapore and Southeast Asia by ensuring
 that clinicians have access to the most accurate and up-to-date information
 possible.</p>
+	
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collaborate/Partners/life_strands.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<td style="width:50%">
+<img src="/images/Collaborate/Partners/life_strands.png">
+		</td>
+			</tr></tbody></table>
 <hr>
 <p><em>LifeStrands Genomics is a subsidiary of the</em>&nbsp;<em><a href="https://pathologyasia.com/" rel="noopener noreferrer nofollow" target="_blank">Pathology Asia group</a>, a leading independent diagnostic</em>&nbsp;<em>service provider in Southeast Asia headquartered in Singapore. The Pathology Asia group includes Innoquest Diagnostics, one of the largest diagnostic service providers in Singapore, and other leading diagnostic laboratories in Malaysia, Vietnam, the Philippines, Indonesia and Australia; as well as a digital platform for healthcare providers. Pathology Asia aspires to be the foremost trusted diagnostics services provider in Southeast Asia and Australasia.</em>
 </p>
