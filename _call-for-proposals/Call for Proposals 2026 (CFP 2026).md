@@ -128,30 +128,43 @@ and demand.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Whole Genome Sequences: 30X short-read WGS data generated for 100K participants.</p>
+<p>Diagnosis</p>
 </li>
 <li>
-<p>Variant Catalogue: Genome-wide dataset of single nucleotide variants (SNVs),
-insertions/deletions (indels), and other variant types, harmonised into
-bi-allelic representation.</p>
+<p>Medications</p>
 </li>
 <li>
-<p>Functional Annotations: Predicted consequences of variants on genes and
-transcripts (e.g., VEP), with integrated clinical pathogenicity scores
-for missense variants.</p>
+<p>Laboratory and Radiology</p>
 </li>
 <li>
-<p>Sample Metadata: Genetic ancestry assignment, sequencing quality metrics,
-and relatedness.</p>
+<p>Healthcare financing data</p>
 </li>
 <li>
-<p>File Formats: Hail Variant Dataset (VDS) and PLINK 2.0 (including a QC-filtered
-PLINK2 set). Additional formats (e.g., VCF, BGEN) subject to governance
-and demand.</p>
+<p>Case &amp; Visit</p>
+</li>
+<li>
+<p>Beds</p>
+</li>
+<li>
+<p>Patient Management</p>
+</li>
+<li>
+<p>Accident &amp; Emergency</p>
+</li>
+<li>
+<p>Polyclinic</p>
+</li>
+<li>
+<p>Operation Theatre &amp; Surgery</p>
+</li>
+<li>
+<p>National Registry of Diseases Office</p>
+</li>
+<li>
+<p>Birth and Death Registry</p>
 </li>
 </ul>
-<p></p>
-<p></p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRECISE_SG100K_Resource_Table.png">
