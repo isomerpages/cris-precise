@@ -15,7 +15,7 @@ The National Supercomputing Centre (NSCC) Singapore was established in 2015 and 
 <br><br>
 NSCC&nbsp;supports the National Precision Medicine Programme by providing its HPC resources and data storage capabilities to enable the team to&nbsp;deploy state-of-the-art genome analytics algorithms at an industrial scale to uncover the genetic variants of each individual.
 							</td>
-			<td style="width:50%">
+			<td style="width:45%">
 				<img src="/images/Collaborate/Partners/national-supercomputing.jpg">
 			</td>
 			</tr></tbody></table>
