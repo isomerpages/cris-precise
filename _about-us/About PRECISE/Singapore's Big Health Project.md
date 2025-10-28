@@ -27,13 +27,4 @@ National Medical Research Council (NMRC) Office, MOH Holdings Pte Ltd.
 NPM Phase III is supported by the Singapore MOH through the NMRC Office,
 MOH Holdings Pte Ltd under the NMRC RIE2025 NPM Phase III Funding Initiative
 (MOH-001734).</p>
-<p>For more information, visit <a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">Precision Health Research, Singapore (PRECISE).</a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<h4><strong>SHORT VERSION</strong></h4>
-<p>Precision Health Research, Singapore (PRECISE) leads the National Precision
-Medicine (NPM) programme, advancing genomics to improve health and grow
-Singapore’s biomedical sector. Phase II sequenced 100,000 Singaporeans,
-while Phase III, in partnership with Singapore’s three healthcare clusters,
-is evaluating how genomics can be integrated into clinical care responsibly.</p>
+<p></p>
