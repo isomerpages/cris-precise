@@ -2,6 +2,7 @@ collections:
   for-collaborators:
     output: true
     order:
+      - Pre Competitive Consortium/.keep
       - Research Programmes/Overview.md
       - Research Programmes/.keep
       - "Research Programmes/Phase I: SG10K Health.md"
