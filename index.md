@@ -43,7 +43,7 @@ sections:
         experts from around the world gathered for insightful discussions.
       button: REad more
       url: /news-and-highlights/events/precise-ihcc-conference/
-      image: /images/Resources/Events/PRECISE_IHCC_Conference_KV_final.jpg
+      image: /images/Homepage/PhaseIII_Intro.png
       alt: Image alt text
   - infopic:
       title: GLOW
