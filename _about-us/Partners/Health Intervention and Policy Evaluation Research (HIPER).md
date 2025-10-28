@@ -16,7 +16,7 @@ The Health Intervention and Policy Evaluation Research unit, HIPER, was launched
 <br><br>
 				We believe that&nbsp;<b>better evidence</b>&nbsp;can be generated only through better research capacity. Eventually, these evidence will&nbsp;<b>empower decision-making</b>&nbsp;resulting in sustainable health systems.
 							</td>
-			<td style="width:50%">
+			<td style="width:45%">
 				<img src="/images/Collaborate/Partners/sawsweehockschoolofpublichealth_v_no-background.png">
 			</td>
 			</tr></tbody></table>
