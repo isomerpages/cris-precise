@@ -23,7 +23,7 @@ sections:
           description: ""
           url: /call-for-proposals-2026/
       variant: side
-      size: sm
+      size: md
       backgroundColor: gray
   - infopic:
       title: NPM Phase III
