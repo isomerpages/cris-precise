@@ -457,7 +457,11 @@ related to Call for Proposals 2026.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assessment of any significant overlap with existing approved projects</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -469,7 +473,16 @@ related to Call for Proposals 2026.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confirmation of sufficient funding for research and compute-related costs</p>
+</li>
+<li>
+<p>No industry involvement</p>
+</li>
+</ul>
+<p><em>(applicants must respond to these as Yes/No questions at the end of the application)</em>
+</p>
 </td>
 </tr>
 </tbody>
