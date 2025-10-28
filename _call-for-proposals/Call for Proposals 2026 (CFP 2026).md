@@ -431,7 +431,7 @@ related to Call for Proposals 2026.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Project plan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -439,10 +439,10 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Project plan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -450,10 +450,10 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Project plan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
