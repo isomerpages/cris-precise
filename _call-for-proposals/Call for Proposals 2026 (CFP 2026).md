@@ -119,8 +119,8 @@ and demand.</p>
 </li>
 </ul>
 <hr>
-<blockquote>
 <p></p>
+<blockquote>
 <p><strong>Clinical Data and other Health-related Data</strong>
 </p>
 </blockquote>
