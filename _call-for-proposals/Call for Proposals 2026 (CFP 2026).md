@@ -120,6 +120,7 @@ and demand.</p>
 </ul>
 <hr>
 <blockquote>
+<p></p>
 <p><strong>Clinical Data and other Health-related Data</strong>
 </p>
 </blockquote>
