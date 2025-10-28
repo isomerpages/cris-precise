@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Transforming Health in Singapore through Precision Medicine
       subtitle: Welcome to PRECISE
-      background: /images/Homepage/download.png
+      background: /images/Homepage/herobanner_image.jpg
       key_highlights:
         - title: For Everyone
           description: ""
