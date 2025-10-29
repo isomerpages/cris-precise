@@ -1560,7 +1560,7 @@ these factors.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Duke-NUS Medical School, A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h4><strong>Genomic Associations of COVID-19 Susceptibility &amp; Severity in Singapore</strong></h4>
+<h3><strong>Genomic Associations of COVID-19 Susceptibility &amp; Severity in Singapore</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
