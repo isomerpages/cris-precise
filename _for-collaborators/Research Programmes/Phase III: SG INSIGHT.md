@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Research Programmes
 ---
-<h4><strong>Overview of SG INSIGHT</strong></h4>
+<h3><strong>Overview of SG INSIGHT</strong></h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
