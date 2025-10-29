@@ -32,7 +32,7 @@ tailored and more targeted healthcare when needed.</p>
 Western populations. Singapore’s diverse Asian population gives us a chance
 to discover important insights that are directly relevant to our communities,
 and to improve healthcare here at home.</p>
-<h4>4. What is Phase III of NPM about?</h4>
+<h4><strong>4. What is Phase III of NPM about?</strong></h4>
 <p>Phase III is the biggest stage yet, involving up to 450,000 residents.
 Unlike earlier phases with healthy volunteers, this phase includes patients
 in hospitals. Studying patients allows researchers to see how genes affect
