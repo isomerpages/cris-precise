@@ -4,7 +4,7 @@ permalink: /faqs/
 description: ""
 variant: markdown
 ---
-<h5>1. What is the National Precise Medicine (NPM) Programme?</h5>
+<h4><strong>1. What is the National Precise Medicine (NPM) Programme?</strong></h4>
 <p>The NPM Programme is a national research effort in Singapore. It studies
 how our genes (DNA), lifestyle, and environment affect health. This knowledge
 can help doctors move from "one-size-fits-all" care to more precise healthcare
@@ -15,7 +15,7 @@ just treat disease after it develops.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/patients_1.gif">
 </div>
-<h5>2. What does "precision medicine" mean?</h5>
+<h4><strong>2. What does "precision medicine" mean?</strong></h4>
 <p>Precision medicine is about using science and data to improve health for
 both individuals and populations. By studying genetic, lifestyle, and environmental
 factors across large groups of people and understanding the differences,
@@ -27,12 +27,12 @@ tailored and more targeted healthcare when needed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/FAQ_Q2.png">
 </div>
-<h5>3. Why is Singapore doing this?</h5>
+<h4><strong>3. Why is Singapore doing this?</strong></h4>
 <p>Every population is different. Most genetic research has been done on
 Western populations. Singapore’s diverse Asian population gives us a chance
 to discover important insights that are directly relevant to our communities,
 and to improve healthcare here at home.</p>
-<h5>4. What is Phase III of NPM about?</h5>
+<h4>4. What is Phase III of NPM about?</h4>
 <p>Phase III is the biggest stage yet, involving up to 450,000 residents.
 Unlike earlier phases with healthy volunteers, this phase includes patients
 in hospitals. Studying patients allows researchers to see how genes affect
@@ -41,19 +41,19 @@ more useful for preventive care and everyday healthcare in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/Q4.jpg">
 </div>
-<h5>5. How can I participate?</h5>
+<h4>5. How can I participate?</h4>
 <p>Enrolment for NPM Phase III has not started yet. You can register your
 interest by emailing contact@precise.cris.sg. When enrolment begins, and
 if you meet the participation criteria, our hospital partners will contact
 you. Please check <strong><a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">www.npm.sg</a></strong> for
 the latest updates.</p>
-<h5>6. What will participants be asked to do?</h5>
+<h4><strong>6. What will participants be asked to do?</strong></h4>
 <p>Singaporean residents participating in NPM Phase III will be invited to
 donate a small blood sample to read your genetic code. You will also you
 will also be asked to give permission for researchers to look at your medical
 records (with personal details removed), this helps scientists understand
 how genes, health conditions, and treatments are linked.</p>
-<h5>7. Will I receive my genetic test results?</h5>
+<h4><strong>7. Will I receive my genetic test results?</strong></h4>
 <p>Currently, individual participant genetic results are not routinely returned
 to participants. The focus of this programme is on research to benefit
 the broader Singapore population rather than individual diagnosis. However,
