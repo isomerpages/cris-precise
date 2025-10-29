@@ -76,7 +76,7 @@ ensure privacy while allowing research to benefit public health.</p>
 Life Insurance Association of Singapore have agreed that genetic testresults
 from research like NPM cannot be used to decide your insurance coverage
 or premiums.</p>
-<h5>10. What are the benefits of joining?</h5>
+<h5><strong>10. What are the benefits of joining?</strong></h5>
 <p>By joining, you help doctors and scientists understand how health and
 disease affect people like us in Singapore. This knowledge can lead to
 earlier screening, better prevention, and more effective treatments in
