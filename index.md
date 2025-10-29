@@ -18,7 +18,7 @@ sections:
           url: /voices-and-stories/
         - title: For Collaborators
           description: ""
-          url: /our-data-users/
+          url: /overview/
         - title: Call for Proposals
           description: ""
           url: /call-for-proposals-2026/
