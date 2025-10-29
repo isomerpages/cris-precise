@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h3><strong>Computation of Genome-Wide LD Scores and Matrices from the SG100K resource</strong></h3>
+<h4><strong>Computation of Genome-Wide LD Scores and Matrices from the SG100K resource</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -60,7 +60,7 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h3><strong>Chronic Liver Disease is a Significant Risk Factor for Adverse Cardiometabolic Outcomes</strong></h3>
+<h4><strong>Chronic Liver Disease is a Significant Risk Factor for Adverse Cardiometabolic Outcomes</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,7 +111,7 @@ metabolic disease.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University Hospital</em>
 </p>
 <hr>
-<h3><strong>Nonlinear Methods for Genomic Association Aanalysis of Eye Diseases</strong></h3>
+<h4><strong>Nonlinear Methods for Genomic Association Aanalysis of Eye Diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -181,7 +181,7 @@ ocular health.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h3><strong>Advancing the Understanding of Biological Mechanisms Influencing Chronic Inflammatory Skin Diseases</strong></h3>
+<h4><strong>Advancing the Understanding of Biological Mechanisms Influencing Chronic Inflammatory Skin Diseases</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -237,7 +237,7 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National skin Centre, Lee Kong Chian School of Medicine, A*STAR Skin Research Institute of Singapore</em>
 </p>
 <hr>
-<h3><strong>Mood and Diet in Patients with Irritable Bowel Syndrome (IBS) in Singapore</strong></h3>
+<h4><strong>Mood and Diet in Patients with Irritable Bowel Syndrome (IBS) in Singapore</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -310,8 +310,7 @@ precision medicine strategies.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Tan Tock Seng Hospital, Lee Kong Chian School of Medicine</em>
 </p>
 <hr>
-<p></p>
-<h3><strong>The Contribution of Genetics to Dietary Habit and Its Relation to Adiposity and Cardiometabolic Diseases in Multiethnic Asian Population</strong></h3>
+<h4><strong>The Contribution of Genetics to Dietary Habit and Its Relation to Adiposity and Cardiometabolic Diseases in Multiethnic Asian Population</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
