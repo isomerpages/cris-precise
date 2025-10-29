@@ -66,15 +66,12 @@ and all data is stored securely in Singapore. Only approved researchers
 working on projects that aim to improve healthcare for Singaporeans can
 access it under strict rules. Importantly, they will never know that the
 data belongs to you specifically. Participants also choose how their data
-may be used, and can opt out of future use at any time. These safeguards
-ensure privacy while allowing research to benefit public health.</p>
+may be used, and can opt out of future use at any time. These safeguards ensure privacy while allowing research to benefit public health.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/the-way-precise-run2-1161px.jpg">
 </div>
 <h4><strong>9. Will this affect my insurance?</strong></h4>
-<p>No. The <a href="https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a> andthe Life Insurance Association of Singapore have agreed that genetic test
-results from research like NPM cannot be used to decide your insurance
-coverage or premiums.</p>
+<p>No. The <a href="https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a> andthe Life Insurance Association of Singapore have agreed that genetic testresults from research like NPM cannot be used to decide your insurance coverage or premiums.</p>
 <h5>10. What are the benefits of joining?</h5>
 <p>By joining, you help doctors and scientists understand how health and
 disease affect people like us in Singapore. This knowledge can lead to
