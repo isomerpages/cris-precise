@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Everyday Genomics
 ---
-<h4><strong>Patient Story: Living with Familial Hypercholesterolemia</strong></h4>
+<h3><strong>Patient Story: Living with Familial Hypercholesterolemia</strong></h3>
 <p><strong><em>“All these years we just thought it was high cholesterol. We never imagined it was something genetic.”</em></strong>
 </p>
 <p>For more than three decades, <em>Patient A</em> (a healthcare professional)
