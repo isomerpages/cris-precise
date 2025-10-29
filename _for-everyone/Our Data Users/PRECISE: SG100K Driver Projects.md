@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h4><strong>Computation of Genome-Wide LD Scores and Matrices from the SG100K resource</strong></h4>
+<h3><strong>Computation of Genome-Wide LD Scores and Matrices from the SG100K resource</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -60,7 +60,7 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h4><strong>Chronic Liver Disease is a Significant Risk Factor for Adverse Cardiometabolic Outcomes</strong></h4>
+<h3><strong>Chronic Liver Disease is a Significant Risk Factor for Adverse Cardiometabolic Outcomes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,7 +111,7 @@ metabolic disease.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University Hospital</em>
 </p>
 <hr>
-<h4><strong>Nonlinear Methods for Genomic Association Aanalysis of Eye Diseases</strong></h4>
+<h3><strong>Nonlinear Methods for Genomic Association Aanalysis of Eye Diseases</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -181,7 +181,7 @@ ocular health.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Advancing the Understanding of Biological Mechanisms Influencing Chronic Inflammatory Skin Diseases</strong></h4>
+<h3><strong>Advancing the Understanding of Biological Mechanisms Influencing Chronic Inflammatory Skin Diseases</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -237,7 +237,7 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National skin Centre, Lee Kong Chian School of Medicine, A*STAR Skin Research Institute of Singapore</em>
 </p>
 <hr>
-<h4><strong>Mood and Diet in Patients with Irritable Bowel Syndrome (IBS) in Singapore</strong></h4>
+<h3><strong>Mood and Diet in Patients with Irritable Bowel Syndrome (IBS) in Singapore</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -311,7 +311,7 @@ precision medicine strategies.</p>
 </p>
 <hr>
 <p></p>
-<h4><strong>The Contribution of Genetics to Dietary Habit and Its Relation to Adiposity and Cardiometabolic Diseases in Multiethnic Asian Population</strong></h4>
+<h3><strong>The Contribution of Genetics to Dietary Habit and Its Relation to Adiposity and Cardiometabolic Diseases in Multiethnic Asian Population</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -374,7 +374,7 @@ with relevant sensitivity analyses.</p>
 </p>
 <hr>
 <p></p>
-<h4><strong>A Structural Variation Catalogue Across Three Ancestrally Diverse Singapore Populations</strong></h4>
+<h3><strong>A Structural Variation Catalogue Across Three Ancestrally Diverse Singapore Populations</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -436,7 +436,7 @@ scRNA-seq data.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h4><strong>Genome-Wide Association Study and Population- Based Evaluation of Patients with Diabetic Foot Ulcers</strong></h4>
+<h3><strong>Genome-Wide Association Study and Population- Based Evaluation of Patients with Diabetic Foot Ulcers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -504,7 +504,7 @@ nephropathy and retinopathy and diabetic foot ulcers.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Woodlands Health, National University of Singapore, Lee Kong Chian School of Medicine</em>
 </p>
 <hr>
-<h4><strong>The SG100K_Cancer and Aging Workgroup: Developing Risk Models for Cancer Associations</strong></h4>
+<h3><strong>The SG100K_Cancer and Aging Workgroup: Developing Risk Models for Cancer Associations</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -561,7 +561,7 @@ common cancer status (breast, colorectal, liver, lung, and prostate cancers).</p
 <p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, A*STAR Genome Institute of Singapore, Bioinformatics Institute</em>
 </p>
 <hr>
-<h4><strong>Genetic Susceptibility of Age-Related Hearing Loss</strong></h4>
+<h3><strong>Genetic Susceptibility of Age-Related Hearing Loss</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -611,7 +611,7 @@ neurological and neurocognitive disorders.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore, Duke-NUS Medical School</em>
 </p>
 <hr>
-<h4><strong>Evaluating the Promise and Perils of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist: A Deep Dive into Therapeutic Potentials and Adverse Effects</strong></h4>
+<h3><strong>Evaluating the Promise and Perils of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist: A Deep Dive into Therapeutic Potentials and Adverse Effects</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -663,7 +663,7 @@ design.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Singapore Institute for Clinical Sciences</em>
 </p>
 <hr>
-<h4><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune-Mediated Disorders in the Singaporean Population</strong></h4>
+<h3><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune-Mediated Disorders in the Singaporean Population</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
