@@ -60,7 +60,7 @@ the broader Singapore population rather than individual diagnosis. However,
 if researchers discover something important for your health during the
 study, there are processes in place to inform you through a genetic counsellor
 or your doctor.</p>
-<h5>8. Is my personal information safe?</h5>
+<h4><strong>8. Is my personal information safe?</strong></h4>
 <p>Yes. Personal details like your name or NRIC are removed from the start,
 and all data is stored securely in Singapore. Only approved researchers
 working on projects that aim to improve healthcare for Singaporeans can
