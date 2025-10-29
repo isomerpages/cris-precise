@@ -2,7 +2,6 @@ collections:
   for-collaborators:
     output: true
     order:
-      - Research Programmes/Long Read Sequencing.md
       - Research Programmes/.keep
       - Research Programmes/Overview.md
       - "Research Programmes/Phase I: SG10K Health.md"
@@ -11,6 +10,7 @@ collections:
       - Research Programmes/Pre Competitive Consortium.md
       - Research Programmes/Gut Linked Outcomes in Wellbeing (GLOW).md
       - Research Programmes/Clinical Implementation Pilot.md
+      - Research Programmes/Long Read Sequencing.md
       - Our Data Users/.keep
       - Our Data Users/Our data.md
       - Resources/.keep
