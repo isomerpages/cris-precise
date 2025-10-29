@@ -6,7 +6,7 @@ description: Call for Proposals 2026 (CFP 2026)
 ---
 <p><strong>(Anticipated Call Launch: 2 January 2026. Check this page for updates)</strong>
 </p>
-<h4><strong>Introduction</strong></h4>
+<h3><strong>Introduction</strong></h3>
 <p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
 cohort dataset comprising ~100,000 Singaporean men and women. The resource
 provides an opportunity to advance precision medicine and related health
