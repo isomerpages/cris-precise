@@ -29,7 +29,6 @@ sections:
       title: NPM Phase III
       subtitle: Latest updates
       id: infopic
-      description: update
       button: READ MORE
       url: /mental-health-s-new-frontier-the-microbiome-within/
       image: /images/Homepage/PhaseIII_info.png
