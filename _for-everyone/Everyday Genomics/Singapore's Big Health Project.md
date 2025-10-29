@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Everyday Genomics
 ---
-<h2><strong>What is Precision Medicine and Why it Matters</strong></h2>
+<h3><strong>What is Precision Medicine and Why it Matters</strong></h3>
 <h4><strong>What is DNA?</strong></h4>
 <p>DNA is the instruction book of life. Six billion ‘letters’ long, this
 book is largely the same between individuals as all humans share 99.9%
@@ -99,7 +99,6 @@ European populations. Asian people—who make up 60% of the world population—a
 under-represented in these databases.</p>
 <h3><strong>Singapore's Contribution to Precision Medicine</strong></h3>
 <p></p>
-
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" src="/images/Logos/1_Email_Signature_Logo_10cm_72dpi.png">
 </div>
