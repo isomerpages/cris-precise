@@ -2,7 +2,6 @@ collections:
   for-collaborators:
     output: true
     order:
-      - FAQs.md
       - Research Programmes/.keep
       - Research Programmes/Overview.md
       - "Research Programmes/Phase I: SG10K Health.md"
@@ -19,3 +18,4 @@ collections:
       - Long Read Sequencing/.keep
       - Long Read Sequencing/Awarded Projects.md
       - Long Read Sequencing/Call for Sample Submission (closed).md
+      - FAQs.md
