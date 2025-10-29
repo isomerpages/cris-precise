@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Resources
 ---
-<p><strong>Precision Medicine research is part of Singapore’s RIE2025 strategic goal to transform and protect the health of every Singaporean.</strong>
-</p>
+<h4><strong>Precision Medicine research is part of Singapore’s RIE2025 strategic goal to transform and protect the health of every Singaporean.</strong></h4>
 <p>Our research will focus on accelerating health research by combining genetic,
 lifestyle, clinical data and other molecular technologies to understand
 how these factors impact health and/or contribute to disease.</p>
