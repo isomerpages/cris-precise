@@ -5,6 +5,7 @@ variant: tiptap
 description: Awarded projects for long read sequencing
 third_nav_title: Research Programmes
 ---
+<h4><strong>Awarded Projects</strong></h4>
 <p>In March 2024, PRECISE launched an open Call for Sample Submission for
 Long-read Sequencing. This initiative invited Singapore-based researchers
 to submit proposals for sequencing human genomic DNA samples using PacBio's
