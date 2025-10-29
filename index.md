@@ -30,7 +30,7 @@ sections:
       subtitle: Latest updates
       id: infopic
       button: READ MORE
-      url: /mental-health-s-new-frontier-the-microbiome-within/
+      url: /phase-III-sg-insight/
       image: /images/Homepage/PhaseIII_info.png
       alt: Image alt text
   - infopic:
