@@ -41,7 +41,7 @@ more useful for preventive care and everyday healthcare in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/Q4.jpg">
 </div>
-<h4>5. How can I participate?</h4>
+<h4><strong>5. How can I participate?</strong></h4>
 <p>Enrolment for NPM Phase III has not started yet. You can register your
 interest by emailing contact@precise.cris.sg. When enrolment begins, and
 if you meet the participation criteria, our hospital partners will contact
