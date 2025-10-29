@@ -741,7 +741,7 @@ strategies.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Genetic of Allergic Diseases and Acne Vulgaris in the Singapore Population: Validation and Functional Characterisation of Candidates</strong></h4>
+<h3><strong>Genetic of Allergic Diseases and Acne Vulgaris in the Singapore Population: Validation and Functional Characterisation of Candidates</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -798,7 +798,7 @@ and progression of allergic diseases.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Modulation of Cholesterol 7α-hydroxylase (CYP7A1) Activity as an Orthogonal Approach to the Management of Hypercholesterolemia</strong></h4>
+<h3><strong>Modulation of Cholesterol 7α-hydroxylase (CYP7A1) Activity as an Orthogonal Approach to the Management of Hypercholesterolemia</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -848,7 +848,7 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Multi-Omics Data Analysis for Novel Depression Mechanisms using Deep Learning Tools</strong></h4>
+<h3><strong>Multi-Omics Data Analysis for Novel Depression Mechanisms using Deep Learning Tools</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -906,7 +906,7 @@ learning.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Nanyang Technological University, Lee Kong Chian School of Medicine, Institute of Mental Health</em>
 </p>
 <hr>
-<h4><strong>Asian-Specific Parkinson’s Disease-Linked Genetic Risk Variants and Systemic Clinical Outcomes</strong></h4>
+<h3><strong>Asian-Specific Parkinson’s Disease-Linked Genetic Risk Variants and Systemic Clinical Outcomes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -964,7 +964,7 @@ tissue microstructure between carriers and non- carriers.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National Neuroscience Institute, Duke-NUS Medical School</em>
 </p>
 <hr>
-<h4><strong>Physiological, Environmental and Genetic Determinants of Heterogeneity in Singaporeans’ Health Span</strong></h4>
+<h3><strong>Physiological, Environmental and Genetic Determinants of Heterogeneity in Singaporeans’ Health Span</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1025,7 +1025,7 @@ health during aging</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Bioinformatics Institute and Genome Institute of Singapore, Lee Kong Chian School of Medicine, National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Portability of Catalogued Polygenic Risk Scores Across Ancestrally Diverse Singaporean Populations</strong></h4>
+<h3><strong>Portability of Catalogued Polygenic Risk Scores Across Ancestrally Diverse Singaporean Populations</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1094,7 +1094,7 @@ PRS in a Singapore context.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h4><strong>Advancing Asian-Centric Liver Disease Treatment: Machine Learning Applications in MASLD and MetALD Precision Medicine</strong></h4>
+<h3><strong>Advancing Asian-Centric Liver Disease Treatment: Machine Learning Applications in MASLD and MetALD Precision Medicine</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1148,7 +1148,7 @@ of predictive markers for MASLD disease spectrum.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, Tan Tock Seng Hospital</em>
 </p>
 <hr>
-<h4><strong>Unravelling the Correlation between Sarcopenia with Lifestyle, Genetics, and Comorbid diseases</strong></h4>
+<h3><strong>Unravelling the Correlation between Sarcopenia with Lifestyle, Genetics, and Comorbid diseases</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
