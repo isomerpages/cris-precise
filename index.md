@@ -30,7 +30,7 @@ sections:
       subtitle: Latest updates
       id: infopic
       button: READ MORE
-      url: /phase-III-sg-insight/
+      url: /phase-iii-sg-insight/
       image: /images/Homepage/PhaseIII_info.png
       alt: Image alt text
   - infopic:
