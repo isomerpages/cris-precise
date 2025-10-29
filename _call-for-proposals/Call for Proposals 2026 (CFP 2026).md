@@ -387,7 +387,7 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Project Team</strong>
@@ -403,7 +403,7 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Scientific ambition/ hypothesis</strong>
@@ -428,7 +428,7 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Project plan</strong>
@@ -450,7 +450,7 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Project Overlap</strong>
@@ -466,7 +466,7 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Compliance Requirements</strong>
@@ -498,7 +498,7 @@ related to Call for Proposals 2026.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Anticipated Call Launch</strong>
@@ -510,7 +510,7 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Deadline for submission</strong>
@@ -522,7 +522,7 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Review of submissions</strong>
@@ -534,7 +534,7 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Final selection and approval process</strong>
@@ -546,7 +546,7 @@ related to Call for Proposals 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Projects' submission to TRUST DAC</strong>
