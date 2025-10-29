@@ -5,7 +5,7 @@ variant: tiptap
 description: Awarded projects for long read sequencing
 third_nav_title: Research Programmes
 ---
-<h4><strong>Awarded Projects</strong></h4>
+<h3><strong>Awarded Projects</strong></h3>
 <p>In March 2024, PRECISE launched an open Call for Sample Submission for
 Long-read Sequencing. This initiative invited Singapore-based researchers
 to submit proposals for sequencing human genomic DNA samples using PacBio's
@@ -41,7 +41,7 @@ to improve population health.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Long read sequencing study of undiagnosed genetic adult neuromuscular
@@ -68,7 +68,7 @@ the potential molecular findings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Characterising the genetic mutational burden and effects on disease outcomes
@@ -89,7 +89,7 @@ in Singapore ILD patients.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Identification of noncoding founder mutations in Singaporeans with Inherited
@@ -111,7 +111,7 @@ in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Long-read whole genome sequencing of gastric cancer cell lines and organoids</p>
