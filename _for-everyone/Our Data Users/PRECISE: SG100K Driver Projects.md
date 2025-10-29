@@ -1198,7 +1198,7 @@ status</p>
 <p><strong><em>Institutions involved:</em></strong><em> National Cancer Centre Singapore, SingHealth</em>
 </p>
 <hr>
-<h4><strong>Young-Onset Obesity and Determinants of Cancer Prevalence</strong></h4>
+<h3><strong>Young-Onset Obesity and Determinants of Cancer Prevalence</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1254,7 +1254,7 @@ across ethnic groups and cancer sites.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine</em>
 </p>
 <hr>
-<h4><strong>Implications of Alternative Splicing of Voltagegated Calcium Channels in Schizophrenia</strong></h4>
+<h3><strong>Implications of Alternative Splicing of Voltagegated Calcium Channels in Schizophrenia</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1289,7 +1289,7 @@ in the SG100K cohort.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Exploring the Impact and Origins of Somatic Mutagenesis in Cardiovascular Disease</strong></h4>
+<h3><strong>Exploring the Impact and Origins of Somatic Mutagenesis in Cardiovascular Disease</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1335,7 +1335,7 @@ and CVDs.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Alport Syndrome in the Singapore Population: An Under-Recognised Kidney Disease?</strong></h4>
+<h3><strong>Alport Syndrome in the Singapore Population: An Under-Recognised Kidney Disease?</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1393,7 +1393,7 @@ in AD Alport subjects.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore, Duke-NUS Medical School</em>
 </p>
 <hr>
-<h4><strong>Risk Prediction for Congenital and Early-Onset Hearing Loss</strong></h4>
+<h3><strong>Risk Prediction for Congenital and Early-Onset Hearing Loss</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1449,7 +1449,7 @@ hearing loss based on an individual's genotype.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore, KK Women’s &amp; Children’s Hospital, National University Hospital</em>
 </p>
 <hr>
-<h4><strong>Biological Age Clocks for Multiple Organ Systems and the Lifestyle and Genetic Risk Factors of Advanced Biological Age</strong></h4>
+<h3><strong>Biological Age Clocks for Multiple Organ Systems and the Lifestyle and Genetic Risk Factors of Advanced Biological Age</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1500,7 +1500,7 @@ biological organ age.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Identification of Risk Factors for Gastrointestinal Cancers through Analysis of Genetic and Phenotypic Data</strong></h4>
+<h3><strong>Identification of Risk Factors for Gastrointestinal Cancers through Analysis of Genetic and Phenotypic Data</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
