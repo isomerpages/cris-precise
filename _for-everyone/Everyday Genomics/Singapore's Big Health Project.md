@@ -5,8 +5,8 @@ description: ""
 variant: markdown
 third_nav_title: Everyday Genomics
 ---
-<h1><strong>What is Precision Medicine and Why it Matters</strong></h1>
-<h3><strong>What is DNA?</strong></h3>
+<h2><strong>What is Precision Medicine and Why it Matters</strong></h2>
+<h4><strong>What is DNA?</strong></h4>
 <p>DNA is the instruction book of life. Six billion ‘letters’ long, this
 book is largely the same between individuals as all humans share 99.9%
 of their DNA. But the 0.1% difference is what makes each of us unique,
