@@ -85,24 +85,4 @@ sections:
           announcement: Announcement content
           link_text: ""
           link_url: ""
-  - textcards:
-      title: Our Core Pillars
-      id: textcards
-      cards:
-        - title: Research
-          description: ""
-          linktext: More
-          url: /research/research-highlights/
-        - title: Innovation
-          description: ""
-          linktext: More
-          url: /cip
-        - title: Enterprise
-          description: ""
-          linktext: More
-          url: /collaborate/partners/
-        - title: Data Access
-          description: ""
-          linktext: More
-          url: https://npm.sg/data-access-principles/
 ---
