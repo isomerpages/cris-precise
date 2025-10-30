@@ -63,7 +63,7 @@ under Phase II of Singapore’s National Precision Medicine Programme.</p>
 <p><em>SG100K Institutions, GIS and PRECISE are collectively referred to as “PRECISE-SG100K”.</em>
 </p>
 </blockquote>
-<p>The PRECISE-SG100K dataset is also linked to<strong> electronic health records (EHRs) </strong>that
+<p>The PRECISE-SG100K dataset is also linked to<strong> Electronic Health Records (EHRs) </strong>that
 includes routinely collected clinical data and other health-related information.
 This integrated research dataset is accessible only through the TRUST platform
 with additional approval of the TRUST Data Access Committee.</p>
