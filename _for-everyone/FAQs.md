@@ -15,7 +15,7 @@ just treat disease after it develops.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/patients_1.gif">
 </div>
-<h4><strong>2. What does "precision medicine" mean?</strong></h4>
+<h4><strong>2. What does "Precision Medicine" mean?</strong></h4>
 <p>Precision medicine is about using science and data to improve health for
 both individuals and populations. By studying genetic, lifestyle, and environmental
 factors across large groups of people and understanding the differences,
@@ -76,13 +76,13 @@ ensure privacy while allowing research to benefit public health.</p>
 Life Insurance Association of Singapore have agreed that genetic testresults
 from research like NPM cannot be used to decide your insurance coverage
 or premiums.</p>
-<h5><strong>10. What are the benefits of joining?</strong></h5>
+<h4><strong>10. What are the benefits of joining?</strong></h4>
 <p>By joining, you help doctors and scientists understand how health and
 disease affect people like us in Singapore. This knowledge can lead to
 earlier screening, better prevention, and more effective treatments in
 our hospitals and clinics. Even if you don’t benefit right away, your contribution
 will help improve care for your family, friends, and future generations.</p>
-<h5><strong>11. What is genomic sequencing?</strong></h5>
+<h4><strong>11. What is genomic sequencing?</strong></h4>
 <p>Genomic sequencing is like creating a detailed map of all the~n~ genes
 in your DNA. This map shows the tiny differences in genes (genetic variants)
 from person to person. These tiny differences influence your physical characteristics,
@@ -90,7 +90,7 @@ how you respond to food and medications, your environment, and your risk
 of developing diseases. Having these genetic maps from many Singaporeans
 will help researchers study how diseases develop and design more targeted
 treatments.</p>
-<h5><strong>12. How can I get prescribed precision medicine?</strong></h5>
+<h4><strong>12. How can I get prescribed precision medicine?</strong></h4>
 <p>Precision medicine is not available over the counter. Rather, precision
 medicine is an approach that uses results from genetic tests to help doctors
 put together a care plan with very specific recommendations. In some cases,
