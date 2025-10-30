@@ -13,8 +13,8 @@ third_nav_title: Research Programmes
 <h4><strong>Overview of PRECISE-SG100K Resource</strong></h4>
 <p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
 cohort dataset of ~100,000 Singaporean residents drawn from four major
-prospective population health studies in Singapore: [1] HELIOS-NTU, SPHS-NUS,
-SERI-SEED and NHCS-SingHeart. This extensive resource includes:</p>
+prospective population health studies in Singapore: <sup>[1]</sup> HELIOS-NTU,
+SPHS-NUS, SERI-SEED and NHCS-SingHeart. This extensive resource includes:</p>
 <h4><strong>Research Phenotype Data</strong></h4>
 <p><strong>1. Questionnaire Data</strong>
 </p>
@@ -75,7 +75,7 @@ Phase II of Singapore’s National Precision Medicine Programme.</p>
 <p><em>*Please note: Data availability may be phased, with some datasets becoming accessible at later stages.</em>
 </p>
 <hr>
-<p>[1] Health for Life in Singapore Study (HELIOS), National Technological
+<p><sup>[1]</sup> Health for Life in Singapore Study (HELIOS), National Technological
 University (NTU); Singapore Population Health Studies (SPHS), National
 University of Singapore (NUS); Singapore Eye Research Institute (SERI)
 – Singapore Epidemiology of Eye Diseases (SEED); National Heart Centre
