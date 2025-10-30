@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h4><strong>Computation of Genome-Wide LD Scores and Matrices from the SG100K resource</strong></h4>
+<h4><strong>Computation of Genome - Wide LD Scores and Matrices from the SG100K resource</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -434,7 +434,7 @@ scRNA-seq data.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h4><strong>Genome-Wide Association Study and Population-Based Evaluation of Patients with Diabetic Foot Ulcers</strong></h4>
+<h4><strong>Genome - Wide Association Study and Population - Based Evaluation of Patients with Diabetic Foot Ulcers</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -559,7 +559,7 @@ common cancer status (breast, colorectal, liver, lung, and prostate cancers).</p
 <p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, A*STAR Genome Institute of Singapore, Bioinformatics Institute</em>
 </p>
 <hr>
-<h4><strong>Genetic Susceptibility of Age-Related Hearing Loss</strong></h4>
+<h4><strong>Genetic Susceptibility of Age - Related Hearing Loss</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -661,7 +661,7 @@ design.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Singapore Institute for Clinical Sciences</em>
 </p>
 <hr>
-<h4><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune-Mediated Disorders in the Singaporean Population</strong></h4>
+<h4><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune - Mediated Disorders in the Singaporean Population</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -846,7 +846,7 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Multi-Omics Data Analysis for Novel Depression Mechanisms using Deep Learning Tools</strong></h4>
+<h4><strong>Multi - Omics Data Analysis for Novel Depression Mechanisms using Deep Learning Tools</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -904,7 +904,7 @@ learning.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Nanyang Technological University, Lee Kong Chian School of Medicine, Institute of Mental Health</em>
 </p>
 <hr>
-<h4><strong>Asian-Specific Parkinson’s Disease-Linked Genetic Risk Variants and Systemic Clinical Outcomes</strong></h4>
+<h4><strong>Asian - Specific Parkinson’s Disease - Linked Genetic Risk Variants and Systemic Clinical Outcomes</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1092,7 +1092,7 @@ PRS in a Singapore context.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h4><strong>Advancing Asian-Centric Liver Disease Treatment: Machine Learning Applications in MASLD and MetALD Precision Medicine</strong></h4>
+<h4><strong>Advancing Asian - Centric Liver Disease Treatment: Machine Learning Applications in MASLD and MetALD Precision Medicine</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1196,7 +1196,7 @@ status</p>
 <p><strong><em>Institutions involved:</em></strong><em> National Cancer Centre Singapore, SingHealth</em>
 </p>
 <hr>
-<h4><strong>Young-Onset Obesity and Determinants of Cancer Prevalence</strong></h4>
+<h4><strong>Young - Onset Obesity and Determinants of Cancer Prevalence</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1333,7 +1333,7 @@ and CVDs.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h4><strong>Alport Syndrome in the Singapore Population: An Under-Recognised Kidney Disease?</strong></h4>
+<h4><strong>Alport Syndrome in the Singapore Population: An Under - Recognised Kidney Disease?</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1391,7 +1391,7 @@ in AD Alport subjects.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore, Duke-NUS Medical School</em>
 </p>
 <hr>
-<h4><strong>Risk Prediction for Congenital and Early-Onset Hearing Loss</strong></h4>
+<h4><strong>Risk Prediction for Congenital and Early - Onset Hearing Loss</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1558,7 +1558,7 @@ these factors.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Duke-NUS Medical School, A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h4><strong>Genomic Associations of COVID-19 Susceptibility &amp; Severity in Singapore</strong></h4>
+<h4><strong>Genomic Associations of COVID - 19 Susceptibility &amp; Severity in Singapore</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
