@@ -26,14 +26,6 @@ sections:
       size: md
       backgroundColor: gray
   - infopic:
-      title: NPM Phase III
-      subtitle: Latest updates
-      id: infopic
-      button: READ MORE
-      url: /phase-iii-sg-insight/
-      image: /images/Homepage/PhaseIII_info.png
-      alt: Image alt text
-  - infopic:
       title: Phase III
       subtitle: Latest updates
       id: infopic
@@ -42,6 +34,14 @@ sections:
       button: REad more
       url: /news-and-highlights/events/precise-ihcc-conference/
       image: /images/Homepage/PhaseIII_Intro.png
+      alt: Image alt text
+  - infopic:
+      title: NPM Phase III
+      subtitle: Latest updates
+      id: infopic
+      button: READ MORE
+      url: /phase-iii-sg-insight/
+      image: /images/Homepage/PhaseIII_info.png
       alt: Image alt text
   - infopic:
       title: GLOW
@@ -66,7 +66,7 @@ sections:
       id: announcements
       subtitle: News and highlights
       announcement_items:
-        - title: Conference 2025
+        - title: Call for Proposals
           date: 21 October 2025
           announcement: The conference discussed opportunities and challenges in
             translating advances in precision medicine to reshape the landscape
@@ -80,9 +80,4 @@ sections:
             is evidence-based and cost-effective?
           link_text: Read more
           link_url: https://www.npm.sg/
-        - title: Discoveries from mapping 10,000 genomes
-          date: 21 October 2025
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
 ---
