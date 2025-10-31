@@ -8,11 +8,11 @@ colors:
     - title: media-color-one
       color: "#213966"
     - title: media-color-two
-      color: "#008080"
+      color: "#1e90ff"
     - title: media-color-three
-      color: "#004c4c"
+      color: "#4169e1"
     - title: media-color-four
-      color: "#213966"
+      color: "#0000cd"
     - title: media-color-five
       color: "#213966"
 description: Precision Health Research, Singapore (PRECISE) is the central
