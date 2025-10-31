@@ -72,11 +72,11 @@ sections:
             provided soon."
           link_text: Read more
           link_url: /call-for-proposals-2026/
-        - title: "Our Future Health: Reimagining Prevention for the NHS"
+        - title: "Phase II: PRECISE SG100K"
           date: 21 October 2025
-          announcement: As the saying goes, prevention is better than cure. But how do you
-            deliver preventive care at scale—for 68 million people—in a way that
-            is evidence-based and cost-effective?
+          announcement: The PRECISE-SG100K resource is a unique multi-ancestry Asian
+            population cohort dataset of ~100,000 Singaporean residents drawn
+            from four major prospective population health studies in Singapore
           link_text: Read more
-          link_url: https://www.npm.sg/
+          link_url: /phase-ii-precise-sg100k/
 ---
