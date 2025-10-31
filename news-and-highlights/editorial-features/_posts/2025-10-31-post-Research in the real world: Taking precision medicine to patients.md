@@ -17,7 +17,7 @@ patient populations.</p>
 but whether those insights can be translated into real-world patient outcomes,
 sustainably and equitably,” says Professor Patrick Tan, Executive Director
 of Precision Health Research, Singapore (PRECISE).</p>
-<h4><strong>Building on a strong foundation</strong></h4>
+<h4><strong>Building on a Strong Foundation</strong></h4>
 <p>The journey began with <a href="https://www.npm.sg/news-and-events/editorial-features/sg10k-discoveries-from-mapping-10000-genomes/" rel="noopener nofollow" target="_blank">Phase 1</a>,
 a proof of concept stage that delivered Southeast Asia’s first large-scale
 genetic reference panel. This was more than just a research achievement;
@@ -44,7 +44,7 @@ on healthy cohorts, it aims to capture the lived realities of patients
 within healthcare settings. This shift reflects the central ambition: not
 simply to generate knowledge, but to transform how healthcare is delivered-more
 targeted, more cost-effective, and ultimately more impactful.</p>
-<h4><strong>From discovery to delivery</strong></h4>
+<h4><strong>From Discovery to Delivery</strong></h4>
 <p>The defining feature of Phase III is the quest to understanding patients,
 not just healthy individuals. With a target of enrolling about 10% of Singapore’s
 population, this phase also dramatically expands the scale. This scale
