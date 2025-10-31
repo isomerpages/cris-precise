@@ -66,9 +66,10 @@ sections:
       id: announcements
       subtitle: News and highlights
       announcement_items:
-        - title: Call for Proposals
-          date: 21 October 2025
-          announcement: /call-for-proposals-2026/
+        - title: Call for Proposals 2026
+          date: 31 October 2025
+          announcement: "Anticipated call launch: 2 January 2026. More information will be
+            provided soon."
           link_text: Read more
           link_url: /call-for-proposals-2026/
         - title: "Our Future Health: Reimagining Prevention for the NHS"
