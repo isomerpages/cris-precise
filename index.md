@@ -27,7 +27,6 @@ sections:
       backgroundColor: gray
   - infopic:
       title: Phase III
-      subtitle: Latest updates
       id: infopic
       description: Over 700 thought leaders, clinicians, scientists, and industry
         experts from around the world gathered for insightful discussions.
@@ -37,7 +36,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: NPM Phase III
-      subtitle: Latest updates
       id: infopic
       button: READ MORE
       url: /phase-iii-sg-insight/
@@ -45,7 +43,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: GLOW
-      subtitle: Latest updates
       id: infopic
       description: Singapore to embark on study exploring links between Asian gut
         microbiomes and mental health.
