@@ -88,7 +88,7 @@ and scientific guidance for research utilising the PRECISE-SG100K resource.
 This expert panel plays a pivotal role in promoting scientific excellence
 while maximising the impact and public benefit of precision medicine research
 in Singapore.</p>
-<h4><strong>The Committee's key responsibilities encompass:</strong></h4>
+<h4><strong>The Committee's Key Responsibilities Encompass:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Guiding the development and progression of scientific research based on
