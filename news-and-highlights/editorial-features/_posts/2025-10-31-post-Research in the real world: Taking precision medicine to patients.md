@@ -13,6 +13,10 @@ diversity and well-coordinated healthcare system would propel precision
 medicine to the next frontier. That bet is now entering a pivotal phase:
 proof of scale as precision medicine expands from healthy cohorts to diverse
 patient populations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial Features/2025/NPM_phase_III_thumbnail_v2_1.png">
+</div>
 <p>“The question is no longer whether precision medicine can generate insights,
 but whether those insights can be translated into real-world patient outcomes,
 sustainably and equitably,” says Professor Patrick Tan, Executive Director
