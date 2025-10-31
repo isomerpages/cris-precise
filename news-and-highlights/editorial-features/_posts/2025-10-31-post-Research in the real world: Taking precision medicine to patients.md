@@ -29,7 +29,7 @@ information like electronic health records, lifestyle information, and
 environmental factors. It was a deliberate step toward reflecting the multifaceted
 nature of human health, where genes interact with life experiences and
 clinical histories.</p>
-<hr>
+<p></p>
 <p>One key way Phase II put precision medicine into practice was through
 a suite of <a href="https://www.npm.sg/cip/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilots</a> (CIPs),
 spanning familial hypercholesterolemia, breast cancer screening, hereditary
