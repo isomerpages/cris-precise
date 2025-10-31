@@ -81,7 +81,7 @@ University of Singapore (NUS); Singapore Eye Research Institute (SERI)
 – Singapore Epidemiology of Eye Diseases (SEED); National Heart Centre
 Singapore (NHCS) – SingHeart</p>
 <hr>
-<p></p>
+<h3><strong>The PRECISE-SG100K Scientific Committee </strong></h3>
 <p>The PRECISE-SG100K Scientific Committee comprises distinguished experts
 from across Singapore's research ecosystem who provide strategic oversight
 and scientific guidance for research utilising the PRECISE-SG100K resource.
