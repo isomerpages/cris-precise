@@ -74,9 +74,8 @@ sections:
           link_url: /call-for-proposals-2026/
         - title: GLOW
           date: 21 October 2025
-          announcement: The PRECISE-SG100K resource is a unique multi-ancestry Asian
-            population cohort dataset of ~100,000 Singaporean residents drawn
-            from four major prospective population health studies in Singapore
+          announcement: Singapore to embark on study exploring links between Asian gut
+            microbiomes and mental health.
           link_text: Read more
           link_url: /glow-gut-linked-outcomes-in-wellbeing/
 ---
