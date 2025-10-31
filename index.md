@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: Taking precision medicine to patients
       button: REad more
-      url: /news-and-highlights/events/precise-ihcc-conference/
+      url: /research-in-the-real-world-taking-precision-medicine-to-patients/
       image: /images/Resources/Editorial
         Features/2025/NPM_phase_III_thumbnail_v2_1.png
       alt: Image alt text
