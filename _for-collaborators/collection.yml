@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Call for Proposals (CFP) 2026.md
-      - Call for Proposals (CFP) 202634.md
       - Research Programmes/.keep
       - Research Programmes/Overview.md
       - "Research Programmes/Phase I: SG10K Health.md"
