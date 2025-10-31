@@ -26,7 +26,7 @@ sections:
       size: md
       backgroundColor: gray
   - infopic:
-      title: Phase III
+      title: new content
       id: infopic
       description: Over 700 thought leaders, clinicians, scientists, and industry
         experts from around the world gathered for insightful discussions.
