@@ -72,11 +72,11 @@ sections:
             provided soon."
           link_text: Read more
           link_url: /call-for-proposals-2026/
-        - title: "Phase II: PRECISE SG100K"
+        - title: GLOW
           date: 21 October 2025
           announcement: The PRECISE-SG100K resource is a unique multi-ancestry Asian
             population cohort dataset of ~100,000 Singaporean residents drawn
             from four major prospective population health studies in Singapore
           link_text: Read more
-          link_url: /phase-ii-precise-sg100k/
+          link_url: /glow-gut-linked-outcomes-in-wellbeing/
 ---
