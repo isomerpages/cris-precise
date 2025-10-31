@@ -26,10 +26,9 @@ sections:
       size: md
       backgroundColor: gray
   - infopic:
-      title: new content
+      title: Research in the Real World
       id: infopic
-      description: Over 700 thought leaders, clinicians, scientists, and industry
-        experts from around the world gathered for insightful discussions.
+      description: Taking precision medicine to patients
       button: REad more
       url: /news-and-highlights/events/precise-ihcc-conference/
       image: /images/Homepage/PhaseIII_Intro.png
