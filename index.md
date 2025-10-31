@@ -73,7 +73,7 @@ sections:
           link_text: Read more
           link_url: /call-for-proposals-2026/
         - title: GLOW
-          date: 21 October 2025
+          date: 10 October 2025
           announcement: Singapore to embark on study exploring links between Asian gut
             microbiomes and mental health.
           link_text: Read more
