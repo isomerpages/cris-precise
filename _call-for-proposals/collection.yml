@@ -1,5 +1,4 @@
 collections:
   call-for-proposals:
     output: true
-    order:
-      - Call for Proposals 2026 (CFP 2026).md
+    order: []
