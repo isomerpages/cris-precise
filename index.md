@@ -68,11 +68,9 @@ sections:
       announcement_items:
         - title: Call for Proposals
           date: 21 October 2025
-          announcement: The conference discussed opportunities and challenges in
-            translating advances in precision medicine to reshape the landscape
-            of modern healthcare.
-          link_text: Sign up
-          link_url: https://www.npm.sg/
+          announcement: /call-for-proposals-2026/
+          link_text: Read more
+          link_url: /call-for-proposals-2026/
         - title: "Our Future Health: Reimagining Prevention for the NHS"
           date: 21 October 2025
           announcement: As the saying goes, prevention is better than cure. But how do you
