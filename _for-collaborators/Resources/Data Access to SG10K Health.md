@@ -5,7 +5,7 @@ variant: tiptap
 description: Data Access to SG10K Health
 third_nav_title: Resources
 ---
-<h4><strong>Data Access</strong></h4>
+<h3><strong>Data Access</strong></h3>
 <p>The National Precision Medicine Data Access Committee (NPM DAC) has been
 established to oversee access to the SG10K_Health datasets to ensure:</p>
 <ul data-tight="true" class="tight">
