@@ -26,10 +26,9 @@ sections:
       size: md
       backgroundColor: gray
   - infopic:
-      title: Research in the Real World
+      title: Taking Precision Medicine to Patients
       id: infopic
-      description: Taking precision medicine to patients
-      button: REad more
+      button: Read more
       url: /research-in-the-real-world-taking-precision-medicine-to-patients/
       image: /images/Resources/Editorial
         Features/2025/NPM_phase_III_thumbnail_v2_1.png
