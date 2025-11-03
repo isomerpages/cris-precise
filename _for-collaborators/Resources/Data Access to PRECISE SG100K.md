@@ -199,7 +199,7 @@ and collaboration enquiries. Please contact <a rel="noopener noreferrer nofollow
 </p>
 </li>
 </ul>
-<h3><strong>Matters Pertaining to Publication Policy and Intellectual Property</strong></h3>
+<h4><strong>Matters Pertaining to Publication Policy and Intellectual Property</strong></h4>
 <p>All publications arising from the current early access route must be reviewed
 by the PRECISE-SG100K Data Access Committee and PRECISE-SG100K Scientific
 Committee prior to submission to confirm that the data use and publication
@@ -213,7 +213,7 @@ Property Rights (IPRs) developed by researchers using the PRECISE-SG100K
 resource, unless the team and/or its members had made inventive contribution
 to the development of the IPs. Any resulting IPRs must not unreasonably
 restrict access to the dataset for academic research and healthcare purposes.</p>
-<h3><strong>Exclusions</strong></h3>
+<h4><strong>Exclusions</strong></h4>
 <p>Biological samples collected from SG100K are under the custodianship of
 the respective population cohorts. Access to biological samples require
 approval from the individual population cohorts. Given that samples are
@@ -246,7 +246,7 @@ or datasets, we welcome suggestions for future data linkage opportunities.</p>
 various (new) funding sources. These data will be made accessible to the
 broader research community after fulfilling exclusivity (priority) periods
 or access requirements jointly established by the funders and PRECISE-SG100K.</p>
-<h3><strong>Disclaimer</strong></h3>
+<h4><strong>Disclaimer</strong></h4>
 <p>PRECISE-SG100K recognises that it is impossible for these guiding principles
 to cover all scenarios and reserves the right to update them from-time-to-time.</p>
 <p>These guiding principles are not intended to be cover all details related
@@ -258,5 +258,6 @@ for data access policy and operations at <a rel="noopener noreferrer nofollow" t
 <img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Collaborate/Data_Access_Governance_Flowchart.png">
 </div>
 <p></p>
-<h3>You can download a copy of the PRECISE-SG100K Data Access Principles <a href="/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong></h3>
+<p>You can download a copy of the PRECISE-SG100K Data Access Principles here. <strong><br></strong>
+</p>
 <p></p>
