@@ -63,9 +63,8 @@ places precision medicine squarely in the real world-where comorbidities,
 cost pressures, and clinical decision-making come into play. This requires
 moving beyond the walls of research institutes to partner directly with
 hospitals, clinics, and primary care providers across all of Singapore’s
-three healthcare clusters: <a href="https://www.nhghealth.com.sg/" rel="noopener nofollow" target="_blank">NHG Health</a>,
-National University Health System (NUHS) and Singapore Health Services
-(SingHealth).</p>
+three healthcare clusters: NHG Health, National University Health System
+(NUHS) and Singapore Health Services (SingHealth).</p>
 <p>“Singapore is realising the potential of genomics with strategy and scale—a
 strong public mandate, world-class infrastructure and the willingness to
 commit long-term,” says Tiffany Boughtwood, the Australian Health Genomics
