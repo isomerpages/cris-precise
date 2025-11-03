@@ -5,6 +5,7 @@ variant: tiptap
 description: Data Access to PRECISE SG100K
 third_nav_title: Resources
 ---
+<h2><strong>Data Access Principles </strong></h2>
 <p><strong>Published Date: 18-Jul-2025</strong>
 </p>
 <blockquote>
