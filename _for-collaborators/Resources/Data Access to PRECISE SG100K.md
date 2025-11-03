@@ -5,14 +5,14 @@ variant: tiptap
 description: Data Access to PRECISE SG100K
 third_nav_title: Resources
 ---
-<h2><strong>Data Access Principles </strong></h2>
+<h3><strong>Data Access Principles</strong></h3>
 <p><strong>Published Date: 18-Jul-2025</strong>
 </p>
 <blockquote>
 <p><em>NOTE: These guiding principles will be updated periodically as needed. Please check the website regularly for updates or contact the Secretariat at research@precise.cris.sg</em>
 </p>
 </blockquote>
-<h3><strong>Our Commitment to Responsible Data Sharing</strong></h3>
+<h4><strong>Our Commitment to Responsible Data Sharing</strong></h4>
 <p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
 cohort dataset of ~100,000 Singaporean residents, jointly created by PRECISE,
 SG100K Institutions and GIS.</p>
@@ -21,7 +21,7 @@ strive to maximise public good from the PRECISE-SG100K dataset while respecting
 participant consent and privacy, upholding scientific rigour, aligning
 with national priorities, and fulfilling commitments to funders and existing
 collaborators.</p>
-<h3><strong>About the PRECISE-SG100K Resource</strong></h3>
+<h4><strong>About the PRECISE-SG100K Resource</strong></h4>
 <p>SG100K reached the milestone of recruiting 100,000 participants in Apr
 2025 and whole genome sequencing of these participants was completed in
 Jun 2025. All data components are currently undergoing extensive quality
@@ -68,7 +68,7 @@ under Phase II of Singapore’s National Precision Medicine Programme.</p>
 includes routinely collected clinical data and other health-related information.
 This integrated research dataset is accessible only through the TRUST platform
 with additional approval of the TRUST Data Access Committee.</p>
-<h3><strong>Principles Governing Access to PRECISE-SG100K Resource</strong></h3>
+<h4><strong>Principles Governing Access to PRECISE-SG100K Resource</strong></h4>
 <p>The guiding principles for accessing the PRECISE-SG100K resource is anchored
 on Singapore’s Research, Innovation, Enterprise master plan. Our overarching
 goal is to advance precision medicine and related health research and innovation
@@ -152,7 +152,7 @@ of tangible benefits to Singapore.</p>
 <p>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 </li>
 </ul>
-<h3><strong>Data Access Governance</strong></h3>
+<h4><strong>Data Access Governance</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>The <u>PRECISE Management Team,</u> which includes both the Executive Director
@@ -258,6 +258,5 @@ for data access policy and operations at <a rel="noopener noreferrer nofollow" t
 <img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Collaborate/Data_Access_Governance_Flowchart.png">
 </div>
 <p></p>
-<p>You can download a copy of the PRECISE-SG100K Data Access Principles
-<a href="/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong>
-</p>
+<h3>You can download a copy of the PRECISE-SG100K Data Access Principles <a href="/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong></h3>
+<p></p>
