@@ -183,7 +183,8 @@ to cover all scenarios and reserves the right to update them from-time-to-time.<
 to data access. For questions or more information, please email the Secretariat
 for data access policy and operations at <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
-<h3><strong>PRECISE-SG100K Data Access Governance Process</strong></h3>
+<h3 id="map1"><strong>PRECISE-SG100K Data Access Governance Process</strong>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Collaborate/Data_Access_Governance_Flowchart.png">
@@ -192,4 +193,4 @@ for data access policy and operations at <a href="mailto:research@precise.cris.s
 <p>You can download a copy of the PRECISE-SG100K Data Access Principles
 <a href="https://www.npm.sg/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong>
 </p>
-<p></p>
+<p></p></h3>
