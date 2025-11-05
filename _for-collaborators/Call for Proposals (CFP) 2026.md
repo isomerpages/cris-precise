@@ -189,14 +189,10 @@ case-by-case and subject to additional approval.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Lead Principal Investigator (Lead-PI)</strong>&nbsp;– a senior
-researcher who takes overall responsibility for ensuring the research is
-completed as described in the proposal.</p>
+<p><strong>Lead Principal Investigator (Lead-PI)</strong>&nbsp;– a senior researcher who takes overall responsibility for ensuring the research is completed as described in the proposal.</p>
 </li>
 <li>
-<p><strong>Co-Lead Principal Investigators (Co-Lead PIs)</strong>&nbsp;–
-senior researchers who will help lead the research described. Maximum two
-Co-Lead PIs.</p>
+<p><strong>Co-Lead Principal Investigators (Co-Lead PIs)</strong>&nbsp;– senior researchers who will help lead the research described. Maximum two Co-Lead PIs.</p>
 </li>
 <li>
 <p><strong>Co-Investigators (Co-Is)</strong>&nbsp;– other researchers involved in completion of the research.</p>
@@ -208,8 +204,7 @@ than 1 proposal. In addition, Lead-PIs are required to hold a primary appointmen
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>There should be <strong>no</strong>  <strong>direct or indirect industry partnerships </strong>in
-the applications.</p>
+<p>There should be <strong>no</strong>  <strong>direct or indirect industry partnerships </strong>in the applications.</p>
 </li>
 <li>
 <p>Proposals should aim to deliver at least 1 major scientific publication
