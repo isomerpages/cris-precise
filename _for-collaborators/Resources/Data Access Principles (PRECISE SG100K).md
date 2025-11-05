@@ -124,15 +124,9 @@ PRECISE-SG100K Data Access Committee.</p>
 </li>
 </ul>
 <h4><strong>Matters Pertaining to Publication Policy and Intellectual Property</strong></h4>
-<p>All publications arising from the current early access route must be reviewed by the PRECISE-SG100K Data Access Committee and PRECISE-SG100K Scientific Committee prior to submission to confirm that the data use and publication objectives are within the scope of the approved data request. Projects involving use of TRUST data will also require pre-publication review by
-TRUST.</p>
-<p>Researchers shall follow the authorship and acknowledgement instructions
-listed in the Data Access Agreement.</p>
-<p>PRECISE-SG100K will not claim rights to inventions and associated Intellectual
-Property Rights (IPRs) developed by researchers using the PRECISE-SG100K
-resource, unless the team and/or its members had made inventive contribution
-to the development of the IPs. Any resulting IPRs must not unreasonably
-restrict access to the dataset for academic research and healthcare purposes.</p>
+<p>All publications arising from the current early access route must be reviewed by the PRECISE-SG100K Data Access Committee and PRECISE-SG100K Scientific Committee prior to submission to confirm that the data use and publication objectives are within the scope of the approved data request. Projects involving use of TRUST data will also require pre-publication review by TRUST.</p>
+<p>Researchers shall follow the authorship and acknowledgement instructionslisted in the Data Access Agreement.</p>
+<p>PRECISE-SG100K will not claim rights to inventions and associated Intellectual Property Rights (IPRs) developed by researchers using the PRECISE-SG100K resource, unless the team and/or its members had made inventive contribution to the development of the IPs. Any resulting IPRs must not unreasonably restrict access to the dataset for academic research and healthcare purposes.</p>
 <h4><strong>Exclusions</strong></h4>
 <p>Biological samples collected from SG100K are under the custodianship of
 the respective population cohorts. Access to biological samples require
@@ -140,8 +134,7 @@ approval from the individual population cohorts. Given that samples are
 a finite resource, SG100K prioritises:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Assays conducted on all participants or a large subset of randomly selected
-participants.</p>
+<p>Assays conducted on all participants or a large subset of randomly selected participants.</p>
 </li>
 <li>
 <p>Validated assay methodologies with minimal depletion and maximal output.</p>
@@ -158,20 +151,17 @@ applicants should approach the individual cohorts directly.</p>
 <p>Similarly, access to other SG100K cohort resources, including various
 additional datasets, generation of new phenotypic information and participant
 recontact, is under the purview of the individual SG100K cohorts.</p>
-<p>Please contact <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a> for
+<p>Please contact <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a> for
 more information.</p>
-<p>While PRECISE-SG100K does not currently support linkages to other cohorts
-or datasets, we welcome suggestions for future data linkage opportunities.</p>
+<p>While PRECISE-SG100K does not currently support linkages to other cohorts or datasets, we welcome suggestions for future data linkage opportunities.</p>
 <p>Additional research phenotype or molecular data will be generated with
 various (new) funding sources. These data will be made accessible to the
 broader research community after fulfilling exclusivity (priority) periods
 or access requirements jointly established by the funders and PRECISE-SG100K.</p>
 <h4><strong>Disclaimer</strong></h4>
-<p>PRECISE-SG100K recognises that it is impossible for these guiding principles
-to cover all scenarios and reserves the right to update them from-time-to-time.</p>
+<p>PRECISE-SG100K recognises that it is impossible for these guiding principles to cover all scenarios and reserves the right to update them from-time-to-time.</p>
 <p>These guiding principles are not intended to be cover all details related
-to data access. For questions or more information, please email the Secretariat
-for data access policy and operations at <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+to data access. For questions or more information, please email the Secretariat for data access policy and operations at <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
 <h3><strong>PRECISE-SG100K Data Access Governance Process</strong></h3>
 <div class="isomer-image-wrapper">
