@@ -43,7 +43,7 @@ the TRUST platform from 2027.</p>
 on the application being led by a Singapore research team.</p>
 <p>All applications that request use of linked electronic health records
 will be subject to additional review by <a href="https://trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a>.</p>
-<h3><strong>Early Access Mechanisms (2024 – 2026)</strong></h3>
+<h4><strong>Early Access Mechanisms (2024 – 2026)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Access by public researchers in Singapore</u></strong>: PRECISE-SG100K
