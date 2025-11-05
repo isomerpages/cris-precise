@@ -69,7 +69,7 @@ a more detailed understanding of each patient.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-1-image.jpg">
+<img style="width: 100%" height="auto" width="20%" src="/images/Everyday Genomics/po-1-image.jpg">
 </div>
 <p></p>
 </td>
@@ -79,40 +79,38 @@ a more detailed understanding of each patient.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-3-image.jpg">
+<img style="width: 80%" height="auto" width="70%" src="/images/Everyday Genomics/po-3-image.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-4-image.jpg">
+<img style="width: 80%" height="auto" width="100%" src="/images/Everyday Genomics/po-4-image.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ACCURATE PREDICTION</strong>Reliable&nbsp;biomarkers&nbsp;help
-doctors pre-empt possible health conditions and act before it is too late</p>
+<p><strong>ACCURATE PREDICTION</strong></p>Reliable biomarkers help doctors pre-empt possible health conditions and act before it is too late<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FASTER DIAGNOSES</strong>
 </p>
-<p>De-mystify the causes of rare diseases and accelerate the search for potential
-treatments</p>
+De-mystify the causes of rare diseases and accelerate the search for potential treatments<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>OPTIMISED TREATMENTS</strong>
 </p>
-<p>Patients receive the right drug at the right time,&nbsp;<strong>improving efficacy</strong>&nbsp;and
-reducing side-effects</p>
+Patients receive the right drug at the right time,&nbsp;<strong>improving efficacy</strong>&nbsp;and
+reducing side-effects<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NEW TREATMENT</strong>
 </p>
-<p>Understanding the basis of disease will inform the development of&nbsp;<strong>new drugs and therapies</strong>
-</p>
+Understanding the basis of disease will inform the development of&nbsp;<strong>new drugs and therapies</strong>
+<p></p>
 </td>
 </tr>
 <tr>
