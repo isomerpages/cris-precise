@@ -144,28 +144,20 @@ medications, behavioural risk factors, mental health , and socio-economic status
 <hr>
 <p><em>TRUST (“Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-related data governance framework and analytics platform that catalyses health data research and innovation to improve health. It supports public-private partnerships and enables anonymised health-related research and real-world data to be brought together, accessed and used in an expeditious and secure manner.</em>
 </p>
-<p>The linked PRECISE-SG100K Resource will be accessible on the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">TRUST platform</a>.
-All data will be pseudonymised. This means that conventional personal identifiers such as date of birth, NRIC, and residential address are removed. This is to preserve the privacy and prevent re-identification of the study participants.</p>
+<p>The linked PRECISE-SG100K Resource will be accessible on the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">TRUST platform</a>. All data will be pseudonymised. This means that conventional personal identifiers such as date of birth, NRIC, and residential address are removed. This is to preserve the privacy and prevent re-identification of the study participants.</p>
 <p><strong>PRECISE-SG100K Summary Statistics</strong>
 </p>
-<p>Summary Statistics will be made available to Lead-PIs of approved projects
-from PRECISE-SG100K affiliate institutions (PRECISE, Nanyang Technological
-University, National University of Singapore, SingHealth Institutions and
-A*STAR) through a controlled request process, in line with the existing
-data exclusivity arrangement. Summary Statistics will be available under
-these terms and conditions:</p>
+<p>Summary Statistics will be made available to Lead-PIs of approved projects from PRECISE-SG100K affiliate institutions (PRECISE, Nanyang Technological University, National University of Singapore, SingHealth Institutions and A*STAR) through a controlled request process, in line with the existing data exclusivity arrangement. Summary Statistics will be available under these terms and conditions:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Each PI may request up to 20 specific traits with scientific justification,
-and requested traits must align with their approved research scope.</p>
+<p>Each PI may request up to 20 specific traits with scientific justification, and requested traits must align with their approved research scope.</p>
 </li>
 <li>
 <p>Additional trait requests beyond the 20-trait limit will be considered
 case-by-case and subject to additional approval.</p>
 </li>
 <li>
-<p>Sharing of Summary Statistics with third parties and industry involvement
-is not permitted.</p>
+<p>Sharing of Summary Statistics with third parties and industry involvement is not permitted.</p>
 </li>
 </ol>
 <h4><strong>Guiding Principles for Proposal</strong></h4>
