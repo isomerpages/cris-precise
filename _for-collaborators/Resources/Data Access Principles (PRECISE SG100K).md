@@ -125,7 +125,7 @@ PRECISE-SG100K Data Access Committee.</p>
 for data access, and is the initial primary point of contact for data availability
 and collaboration enquiries. Please contact <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.&nbsp;</p>
 <p></p>
-<p><em>Please see illustration for PRECISE-SG100K Data Access Governance process<a href="#map1" rel="noopener noreferrer nofollow" target="_blank"> below.</a></em>
+<p><em>Please see illustration for PRECISE-SG100K Data Access Governance process<a href="#map1" rel="noopener noreferrer nofollow"> below.</a></em>
 </p>
 </li>
 </ul>
