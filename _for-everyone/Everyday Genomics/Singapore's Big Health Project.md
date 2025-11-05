@@ -74,7 +74,6 @@ a more detailed understanding of each patient.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-2-image.jpg">
 </div>
