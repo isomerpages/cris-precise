@@ -10,9 +10,7 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/patients_1.gif">
 </div>
 <h4><strong>2. What does "Precision Medicine" mean?</strong></h4>
-<p>Precision medicine is about using science and data to improve health for both individuals and populations. By studying genetic, lifestyle, and environmental factors across large groups of people and understanding the differences, doctors and researchers can design better ways to prevent disease, detect conditions earlier, and guide treatments more effectively. In this way,
-precision medicine strengthens public health while also supporting more
-tailored and more targeted healthcare when needed.</p>
+<p>Precision medicine is about using science and data to improve health for both individuals and populations. By studying genetic, lifestyle, and environmental factors across large groups of people and understanding the differences, doctors and researchers can design better ways to prevent disease, detect conditions earlier, and guide treatments more effectively. In this way, precision medicine strengthens public health while also supporting more tailored and more targeted healthcare when needed.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/FAQ_Q2.png">
