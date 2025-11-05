@@ -341,7 +341,7 @@ your manuscript) via the following link at least 21 days in advance:
 <h4><strong>Review Process</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>All proposals will be reviewed by the <a href="https://npm.sg/precise-sg100k-scientific-committee/" rel="noopener nofollow" target="_blank">PRECISE-SG100K Scientific Committee</a>.</p>
+<p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_blank">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
 <p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee
