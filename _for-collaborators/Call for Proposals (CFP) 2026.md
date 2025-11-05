@@ -211,7 +211,8 @@ than 1 proposal. In addition, Lead-PIs are required to hold a primary appointmen
 within 2 years.</p>
 </li>
 <li>
-<p>Approved projects should provide yearly progress reports to the <a href="/phase-ii-precise-sg100k/" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
+<p>Approved projects should provide yearly progress reports to the <a href="/phase-ii-precise-sg100k#committee1/" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
+
 </li>
 <li>
 <p>Applicants should ensure sufficient funding for their research activities and associated compute costs including analyses on the TRUST platform. <strong>No funding will be provided through this Call.</strong>
