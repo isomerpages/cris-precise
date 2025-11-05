@@ -55,23 +55,12 @@ projected to be released in the first half of 2026.</p>
 <p><em>SG100K Institutions, GIS and PRECISE are collectively referred to as “PRECISE-SG100K”.</em>
 </p>
 </blockquote>
-<p>The PRECISE-SG100K dataset is also linked to<strong> Electronic Health Records (EHRs) </strong>that
-includes routinely collected clinical data and other health-related information.
-This integrated research dataset is accessible only through the TRUST platform
-with additional approval of the TRUST Data Access Committee.</p>
+<p>The PRECISE-SG100K dataset is also linked to<strong> Electronic Health Records (EHRs) </strong>that includes routinely collected clinical data and other health-related information. This integrated research dataset is accessible only through the TRUST platform with additional approval of the TRUST Data Access Committee.</p>
 <h4><strong>Principles Governing Access to PRECISE-SG100K Resource</strong></h4>
-<p>The guiding principles for accessing the PRECISE-SG100K resource is anchored
-on Singapore’s Research, Innovation, Enterprise master plan. Our overarching
-goal is to advance precision medicine and related health research and innovation
-to improve health outcomes, in Singapore, Asia and the world. We are committed
-to the responsible and ethical sharing of data, grounded in principles
-of public benefit, participant trust, and scientific transparency.</p>
+<p>The guiding principles for accessing the PRECISE-SG100K resource is anchored on Singapore’s Research, Innovation, Enterprise master plan. Our overarching goal is to advance precision medicine and related health research and innovation to improve health outcomes, in Singapore, Asia and the world. We are committed to the responsible and ethical sharing of data, grounded in principles of public benefit, participant trust, and scientific transparency.</p>
 <p>To achieve these, we will avail de-identified data and research results
 through controlled data releases to qualified institutional researchers
-and appropriate research projects. This will be done in a manner that safeguards
-participant privacy, benefits Singapore, while upholding our ethical obligations,
-requirements of data guardians, and our commitments to funders and existing
-academic and industry collaborators.&nbsp;</p>
+and appropriate research projects. This will be done in a manner that safeguards participant privacy, benefits Singapore, while upholding our ethical obligations, requirements of data guardians, and our commitments to funders and existing academic and industry collaborators.&nbsp;</p>
 <h4><strong>Data Access Governance</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
