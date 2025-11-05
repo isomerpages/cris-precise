@@ -48,5 +48,4 @@ it.”</p>
 <hr>
 <h3><strong>How can I share my story?</strong></h3>
 <p>You can email us at <a href="mailto:contact@precise.cris.sg" rel="noopener nofollow" target="_blank">contact@precise.cris.sg</a> with
-a short summary of your experience or interest. Our communications team
-will follow up with you to guide the process.</p>
+a short summary of your experience or interest. Our communications team will follow up with you to guide the process.</p>
