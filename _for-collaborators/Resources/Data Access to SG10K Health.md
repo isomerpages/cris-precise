@@ -18,5 +18,5 @@ third_nav_title: Resources
 access policies and data access forms via the the <a href="https://npm.a-star.edu.sg/help/" rel="noopener noreferrer nofollow" target="_blank"><u>SG10K_Health portal.</u></a>
 </p>
 <p>For more information on the list of approved studies, please visit this
-<a href="https://npm.a-star.edu.sg/help/" rel="noopener nofollow" target="_blank">website</a>
+<a href="https://npm.a-star.edu.sg" rel="noopener nofollow" target="_blank">website</a>
 </p>
