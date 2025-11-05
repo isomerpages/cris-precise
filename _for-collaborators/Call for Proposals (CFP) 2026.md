@@ -7,23 +7,14 @@ description: Call for Proposals 2026 (CFP 2026)
 <p><strong>(Anticipated Call Launch: 2 January 2026. Check this page for updates)</strong>
 </p>
 <h3><strong>Introduction</strong></h3>
-<p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
-cohort dataset comprising ~100,000 Singaporean men and women. The resource
-provides an opportunity to advance precision medicine and related health
-research, in Singapore, Asia and the world.&nbsp;</p>
+<p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population cohort dataset comprising ~100,000 Singaporean men and women. The resource provides an opportunity to advance precision medicine and related health research, in Singapore, Asia and the world.&nbsp;</p>
 <p>As part of our first open Call for Proposals in 2024 (CFP 2024), early
-access to the intermediate data release of 50,000 participants was enabled
-for Singapore public academic and clinical researchers. The PRECISE-SG100K
-Scientific Committee selected 37 projects, comprising 9 Flagship Projects
-and 28 Driver Projects (Details on the projects are available <a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>).</p>
+access to the intermediate data release of 50,000 participants was enabled for Singapore public academic and clinical researchers. The PRECISE-SG100K Scientific Committee selected 37 projects, comprising 9 Flagship Projects and 28 Driver Projects (Details on the projects are available <a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>).</p>
 <p>Building on the success of CFP 2024, and in anticipation of releasing
 baseline data for all ~100,000 participants, PRECISE-SG100K is planning
-a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite
-researchers in Singapore to submit proposals that make use of the unique
+a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite researchers in Singapore to submit proposals that make use of the unique
 PRECISE-SG100K dataset to advance scientific knowledge and clinical translation.</p>
-<p><strong>Important Update for Existing Projects</strong>: Current Flagship
-and Driver Projects approved under CFP 2024 will directly receive access
-to the PRECISE-SG100K baseline data release comprising all 100,000 participants.
+<p><strong>Important Update for Existing Projects</strong>: Current Flagship and Driver Projects approved under CFP 2024 will directly receive access to the PRECISE-SG100K baseline data release comprising all 100,000 participants.
 No additional application is required for the approved research scope.
 All existing terms and conditions will continue to apply.</p>
 <h4><strong>Brief Description of PRECISE-SG100K Resource</strong></h4>
@@ -166,9 +157,7 @@ and demand.</p>
 <p><em>TRUST (“Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-related data governance framework and analytics platform that catalyses health data research and innovation to improve health. It supports public-private partnerships and enables anonymised health-related research and real-world data to be brought together, accessed and used in an expeditious and secure manner.</em>
 </p>
 <p>The linked PRECISE-SG100K Resource will be accessible on the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">TRUST platform</a>.
-All data will be pseudonymised. This means that conventional personal identifiers
-such as date of birth, NRIC, and residential address are removed. This
-is to preserve the privacy and prevent re-identification of the study participants.</p>
+All data will be pseudonymised. This means that conventional personal identifiers such as date of birth, NRIC, and residential address are removed. This is to preserve the privacy and prevent re-identification of the study participants.</p>
 <p><strong>PRECISE-SG100K Summary Statistics</strong>
 </p>
 <p>Summary Statistics will be made available to Lead-PIs of approved projects
