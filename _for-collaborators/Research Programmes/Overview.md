@@ -24,16 +24,20 @@ healthcare for everyone in Singapore.&nbsp;&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="phase-iii-sg-insight" rel="noopener nofollow" target="_self">Phase III: SG INSIGHT</a></p><a href="phase-iii-sg-insight" rel="noopener nofollow" target="_self">
-</a></li><a href="phase-iii-sg-insight" rel="noopener nofollow" target="_self">
-</a><li><a href="phase-iii-sg-insight" rel="noopener nofollow" target="_self">
-</a><p><a href="phase-iii-sg-insight" rel="noopener nofollow" target="_self"></a><a href="glow-gut-linked-outcomes-in-wellbeing" rel="noopener nofollow" target="_self">GLOW</a></p><a href="glow-gut-linked-outcomes-in-wellbeing" rel="noopener nofollow" target="_self">
-</a></li><a href="glow-gut-linked-outcomes-in-wellbeing" rel="noopener nofollow" target="_self">
-</a><li><a href="glow-gut-linked-outcomes-in-wellbeing" rel="noopener nofollow" target="_self">
-</a><p><a href="glow-gut-linked-outcomes-in-wellbeing" rel="noopener nofollow" target="_self"></a><a href="clinical-implementation-pilot" rel="noopener nofollow" target="_self">CIP</a></p><a href="clinical-implementation-pilot" rel="noopener nofollow" target="_self">
-</a></li><a href="clinical-implementation-pilot" rel="noopener nofollow" target="_self">
-</a><li><a href="clinical-implementation-pilot" rel="noopener nofollow" target="_self">
-</a><p><a href="clinical-implementation-pilot" rel="noopener nofollow" target="_self"></a><a href="long-reading-sequencing" rel="noopener nofollow" target="_self">Long Read Sequencing</a></p><a href="long-reading-sequencing" rel="noopener nofollow" target="_self">
-</a></li><a href="long-reading-sequencing" rel="noopener nofollow" target="_self">
-</a></ul><a href="long-reading-sequencing" rel="noopener nofollow" target="_self">
-<p></p></a>
+<p><a href="phase-iii-sg-insight" rel="noopener nofollow" target="_self">Phase III: SG INSIGHT</a>
+</p>
+</li>
+<li>
+<p><a href="glow-gut-linked-outcomes-in-wellbeing" rel="noopener nofollow" target="_self">GLOW</a>
+</p>
+</li>
+<li>
+<p><a href="clinical-implementation-pilot" rel="noopener nofollow" target="_self">CIP</a>
+</p>
+</li>
+<li>
+<p><a href="long-reading-sequencing" rel="noopener nofollow" target="_self">Long Read Sequencing</a>
+</p>
+</li>
+</ul>
+<p></p>
