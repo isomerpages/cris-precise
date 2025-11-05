@@ -37,13 +37,13 @@ will be subject to additional review by <a href="https://trustplatform.sg/about-
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Access by public researchers in Singapore</u></strong>: PRECISE-SG100K will launch a 2<sup>nd</sup> Call for Proposals in first half of 2026 to provide early access to the PRECISE-SG100K resource of 100,000 participants dataset. This 2<sup>nd</sup> Call for Proposals is open only to Singapore public academic and clinical researchers.</p>
-<p>Please check the <a href="http://www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">PRECISE website</a> and newsletters regularly for updates on the 2<sup>nd</sup> Call for Proposals. Until then, PRECISE-SG100K is not actively accepting new research proposals.</p>
+<p>Please check the <a href="http://www.npm.sg" rel="noopener noreferrer nofollow" target="_self">PRECISE website</a> and newsletters regularly for updates on the 2<sup>nd</sup> Call for Proposals. Until then, PRECISE-SG100K is not actively accepting new research proposals.</p>
 <p></p>
 </li>
 <li>
 <p><strong><u>Requests from strategic national programmes</u></strong>: PRECISE-SG100K recognises that research proposals and data access requests from strategic national programmes will arise periodically. We welcome these requests for review.</p>
 <p></p>
-<p>Please direct enquiries to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+<p>Please direct enquiries to <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
 </li>
 <li>
@@ -54,6 +54,6 @@ reviewed by PRECISE-SG100K on a case-by-case basis, with the expectation
 that the overseas collaborator or industry partner must demonstrate return
 of tangible benefits to Singapore.</p>
 <p></p>
-<p>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank" href="mailto:research@precise.cris.sg">research@precise.cris.sg</a>.</p>
+<p>Please direct enquiries to <a rel="noopener nofollow" target="_blank" href="mailto:research@precise.cris.sg">research@precise.cris.sg</a>.</p>
 </li>
 </ul>
