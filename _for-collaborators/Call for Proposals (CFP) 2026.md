@@ -354,8 +354,7 @@ undergo pre-publication review by TRUST Data Concierge as well.
 </p>
 </li>
 <li>
-<p>PRECISE-SG100K Scientific Committee’s decisions will be final on all matters
-related to Call for Proposals 2026.</p>
+<p>PRECISE-SG100K Scientific Committee’s decisions will be final on all matters related to Call for Proposals 2026.</p>
 </li>
 </ol>
 <h4><strong>Evaluation Criteria</strong></h4>
@@ -570,10 +569,7 @@ related to Call for Proposals 2026.</p>
 </p>
 </li>
 </ul>
-<p><strong>CFP 2026 application form </strong>- will be available for download
-from 2 January 2026. The application form will be similar to the TRUST
-Data Request (TDR) form to ensure subsequent streamlined application to
-TRUST DAC.</p>
+<p><strong>CFP 2026 application form </strong>- will be available for download from 2 January 2026. The application form will be similar to the TRUST Data Request (TDR) form to ensure subsequent streamlined application to TRUST DAC.</p>
 <p><strong>TRUST </strong>(available on the <a href="https://trustplatform.sg/member-login/" rel="noopener nofollow" target="_blank">TRUST Member's Portal</a> after
 registering as a TRUST Member)</p>
 <ul data-tight="true" class="tight">
