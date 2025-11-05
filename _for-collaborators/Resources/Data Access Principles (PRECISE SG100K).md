@@ -65,39 +65,22 @@ and appropriate research projects. This will be done in a manner that safeguards
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The <u>PRECISE Management Team,</u> which includes both the Executive Director
-of PRECISE and the Lead PI of the SG100K study, performs an initial evaluation
-of research proposals and data access requests from: i) strategic national
-programmes and ii) overseas academic collaborations. Where necessary, the
-Management Team consults relevant ecosystem stakeholders before recommending
-proposals for review by the PRECISE-SG100K Scientific Committee and PRECISE-SG100K
-Data Access Committee.</p>
+<p>The <u>PRECISE Management Team,</u> which includes both the Executive Director of PRECISE and the Lead PI of the SG100K study, performs an initial evaluation of research proposals and data access requests from: i) strategic national programmes and ii) overseas academic collaborations. Where necessary, the Management Team consults relevant ecosystem stakeholders before recommending proposals for review by the PRECISE-SG100K Scientific Committee and PRECISE-SG100K Data Access Committee.</p>
 <p></p>
 </li>
 <li>
-<p>The <u>PRECISE-SG100K Scientific Committee</u> reviews and endorses research
-proposals based on strategic and/or scientific merit. The Scientific Committee
-may inform applicants of any competing or overlapping research interest
-with existing approved projects; these may include overlaps with SG100K
-cohort’s research on cardiovascular disease and diabetes.</p>
+<p>The <u>PRECISE-SG100K Scientific Committee</u> reviews and endorses research proposals based on strategic and/or scientific merit. The Scientific Committee may inform applicants of any competing or overlapping research interest with existing approved projects; these may include overlaps with SG100K cohort’s research on cardiovascular disease and diabetes.</p>
 <p></p>
 </li>
 <li>
-<p>The <u>PRECISE-SG100K Data Access Committee (DAC)</u> reviews and approves
-data access requests to the PRECISE-SG100K resource that <u>do not</u> require
-linkage to electronic health records (EHR)* to ensure they are in line
-with the permitted use of the dataset and are intended for public good.</p>
+<p>The <u>PRECISE-SG100K Data Access Committee (DAC)</u> reviews and approves data access requests to the PRECISE-SG100K resource that <u>do not</u> require linkage to electronic health records (EHR)* to ensure they are in line with the permitted use of the dataset and are intended for public good.</p>
 <p></p>
 <p>*<em>Access to linked EHR data on TRUST will require additional approval by the <a href="https://trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a> which assess the projects based on public interest and benefit to Singapore.</em>
 </p>
 <p></p>
 </li>
 <li>
-<p>The <u>PRECISE Business Development Team</u> reviews research proposals
-and data access requests with industry involvement or collaboration, in
-consultation with relevant ecosystem stakeholders if needed, before they
-are submitted for review by the PRECISE-SG100K Scientific Committee and
-PRECISE-SG100K Data Access Committee.</p>
+<p>The <u>PRECISE Business Development Team</u> reviews research proposals and data access requests with industry involvement or collaboration, in consultation with relevant ecosystem stakeholders if needed, before they are submitted for review by the PRECISE-SG100K Scientific Committee and PRECISE-SG100K Data Access Committee.</p>
 <p></p>
 </li>
 <li>
