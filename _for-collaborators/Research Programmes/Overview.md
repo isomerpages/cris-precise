@@ -14,3 +14,26 @@ health outcomes and guide precision healthcare.</p>
 these efforts collectively build the foundation for more precise and preventive
 healthcare for everyone in Singapore.&nbsp;&nbsp;</p>
 <p>Explore the tabs to learn more about each research programme and its contributions.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="phase-i-sg10k-health/" rel="noopener nofollow" target="_blank">Phase I: SG10K_Health</a>
+</p>
+</li>
+<li>
+<p><a href="phase-ii-precise-sg100k" rel="noopener nofollow" target="_blank">Phase II: PRECISE SG100K</a>
+</p>
+</li>
+<li>
+<p>Phase III: SG INSIGHT</p>
+</li>
+<li>
+<p>GLOW</p>
+</li>
+<li>
+<p>CIP</p>
+</li>
+<li>
+<p>Long Read Sequencing</p>
+</li>
+</ul>
+<p></p>
