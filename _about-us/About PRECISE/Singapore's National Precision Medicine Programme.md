@@ -11,6 +11,10 @@ entity coordinating Singapore’s multi-phase National Precision Medicine
 works with research, clinical, and industry partners to generate insights
 into Asian genomics and translate these into better health outcomes and
 economic opportunities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_PRECISE_Singapore_s_Big_Health_Project.jpg">
+</div>
 <p>NPM Phase II sequenced 100,000 Singaporeans and conducted clinical implementation
 studies, linking genomic, lifestyle, and healthcare data to deepen understanding
 of Asian diseases. NPM Phase III, now underway is conducted in partnership
