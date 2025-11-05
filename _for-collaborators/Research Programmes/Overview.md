@@ -48,7 +48,7 @@ healthcare for everyone in Singapore.&nbsp;&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="/long-reading-sequencing/" rel="noopener nofollow" target="_self">Long Read Sequencing</a>
+<p><a href="/long-read-sequencing/" rel="noopener nofollow" target="_self">Long Read Sequencing</a>
 </p>
 </li>
 </ul>
