@@ -503,8 +503,7 @@ undergo pre-publication review by TRUST Data Concierge as well.
 </p>
 <p><em>**Projects that do not submit to TRUST by December 2026 may be ended, to enable others to pursue similar work in CFP 2027.</em>
 </p>
-<p>Please submit completed CFP 2026 application forms to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>&nbsp;by
-14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
+<p>Please submit completed CFP 2026 application forms to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>&nbsp;by 14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
 <h4><strong>Resources</strong></h4>
 <p><strong>Dataset</strong>
 </p>
