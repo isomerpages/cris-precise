@@ -10,8 +10,7 @@ third_nav_title: Resources
 facilitating early data access for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Investigator Initiated Studies</strong>. Funded by an NMRC OF-LCG
-grant that brought together four longitudinal cohorts in Singapore, the
+<p><strong>Investigator Initiated Studies</strong>. Funded by an NMRC OF-LCG grant that brought together four longitudinal cohorts in Singapore, the
 SG100K cohort is an Investigator-Initiated Study focused on determinants
 and prediction of cardiovascular disease and diabetes in Asian populations.
 To fulfil the grant award obligations and deliverables, the researchers
@@ -23,7 +22,7 @@ period of priority to pursue research on these chronic conditions.</p>
 <p><strong>Call for Proposals.</strong> To enable research across a wide range
 of use cases beyond cardiovascular disease and diabetes, early access to
 the intermediate data release of 50,000 participants by Singapore public
-academic and clinical researchers was enabled through an open <a href="https://npm.sg/research/call-for-proposals/" rel="noopener nofollow" target="_blank">Call for Proposals</a> (application
+academic and clinical researchers was enabled through an open <a href="https:/call-for-proposals-2026/" rel="noopener nofollow" target="_blank">Call for Proposals</a> (application
 closed in January 2024). The PRECISE-SG100K Scientific Committee selected
 36 projects, comprising 8 Flagship Projects and 28 Driver Projects.</p>
 <p></p>
