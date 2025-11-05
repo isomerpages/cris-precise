@@ -33,6 +33,7 @@ sections:
       image: /images/Resources/Editorial
         Features/2025/NPM_phase_III_thumbnail_v2_1.png
       alt: Image alt text
+      subtitle: Editorial Feature
   - infopic:
       title: NPM Phase III
       id: infopic
@@ -40,6 +41,7 @@ sections:
       url: /phase-iii-sg-insight/
       image: /images/Homepage/PhaseIII_info.png
       alt: Image alt text
+      subtitle: Research Programme
   - infopic:
       title: GLOW
       id: infopic
@@ -50,6 +52,7 @@ sections:
       image: /images/Research Programmes/Microbiomes and Mental
         Health/IMG_0707_3x2.jpg
       alt: Image alt text
+      subtitle: Research Programme
   - infopic:
       title: Singapore's National Precision Medicine Strategy
       id: infopic
