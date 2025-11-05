@@ -326,15 +326,12 @@ the approved text at <a href="mailto:research@precise.cris.sg" rel="noopener nor
 </li>
 <li>
 <p>All manuscripts <strong>MUST</strong> be shared with and approved by the
-PRECISE-SG100K Scientific Committee prior to journal submission to ensure
-that they respect the principles of co-authorship and appropriate data
-sharing (no large-scale sharing of Summary Statistics).</p>
+PRECISE-SG100K Scientific Committee prior to journal submission to ensure that they respect the principles of co-authorship and appropriate data sharing (no large-scale sharing of Summary Statistics).</p>
 </li>
 <li>
 <p>In addition, any publications arising from the research would need to
 undergo pre-publication review by TRUST Data Concierge as well.
-<br>Please submit the completed pre-publication review form (together with
-your manuscript) via the following link at least 21 days in advance:
+<br>Please submit the completed pre-publication review form (together with your manuscript) via the following link at least 21 days in advance:
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/trust-import-export</a>.</p>
 </li>
 </ol>
@@ -344,9 +341,7 @@ your manuscript) via the following link at least 21 days in advance:
 <p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_blank">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
-<p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee
-is to maximise use of the Resource and to optimise the quality of the science
-carried out.</p>
+<p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee is to maximise use of the Resource and to optimise the quality of the science carried out.</p>
 </li>
 <li>
 <p>PRECISE-SG100K Scientific Committee may make suggestions for ways in which
