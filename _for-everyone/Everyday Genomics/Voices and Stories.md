@@ -47,6 +47,5 @@ community for patients and families.</p>
 it.”</p>
 <hr>
 <h3><strong>How can I share my story?</strong></h3>
-<p>You can email us at <strong><a rel="noopener noreferrer nofollow" target="_blank">contact@precise.cris.sg</a></strong> with
-a short summary of your experience or interest. Our communications team
-will follow up with you to guide the process.</p>
+<p>You can email us at <strong>contact@precise.cris.sg</strong> with
+a short summary of your experience or interest. Our communications team will follow up with you to guide the process.</p>
