@@ -18,7 +18,7 @@ diets, five of them eventually succumbed to heart failure in their 50s
 and 60s. “Only making lifestyle changes was not enough,” she reflects.</p>
 <p>The turning point came last year, when her daughter — still in her twenties
 — went for a routine health screening at work. High cholesterol was detected,
-and she was referred to FHCARE, a clinical <a href="https://www.npm.sg/news-and-events/editorial-features/getting-to-the-heart-of-the-matter/" rel="noopener noreferrer nofollow" target="_blank">research programme</a> supported
+and she was referred to FHCARE, a clinical <a href="https://www.npm.sg/news-and-highlights/editorial-features/getting-to-the-heart-of-the-matter/" rel="noopener noreferrer nofollow" target="_blank">research programme</a> supported
 by PRECISE, at Khoo Teck Puat Hospital (KTPH). Genetic testing confirmed
 her daughter had familial hypercholesterolemia (FH) — a genetic condition
 that affects how the body manages cholesterol.</p>
