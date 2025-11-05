@@ -26,7 +26,7 @@ and Driver Projects approved under CFP 2024 will directly receive access
 to the PRECISE-SG100K baseline data release comprising all 100,000 participants.
 No additional application is required for the approved research scope.
 All existing terms and conditions will continue to apply.</p>
-<h4><strong>Brief Description of PRECISE-SG100K Resource</strong></h4>
+<h3><strong>Brief Description of PRECISE-SG100K Resource</strong></h3>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
 <blockquote>
@@ -191,7 +191,7 @@ case-by-case and subject to additional approval.</p>
 is not permitted.</p>
 </li>
 </ol>
-<h4><strong>Guiding Principles for Proposal</strong></h4>
+<h3><strong>Guiding Principles for Proposal</strong></h3>
 <p><strong>Scope for Proposals</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -266,7 +266,7 @@ and associated compute costs including analyses on the TRUST platform. <strong>N
 may encourage the researchers to converge them into a single proposal.</p>
 </li>
 </ul>
-<h4><strong>Publication Policy</strong></h4>
+<h3><strong>Publication Policy</strong></h3>
 <p>Publications arising from the proposals should include an author list
 that adopts the following principles:</p>
 <ol data-tight="true" class="tight">
@@ -338,7 +338,7 @@ your manuscript) via the following link at least 21 days in advance:
 <a href="https://go.gov.sg/trust-import-export" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/trust-import-export</a>.</p>
 </li>
 </ol>
-<h4><strong>Review Process</strong></h4>
+<h3><strong>Review Process</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/#committee1" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
@@ -366,7 +366,7 @@ will be declined.</p>
 related to Call for Proposals 2026.</p>
 </li>
 </ol>
-<h4><strong>Evaluation Criteria</strong></h4>
+<h3><strong>Evaluation Criteria</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -488,7 +488,7 @@ related to Call for Proposals 2026.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>Timelines</strong></h4>
+<h3><strong>Timelines</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
