@@ -75,19 +75,11 @@ Phase II of Singapore’s National Precision Medicine Programme.</p>
 <p><em>*Please note: Data availability may be phased, with some datasets becoming accessible at later stages.</em>
 </p>
 <p></p>
-<p><sup>[1]</sup> Health for Life in Singapore Study (HELIOS), National Technological
-University (NTU); Singapore Population Health Studies (SPHS), National
-University of Singapore (NUS); Singapore Eye Research Institute (SERI)
-– Singapore Epidemiology of Eye Diseases (SEED); National Heart Centre
-Singapore (NHCS) – SingHeart</p>
+<p><sup>[1]</sup> Health for Life in Singapore Study (HELIOS), National Technological University (NTU); Singapore Population Health Studies (SPHS), National University of Singapore (NUS); Singapore Eye Research Institute (SERI) – Singapore Epidemiology of Eye Diseases (SEED); National Heart Centre Singapore (NHCS) – SingHeart</p>
 <hr>
-<h3><strong>The PRECISE-SG100K Scientific Committee</strong></h3>
-<p>The PRECISE-SG100K Scientific Committee comprises distinguished experts
-from across Singapore's research ecosystem who provide strategic oversight
-and scientific guidance for research utilising the PRECISE-SG100K resource.
-This expert panel plays a pivotal role in promoting scientific excellence
-while maximising the impact and public benefit of precision medicine research
-in Singapore.</p>
+
+<h3 id="committee1"><strong>The PRECISE-SG100K Scientific Committee</strong></h3>
+<p>The PRECISE-SG100K Scientific Committee comprises distinguished experts from across Singapore's research ecosystem who provide strategic oversight and scientific guidance for research utilising the PRECISE-SG100K resource. This expert panel plays a pivotal role in promoting scientific excellence while maximising the impact and public benefit of precision medicine research in Singapore.</p>
 <h4><strong>The Committee's Key Responsibilities Encompass:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -108,9 +100,7 @@ critical knowledge gaps in precision medicine</p>
 <p>Approving key scientific publications to maintain rigorous standards</p>
 </li>
 </ul>
-<p>Working closely with the PRECISE-SG100K Data Access Committee, the Scientific
-Committee serves as a vital resource in evaluating applications for data
-access, ensuring that research proposals demonstrate scientific merit,
+<p>Working closely with the PRECISE-SG100K Data Access Committee, the Scientific Committee serves as a vital resource in evaluating applications for data access, ensuring that research proposals demonstrate scientific merit,
 align with national priorities, and contribute meaningfully to advancing
 precision medicine. Through their expertise and guidance, the Committee
 helps foster a collaborative research environment that positions Singapore
