@@ -191,6 +191,6 @@ for data access policy and operations at <a href="mailto:research@precise.cris.s
 </div>
 <p></p>
 <p>You can download a copy of the PRECISE-SG100K Data Access Principles
-<a href="https://www.npm.sg/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong>
+<a href="/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong>
 </p>
 <p></p></h3>
