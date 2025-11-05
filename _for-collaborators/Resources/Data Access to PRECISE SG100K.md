@@ -5,7 +5,7 @@ variant: markdown
 description: Data Access to PRECISE SG100K
 third_nav_title: Resources
 ---
-<h4><strong>Near-Term</strong></h4>
+<h3><strong>Near-Term</strong></h3>
 <p>As the PRECISE-SG100K resource is being generated and curated, we are
 facilitating early data access for:</p>
 <ul data-tight="true" class="tight">
@@ -27,13 +27,13 @@ academic and clinical researchers was enabled through an open <a href="https:/ca
 <p><strong>Strategic Industry Partnerships</strong>. Coordinated by PRECISE Business Development Team, strategic industry collaborations are being established to strengthen precision medicine research capacity and capability in Singapore.</p>
 </li>
 </ul>
-<h4><strong>Mid-Term</strong></h4>
+<h3><strong>Mid-Term</strong></h3>
 <p>We anticipate that the PRECISE-SG100K dataset will become broadly open to Singapore public academic and clinical researchers directly through
 the TRUST platform from 2027.</p>
 <p>Access by overseas researchers or industry partners will remain contingent on the application being led by a Singapore research team.</p>
 <p>All applications that request use of linked electronic health records
 will be subject to additional review by <a href="https://trustplatform.sg/about-us/governance/" rel="noopener noreferrer nofollow" target="_blank">TRUST DAC</a>.</p>
-<h4><strong>Early Access Mechanisms (2024 – 2026)</strong></h4>
+<h3><strong>Early Access Mechanisms (2024 – 2026)</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Access by public researchers in Singapore</u></strong>: PRECISE-SG100K will launch a 2<sup>nd</sup> Call for Proposals in first half of 2026 to provide early access to the PRECISE-SG100K resource of 100,000 participants dataset. This 2<sup>nd</sup> Call for Proposals is open only to Singapore public academic and clinical researchers.</p>
