@@ -167,7 +167,7 @@ applicants should approach the individual cohorts directly.</p>
 <p>Similarly, access to other SG100K cohort resources, including various
 additional datasets, generation of new phenotypic information and participant
 recontact, is under the purview of the individual SG100K cohorts.</p>
-<p>Please contact <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a> for
+<p>Please contact <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a> for
 more information.</p>
 <p>While PRECISE-SG100K does not currently support linkages to other cohorts
 or datasets, we welcome suggestions for future data linkage opportunities.</p>
