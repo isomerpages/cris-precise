@@ -12,7 +12,7 @@ third_nav_title: Resources
 <p><em>NOTE: These guiding principles will be updated periodically as needed. Please check the website regularly for updates or contact the Secretariat at research@precise.cris.sg</em>
 </p>
 </blockquote>
-<h4><strong>Our Commitment to Responsible Data Sharing</strong></h4>
+<h3><strong>Our Commitment to Responsible Data Sharing</strong></h3>
 <p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
 cohort dataset of ~100,000 Singaporean residents, jointly created by PRECISE,
 SG100K Institutions and GIS.</p>
@@ -21,7 +21,7 @@ strive to maximise public good from the PRECISE-SG100K dataset while respecting
 participant consent and privacy, upholding scientific rigour, aligning
 with national priorities, and fulfilling commitments to funders and existing
 collaborators.</p>
-<h4><strong>About the PRECISE-SG100K Resource</strong></h4>
+<h3><strong>About the PRECISE-SG100K Resource</strong></h3>
 <p>SG100K reached the milestone of recruiting 100,000 participants in Apr
 2025 and whole genome sequencing of these participants was completed in
 Jun 2025. All data components are currently undergoing extensive quality
@@ -68,7 +68,7 @@ under Phase II of Singapore’s National Precision Medicine Programme.</p>
 includes routinely collected clinical data and other health-related information.
 This integrated research dataset is accessible only through the TRUST platform
 with additional approval of the TRUST Data Access Committee.</p>
-<h4><strong>Principles Governing Access to PRECISE-SG100K Resource</strong></h4>
+<h3><strong>Principles Governing Access to PRECISE-SG100K Resource</strong></h3>
 <p>The guiding principles for accessing the PRECISE-SG100K resource is anchored
 on Singapore’s Research, Innovation, Enterprise master plan. Our overarching
 goal is to advance precision medicine and related health research and innovation
@@ -81,7 +81,7 @@ and appropriate research projects. This will be done in a manner that safeguards
 participant privacy, benefits Singapore, while upholding our ethical obligations,
 requirements of data guardians, and our commitments to funders and existing
 academic and industry collaborators.&nbsp;</p>
-<h4><strong>Data Access Governance</strong></h4>
+<h3><strong>Data Access Governance</strong></h3>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -129,7 +129,7 @@ and collaboration enquiries. Please contact <a href="mailto:research@precise.cri
 </p>
 </li>
 </ul>
-<h4><strong>Matters Pertaining to Publication Policy and Intellectual Property</strong></h4>
+<h3><strong>Matters Pertaining to Publication Policy and Intellectual Property</strong></h3>
 <p>All publications arising from the current early access route must be reviewed
 by the PRECISE-SG100K Data Access Committee and PRECISE-SG100K Scientific
 Committee prior to submission to confirm that the data use and publication
@@ -143,7 +143,7 @@ Property Rights (IPRs) developed by researchers using the PRECISE-SG100K
 resource, unless the team and/or its members had made inventive contribution
 to the development of the IPs. Any resulting IPRs must not unreasonably
 restrict access to the dataset for academic research and healthcare purposes.</p>
-<h4><strong>Exclusions</strong></h4>
+<h3><strong>Exclusions</strong></h3>
 <p>Biological samples collected from SG100K are under the custodianship of
 the respective population cohorts. Access to biological samples require
 approval from the individual population cohorts. Given that samples are
@@ -176,7 +176,7 @@ or datasets, we welcome suggestions for future data linkage opportunities.</p>
 various (new) funding sources. These data will be made accessible to the
 broader research community after fulfilling exclusivity (priority) periods
 or access requirements jointly established by the funders and PRECISE-SG100K.</p>
-<h4><strong>Disclaimer</strong></h4>
+<h3><strong>Disclaimer</strong></h3>
 <p>PRECISE-SG100K recognises that it is impossible for these guiding principles
 to cover all scenarios and reserves the right to update them from-time-to-time.</p>
 <p>These guiding principles are not intended to be cover all details related
