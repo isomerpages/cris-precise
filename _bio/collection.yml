@@ -2,11 +2,6 @@ collections:
   bio:
     output: true
     order:
-      - PPI Advisory Panel/.keep
-      - PPI Advisory Panel/Ms Ai Ling Sim Devadas.md
-      - PPI Advisory Panel/Ms Cheung Siew Li.md
-      - PPI Advisory Panel/Ms Fiona Pearce.md
-      - PPI Advisory Panel/Mr Rajakanth R.md
       - Board Oversight Committee/.keep
       - Board Oversight Committee/Mr Peter Ho.md
       - Board Oversight Committee/Prof Ivy Ng.md
@@ -21,3 +16,8 @@ collections:
       - Management Team/Clinical Associate Professor Tan Ee Shien.md
       - Management Team/Assistant Professor Max Lam.md
       - Management Team/Dr Seow Shih Wee.md
+      - PPI Advisory Panel/.keep
+      - PPI Advisory Panel/Ms Ai Ling Sim Devadas.md
+      - PPI Advisory Panel/Ms Cheung Siew Li.md
+      - PPI Advisory Panel/Ms Fiona Pearce.md
+      - PPI Advisory Panel/Mr Rajakanth R.md
