@@ -91,13 +91,10 @@ medications, behavioural risk factors, mental health , and socio-economic status
 <p>Functional Annotations: Predicted consequences of variants on genes and transcripts (e.g., VEP), with integrated clinical pathogenicity scores for missense variants.</p>
 </li>
 <li>
-<p>Sample Metadata: Genetic ancestry assignment, sequencing quality metrics,
-and relatedness.</p>
+<p>Sample Metadata: Genetic ancestry assignment, sequencing quality metrics, and relatedness.</p>
 </li>
 <li>
-<p>File Formats: Hail Variant Dataset (VDS) and PLINK 2.0 (including a QC-filtered
-PLINK2 set). Additional formats (e.g., VCF, BGEN) subject to governance
-and demand.</p>
+<p>File Formats: Hail Variant Dataset (VDS) and PLINK 2.0 (including a QC-filtered PLINK2 set). Additional formats (e.g., VCF, BGEN) subject to governance and demand.</p>
 </li>
 </ul>
 <hr>
