@@ -205,13 +205,10 @@ is not permitted.</p>
 <p>Data use must align with participants' broad consent, which covers research purposes, record linkage, molecular phenotyping, and health-related studies. All data use must also comply with Institutional Review Board approval.</p>
 </li>
 <li>
-<p>External dataset linkages are not currently supported. All approved projects
-will receive access to the standard linked PRECISE-SG100K Resource.</p>
+<p>External dataset linkages are not currently supported. All approved projects will receive access to the standard linked PRECISE-SG100K Resource.</p>
 </li>
 <li>
-<p>Proposals that seek to generate bulk analysis of the data (e.g. GWAS across
-a large number of traits) without clear scientific focus are&nbsp;unlikely&nbsp;to
-be supported.</p>
+<p>Proposals that seek to generate bulk analysis of the data (e.g. GWAS across a large number of traits) without clear scientific focus are&nbsp;unlikely&nbsp;to be supported.</p>
 </li>
 <li>
 <p>Submitted proposals should <strong>not overlap</strong> with<strong> existing </strong>approved
@@ -233,13 +230,11 @@ senior researchers who will help lead the research described. Maximum two
 Co-Lead PIs.</p>
 </li>
 <li>
-<p><strong>Co-Investigators (Co-Is)</strong>&nbsp;– other researchers involved
-in completion of the research.</p>
+<p><strong>Co-Investigators (Co-Is)</strong>&nbsp;– other researchers involved in completion of the research.</p>
 </li>
 </ol>
 <p>One researcher will generally be limited to being Lead-PI for no more
-than 1 proposal. In addition, Lead-PIs are required to hold a primary appointment
-in a local publicly funded institution throughout the duration of the project.&nbsp;</p>
+than 1 proposal. In addition, Lead-PIs are required to hold a primary appointment in a local publicly funded institution throughout the duration of the project.&nbsp;</p>
 <p><strong>Other Requirements</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -252,16 +247,14 @@ the applications.</p>
 within 2 years.</p>
 </li>
 <li>
-<p>Approved projects should provide yearly progress reports to the <a href="/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_blank">PRECISE-SG100K Scientific Committee</a>.</p>
+<p>Approved projects should provide yearly progress reports to the <a href="/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
-<p>Applicants should ensure sufficient funding for their research activities
-and associated compute costs including analyses on the TRUST platform. <strong>No funding will be provided through this Call.</strong>
+<p>Applicants should ensure sufficient funding for their research activities and associated compute costs including analyses on the TRUST platform. <strong>No funding will be provided through this Call.</strong>
 </p>
 </li>
 <li>
-<p>Where submitted proposals overlap, the PRECISE-SG100K Scientific Committee
-may encourage the researchers to converge them into a single proposal.</p>
+<p>Where submitted proposals overlap, the PRECISE-SG100K Scientific Committee may encourage the researchers to converge them into a single proposal.</p>
 </li>
 </ul>
 <h4><strong>Publication Policy</strong></h4>
@@ -269,8 +262,7 @@ may encourage the researchers to converge them into a single proposal.</p>
 that adopts the following principles:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Project team should lead the author list. We highly encourage the following
-practices:</p>
+<p>Project team should lead the author list. We highly encourage the following practices:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>“Junior colleagues at the front, Seniors at the back”</p>
@@ -281,8 +273,7 @@ practices:</p>
 </ul>
 </li>
 <li>
-<p>The authorship list should also include collaborators and members who
-have helped to create and guide the development of the PRECISE-SG100K Resource.
+<p>The authorship list should also include collaborators and members who have helped to create and guide the development of the PRECISE-SG100K Resource.
 This includes:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -314,17 +305,13 @@ This includes:</p>
 </ul>
 </li>
 <li>
-<p>PRECISE-SG100K Banner: A banner authorship MUST be used to capture other
-PRECISE-SG100K researchers not included in the primary author list.</p>
+<p>PRECISE-SG100K Banner: A banner authorship MUST be used to capture other PRECISE-SG100K researchers not included in the primary author list.</p>
 </li>
 <li>
-<p>Acknowledgements: The manuscript MUST include an approved PRECISE-SG100K
-acknowledgement text. Please check with PRECISE Programme Managers for
-the approved text at <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+<p>Acknowledgements: The manuscript<strong> MUST </strong>include an approved PRECISE-SG100K acknowledgement text. Please check with PRECISE Programme Managers for the approved text at <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 </li>
 <li>
-<p>All manuscripts <strong>MUST</strong> be shared with and approved by the
-PRECISE-SG100K Scientific Committee prior to journal submission to ensure that they respect the principles of co-authorship and appropriate data sharing (no large-scale sharing of Summary Statistics).</p>
+<p>All manuscripts <strong>MUST</strong> be shared with and approved by the PRECISE-SG100K Scientific Committee prior to journal submission to ensure that they respect the principles of co-authorship and appropriate data sharing (no large-scale sharing of Summary Statistics).</p>
 </li>
 <li>
 <p>In addition, any publications arising from the research would need to
@@ -336,7 +323,7 @@ undergo pre-publication review by TRUST Data Concierge as well.
 <h4><strong>Review Process</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_blank">PRECISE-SG100K Scientific Committee</a>.</p>
+<p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
 <p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee is to maximise use of the Resource and to optimise the quality of the science carried out.</p>
