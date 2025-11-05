@@ -38,8 +38,9 @@ Unlike earlier phases with healthy volunteers, this phase includes patients
 in hospitals. Studying patients allows researchers to see how genes affect
 real diseases, test new approaches in clinical care, and make findings
 more useful for preventive care and everyday healthcare in Singapore.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/Q4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_PRECISE_Singapore_s_Big_Health_Project.jpg">
 </div>
 <h4><strong>5. How can I participate?</strong></h4>
 <p>Enrolment for NPM Phase III has not started yet. You can register your
