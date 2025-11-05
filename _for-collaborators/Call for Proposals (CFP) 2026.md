@@ -202,9 +202,7 @@ is not permitted.</p>
 <p>Research objectives should be focused, ambitious yet achievable.</p>
 </li>
 <li>
-<p>Data use must align with participants' broad consent, which covers research
-purposes, record linkage, molecular phenotyping, and health-related studies.
-All data use must also comply with Institutional Review Board approval.</p>
+<p>Data use must align with participants' broad consent, which covers research purposes, record linkage, molecular phenotyping, and health-related studies. All data use must also comply with Institutional Review Board approval.</p>
 </li>
 <li>
 <p>External dataset linkages are not currently supported. All approved projects
