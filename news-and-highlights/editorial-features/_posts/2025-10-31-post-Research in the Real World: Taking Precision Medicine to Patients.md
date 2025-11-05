@@ -96,7 +96,7 @@ data means more accurate diagnoses and treatments, not only for Singaporeans
 but for populations across Asia and the world.</p>
 <p>“What excites me is Singapore’s ability to show the world how to do this
 responsibly at scale-building the standards, policies, and trust that make
-genomics part of everyday care,” says me Sue Hill Professor, Chief Scientific
+genomics part of everyday care,” says Dame Sue Hill Professor, Chief Scientific
 Officer of the National Health Service (NHS) England. “The big bet now
 is on creating an integrated system that combines patient genomic data
 with relevant clinical and diagnostic data in near real time, allowing
