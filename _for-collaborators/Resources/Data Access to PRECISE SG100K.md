@@ -54,6 +54,6 @@ reviewed by PRECISE-SG100K on a case-by-case basis, with the expectation
 that the overseas collaborator or industry partner must demonstrate return
 of tangible benefits to Singapore.</p>
 <p></p>
-<p>Please direct enquiries to <a rel="noopener nofollow" target="_blank" href="mailto:research@precise.cris.sg">research@precise.cris.sg</a>.</p>
+<p>Please direct enquiries to <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 </li>
 </ul>
