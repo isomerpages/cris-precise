@@ -133,7 +133,7 @@ to data access. For questions or more information, please email the Secretariat 
 <p></p>
 
 <h3 id="map1"><strong>PRECISE-SG100K Data Access Governance Process</strong>
-	<p></p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Collaborate/Data_Access_Governance_Flowchart.png">
 </div>
