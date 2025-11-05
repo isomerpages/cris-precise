@@ -14,19 +14,14 @@ third_nav_title: Resources
 </blockquote>
 <h4><strong>Our Commitment to Responsible Data Sharing</strong></h4>
 <p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
-cohort dataset of ~100,000 Singaporean residents, jointly created by PRECISE,
-SG100K Institutions and GIS.</p>
+cohort dataset of ~100,000 Singaporean residents, jointly created by PRECISE, SG100K Institutions and GIS.</p>
 <p>As joint stewards of this national resource, PRECISE and the SG100K PIs
-strive to maximise public good from the PRECISE-SG100K dataset while respecting
-participant consent and privacy, upholding scientific rigour, aligning
-with national priorities, and fulfilling commitments to funders and existing
-collaborators.</p>
+strive to maximise public good from the PRECISE-SG100K dataset while respecting participant consent and privacy, upholding scientific rigour, aligning with national priorities, and fulfilling commitments to funders and existing collaborators.</p>
 <h4><strong>About the PRECISE-SG100K Resource</strong></h4>
 <p>SG100K reached the milestone of recruiting 100,000 participants in Apr
 2025 and whole genome sequencing of these participants was completed in
 Jun 2025. All data components are currently undergoing extensive quality
-checks and curation, both prior to <em>and</em> following linkage to electronic
-health records on the TRUST platform.</p>
+checks and curation, both prior to <em>and</em> following linkage to electronic health records on the TRUST platform.</p>
 <p>The first release of the integrated dataset for 100,000 participants is
 projected to be released in the first half of 2026.</p>
 <p>The PRECISE-SG100K integrated dataset includes:</p>
@@ -137,11 +132,7 @@ involving use of TRUST data will also require pre-publication review by
 TRUST.</p>
 <p>Researchers shall follow the authorship and acknowledgement instructions
 listed in the Data Access Agreement.</p>
-<p>PRECISE-SG100K will not claim rights to inventions and associated Intellectual
-Property Rights (IPRs) developed by researchers using the PRECISE-SG100K
-resource, unless the team and/or its members had made inventive contribution
-to the development of the IPs. Any resulting IPRs must not unreasonably
-restrict access to the dataset for academic research and healthcare purposes.</p>
+<p>PRECISE-SG100K will not claim rights to inventions and associated Intellectual Property Rights (IPRs) developed by researchers using the PRECISE-SG100K resource, unless the team and/or its members had made inventive contribution to the development of the IPs. Any resulting IPRs must not unreasonably restrict access to the dataset for academic research and healthcare purposes.</p>
 <h4><strong>Exclusions</strong></h4>
 <p>Biological samples collected from SG100K are under the custodianship of
 the respective population cohorts. Access to biological samples require
@@ -149,8 +140,7 @@ approval from the individual population cohorts. Given that samples are
 a finite resource, SG100K prioritises:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Assays conducted on all participants or a large subset of randomly selected
-participants.</p>
+<p>Assays conducted on all participants or a large subset of randomly selected participants.</p>
 </li>
 <li>
 <p>Validated assay methodologies with minimal depletion and maximal output.</p>
@@ -179,8 +169,7 @@ or access requirements jointly established by the funders and PRECISE-SG100K.</p
 <p>PRECISE-SG100K recognises that it is impossible for these guiding principles
 to cover all scenarios and reserves the right to update them from-time-to-time.</p>
 <p>These guiding principles are not intended to be cover all details related
-to data access. For questions or more information, please email the Secretariat
-for data access policy and operations at <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+to data access. For questions or more information, please email the Secretariat for data access policy and operations at <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
 <h3><strong>PRECISE-SG100K Data Access Governance Process</strong></h3>
 <div class="isomer-image-wrapper">
