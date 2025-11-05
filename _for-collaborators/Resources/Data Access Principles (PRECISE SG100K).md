@@ -187,6 +187,7 @@ for data access policy and operations at <a rel="noopener noreferrer nofollow" t
 <img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Collaborate/Data_Access_Governance_Flowchart.png">
 </div>
 <p></p>
-<p>You can download a copy of the PRECISE-SG100K Data Access Principles here. <strong><br></strong>
+<p>You can download a copy of the PRECISE-SG100K Data Access Principles
+<a href="https://www.npm.sg/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong>
 </p>
 <p></p>
