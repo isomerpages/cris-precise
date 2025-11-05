@@ -82,6 +82,7 @@ participant privacy, benefits Singapore, while upholding our ethical obligations
 requirements of data guardians, and our commitments to funders and existing
 academic and industry collaborators.&nbsp;</p>
 <h4><strong>Data Access Governance</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The <u>PRECISE Management Team,</u> which includes both the Executive Director
