@@ -344,13 +344,10 @@ undergo pre-publication review by TRUST Data Concierge as well.
 <p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee is to maximise use of the Resource and to optimise the quality of the science carried out.</p>
 </li>
 <li>
-<p>PRECISE-SG100K Scientific Committee may make suggestions for ways in which
-the research could be strengthened or may ask groups to work together if
-their proposals are overlapping.</p>
+<p>PRECISE-SG100K Scientific Committee may make suggestions for ways in which the research could be strengthened or may ask groups to work together if their proposals are overlapping.</p>
 </li>
 <li>
-<p>Projects that are out of scope (e.g. do not align with participant consents)
-will be declined.</p>
+<p>Projects that are out of scope (e.g. do not align with participant consents) will be declined.</p>
 </li>
 <li>
 <p><strong>All approved projects that require individual-level data will need to additionally apply for data access to TRUST DAC.</strong>
