@@ -40,6 +40,7 @@ by tools to analyse data on a large scale and with DNA sequencing becoming
 more affordable, precision medicine can improve healthcare by giving doctors
 a more detailed understanding of each patient.</p>
 <h3><strong>Positive Outcomes of Precision Medicine</strong></h3>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
