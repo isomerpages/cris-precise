@@ -43,7 +43,7 @@ will be subject to additional review by <a href="https://trustplatform.sg/about-
 <li>
 <p><strong><u>Requests from strategic national programmes</u></strong>: PRECISE-SG100K recognises that research proposals and data access requests from strategic national programmes will arise periodically. We welcome these requests for review.</p>
 <p></p>
-<p>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+<p>Please direct enquiries to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
 </li>
 <li>
@@ -54,6 +54,6 @@ reviewed by PRECISE-SG100K on a case-by-case basis, with the expectation
 that the overseas collaborator or industry partner must demonstrate return
 of tangible benefits to Singapore.</p>
 <p></p>
-<p>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+<p>Please direct enquiries to <a rel="noopener noreferrer nofollow" target="_blank" href="mailto:research@precise.cris.sg">research@precise.cris.sg</a>.</p>
 </li>
 </ul>
