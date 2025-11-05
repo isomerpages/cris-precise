@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Research Programmes
 ---
-<h3><strong>Overview</strong></h3>
 <p>The National Precision Medicine (NPM) Programme supports a range of research
 studies that advance our understanding of health and disease in Singapore.</p>
 <p>Each programme contributes to a growing national resource that connects
