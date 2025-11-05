@@ -104,7 +104,7 @@ PRECISE-SG100K Data Access Committee.</p>
 <p>The <u>PRECISE Chief Scientific Officer’s Office</u> (CSOO) serves as Secretariat for data access, and is the initial primary point of contact for data availability and collaboration enquiries. Please contact <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.&nbsp;</p>
 <p></p>
 	
-<p><em>Please see illustration for PRECISE-SG100K Data Access Governance process below.</em>
+<p><em>Please see illustration for PRECISE-SG100K Data Access Governance process<a href="#map1"> below.</a></em>
 </p>
 </li>
 </ul>
@@ -148,7 +148,8 @@ or access requirements jointly established by the funders and PRECISE-SG100K.</p
 <p>These guiding principles are not intended to be cover all details related
 to data access. For questions or more information, please email the Secretariat for data access policy and operations at <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
-<h3><strong>PRECISE-SG100K Data Access Governance Process</strong></h3>
+
+<h3 id="map1"><strong>PRECISE-SG100K Data Access Governance Process</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Collaborate/Data_Access_Governance_Flowchart.png">
 </div>
@@ -156,4 +157,4 @@ to data access. For questions or more information, please email the Secretariat 
 <p>You can download a copy of the PRECISE-SG100K Data Access Principles
 <a href="https://www.npm.sg/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong>
 </p>
-<p></p>
+<p></p></h3>
