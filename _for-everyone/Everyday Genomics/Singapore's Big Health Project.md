@@ -132,7 +132,7 @@ reducing side-effects</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Precision Medicine Efforts Around The World</strong></h3>
+<h3><strong>Precision Medicine Efforts Around the World</strong></h3>
 <p>To help harness the benefits of precision medicine for their people, governments
 around the world have initiated national genomics programmes.</p>
 <div class="isomer-image-wrapper">
