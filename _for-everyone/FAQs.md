@@ -82,5 +82,4 @@ treatment. In other cases, it can help people opt for earlier screening
 tests and other prevention steps if they are at risk for a particular disease.</p>
 <p>Currently, precision medicine approaches such as genetic testing are being
 used to diagnose some inherited cancers, inherited high cholesterol and
-rare diseases. NPM is doing research to expand the types of medical conditions
-that can benefit from precision medicine approaches.</p>
+rare diseases. NPM is doing research to expand the types of medical conditions that can benefit from precision medicine approaches.</p>
