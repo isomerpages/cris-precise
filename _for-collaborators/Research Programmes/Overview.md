@@ -56,9 +56,5 @@ healthcare for everyone in Singapore.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
-</ul>
 <p></p>
