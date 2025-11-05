@@ -273,7 +273,7 @@ This includes:</p>
 <p>PRECISE-SG100K Banner: A banner authorship MUST be used to capture other PRECISE-SG100K researchers not included in the primary author list.</p>
 </li>
 <li>
-<p>Acknowledgements: The manuscript<strong> MUST </strong>include an approved PRECISE-SG100K acknowledgement text. Please check with PRECISE Programme Managers for the approved text at <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+<p>Acknowledgements: The manuscript<strong> MUST </strong>include an approved PRECISE-SG100K acknowledgement text. Please check with PRECISE Programme Managers for the approved text at <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 </li>
 <li>
 <p>All manuscripts <strong>MUST</strong> be shared with and approved by the PRECISE-SG100K Scientific Committee prior to journal submission to ensure that they respect the principles of co-authorship and appropriate data sharing (no large-scale sharing of Summary Statistics).</p>
@@ -288,7 +288,7 @@ undergo pre-publication review by TRUST Data Concierge as well.
 <h4><strong>Review Process</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
+<p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/#committee1" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
 <p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee is to maximise use of the Resource and to optimise the quality of the science carried out.</p>
