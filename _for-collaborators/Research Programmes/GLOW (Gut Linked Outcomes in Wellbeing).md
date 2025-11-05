@@ -21,21 +21,13 @@ the links between Asian gut microbiomes and mental health. This initiative
 comes at a time where the prevalence of poor mental health is increasing,
 making it a priority for Singapore.&nbsp;</p>
 <p></p>
-<p>Building on the National Precision Medicine (NPM) programme's PRECISE-SG100K
-cohort, the study will recruit over 6,000 participants, including individuals
-living with mental health conditions. Researchers will collect biological
-samples (stool, skin, blood) and conduct psychological assessments to gather
-data on participant mental health status, use multi-omics technologies
-to identify characteristics of the microbial communities inhabiting in
-participants, making this one of the largest Asian mental health-microbiome
-cohorts.&nbsp;&nbsp;</p>
+<p>Building on the National Precision Medicine (NPM) programme's PRECISE-SG100K cohort, the study will recruit over 6,000 participants, including individuals living with mental health conditions. Researchers will collect biological samples (stool, skin, blood) and conduct psychological assessments to gather data on participant mental health status, use multi-omics technologies to identify characteristics of the microbial communities inhabiting in participants, making this one of the largest Asian mental health-microbiome cohorts.&nbsp;&nbsp;</p>
 <p></p>
 <p>The goal is to uncover how interactions between host DNA (genetics) and
 gut microbes shape mood, cognition, and mental well-being, identify microbial
 signatures and biomarkers, and ultimately inform the development of more
 precise and locally relevant interventions. In the future, these findings
-could inform potentially leading to more targeted care, new dietary interventions
-or microbial therapies. &nbsp;</p>
+could inform potentially leading to more targeted care, new dietary interventions or microbial therapies. &nbsp;</p>
 <p></p>
 <p>Click <a href="/mental-health-s-new-frontier-the-microbiome-within/" rel="noopener nofollow" target="_self">here</a> for
 more details about the initiative.</p>
