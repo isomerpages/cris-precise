@@ -116,20 +116,15 @@ PRECISE-SG100K Data Access Committee.</p>
 <p></p>
 </li>
 <li>
-<p>The <u>PRECISE Chief Scientific Officer’s Office</u> (CSOO) serves as Secretariat
-for data access, and is the initial primary point of contact for data availability
-and collaboration enquiries. Please contact <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.&nbsp;</p>
+<p>The <u>PRECISE Chief Scientific Officer’s Office</u> (CSOO) serves as Secretariat for data access, and is the initial primary point of contact for data availability and collaboration enquiries. Please contact <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.&nbsp;</p>
 <p></p>
+	
 <p><em>Please see illustration for PRECISE-SG100K Data Access Governance process below.</em>
 </p>
 </li>
 </ul>
 <h4><strong>Matters Pertaining to Publication Policy and Intellectual Property</strong></h4>
-<p>All publications arising from the current early access route must be reviewed
-by the PRECISE-SG100K Data Access Committee and PRECISE-SG100K Scientific
-Committee prior to submission to confirm that the data use and publication
-objectives are within the scope of the approved data request. Projects
-involving use of TRUST data will also require pre-publication review by
+<p>All publications arising from the current early access route must be reviewed by the PRECISE-SG100K Data Access Committee and PRECISE-SG100K Scientific Committee prior to submission to confirm that the data use and publication objectives are within the scope of the approved data request. Projects involving use of TRUST data will also require pre-publication review by
 TRUST.</p>
 <p>Researchers shall follow the authorship and acknowledgement instructions
 listed in the Data Access Agreement.</p>
