@@ -5,7 +5,7 @@ variant: markdown
 description: Data Access to PRECISE SG100K
 third_nav_title: Resources
 ---
-<h4><strong><u>Near-term</u></strong></h4>
+<h4><strong>Near-Term</strong></h4>
 <p>As the PRECISE-SG100K resource is being generated and curated, we are
 facilitating early data access for:</p>
 <ul data-tight="true" class="tight">
@@ -35,7 +35,7 @@ established to strengthen precision medicine research capacity and capability
 in Singapore.</p>
 </li>
 </ul>
-<h4><strong><u>Mid-term</u></strong></h4>
+<h4><strong>Mid-Term</strong></h4>
 <p>We anticipate that the PRECISE-SG100K dataset will become broadly open
 to Singapore public academic and clinical researchers directly through
 the TRUST platform from 2027.</p>
