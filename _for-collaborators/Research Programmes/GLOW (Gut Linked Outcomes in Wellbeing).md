@@ -10,14 +10,10 @@ image: /images/Research/Microbiomes and Mental
 <h3><strong>Microbiomes and Mental Health</strong>&nbsp;</h3>
 <p>The gut microbiome plays a powerful role not just in physical health,
 but in brain function and mental well-being. Growing evidence shows a deep
-connection between the gut and brain through complex biochemical and neural
-pathways, yet little is known about how diet and lifestyles influence mental
-health, mood and behaviour. &nbsp;</p>
+connection between the gut and brain through complex biochemical and neural pathways, yet little is known about how diet and lifestyles influence mental health, mood and behaviour. &nbsp;</p>
 <p></p>
 <p>In October 2025, a research initiative including Precision Health Research,
-Singapore (PRECISE); Duke-NUS Medical School; the Agency for Science, Technology
-and Research (A*STAR) Genome Institute of Singapore (A*STAR GIS); NHG Health’s
-Institute of Mental Health (IMH), NHG Polyclinics and Tan Tock Seng Hospital
+Singapore (PRECISE); Duke-NUS Medical School; the Agency for Science, Technology and Research (A*STAR) Genome Institute of Singapore (A*STAR GIS); NHG Health’s Institute of Mental Health (IMH), NHG Polyclinics and Tan Tock Seng Hospital
 (TTSH); Lee Kong Chian School of Medicine (LKCMedicine) at Nanyang Technological
 University, Singapore; the National University of Singapore (NUS) was launched.
 The multi-institutional effort is focused on a landmark study exploring
