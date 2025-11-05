@@ -13,14 +13,9 @@ third_nav_title: Resources
 </p>
 </blockquote>
 <h4><strong>Our Commitment to Responsible Data Sharing</strong></h4>
-<p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
-cohort dataset of ~100,000 Singaporean residents, jointly created by PRECISE,
-SG100K Institutions and GIS.</p>
+<p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population cohort dataset of ~100,000 Singaporean residents, jointly created by PRECISE, SG100K Institutions and GIS.</p>
 <p>As joint stewards of this national resource, PRECISE and the SG100K PIs
-strive to maximise public good from the PRECISE-SG100K dataset while respecting
-participant consent and privacy, upholding scientific rigour, aligning
-with national priorities, and fulfilling commitments to funders and existing
-collaborators.</p>
+strive to maximise public good from the PRECISE-SG100K dataset while respecting participant consent and privacy, upholding scientific rigour, aligning with national priorities, and fulfilling commitments to funders and existing collaborators.</p>
 <h4><strong>About the PRECISE-SG100K Resource</strong></h4>
 <p>SG100K reached the milestone of recruiting 100,000 participants in Apr
 2025 and whole genome sequencing of these participants was completed in
