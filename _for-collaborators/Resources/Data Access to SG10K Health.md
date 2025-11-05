@@ -21,7 +21,6 @@ organisation.</p>
 <p>Interested applicants are highly recommended to read through the data
 access policies and data access forms via the the <a href="https://npm.a-star.edu.sg/help/" rel="noopener noreferrer nofollow" target="_blank"><u>SG10K_Health portal.</u></a>
 </p>
-<p>For more information on the list of approved studies, please visit this website;
-<a href="https://npm.a-star.edu.sg/help/" rel="noopener noreferrer nofollow" target="_blank"><u>https://npm.a-star.edu.sg/help</u>
-</a>
+<p>For more information on the list of approved studies, please visit this
+website; <a href="https://npm.a-star.edu.sg/help/" rel="noopener noreferrer nofollow" target="_blank"><u>https://npm.a-star.edu.sg/help</u></a>
 </p>
