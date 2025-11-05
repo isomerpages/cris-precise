@@ -25,6 +25,3 @@ access policies and data access forms via the the <a href="https://npm.a-star.ed
 <a href="https://npm.a-star.edu.sg/help/" rel="noopener noreferrer nofollow" target="_blank"><u>https://npm.a-star.edu.sg/help</u>
 </a>
 </p>
-<p></p>
-<p><a href="https://staging-lite.dkn41r7o4voxp.amplifyapp.com/overview/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
