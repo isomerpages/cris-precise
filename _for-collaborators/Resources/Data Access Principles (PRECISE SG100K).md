@@ -20,15 +20,13 @@ strive to maximise public good from the PRECISE-SG100K dataset while respecting 
 <p>SG100K reached the milestone of recruiting 100,000 participants in Apr
 2025 and whole genome sequencing of these participants was completed in
 Jun 2025. All data components are currently undergoing extensive quality
-checks and curation, both prior to <em>and</em> following linkage to electronic
-health records on the TRUST platform.</p>
+checks and curation, both prior to <em>and</em> following linkage to electronic health records on the TRUST platform.</p>
 <p>The first release of the integrated dataset for 100,000 participants is
 projected to be released in the first half of 2026.</p>
 <p>The PRECISE-SG100K integrated dataset includes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Research phenotype data</strong> from four longitudinal population
-health cohorts (“SG100K Institutions”) supported by the SG100K OF-LCG award:</p>
+<p><strong>Research phenotype data</strong> from four longitudinal population health cohorts (“SG100K Institutions”) supported by the SG100K OF-LCG award:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://healthforlife.sg/" rel="noopener noreferrer nofollow" target="_blank">Health for Life in Singapore (HELIOS), NTU</a>&nbsp;</p>
@@ -49,9 +47,7 @@ health cohorts (“SG100K Institutions”) supported by the SG100K OF-LCG award:
 <p></p>
 </li>
 <li>
-<p><strong>Whole genome sequencing</strong> (short read 30X coverage sequencing)
-generated in partnership with the Genome Institute of Singapore (GIS, A*STAR)
-under Phase II of Singapore’s National Precision Medicine Programme.</p>
+<p><strong>Whole genome sequencing</strong> (short read 30X coverage sequencing) generated in partnership with the Genome Institute of Singapore (GIS, A*STAR) under Phase II of Singapore’s National Precision Medicine Programme.</p>
 <p></p>
 </li>
 </ul>
