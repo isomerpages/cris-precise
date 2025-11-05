@@ -8,9 +8,7 @@ third_nav_title: Everyday Genomics
 <h3><strong>Patient Story: Living with Familial Hypercholesterolemia</strong></h3>
 <p><strong><em>“All these years we just thought it was high cholesterol. We never imagined it was something genetic.”</em></strong>
 </p>
-<p>For more than three decades, <em>Patient A</em> (a healthcare professional) lived by the book when it came to health. No alcohol. No smoking. A diet
-carefully balanced to be low in cholesterol. To anyone looking in, she
-appeared to be doing everything right to protect her health.</p>
+<p>For more than three decades, <em>Patient A</em> (a healthcare professional) lived by the book when it came to health. No alcohol. No smoking. A diet carefully balanced to be low in cholesterol. To anyone looking in, she appeared to be doing everything right to protect her health.</p>
 <p>Her family history told a different story. Her mother, uncles and aunt
 had all been diagnosed with high cholesterol in their 40s. Despite strict
 diets, five of them eventually succumbed to heart failure in their 50s
