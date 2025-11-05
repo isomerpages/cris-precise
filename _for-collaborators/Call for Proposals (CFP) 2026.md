@@ -7,13 +7,25 @@ description: Call for Proposals 2026 (CFP 2026)
 <p><strong>(Anticipated Call Launch: 2 January 2026. Check this page for updates)</strong>
 </p>
 <h3><strong>Introduction</strong></h3>
-<p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population cohort dataset comprising ~100,000 Singaporean men and women. The resource provides an opportunity to advance precision medicine and related health research, in Singapore, Asia and the world.&nbsp;</p>
+<p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
+cohort dataset comprising ~100,000 Singaporean men and women. The resource
+provides an opportunity to advance precision medicine and related health
+research, in Singapore, Asia and the world.&nbsp;</p>
 <p>As part of our first open Call for Proposals in 2024 (CFP 2024), early
-access to the intermediate data release of 50,000 participants was enabled for Singapore public academic and clinical researchers. The PRECISE-SG100K Scientific Committee selected 37 projects, comprising 9 Flagship Projects and 28 Driver Projects (Details on the projects are available <a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>).</p>
+access to the intermediate data release of 50,000 participants was enabled
+for Singapore public academic and clinical researchers. The PRECISE-SG100K
+Scientific Committee selected 37 projects, comprising 9 Flagship Projects
+and 28 Driver Projects (Details on the projects are available <a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>).</p>
 <p>Building on the success of CFP 2024, and in anticipation of releasing
 baseline data for all ~100,000 participants, PRECISE-SG100K is planning
-a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite researchers in Singapore to submit proposals that make use of the unique PRECISE-SG100K dataset to advance scientific knowledge and clinical translation.</p>
-<p><strong>Important Update for Existing Projects</strong>: Current Flagship and Driver Projects approved under CFP 2024 will directly receive access to the PRECISE-SG100K baseline data release comprising all 100,000 participants. No additional application is required for the approved research scope. All existing terms and conditions will continue to apply.</p>
+a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite
+researchers in Singapore to submit proposals that make use of the unique
+PRECISE-SG100K dataset to advance scientific knowledge and clinical translation.</p>
+<p><strong>Important Update for Existing Projects</strong>: Current Flagship
+and Driver Projects approved under CFP 2024 will directly receive access
+to the PRECISE-SG100K baseline data release comprising all 100,000 participants.
+No additional application is required for the approved research scope.
+All existing terms and conditions will continue to apply.</p>
 <h4><strong>Brief Description of PRECISE-SG100K Resource</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
@@ -26,10 +38,12 @@ Resource linked to Clinical Data. The linked Resource includes:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Detailed health and lifestyle information, including medical histroy,
-medications, behavioural risk factors, mental health , and socio-economic status</p>
+medications, behavioural risk factors, mental health , and socio-economic
+status</p>
 </li>
 <li>
-<p>Singapore-specific food frequency data, enabling detailed analysis of dietary patterns and nutrient intake</p>
+<p>Singapore-specific food frequency data, enabling detailed analysis of
+dietary patterns and nutrient intake</p>
 </li>
 <li>
 <p>Cognitive function assessments using validated memory and thinking tests</p>
@@ -85,16 +99,23 @@ medications, behavioural risk factors, mental health , and socio-economic status
 <p>Whole Genome Sequences: 30X short-read WGS data generated for 100K participants.</p>
 </li>
 <li>
-<p>Variant Catalogue: Genome-wide dataset of single nucleotide variants (SNVs), insertions/deletions (indels), and other variant types, harmonised into bi-allelic representation.</p>
+<p>Variant Catalogue: Genome-wide dataset of single nucleotide variants (SNVs),
+insertions/deletions (indels), and other variant types, harmonised into
+bi-allelic representation.</p>
 </li>
 <li>
-<p>Functional Annotations: Predicted consequences of variants on genes and transcripts (e.g., VEP), with integrated clinical pathogenicity scores for missense variants.</p>
+<p>Functional Annotations: Predicted consequences of variants on genes and
+transcripts (e.g., VEP), with integrated clinical pathogenicity scores
+for missense variants.</p>
 </li>
 <li>
-<p>Sample Metadata: Genetic ancestry assignment, sequencing quality metrics, and relatedness.</p>
+<p>Sample Metadata: Genetic ancestry assignment, sequencing quality metrics,
+and relatedness.</p>
 </li>
 <li>
-<p>File Formats: Hail Variant Dataset (VDS) and PLINK 2.0 (including a QC-filtered PLINK2 set). Additional formats (e.g., VCF, BGEN) subject to governance and demand.</p>
+<p>File Formats: Hail Variant Dataset (VDS) and PLINK 2.0 (including a QC-filtered
+PLINK2 set). Additional formats (e.g., VCF, BGEN) subject to governance
+and demand.</p>
 </li>
 </ul>
 <hr>
@@ -144,20 +165,30 @@ medications, behavioural risk factors, mental health , and socio-economic status
 <hr>
 <p><em>TRUST (“Trusted Research and Real world-data Utilisation and Sharing Tech” Platform) is a national health-related data governance framework and analytics platform that catalyses health data research and innovation to improve health. It supports public-private partnerships and enables anonymised health-related research and real-world data to be brought together, accessed and used in an expeditious and secure manner.</em>
 </p>
-<p>The linked PRECISE-SG100K Resource will be accessible on the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">TRUST platform</a>. All data will be pseudonymised. This means that conventional personal identifiers such as date of birth, NRIC, and residential address are removed. This is to preserve the privacy and prevent re-identification of the study participants.</p>
+<p>The linked PRECISE-SG100K Resource will be accessible on the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">TRUST platform</a>.
+All data will be pseudonymised. This means that conventional personal identifiers
+such as date of birth, NRIC, and residential address are removed. This
+is to preserve the privacy and prevent re-identification of the study participants.</p>
 <p><strong>PRECISE-SG100K Summary Statistics</strong>
 </p>
-<p>Summary Statistics will be made available to Lead-PIs of approved projects from PRECISE-SG100K affiliate institutions (PRECISE, Nanyang Technological University, National University of Singapore, SingHealth Institutions and A*STAR) through a controlled request process, in line with the existing data exclusivity arrangement. Summary Statistics will be available under these terms and conditions:</p>
+<p>Summary Statistics will be made available to Lead-PIs of approved projects
+from PRECISE-SG100K affiliate institutions (PRECISE, Nanyang Technological
+University, National University of Singapore, SingHealth Institutions and
+A*STAR) through a controlled request process, in line with the existing
+data exclusivity arrangement. Summary Statistics will be available under
+these terms and conditions:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Each PI may request up to 20 specific traits with scientific justification, and requested traits must align with their approved research scope.</p>
+<p>Each PI may request up to 20 specific traits with scientific justification,
+and requested traits must align with their approved research scope.</p>
 </li>
 <li>
 <p>Additional trait requests beyond the 20-trait limit will be considered
 case-by-case and subject to additional approval.</p>
 </li>
 <li>
-<p>Sharing of Summary Statistics with third parties and industry involvement is not permitted.</p>
+<p>Sharing of Summary Statistics with third parties and industry involvement
+is not permitted.</p>
 </li>
 </ol>
 <h4><strong>Guiding Principles for Proposal</strong></h4>
@@ -171,13 +202,18 @@ case-by-case and subject to additional approval.</p>
 <p>Research objectives should be focused, ambitious yet achievable.</p>
 </li>
 <li>
-<p>Data use must align with participants' broad consent, which covers research purposes, record linkage, molecular phenotyping, and health-related studies. All data use must also comply with Institutional Review Board approval.</p>
+<p>Data use must align with participants' broad consent, which covers research
+purposes, record linkage, molecular phenotyping, and health-related studies.
+All data use must also comply with Institutional Review Board approval.</p>
 </li>
 <li>
-<p>External dataset linkages are not currently supported. All approved projects will receive access to the standard linked PRECISE-SG100K Resource.</p>
+<p>External dataset linkages are not currently supported. All approved projects
+will receive access to the standard linked PRECISE-SG100K Resource.</p>
 </li>
 <li>
-<p>Proposals that seek to generate bulk analysis of the data (e.g. GWAS across a large number of traits) without clear scientific focus are&nbsp;unlikely&nbsp;to be supported.</p>
+<p>Proposals that seek to generate bulk analysis of the data (e.g. GWAS across
+a large number of traits) without clear scientific focus are&nbsp;unlikely&nbsp;to
+be supported.</p>
 </li>
 <li>
 <p>Submitted proposals should <strong>not overlap</strong> with<strong> existing </strong>approved
@@ -189,22 +225,29 @@ case-by-case and subject to additional approval.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Lead Principal Investigator (Lead-PI)</strong>&nbsp;– a senior researcher who takes overall responsibility for ensuring the research is completed as described in the proposal.</p>
+<p><strong>Lead Principal Investigator (Lead-PI)</strong>&nbsp;– a senior
+researcher who takes overall responsibility for ensuring the research is
+completed as described in the proposal.</p>
 </li>
 <li>
-<p><strong>Co-Lead Principal Investigators (Co-Lead PIs)</strong>&nbsp;– senior researchers who will help lead the research described. Maximum two Co-Lead PIs.</p>
+<p><strong>Co-Lead Principal Investigators (Co-Lead PIs)</strong>&nbsp;–
+senior researchers who will help lead the research described. Maximum two
+Co-Lead PIs.</p>
 </li>
 <li>
-<p><strong>Co-Investigators (Co-Is)</strong>&nbsp;– other researchers involved in completion of the research.</p>
+<p><strong>Co-Investigators (Co-Is)</strong>&nbsp;– other researchers involved
+in completion of the research.</p>
 </li>
 </ol>
 <p>One researcher will generally be limited to being Lead-PI for no more
-than 1 proposal. In addition, Lead-PIs are required to hold a primary appointment in a local publicly funded institution throughout the duration of the project.&nbsp;</p>
+than 1 proposal. In addition, Lead-PIs are required to hold a primary appointment
+in a local publicly funded institution throughout the duration of the project.&nbsp;</p>
 <p><strong>Other Requirements</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>There should be <strong>no</strong>  <strong>direct or indirect industry partnerships </strong>in the applications.</p>
+<p>There should be <strong>no</strong>  <strong>direct or indirect industry partnerships </strong>in
+the applications.</p>
 </li>
 <li>
 <p>Proposals should aim to deliver at least 1 major scientific publication
@@ -212,14 +255,15 @@ within 2 years.</p>
 </li>
 <li>
 <p>Approved projects should provide yearly progress reports to the <a href="/phase-ii-precise-sg100k/#committee1" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
-
 </li>
 <li>
-<p>Applicants should ensure sufficient funding for their research activities and associated compute costs including analyses on the TRUST platform. <strong>No funding will be provided through this Call.</strong>
+<p>Applicants should ensure sufficient funding for their research activities
+and associated compute costs including analyses on the TRUST platform. <strong>No funding will be provided through this Call.</strong>
 </p>
 </li>
 <li>
-<p>Where submitted proposals overlap, the PRECISE-SG100K Scientific Committee may encourage the researchers to converge them into a single proposal.</p>
+<p>Where submitted proposals overlap, the PRECISE-SG100K Scientific Committee
+may encourage the researchers to converge them into a single proposal.</p>
 </li>
 </ul>
 <h4><strong>Publication Policy</strong></h4>
@@ -227,7 +271,8 @@ within 2 years.</p>
 that adopts the following principles:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Project team should lead the author list. We highly encourage the following practices:</p>
+<p>Project team should lead the author list. We highly encourage the following
+practices:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>“Junior colleagues at the front, Seniors at the back”</p>
@@ -238,7 +283,8 @@ that adopts the following principles:</p>
 </ul>
 </li>
 <li>
-<p>The authorship list should also include collaborators and members who have helped to create and guide the development of the PRECISE-SG100K Resource.
+<p>The authorship list should also include collaborators and members who
+have helped to create and guide the development of the PRECISE-SG100K Resource.
 This includes:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -270,19 +316,26 @@ This includes:</p>
 </ul>
 </li>
 <li>
-<p>PRECISE-SG100K Banner: A banner authorship MUST be used to capture other PRECISE-SG100K researchers not included in the primary author list.</p>
+<p>PRECISE-SG100K Banner: A banner authorship MUST be used to capture other
+PRECISE-SG100K researchers not included in the primary author list.</p>
 </li>
 <li>
-<p>Acknowledgements: The manuscript<strong> MUST </strong>include an approved PRECISE-SG100K acknowledgement text. Please check with PRECISE Programme Managers for the approved text at <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.</p>
+<p>Acknowledgements: The manuscript<strong> MUST </strong>include an approved
+PRECISE-SG100K acknowledgement text. Please check with PRECISE Programme
+Managers for the approved text at <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 </li>
 <li>
-<p>All manuscripts <strong>MUST</strong> be shared with and approved by the PRECISE-SG100K Scientific Committee prior to journal submission to ensure that they respect the principles of co-authorship and appropriate data sharing (no large-scale sharing of Summary Statistics).</p>
+<p>All manuscripts <strong>MUST</strong> be shared with and approved by the
+PRECISE-SG100K Scientific Committee prior to journal submission to ensure
+that they respect the principles of co-authorship and appropriate data
+sharing (no large-scale sharing of Summary Statistics).</p>
 </li>
 <li>
 <p>In addition, any publications arising from the research would need to
 undergo pre-publication review by TRUST Data Concierge as well.
-<br>Please submit the completed pre-publication review form (together with your manuscript) via the following link at least 21 days in advance:
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/trust-import-export</a>.</p>
+<br>Please submit the completed pre-publication review form (together with
+your manuscript) via the following link at least 21 days in advance:
+<a href="https://go.gov.sg/trust-import-export" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/trust-import-export</a>.</p>
 </li>
 </ol>
 <h4><strong>Review Process</strong></h4>
@@ -291,20 +344,26 @@ undergo pre-publication review by TRUST Data Concierge as well.
 <p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/#committee1" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
-<p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee is to maximise use of the Resource and to optimise the quality of the science carried out.</p>
+<p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee
+is to maximise use of the Resource and to optimise the quality of the science
+carried out.</p>
 </li>
 <li>
-<p>PRECISE-SG100K Scientific Committee may make suggestions for ways in which the research could be strengthened or may ask groups to work together if their proposals are overlapping.</p>
+<p>PRECISE-SG100K Scientific Committee may make suggestions for ways in which
+the research could be strengthened or may ask groups to work together if
+their proposals are overlapping.</p>
 </li>
 <li>
-<p>Projects that are out of scope (e.g. do not align with participant consents) will be declined.</p>
+<p>Projects that are out of scope (e.g. do not align with participant consents)
+will be declined.</p>
 </li>
 <li>
 <p><strong>All approved projects that require individual-level data will need to additionally apply for data access to TRUST DAC.</strong>
 </p>
 </li>
 <li>
-<p>PRECISE-SG100K Scientific Committee’s decisions will be final on all matters related to Call for Proposals 2026.</p>
+<p>PRECISE-SG100K Scientific Committee’s decisions will be final on all matters
+related to Call for Proposals 2026.</p>
 </li>
 </ol>
 <h4><strong>Evaluation Criteria</strong></h4>
@@ -504,7 +563,8 @@ undergo pre-publication review by TRUST Data Concierge as well.
 </p>
 <p><em>**Projects that do not submit to TRUST by December 2026 may be ended, to enable others to pursue similar work in CFP 2027.</em>
 </p>
-<p>Please submit completed CFP 2026 application forms to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>&nbsp;by 14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
+<p>Please submit completed CFP 2026 application forms to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>&nbsp;by
+14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
 <h4><strong>Resources</strong></h4>
 <p><strong>Dataset</strong>
 </p>
@@ -518,7 +578,10 @@ undergo pre-publication review by TRUST Data Concierge as well.
 </p>
 </li>
 </ul>
-<p><strong>CFP 2026 application form </strong>- will be available for download from 2 January 2026. The application form will be similar to the TRUST Data Request (TDR) form to ensure subsequent streamlined application to TRUST DAC.</p>
+<p><strong>CFP 2026 application form </strong>- will be available for download
+from 2 January 2026. The application form will be similar to the TRUST
+Data Request (TDR) form to ensure subsequent streamlined application to
+TRUST DAC.</p>
 <p><strong>TRUST </strong>(available on the <a href="https://trustplatform.sg/member-login/" rel="noopener nofollow" target="_blank">TRUST Member's Portal</a> after
 registering as a TRUST Member)</p>
 <ul data-tight="true" class="tight">
