@@ -12,11 +12,8 @@ description: Call for Proposals 2026 (CFP 2026)
 access to the intermediate data release of 50,000 participants was enabled for Singapore public academic and clinical researchers. The PRECISE-SG100K Scientific Committee selected 37 projects, comprising 9 Flagship Projects and 28 Driver Projects (Details on the projects are available <a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>).</p>
 <p>Building on the success of CFP 2024, and in anticipation of releasing
 baseline data for all ~100,000 participants, PRECISE-SG100K is planning
-a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite researchers in Singapore to submit proposals that make use of the unique
-PRECISE-SG100K dataset to advance scientific knowledge and clinical translation.</p>
-<p><strong>Important Update for Existing Projects</strong>: Current Flagship and Driver Projects approved under CFP 2024 will directly receive access to the PRECISE-SG100K baseline data release comprising all 100,000 participants.
-No additional application is required for the approved research scope.
-All existing terms and conditions will continue to apply.</p>
+a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite researchers in Singapore to submit proposals that make use of the unique PRECISE-SG100K dataset to advance scientific knowledge and clinical translation.</p>
+<p><strong>Important Update for Existing Projects</strong>: Current Flagship and Driver Projects approved under CFP 2024 will directly receive access to the PRECISE-SG100K baseline data release comprising all 100,000 participants. No additional application is required for the approved research scope. All existing terms and conditions will continue to apply.</p>
 <h4><strong>Brief Description of PRECISE-SG100K Resource</strong></h4>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
@@ -29,12 +26,10 @@ Resource linked to Clinical Data. The linked Resource includes:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Detailed health and lifestyle information, including medical histroy,
-medications, behavioural risk factors, mental health , and socio-economic
-status</p>
+medications, behavioural risk factors, mental health , and socio-economic status</p>
 </li>
 <li>
-<p>Singapore-specific food frequency data, enabling detailed analysis of
-dietary patterns and nutrient intake</p>
+<p>Singapore-specific food frequency data, enabling detailed analysis of dietary patterns and nutrient intake</p>
 </li>
 <li>
 <p>Cognitive function assessments using validated memory and thinking tests</p>
@@ -90,14 +85,10 @@ dietary patterns and nutrient intake</p>
 <p>Whole Genome Sequences: 30X short-read WGS data generated for 100K participants.</p>
 </li>
 <li>
-<p>Variant Catalogue: Genome-wide dataset of single nucleotide variants (SNVs),
-insertions/deletions (indels), and other variant types, harmonised into
-bi-allelic representation.</p>
+<p>Variant Catalogue: Genome-wide dataset of single nucleotide variants (SNVs), insertions/deletions (indels), and other variant types, harmonised into bi-allelic representation.</p>
 </li>
 <li>
-<p>Functional Annotations: Predicted consequences of variants on genes and
-transcripts (e.g., VEP), with integrated clinical pathogenicity scores
-for missense variants.</p>
+<p>Functional Annotations: Predicted consequences of variants on genes and transcripts (e.g., VEP), with integrated clinical pathogenicity scores for missense variants.</p>
 </li>
 <li>
 <p>Sample Metadata: Genetic ancestry assignment, sequencing quality metrics,
