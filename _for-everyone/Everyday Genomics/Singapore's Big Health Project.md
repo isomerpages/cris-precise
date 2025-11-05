@@ -95,7 +95,8 @@ reducing side-effects</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NEW TREATMENT</strong>
+<p><strong>NEW </strong>
+<br><strong>TREATMENT</strong>
 </p>
 <p>Understanding the basis of disease will inform the development of&nbsp;<strong>new drugs and therapies</strong>
 </p>
