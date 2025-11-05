@@ -41,6 +41,9 @@ more affordable, precision medicine can improve healthcare by giving doctors
 a more detailed understanding of each patient.</p>
 <h3><strong>Positive Outcomes of Precision Medicine</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/FAQ_Q2.png">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -51,40 +54,80 @@ a more detailed understanding of each patient.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-1-image.jpg">
 </div>
-<p><strong>ACCURATE PREDICTION</strong>
-</p>
-<p>Reliable&nbsp;biomarkers&nbsp;help doctors pre-empt possible health conditions
-and act before it is too late</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-2-image.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-3-image.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-4-image.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ACCURATE PREDICTION</strong>Reliable&nbsp;biomarkers&nbsp;help
+doctors pre-empt possible health conditions and act before it is too late</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>FASTER DIAGNOSES</strong>
 </p>
 <p>De-mystify the causes of rare diseases and accelerate the search for potential
 treatments</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-3-image.jpg">
-</div>
 <p><strong>OPTIMISED TREATMENTS</strong>
 </p>
 <p>Patients receive the right drug at the right time,&nbsp;<strong>improving efficacy</strong>&nbsp;and
 reducing side-effects</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Everyday Genomics/po-4-image.jpg">
-</div>
 <p><strong>NEW TREATMENT</strong>
 </p>
 <p>Understanding the basis of disease will inform the development of&nbsp;<strong>new drugs and therapies</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
