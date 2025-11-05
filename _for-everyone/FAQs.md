@@ -5,22 +5,12 @@ description: ""
 variant: markdown
 ---
 <h4><strong>1. What is the National Precise Medicine (NPM) Programme?</strong></h4>
-<p>The NPM Programme is a national research effort in Singapore. It studies
-how our genes (DNA), lifestyle, and environment affect health. This knowledge
-can help doctors move from "one-size-fits-all" care to more precise healthcare
-including preventive care, earlier screening, and closer monitoring for
-those at higher risk of developing for those at higher risk of developing
-genetic conditions. The goal is to keep people healthier for longer, not
-just treat disease after it develops.</p>
+<p>The NPM Programme is a national research effort in Singapore. It studies how our genes (DNA), lifestyle, and environment affect health. This knowledge can help doctors move from "one-size-fits-all" care to more precise healthcare including preventive care, earlier screening, and closer monitoring for those at higher risk of developing for those at higher risk of developing genetic conditions. The goal is to keep people healthier for longer, not just treat disease after it develops.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/patients_1.gif">
 </div>
 <h4><strong>2. What does "Precision Medicine" mean?</strong></h4>
-<p>Precision medicine is about using science and data to improve health for
-both individuals and populations. By studying genetic, lifestyle, and environmental
-factors across large groups of people and understanding the differences,
-doctors and researchers can design better ways to prevent disease, detect
-conditions earlier, and guide treatments more effectively. In this way,
+<p>Precision medicine is about using science and data to improve health for both individuals and populations. By studying genetic, lifestyle, and environmental factors across large groups of people and understanding the differences, doctors and researchers can design better ways to prevent disease, detect conditions earlier, and guide treatments more effectively. In this way,
 precision medicine strengthens public health while also supporting more
 tailored and more targeted healthcare when needed.</p>
 <p></p>
@@ -28,16 +18,10 @@ tailored and more targeted healthcare when needed.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/About PRECISE/FAQ_Q2.png">
 </div>
 <h4><strong>3. Why is Singapore doing this?</strong></h4>
-<p>Every population is different. Most genetic research has been done on
-Western populations. Singapore’s diverse Asian population gives us a chance
-to discover important insights that are directly relevant to our communities,
-and to improve healthcare here at home.</p>
+<p>Every population is different. Most genetic research has been done on Western populations. Singapore’s diverse Asian population gives us a chance to discover important insights that are directly relevant to our communities, and to improve healthcare here at home.</p>
 <h4><strong>4. What is Phase III of NPM about?</strong></h4>
 <p>Phase III is the biggest stage yet, involving up to 450,000 residents.
-Unlike earlier phases with healthy volunteers, this phase includes patients
-in hospitals. Studying patients allows researchers to see how genes affect
-real diseases, test new approaches in clinical care, and make findings
-more useful for preventive care and everyday healthcare in Singapore.</p>
+Unlike earlier phases with healthy volunteers, this phase includes patients in hospitals. Studying patients allows researchers to see how genes affect real diseases, test new approaches in clinical care, and make findings more useful for preventive care and everyday healthcare in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About_PRECISE_Singapore_s_Big_Health_Project.jpg">
