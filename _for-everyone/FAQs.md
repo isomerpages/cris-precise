@@ -28,7 +28,7 @@ Unlike earlier phases with healthy volunteers, this phase includes patients in h
 <p>Enrolment for NPM Phase III has not started yet. You can register your
 interest by emailing contact@precise.cris.sg. When enrolment begins, and
 if you meet the participation criteria, our hospital partners will contact
-you. Please check <strong><a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">PRECISE</a></strong> website for
+you. Please check <strong><a href="npm.sg" rel="noopener noreferrer nofollow" target="_self">PRECISE</a></strong> website for
 the latest updates.</p>
 <h3><strong>6. What will participants be asked to do?</strong></h3>
 <p>Singaporean residents participating in NPM Phase III will be invited to
