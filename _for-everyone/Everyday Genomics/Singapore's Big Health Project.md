@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Everyday Genomics
 ---
-<h3><strong>What is Precision Medicine and Why it Matters</strong></h3>
+<h3><strong>What is Precision Medicine and Why It Matters</strong></h3>
 <h4><strong>What is DNA?</strong></h4>
 <p>DNA is the instruction book of life. Six billion ‘letters’ long, this
 book is largely the same between individuals as all humans share 99.9%
@@ -14,7 +14,7 @@ and can sometimes even make the difference between health and disease.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/dna zoom.gif">
 </div>
-<h3><strong>Medicine as it is Practised Today</strong></h3>
+<h3><strong>Medicine as It is Practised Today</strong></h3>
 <p>Although doctors know that your DNA can influence how you respond to treatments,
 they don’t routinely sequence your entire DNA book to predict your treatment
 outcome.</p>
@@ -76,22 +76,22 @@ a more detailed understanding of each patient.</p>
 <td rowspan="1" colspan="1">
 <p><strong>ACCURATE PREDICTION</strong>
 </p>
-<p>Reliable biomarkers help doctors pre-empt possible health conditions and
-act before it is too late</p>
+<p>Reliable biomarkers help doctors pre-empt possible health conditions and <strong>act before it is too late</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FASTER DIAGNOSES</strong>
 </p>
-<p>De-mystify the causes of rare diseases and accelerate the search for potential
-treatments</p>
+<p>De-mystify the causes of rare diseases and <strong>accelerate the search for potential treatments</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>OPTIMISED TREATMENTS</strong>
 </p>
-<p>Patients receive the right drug at the right time,&nbsp;<strong>improving efficacy</strong>&nbsp;and
-reducing side-effects</p>
+<p>Patients receive the right drug at the right time,&nbsp;<strong>improving efficacy</strong>&nbsp;and <strong>reducing side-effects</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,9 +122,9 @@ under-represented in these databases.</p>
 <p>With its multi-ethnic population that captures the diversity of Asia's
 genomes and strong research capabilities, Singapore is in an ideal position
 to address our lack of understanding of Asian-specific genetic conditions.
-Precision Health Research, Singapore (PRECISE) is the central entity coordinating
-a whole of government effort to implement phase II of Singapore's 10-year
-National Precision Medicine strategy.</p>
+Precision Health Research, Singapore (PRECISE) is the national central
+entity coordinating a whole of government effort to implement Singapore's
+multi-phase National Precision Medicine strategy.</p>
 <h3><strong>How will My Data be Used?</strong></h3>
 <p>To realise the potential of precision medicine, genetic data needs to
 be linked to lifestyle and health information. Scientists can then use
@@ -138,9 +138,10 @@ people that participate, the more accurate the predictions can be.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/genetic-data-1161px.jpg">
 </div>
 <h3><strong>Public Engagement Efforts</strong></h3>
-<p>Our work will not succeed without a Here are some activities we have conducted
-over the years to get your input on what precision medicine can do for
-Singapore and how we should go about doing it:</p>
+<p>Our work will not succeed without active participation from members of
+the public. Here are some activities we have conducted over the years to
+get your input on what precision medicine can do for Singapore and how
+we should go about doing it:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Everyday Genomics/public-engagement-efforts_1.gif">
 </div>
