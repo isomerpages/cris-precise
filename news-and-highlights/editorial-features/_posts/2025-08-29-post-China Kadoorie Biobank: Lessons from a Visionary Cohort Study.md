@@ -45,7 +45,7 @@ since. <a href="https://www.imperial.ac.uk/events/190531/harnessing-the-power-of
 a random subset of surviving participants were assessed repeatedly every
 four to five years thereafter to yield new data and research insights.&nbsp;</p>
 <p></p>
-<h4><strong>Building a Future-ready Resource</strong>&nbsp;</h4>
+<h3><strong>Building a Future-ready Resource</strong>&nbsp;</h3>
 <p>In the early years, CKB focused on data and biosample collection and storage.
 Prof Chen said, “We didn’t test the samples—because with the level of technology
 available then, there were only very limited number of biomarkers we could
@@ -69,7 +69,7 @@ over 3.5 million episodes of hospitalisation for over 6,000 disease types
 by the end of 2024, enabling research into almost all common and less common
 diseases of adults.&nbsp;&nbsp;</p>
 <p></p>
-<h4><strong>Challenging Prevailing Assumptions</strong>&nbsp;</h4>
+<h3><strong>Challenging Prevailing Assumptions</strong>&nbsp;</h3>
 <p>In tandem with the advancement of sequencing technologies, whole genome
 sequencing for the entire CKB cohort commenced at BGI, Shenzhen, in April
 2024, and was completed by March 2025. This will help to address the critical
@@ -104,7 +104,7 @@ health issues in populations around the world, “The study provided important
 causal evidence of the scale of alcohol-related harms, leading to changes
 in guidelines in many countries,” added Prof Chen.<a href="https://www.straitstimes.com/world/a-reason-to-stay-teetotal-study-finds-even-low-amounts-of-alcohol-may-raise-risk-of-60-diseases" rel="noopener nofollow" target="_blank"><sup>[5]</sup></a>&nbsp;</p>
 <p></p>
-<h4><strong>Leveraging Technology to New Possibilities</strong>&nbsp;</h4>
+<h3><strong>Leveraging Technology to New Possibilities</strong>&nbsp;</h3>
 <p>Besides facilitating the accessibility of genomic sequencing, recent technological
 developments have introduced exciting new possibilities for CKB research,
 such as proteomics. The technology enables the measurement of thousands
