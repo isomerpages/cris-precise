@@ -10,12 +10,11 @@ third_nav_title: Research Programmes
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research Programmes/sg10khealth.jpg">
 </div>
 <p></p>
-<h4><strong>SG10K_Health</strong></h4>
+<h3><strong>SG10K_Health</strong></h3>
 <p>Various web services have been established to query the SG10K_Health datasets,
 including allele frequencies, protein-drug interactions, imputation and
 polygenic risk scores.&nbsp;The web services can be accessed through the
-SG10K_Health web portal at:&nbsp;<a href="https://npm.a-star.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://npm.a-star.edu.sg</u></a>
-</p>
+<a href="https://npm.a-star.edu.sg" rel="noopener nofollow" target="_blank">SG10K_Health web portal</a>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CHORUS Variant Browser</p>
