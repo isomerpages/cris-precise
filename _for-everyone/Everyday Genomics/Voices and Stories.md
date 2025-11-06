@@ -6,16 +6,24 @@ description: ""
 third_nav_title: Everyday Genomics
 ---
 <h3><strong>Patient Story: Living with Familial Hypercholesterolemia</strong></h3>
+<blockquote>
 <p><strong><em>“All these years we just thought it was high cholesterol. We never imagined it was something genetic.”</em></strong>
 </p>
-<p>For more than three decades, <em>Patient A</em> (a healthcare professional) lived by the book when it came to health. No alcohol. No smoking. A diet carefully balanced to be low in cholesterol. To anyone looking in, she appeared to be doing everything right to protect her health.</p>
+</blockquote>
+<p>For more than three decades, <em>Patient A</em> (a healthcare professional)
+lived by the book when it came to health. No alcohol. No smoking. A diet
+carefully balanced to be low in cholesterol. To anyone looking in, she
+appeared to be doing everything right to protect her health.</p>
 <p>Her family history told a different story. Her mother, uncles and aunt
 had all been diagnosed with high cholesterol in their 40s. Despite strict
 diets, five of them eventually succumbed to heart failure in their 50s
 and 60s. “Only making lifestyle changes was not enough,” she reflects.</p>
 <p>The turning point came last year, when her daughter — still in her twenties
 — went for a routine health screening at work. High cholesterol was detected,
-and she was referred to FHCARE, a clinical <a href="/getting-to-the-heart-of-the-matter/" rel="noopener noreferrer nofollow" target="_self">research programme</a> supported by PRECISE, at Khoo Teck Puat Hospital (KTPH). Genetic testing confirmed her daughter had familial hypercholesterolemia (FH) — a genetic condition that affects how the body manages cholesterol.</p>
+and she was referred to FHCARE, a clinical <a href="/getting-to-the-heart-of-the-matter/" rel="noopener noreferrer nofollow" target="_self">research programme</a> supported
+by PRECISE, at Khoo Teck Puat Hospital (KTPH). Genetic testing confirmed
+her daughter had familial hypercholesterolemia (FH) — a genetic condition
+that affects how the body manages cholesterol.</p>
 <p>“At first, I was stunned,” <em>Patient A</em> recalls. “All these years
 we just thought it was high cholesterol. We never imagined it was something
 genetic.”</p>
