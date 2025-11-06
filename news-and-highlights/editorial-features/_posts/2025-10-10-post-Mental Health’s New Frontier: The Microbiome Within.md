@@ -144,5 +144,5 @@ solutions,” Chambers adds.&nbsp;&nbsp;</p>
 <hr>
 <p><em>Next feature coming soon - stay tuned for the next GLOW release!&nbsp;</em>
 </p>
-<p>Back to <a href="/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_blank">GLOW</a>
+<p>Back to <a href="/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_self">GLOW</a>
 </p>
