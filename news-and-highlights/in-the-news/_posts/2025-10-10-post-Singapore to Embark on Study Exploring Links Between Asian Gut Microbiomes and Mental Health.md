@@ -96,7 +96,7 @@ through its interactions with the nervous and immune systems. In addition,
 it plays a key role in regulating immunity and metabolism. We are only
 beginning to uncover its potential in the context of mental health.”</p>
 <hr>
-<h4><strong>ABOUT “GLOW”</strong></h4>
+<h3><strong>ABOUT “GLOW”</strong></h3>
 <p><strong>Gut Linked Outcomes in Wellbeing (GLOW)</strong>
 </p>
 <p>This study builds on the Singapore National Precision Medicine (NPM) programme’s
@@ -128,7 +128,7 @@ biomarkers and novel therapeutic targets. In doing so, the study will contribute
 to the development of more effective, accessible, and contextually relevant
 approaches to mental health care in Singapore and the region.</p>
 <p></p>
-<h4><strong>ABOUT THE GLOW STUDY TEAM</strong></h4>
+<h3><strong>ABOUT THE GLOW STUDY TEAM</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -249,7 +249,7 @@ GIS)</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>GLOSSARY</strong></h4>
+<h3><strong>GLOSSARY</strong></h3>
 <p><strong>Biomarker: </strong>A measurable biological signal (such as a
 molecule, gene, or metabolite) that can indicate a normal or disease process,
 or a response to treatment.</p>
@@ -294,7 +294,7 @@ who are enrolled in a research study and followed over time to understand
 health outcomes and contributing factors. E.g. GLOW targets to have a study
 cohort of 6,000 participants.</p>
 <hr>
-<h4><strong>About Precision Health Research, Singapore (PRECISE)</strong></h4>
+<h3><strong>About Precision Health Research, Singapore (PRECISE)</strong></h3>
 <p>PRECISE coordinates Singapore's National Precision Medicine Phase II programme,
 a multi-institutional collaboration including A*STAR, Lee Kong Chian School
 of Medicine, NHG Health, National University Health System, National University
@@ -310,9 +310,8 @@ by the National Research Foundation, Singapore (NRF) under the RIE2020
 White Space (MOH-000588 and MOH-001264) and administered by the Singapore
 Ministry of Health through the National Medical Research Council (NMRC)
 Office, MOH Holdings Pte Ltd.</p>
-<p>For more information, pls visit <a href="https://www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg</a>
-</p>
-<h4><strong>About PRECISE-SG100K</strong></h4>
+<p>For more information, pls visit <a href="https://www.npm.sg" rel="noopener nofollow" target="_blank">PRECISE</a> website.</p>
+<h3><strong>About PRECISE-SG100K</strong></h3>
 <p>The PRECISE-SG100K study is a long-term project focusing on the health
 and wellbeing of Singapore's diverse, multi-ethnic population. The study
 aims to engage over 100,000 participants and collect baseline health information
@@ -332,7 +331,6 @@ and will yield globally significant results.</p>
 <br>Assistant Manager, Corporate Communications
 <br>Consortium for Clinical Research and Innovation, Singapore <a href="mailto:trixie.teo@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br>trixie.teo@cris.sg</u></a>
 </p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
