@@ -131,7 +131,7 @@ in precision medicine and sought to address challenges and opportunities
 in translating advances into tangible enhancements in patient care to reshape
 the landscape of modern healthcare.</p>
 <p></p>
-<p><strong>For post-conference resources, visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg/news-and-events/events/precise-ihcc-conference</a></strong>
+<p><strong>For post-conference resources, visit <a rel="noopener noreferrer nofollow" target="_self">https://www.npm.sg/news-and-events/events/precise-ihcc-conference</a></strong>
 </p>
 <p></p>
 <p><strong>To catch up on the session recording, visit <a rel="noopener noreferrer nofollow" target="_blank">https://for.sg/genomic-diversity</a></strong>
