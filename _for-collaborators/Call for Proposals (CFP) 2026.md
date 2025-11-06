@@ -275,7 +275,7 @@ that adopts the following principles:</p>
 practices:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>“Junior colleagues at the front, Seniors at the back”</p>
+<p>Junior colleagues at the front, Seniors at the back</p>
 </li>
 <li>
 <p>Use authorship generously to share success equitably</p>
