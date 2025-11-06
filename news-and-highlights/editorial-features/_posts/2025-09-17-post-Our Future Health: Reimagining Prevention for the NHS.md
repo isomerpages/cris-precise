@@ -35,7 +35,7 @@ combining and analysing health information such as genetic data and NHS
 medical records of participants in the programme, the aim is also to leverage
 these insights to develop screening tests and interventions for high-risk
 individuals.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<h4><strong>Gathering the World’s Largest Cohort&nbsp;&nbsp;</strong></h4>
+<h3><strong>Gathering the World’s Largest Cohort&nbsp;&nbsp;</strong></h3>
 <p>Our Future Health began in October 2022 with the goal of recruiting five
 million adult participants aged 18 and above from across the UK. As of
 January 2025, over two million participants have signed up, and more than
@@ -63,7 +63,7 @@ data with small cohort sizes. There are also limitations to combining data
 from multiple cohorts—which could have different data collection parameters
 or follow-up methods,” Dr Ali explained. “By establishing a single, comprehensive
 resource, I believe we lay the groundwork for transformational discoveries.”&nbsp;</p>
-<h4><strong>Establishing a Positive Feedback Loop</strong>&nbsp;</h4>
+<h3><strong>Establishing a Positive Feedback Loop</strong>&nbsp;</h3>
 <p>Even as recruitment efforts continue, Dr Ali and his team have already
 started deliberating the details for the next stage—returning feedback
 to participants starting from 2025. “That’s our core premise,” Dr Ali said.
@@ -90,7 +90,7 @@ which already have age-based screening programmes—to study the utility
 and cost-effectiveness of introducing a risk-stratified approach. Participant
 views are also being sought as to the type of information they are keen
 to receive.&nbsp;&nbsp;</p>
-<h4><strong>Embarking on the Roadmap to Global Health</strong>&nbsp;</h4>
+<h3><strong>Embarking on the Roadmap to Global Health</strong>&nbsp;</h3>
 <p>With the target of completing recruitment by 2028, Our Future Health is
 in the early days. “It could take decades to fully realise the extent of
 Our Future Health’s potential—where we successfully reduce overall usage
