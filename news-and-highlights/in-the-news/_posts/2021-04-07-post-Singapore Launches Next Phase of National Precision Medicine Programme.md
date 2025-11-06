@@ -168,7 +168,7 @@ and Innovation Singapore (CRIS), a subsidiary of Ministry of Health Holdings.
 NPM Phase II and PRECISE is supported by the National Research Foundation
 Singapore and the Singapore Ministry of Health’s National Medical Research
 Council.</p>
-<p>For more information, visit&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">PRECISE</a>
+<p>For more information, visit&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">PRECISE</a> website.
 </p>
 <h4>About the Consortium for Clinical Research and Innovation Singapore (CRIS)</h4>
 <p>The Consortium for Clinical Research and Innovation Singapore (CRIS) was
