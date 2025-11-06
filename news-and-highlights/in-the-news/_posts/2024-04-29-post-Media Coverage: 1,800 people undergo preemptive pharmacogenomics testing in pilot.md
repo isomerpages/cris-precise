@@ -9,8 +9,8 @@ description: "Media Coverage: 1,800 people undergo pre-emptive pharmacogenomics
 image: /images/Logos/PRECISE.jpg
 variant: markdown
 ---
-<p>Our programme, <a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">Precision Health Research, Singapore</a> (PRECISE),
-is supporting <a href="https://www.npm.sg/cip/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilots</a> which
+<p>Our programme, <a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">Precision Health Research, Singapore</a> (PRECISE),
+is supporting <a href="https:/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilots</a> which
 facilitate the incorporation of genetic/genomic tests into clinical pathways
 to improve patient outcomes.</p>
 <p>One such pilot is the Pre-emptive Pharmacogenomic Testing (PPGx) clinical
