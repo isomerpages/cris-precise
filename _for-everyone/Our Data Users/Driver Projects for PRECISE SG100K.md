@@ -846,7 +846,7 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h3><strong>Multi - Omics Data Analysis for Novel Depression Mechanisms using Deep Learning Tools</strong></h3>
+<h3><strong>Multi - Omics Data Analysis for Novel Depression Mechanisms Using Deep Learning Tools</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
