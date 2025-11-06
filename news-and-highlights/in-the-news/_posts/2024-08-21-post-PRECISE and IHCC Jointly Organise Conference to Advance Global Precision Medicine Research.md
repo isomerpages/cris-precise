@@ -172,7 +172,7 @@ Singapore (NRF) under the RIE2020 White Space (MOH-000588 and MOH-001264)
 and administered by the Singapore Ministry of Health through the National
 Medical Research Council (NMRC) Office, MOH Holdings Pte Ltd.</p>
 <p>For more information, visit&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">PRECISE</a>
-websit.e</p>
+website.</p>
 <p></p>
 <p><strong><u>About International Health Cohorts Consortium (IHCC)&nbsp;</u></strong>
 </p>
