@@ -43,7 +43,7 @@ as genetic counsellors), and <strong>support patients and their caregivers in ma
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/240114_fpsc_03.jpg">
 </div>
-<p>The lead investigators of PRECISE’s <a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilots</a> discussed
+<p>The lead investigators of PRECISE’s <a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilots</a> discussed
 how their respective projects are studying the integration of genetic testing
 into clinical workflows:</p>
 <ul data-tight="true" class="tight">
