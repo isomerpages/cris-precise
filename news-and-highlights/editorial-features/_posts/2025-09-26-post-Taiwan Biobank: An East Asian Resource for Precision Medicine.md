@@ -29,7 +29,7 @@ questionnaire covering aspects such as lifestyle and family history. Over
 cities and counties. As of April 2025, approximately 203,000 participants
 have been recruited.<a href="https://www.twbiobank.org.tw" rel="noopener nofollow" target="_blank"><sup>[2]</sup></a>
 </p>
-<h4><strong>Investigating an East Asian Population</strong></h4>
+<h3><strong>Investigating an East Asian Population</strong></h3>
 <p>Taiwan is considered relatively homogenous with a predominantly Han Chinese
 population, where the culture is a blend of local traditions with western
 influences. The questionnaire administered to biobank participants included
@@ -43,7 +43,7 @@ incense exposure to be a risk factor for cognitive decline.<a href="https://pubm
 to capture changes in participants’ measurements and health status. Participants
 also underwent additional scans such as electrocardiogram and ultrasound,
 enriching the data collected for the research study.</p>
-<h4><strong>Facilitating Efficiency in Research</strong></h4>
+<h3><strong>Facilitating Efficiency in Research</strong></h3>
 <p>Similar to many Nordic countries, Taiwan also offers universal healthcare
 coverage in the form of the National Health Insurance (NHI). The NHI covers
 almost 100% of the Taiwanese population, with the system streamlining comprehensive
@@ -72,7 +72,7 @@ accurate data, which patients may not always be able to provide due to
 social stigma or difficulty recalling details. Having access to unbiased
 data records helps remove a layer of uncertainty and supports our efforts
 to better understand psychiatric disorders.”</p>
-<h4><strong>Enabling Future Precision Medicine</strong></h4>
+<h3><strong>Enabling Future Precision Medicine</strong></h3>
 <p>As of 2024, Taiwan Biobank data has been used in over 280 research projects
 and 300 publications, mostly by domestic researchers. Dr Lin said, “Existing
 polygenic risk scores—which estimate an individual’s genetic liability
