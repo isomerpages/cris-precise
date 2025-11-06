@@ -22,7 +22,7 @@ but whether those insights can be translated into real-world patient outcomes,
 sustainably and equitably,” says Professor Patrick Tan, Executive Director
 of Precision Health Research, Singapore (PRECISE).</p>
 <h3><strong>Building on a Strong Foundation</strong></h3>
-<p>The journey began with <a href="/sg10k-discoveries-from-mapping-10000-genomes/" rel="noopener nofollow" target="_blank">Phase 1</a>,
+<p>The journey began with <a href="/sg10k-discoveries-from-mapping-10000-genomes/" rel="noopener nofollow" target="_self">Phase 1</a>,
 a proof of concept stage that delivered Southeast Asia’s first large-scale
 genetic reference panel. This was more than just a research achievement;
 it established the foundational datasets, sequencing expertise, and governance
@@ -35,11 +35,11 @@ nature of human health, where genes interact with life experiences and
 clinical histories.</p>
 <p></p>
 <p>One key way Phase II put precision medicine into practice was through
-a suite of <a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilots</a> (CIPs),
+a suite of <a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilots</a> (CIPs),
 spanning familial hypercholesterolemia, breast cancer screening, hereditary
 cancers, kidney disease, and pharmacogenetics. In parallel, Phase II also
 saw the launch of a research consortium with multinational pharmaceutical
-companies including <a href="/precise-illumina-partnership-agreement/" rel="noopener noreferrer nofollow" target="_blank">Illumina</a> and <a href="/boehringer-ingelheim-partners-with-precision-health-research/" rel="noopener noreferrer nofollow" target="_blank">Boehringer Ingelheim</a>,
+companies including <a href="/precise-illumina-partnership-agreement/" rel="noopener noreferrer nofollow" target="_self">Illumina</a> and <a href="/boehringer-ingelheim-partners-with-precision-health-research/" rel="noopener noreferrer nofollow" target="_self">Boehringer Ingelheim</a>,
 leveraging the PRECISE-SG100K dataset to drive drug discovery, validate
 biomarkers and develop therapies tailored to Asian populations.</p>
 <p>As a proof of scale, Phase III is even more ambitious. Rather than focusing
