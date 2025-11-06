@@ -12,7 +12,7 @@ how these factors impact health and/or contribute to disease.</p>
 <p>We hope to generate new findings that will inform healthcare practices
 with the goal of improving the efficiency and effectiveness of disease
 prevention, diagnosis and treatment.</p>
-<h3>Research Highlights</h3>
+<h3><strong>Research Highlights</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
