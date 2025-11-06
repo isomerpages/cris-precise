@@ -9,7 +9,7 @@ variant: markdown
 how our genes (DNA), lifestyle, and environment affect health. This knowledge
 can help doctors move from "one-size-fits-all" care to more precise healthcare
 including preventive care, earlier screening, and closer monitoring for
-those at higher risk of developing for those at higher risk of developing
+those at higher risk of developing 
 genetic conditions. The goal is to keep people healthier for longer, not
 just treat disease after it develops.</p>
 <div class="isomer-image-wrapper">
@@ -50,8 +50,7 @@ you. Please check <strong><a href="https://www.npm.sg/" rel="noopener noreferrer
 for the latest updates.</p>
 <h3><strong>6. What will participants be asked to do?</strong></h3>
 <p>Singaporean residents participating in NPM Phase III will be invited to
-donate a small blood sample to read your genetic code. You will also you
-will also be asked to give permission for researchers to look at your medical
+donate a small blood sample to read your genetic code. You will also be asked to give permission for researchers to look at your medical
 records (with personal details removed), this helps scientists understand
 how genes, health conditions, and treatments are linked.</p>
 <h3><strong>7. Will I receive my genetic test results?</strong></h3>
@@ -74,7 +73,7 @@ ensure privacy while allowing research to benefit public health.</p>
 </div>
 <h3><strong>9. Will this affect my insurance?</strong></h3>
 <p>No. The <a href="https://www.moh.gov.sg/others/resources-and-statistics/moratorium-on-genetic-testing-and-insurance" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health</a> andthe
-Life Insurance Association of Singapore have agreed that genetic testresults
+Life Insurance Association of Singapore have agreed that genetic test results
 from research like NPM cannot be used to decide your insurance coverage
 or premiums.</p>
 <h3><strong>10. What are the benefits of joining?</strong></h3>
@@ -84,7 +83,7 @@ earlier screening, better prevention, and more effective treatments in
 our hospitals and clinics. Even if you don’t benefit right away, your contribution
 will help improve care for your family, friends, and future generations.</p>
 <h3><strong>11. What is genomic sequencing?</strong></h3>
-<p>Genomic sequencing is like creating a detailed map of all the~n~ genes
+<p>Genomic sequencing is like creating a detailed map of all the genes
 in your DNA. This map shows the tiny differences in genes (genetic variants)
 from person to person. These tiny differences influence your physical characteristics,
 how you respond to food and medications, your environment, and your risk
