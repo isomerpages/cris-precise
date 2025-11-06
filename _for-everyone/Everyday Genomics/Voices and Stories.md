@@ -7,7 +7,7 @@ third_nav_title: Everyday Genomics
 ---
 <h3><strong>Patient Story: Living with Familial Hypercholesterolemia</strong></h3>
 <blockquote>
-<p><strong><em>“All these years we just thought it was high cholesterol. We never imagined it was something genetic.”</em></strong>
+<p><em>“All these years we just thought it was high cholesterol. We never imagined it was something genetic.”</em>
 </p>
 </blockquote>
 <p>For more than three decades, <em>Patient A</em> (a healthcare professional)
