@@ -82,7 +82,6 @@ participant privacy, benefits Singapore, while upholding our ethical obligations
 requirements of data guardians, and our commitments to funders and existing
 academic and industry collaborators.&nbsp;</p>
 <h3><strong>Data Access Governance</strong></h3>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The <u>PRECISE Management Team,</u> which includes both the Executive Director
@@ -125,7 +124,7 @@ PRECISE-SG100K Data Access Committee.</p>
 for data access, and is the initial primary point of contact for data availability
 and collaboration enquiries. Please contact <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.&nbsp;</p>
 <p></p>
-<p><em>Please see illustration for PRECISE-SG100K Data Access Governance process<a href="#map1" rel="noopener noreferrer nofollow"> below.</a></em>
+<p><em>Please see illustration for PRECISE-SG100K Data Access Governance process<a href="#map1" rel="noopener noreferrer nofollow" target="_blank"> below.</a></em>
 </p>
 </li>
 </ul>
@@ -183,9 +182,7 @@ to cover all scenarios and reserves the right to update them from-time-to-time.<
 to data access. For questions or more information, please email the Secretariat
 for data access policy and operations at <a href="mailto:research@precise.cris.sg" rel="noopener nofollow" target="_blank">research@precise.cris.sg</a>.</p>
 <p></p>
-<h3 id="map1"><strong>PRECISE-SG100K Data Access Governance Process</strong>
-
-<p></p>
+<h3><strong>PRECISE-SG100K Data Access Governance Process</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data Access Governance flowchart" src="/images/Collaborate/Data_Access_Governance_Flowchart.png">
 </div>
@@ -193,4 +190,4 @@ for data access policy and operations at <a href="mailto:research@precise.cris.s
 <p>You can download a copy of the PRECISE-SG100K Data Access Principles
 <a href="/files/PRECISE_SG100K_Data_Access_Principles_v1.pdf" rel="noopener nofollow" target="_blank">here</a>. <strong><br></strong>
 </p>
-<p></p></h3>
+<p></p>
