@@ -169,7 +169,7 @@ NPM Phase II and PRECISE is supported by the National Research Foundation
 Singapore and the Singapore Ministry of Health’s National Medical Research
 Council.</p>
 <p>For more information, visit&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">PRECISE</a> website.</p>
-<h4>About the Consortium for Clinical Research and Innovation Singapore (CRIS)</h4>
+<h4><strong>About the Consortium for Clinical Research and Innovation Singapore (CRIS)</strong></h4>
 <p>The Consortium for Clinical Research and Innovation Singapore (CRIS) was
 established in 2020 to strengthen synergies and promulgate strategies for
 national-level clinical research and translation programmes that are under
