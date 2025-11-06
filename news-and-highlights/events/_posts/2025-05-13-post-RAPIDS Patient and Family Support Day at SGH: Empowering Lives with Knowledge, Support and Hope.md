@@ -26,8 +26,7 @@ outreach can empower individuals and families living with genetic kidney
 conditions. It also reflected the broader goal of the Clinical Implementation
 Pilots under PRECISE—to integrate genomic medicine into clinical care pathways
 in ways that are impactful, sustainable, and patient-centred.</p>
-<p>Read more about the CIP for kidney disease <a href="https://www.npm.sg/news-and-events/editorial-features/making-sense-and-cents-of-precision-medicine/" rel="noopener nofollow" target="_blank">here</a> and
-<a href="https://www.npm.sg/news-and-events/editorial-features/genetic-testing-for-primary-glomerular-disease-life-changing/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Read more about the CIP for kidney disease <a href="/making-sense-and-cents-of-precision-medicine/" rel="noopener nofollow" target="_blank">here</a> and <a href="/genetic-testing-for-primary-glomerular-disease-life-changing/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Overview of Event</strong>
 </p>
 <p>The event opened with warm remarks by <strong>A/Prof Tan Chieh Suai</strong> (HOD
@@ -66,7 +65,7 @@ reach.</p>
 A/Prof Ng, Dr Kwek, Dr Lee, and Ms Leong. The panel addressed practical
 questions on treatments, financial support, healthy hawker options, and
 early detection practices.</p>
-<p>🔗 Learn more about the Clinical Implementation Pilots by PRECISE: <a href="https://npm.sg/cip" rel="noopener noreferrer nofollow" target="_blank"><u>https://npm.sg/cip</u></a>
+<p>🔗 Learn more about the Clinical Implementation Pilots by PRECISE: <a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank"><u>https://npm.sg/cip</u></a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/Group_pic_v1.jpg">
