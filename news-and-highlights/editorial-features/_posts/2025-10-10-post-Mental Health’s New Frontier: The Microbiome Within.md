@@ -41,7 +41,7 @@ real world,” explains Professor Patrick Tan, Executive Director of PRECISE.
 Furthermore, obtaining patient samples from the brain is often considerably
 more difficult than skin or tumour tissue, he adds.&nbsp;</p>
 <p></p>
-<h4><strong>A promising new approach: The microbiome</strong>&nbsp;</h4>
+<h3><strong>A Promising New Approach: The Microbiome</strong>&nbsp;</h3>
 <p></p>
 <p>How then can Singapore tackle the multifaceted challenge of mental health?
 “One way is to study the population and look at natural genetic variation
@@ -82,8 +82,7 @@ genetics which are largely fixed upon conception, the microbiome can be
 altered—perhaps even easily and cost-effectively—offering a novel and accessible
 pathway for improving mental wellbeing, he says.&nbsp;</p>
 <p></p>
-<h4><strong>GLOW: A mental health moonshot</strong>&nbsp;</h4>
-<p></p>
+<h3><strong>GLOW: A Mental Health Moonshot</strong>&nbsp;</h3>
 <p>To better understand the connection between the microbiome and mental
 health, Singapore has launched a multi-institutional research initiative
 called Gut-Linked Outcomes in Wellbeing or GLOW. A pioneering initiative
@@ -136,12 +135,14 @@ national-scale rollouts, with the launch of the familial hypercholesterolemia
 screening programme,” Tan says. “So while GLOW is not exactly the same,
 we can use some of the lessons learnt as a ‘pathfinder’ for the way forward.”&nbsp;</p>
 <p></p>
+<blockquote>
 <p>“I’m really excited not only to address mental health as an issue particularly
 relevant to the next generation, but also discovering potentially groundbreaking
 solutions,” Chambers adds.&nbsp;&nbsp;</p>
+</blockquote>
 <p></p>
 <hr>
 <p><em>Next feature coming soon - stay tuned for the next GLOW release!&nbsp;</em>
 </p>
-<p>Back to <a href="https://npm.sg/microbiomes-mental-health/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_blank">GLOW</a>
+<p>Back to <a href="/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_blank">GLOW</a>
 </p>
