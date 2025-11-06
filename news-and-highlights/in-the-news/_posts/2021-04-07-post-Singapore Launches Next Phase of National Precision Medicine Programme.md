@@ -131,7 +131,7 @@ a Senior Consultant in the Division of Endocrinology at the National University
 Hospital and Professor at the National University of Singapore’s Yong Loo
 Lin School of Medicine, Saw Swee Hock School of Public Health and Duke-NUS
 Medical School.</p>
-<h3>Creating new economic opportunities for Singapore’s healthcare and biomedical technology industry</h3>
+<h3><strong>Creating new economic opportunities for Singapore’s healthcare and biomedical technology industry</strong></h3>
 <p>Making precision medicine a reality in Singapore requires a long-term
 and concerted commitment from both the Government and the industry. In
 addition to expanding research efforts and establishing national clinical
@@ -153,7 +153,7 @@ medical hub to deliver precision medicine based treatments.” Professor
 Tan is also the Executive Director of the Genome Institute of Singapore
 at A*STAR and Professor at Duke-NUS Medical School.</p>
 <hr>
-<h4>About Precision Health Research, Singapore (PRECISE)</h4>
+<h4><strong>About Precision Health Research, Singapore (PRECISE)</strong></h4>
 <p>Precision Health Research, Singapore (PRECISE) is the central entity set
 up to coordinate a whole of government effort to implement Phase II of
 Singapore’s 10-year National Precision Medicine (NPM) strategy.</p>
@@ -168,8 +168,7 @@ and Innovation Singapore (CRIS), a subsidiary of Ministry of Health Holdings.
 NPM Phase II and PRECISE is supported by the National Research Foundation
 Singapore and the Singapore Ministry of Health’s National Medical Research
 Council.</p>
-<p>For more information, visit&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">PRECISE</a> website.
-</p>
+<p>For more information, visit&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">PRECISE</a> website.</p>
 <h4>About the Consortium for Clinical Research and Innovation Singapore (CRIS)</h4>
 <p>The Consortium for Clinical Research and Innovation Singapore (CRIS) was
 established in 2020 to strengthen synergies and promulgate strategies for
