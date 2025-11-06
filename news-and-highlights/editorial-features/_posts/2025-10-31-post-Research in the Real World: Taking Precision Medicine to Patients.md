@@ -39,7 +39,7 @@ a suite of <a href="/clinical-implementation-pilot/" rel="noopener noreferrer no
 spanning familial hypercholesterolemia, breast cancer screening, hereditary
 cancers, kidney disease, and pharmacogenetics. In parallel, Phase II also
 saw the launch of a research consortium with multinational pharmaceutical
-companies including <a href="/precise-illumina-partnership-agreement/" rel="noopener noreferrer nofollow" target="_blank">Illumina</a> and <a href="/press-releases/boehringer-ingelheim-partners-with-precision-health-research/" rel="noopener noreferrer nofollow" target="_blank">Boehringer Ingelheim</a>,
+companies including <a href="/precise-illumina-partnership-agreement/" rel="noopener noreferrer nofollow" target="_blank">Illumina</a> and <a href="/boehringer-ingelheim-partners-with-precision-health-research/" rel="noopener noreferrer nofollow" target="_blank">Boehringer Ingelheim</a>,
 leveraging the PRECISE-SG100K dataset to drive drug discovery, validate
 biomarkers and develop therapies tailored to Asian populations.</p>
 <p>As a proof of scale, Phase III is even more ambitious. Rather than focusing
