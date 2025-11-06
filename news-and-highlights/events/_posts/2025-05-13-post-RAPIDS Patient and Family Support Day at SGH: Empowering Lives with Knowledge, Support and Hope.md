@@ -65,8 +65,8 @@ reach.</p>
 A/Prof Ng, Dr Kwek, Dr Lee, and Ms Leong. The panel addressed practical
 questions on treatments, financial support, healthy hawker options, and
 early detection practices.</p>
-<p>🔗 Learn more about the Clinical Implementation Pilots by PRECISE: <a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self"><u>https://npm.sg/cip</u></a>
-</p>
+<p>🔗 Learn more about the <a href="/clinical-implementation-pilot/" rel="noopener nofollow" target="_blank">Clinical Implementation Pilot</a> by
+PRECISE.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/Group_pic_v1.jpg">
 </div>
