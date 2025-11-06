@@ -135,8 +135,8 @@ Committee prior to submission to confirm that the data use and publication
 objectives are within the scope of the approved data request. Projects
 involving use of TRUST data will also require pre-publication review by
 TRUST.</p>
-<p>Researchers shall follow the authorship and acknowledgement instructionslisted
-in the Data Access Agreement.</p>
+<p>Researchers shall follow the authorship and acknowledgement instructions
+listed in the Data Access Agreement.</p>
 <p>PRECISE-SG100K will not claim rights to inventions and associated Intellectual
 Property Rights (IPRs) developed by researchers using the PRECISE-SG100K
 resource, unless the team and/or its members had made inventive contribution
