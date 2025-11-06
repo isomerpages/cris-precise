@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<h3>Precision Health Research, Singapore (PRECISE) and International Health Cohorts Consortium Jointly Organise Conference to Advance Global Precision Medicine Research and Applications</h3>
+<h3><strong>Precision Health Research, Singapore (PRECISE) and International Health Cohorts Consortium Jointly Organise Conference to Advance Global Precision Medicine Research and Applications</strong></h3>
 <p></p>
 <ul>
 <li>
@@ -54,7 +54,7 @@ this era of large-scale genomics and population-based programmes.</p>
 proposals that were selected to leverage the first release dataset, generated
 from fully consented cohorts, to advance scientific knowledge and enable
 clinical translation.&nbsp;</p>
-<p>This development stemmed from an <a href="https://www.npm.sg/flagship-projects/" rel="noopener noreferrer nofollow" target="_blank">“Open Call for Proposal” (CFP)</a> in
+<p>This development stemmed from an <a href="/collaborators-flagship-projects-for-precise-sg100k/" rel="noopener noreferrer nofollow" target="_blank">“Open Call for Proposal” (CFP)</a> in
 November 2023, where scientists and physicians were invited to submit their
 proposals to utilise the PRECISE-SG100K data resource and to translate
 these research findings into precision health care approaches.</p>
