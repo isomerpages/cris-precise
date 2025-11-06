@@ -334,8 +334,8 @@ sharing (no large-scale sharing of Summary Statistics).</p>
 <p>In addition, any publications arising from the research would need to
 undergo pre-publication review by TRUST Data Concierge as well.
 <br>Please submit the completed pre-publication review form (together with
-your manuscript) via the following <a href="https://go.gov.sg/trust-import-export" rel="noopener nofollow" target="_blank">LINK</a> at least 21 days in
-advance:</p>
+your manuscript) from this <a href="https://go.gov.sg/trust-import-export" rel="noopener nofollow" target="_blank">LINK</a> at
+least 21 days in advance:</p>
 </li>
 </ol>
 <h3><strong>Review Process</strong></h3>
