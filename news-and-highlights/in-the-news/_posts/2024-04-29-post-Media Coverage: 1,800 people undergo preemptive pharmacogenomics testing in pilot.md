@@ -10,7 +10,7 @@ image: /images/Logos/PRECISE.jpg
 variant: tiptap
 ---
 <p>Our programme, <a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">Precision Health Research, Singapore</a> (PRECISE),
-is supporting <a href="https:/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilots</a> which
+is supporting <a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilots</a> which
 facilitate the incorporation of genetic/genomic tests into clinical pathways
 to improve patient outcomes.</p>
 <p>One such pilot is the Pre-emptive Pharmacogenomic Testing (PPGx) clinical
