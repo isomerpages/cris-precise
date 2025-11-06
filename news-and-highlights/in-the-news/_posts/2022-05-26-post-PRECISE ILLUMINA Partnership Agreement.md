@@ -146,8 +146,7 @@ Innovation, Singapore (CRIS), a subsidiary of the Ministry of Health Holdings
 which strengthens synergies and develop strategies for national-level clinical
 research and translation programmes under the stewardship of the Ministry
 of Health Singapore.</p>
-<p>For more information, please visit:&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">www.npm.sg</a>
-</p>
+<p>For more information, please visit <a href="https://www.npm.sg" rel="noopener nofollow" target="_blank">PRECISE</a> website</p>
 <p><strong>About Illumina</strong>
 <br>Illumina is improving human health by unlocking the power of the genome.
 Our focus on innovation has established us as a global leader in DNA sequencing
