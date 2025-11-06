@@ -8,14 +8,22 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>• GLOW (Gut Linked Outcomes in Wellbeing) investigates how the human gut
+<ul data-tight="true" class="tight">
+<li>
+<p>GLOW (Gut Linked Outcomes in Wellbeing) investigates how the human gut
 microbiome influences mental health.</p>
-<p>• Multi-institutional study represents a unique opportunity for Singapore
+</li>
+<li>
+<p>Multi-institutional study represents a unique opportunity for Singapore
 to lead globally in pioneering microbiome-based approaches to mental health,
 particularly within diverse and urban Asian populations.</p>
-<p>• Amid rising rates of depression, anxiety, and burnout affecting Singaporeans
+</li>
+<li>
+<p>Amid rising rates of depression, anxiety, and burnout affecting Singaporeans
 across age groups, this research endeavour, which will focus on prevention
 rather than just treatment, is a timely initiative.</p>
+</li>
+</ul>
 <hr>
 <p>SINGAPORE, 10 OCTOBER 2025 – A new research initiative, GLOW (Gut Linked
 Outcomes in Wellbeing) will be launched in Singapore to investigate how
