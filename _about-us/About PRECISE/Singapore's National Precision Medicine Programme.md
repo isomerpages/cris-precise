@@ -22,12 +22,11 @@ with Singapore’s three healthcare clusters. Focusing on patient participants
 in clinical settings, Phase III will evaluate how genomics can be applied
 in practice to inform national health strategies, creating opportunities
 for innovation in diagnostics, therapeutics, and digital health.</p>
-<p>PRECISE is a programme of the Consortium for Clinical Research and Innovation,
-Singapore (CRIS). NPM Phase II is supported by the National Research Foundation,
-Singapore (NRF) under the RIE2020 White Space (MOH-000588 and MOH-001264)
-and administered by the Singapore Ministry of Health (MOH) through the
-National Medical Research Council (NMRC) Office, MOH Holdings Pte Ltd.
-NPM Phase III is supported by the Singapore MOH through the NMRC Office,
-MOH Holdings Pte Ltd under the NMRC RIE2025 NPM Phase III Funding Initiative
-(MOH-001734).</p>
+<p>PRECISE is a programme of the <a href="https://www.cris.sg/" rel="noopener nofollow" target="_blank">Consortium for Clinical Research and Innovation, Singapore</a>.
+NPM Phase II is supported by the National Research Foundation, Singapore
+(NRF) under the RIE2020 White Space (MOH-000588 and MOH-001264) and administered
+by the Singapore Ministry of Health (MOH) through the National Medical
+Research Council (NMRC) Office, MOH Holdings Pte Ltd. NPM Phase III is
+supported by the Singapore MOH through the NMRC Office, MOH Holdings Pte
+Ltd under the NMRC RIE2025 NPM Phase III Funding Initiative (MOH-001734).</p>
 <p></p>
