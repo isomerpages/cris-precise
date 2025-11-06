@@ -334,8 +334,8 @@ sharing (no large-scale sharing of Summary Statistics).</p>
 <p>In addition, any publications arising from the research would need to
 undergo pre-publication review by TRUST Data Concierge as well.
 <br>Please submit the completed pre-publication review form (together with
-your manuscript) via the following link at least 21 days in advance:
-<a href="https://go.gov.sg/trust-import-export" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/trust-import-export</a>.</p>
+your manuscript) via the following <a href="https://go.gov.sg/trust-import-export" rel="noopener nofollow" target="_blank">LINK</a> at least 21 days in
+advance:</p>
 </li>
 </ol>
 <h3><strong>Review Process</strong></h3>
@@ -564,8 +564,8 @@ related to Call for Proposals 2026.</p>
 <p><em>**Projects that do not submit to TRUST by December 2026 may be ended, to enable others to pursue similar work in CFP 2027.</em>
 </p>
 <p>Please submit completed CFP 2026 application forms to <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>&nbsp;by
-14 Feb 2026. Late or incomplete application forms will not be entertained.
-</p><h3><strong>Resources</strong></h3>
+14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
+<h3><strong>Resources</strong></h3>
 <p><strong>Dataset</strong>
 </p>
 <ul data-tight="true" class="tight">
