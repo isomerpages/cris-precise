@@ -26,9 +26,10 @@ sections:
         - title: Call for Proposals
           description: ""
           url: /call-for-proposals-2026/
-      variant: side
+      variant: floating
       size: md
       backgroundColor: gray
+      alignment: left
   - infopic:
       title: Taking Precision Medicine to Patients
       id: infopic
