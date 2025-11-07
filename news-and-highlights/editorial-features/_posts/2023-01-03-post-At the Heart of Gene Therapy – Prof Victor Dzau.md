@@ -75,14 +75,14 @@ public health through the new field of Precision Public Health.</p>
 <p><strong>You have supported the idea of academic health centres (AHCs) as critical infrastructure in transforming medicine through innovation in an article published in</strong>&nbsp;<strong><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61082-5/fulltext" rel="noopener noreferrer nofollow" target="_blank">The Lancet</a>. In your opinion, how can the research infrastructure in Singapore’s research institutions be further strengthened and streamlined to support the NPM programme?</strong>
 </p>
 <p>Singapore has made critical investments in biomedical research, AHC and
-public health. By investing in national initiatives like <a href="https://www.npm.sg/partners/precise-sg100k/" rel="noopener noreferrer nofollow" target="_blank">PRECISE</a>,
+public health. By investing in national initiatives like PRECISE,
 in cooperation with AHCs like&nbsp;<a href="https://duke-nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Duke NUS</a>&nbsp;and&nbsp;<a href="https://www.singhealth.com.sg/" rel="noopener noreferrer nofollow" target="_blank">SingHealth</a>&nbsp;and
 other research institutions, there is significant potential for making
 major scientific discoveries and clinical impacts.</p>
 <p>Through the National Precision Medicine (NPM), PRECISE is leading the
 effort by studying existing and new cohorts, collecting biospecimens and
 data, and sequencing the genome. By designing studies at a national scale,
-such as&nbsp;<a href="https://www.npm.sg/partners/precise-sg100k/" rel="noopener noreferrer nofollow" target="_blank">SG100K</a> important
+such as SG100K important
 findings will emerge that can shape the future of medicine and public health.
 It is this type of strategic approach to national projects, broad collaborations
 between research projects and institutions and the investment in science
