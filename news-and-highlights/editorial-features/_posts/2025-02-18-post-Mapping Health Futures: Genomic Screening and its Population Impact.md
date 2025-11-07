@@ -121,7 +121,7 @@ the landscape of modern healthcare.</p>
 <p>If you missed the session, catch up on the conference video recording
 here: <a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/XI9W8Y8enbo?si=JHqm2fnx8Mot5ljh</a>
 </p>
-<p>For more post-conference resources, visit <a rel="noopener noreferrer nofollow" target="_self">https://www.npm.sg/news-and-events/events/precise-ihcc-conference</a>
+<p>For more post-conference resources, visit <a href="/precise-and-ihcc-jointly-organise-conference-to-advance-global-precision-medicine-research/" rel="noopener noreferrer nofollow" target="_self">https://www.npm.sg/news-and-events/events/precise-ihcc-conference</a>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
