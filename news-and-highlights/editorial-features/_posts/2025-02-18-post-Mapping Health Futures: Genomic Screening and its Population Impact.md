@@ -119,7 +119,7 @@ in translating advances into tangible enhancements in patient care to reshape
 the landscape of modern healthcare.</p>
 <p></p>
 <p>If you missed the session, catch up on the conference video recording
-here: <a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/XI9W8Y8enbo?si=JHqm2fnx8Mot5ljh</a>
+here: <a href="https://youtu.be/XI9W8Y8enbo?si=JHqm2fnx8Mot5ljh" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/XI9W8Y8enbo?si=JHqm2fnx8Mot5ljh</a>
 </p>
 <p>For more post-conference resources, visit <a href="/precise-and-ihcc-jointly-organise-conference-to-advance-global-precision-medicine-research/" rel="noopener noreferrer nofollow" target="_self">here</a>.
 </p>
