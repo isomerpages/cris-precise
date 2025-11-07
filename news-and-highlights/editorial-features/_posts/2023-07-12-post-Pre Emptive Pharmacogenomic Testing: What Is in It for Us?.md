@@ -85,7 +85,7 @@ dependent on a number of factors. These include the attending clinicians’
 knowledge of the required PGx tests, as well as their interpretation and
 translation into therapeutic decisions for patients. Prof Goh said, “The
 implementation of pre-emptive PGx testing into clinical practice is part
-of the journey of this&nbsp;<a href="https://www.npm.sg/cip/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>&nbsp;(CIP)—and
+of the journey of this&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>&nbsp;(CIP)—and
 its fruition hinges on engaging with different stakeholders to educate
 them on benefits relevant and pertinent to them.”</p>
 <p>Dr Lo said, “Yes—for instance, we try and show clinicians how PGx testing
