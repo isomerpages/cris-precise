@@ -15,7 +15,7 @@ for over 28% of all deaths annually. But the good news is, compared to
 when the Singapore Cancer Registry first began tracking population-based
 cancer in 1968, the survival rate is decidedly higher today.</p>
 <hr>
-<p>Professor Chng Wee Joo, Executive Director,&nbsp;<a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC</a>),
+<p>Professor Chng Wee Joo, Executive Director,&nbsp;<a href="https://www.stcc.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Translational Cancer Consortium (STCC)</a>,
 shares, “Over the past one to two decades, completion of the human genome
 project and the whole genome sequencing technology have greatly helped
 the advancement of our knowledge and research in cancer biology—contributing
@@ -53,7 +53,7 @@ for collaboration, and advancing healthcare for cancer patients,” Professor
 Chng elaborates.</p>
 <p><strong>Looking to precision medicine for cancer prediction</strong>
 </p>
-<p><a href="https://www.stcc.sg/mirxes-strengthens-global-fight-against-cancer-with-launch-of-worlds-first-research-project-for-a-multi-cancer-screening-test-using-microrna-and-multi-omics-technology/" rel="noopener noreferrer nofollow" target="_blank">“Project CADENCE (CAncer Detected Early caN be CurEd)</a>&nbsp;is
+<p>"<a href="https://www.stcc.sg/mirxes-strengthens-global-fight-against-cancer-with-launch-of-worlds-first-research-project-for-a-multi-cancer-screening-test-using-microrna-and-multi-omics-technology/" rel="noopener noreferrer nofollow" target="_blank">Project CADENCE (CAncer Detected Early caN be CurEd)</a>&nbsp;is
 another STCC milestone that has the potential to transform how care is
 delivered to cancer patients in Singapore. Through applying the microRNA
 (miRNA) and DNA methylation biomarkers detection technology of our partner—MiRXES—to
