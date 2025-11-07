@@ -88,7 +88,7 @@ companies.</p>
 Innovation, Singapore (CRIS), a subsidiary of Ministry of Health Holdings.
 PRECISE is supported by the National Research Foundation, Singapore, and
 the Singapore Ministry of Health’s National Medical Research Council.</p>
-<p>For more information, visit&nbsp;<a href="https://www.boehringer-ingelheim.com/external-link?external=https%3A%2F%2Fwww.npm.sg%2F" rel="noopener noreferrer nofollow" target="_blank">www.npm.sg</a>.</p>
+<p>For more information, visit&nbsp;<a href="https://www.npm.sg" rel="noopener noreferrer nofollow" target="_blank">www.npm.sg</a>.</p>
 <p><strong>About PRECISE-SG100K</strong>
 </p>
 <p>The PRECISE-SG100K study is a long-term project focusing on the health
