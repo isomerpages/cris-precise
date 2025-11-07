@@ -2,6 +2,7 @@ collections:
   for-collaborators:
     output: true
     order:
+      - Call for Proposals (CFP)/Call for Proposals (CFP) 2026.md
       - Call for Proposals (CFP)/.keep
       - Research Programmes/.keep
       - Research Programmes/Overview.md
