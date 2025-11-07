@@ -14,7 +14,7 @@ variant: markdown
 </p>
 <p>With Breast Cancer Awareness month commemorated every October, the pink
 ribbon has become a well-recognised symbol to urge the public to undergo
-breast cancer screening. In 2002, Singapore launched a&nbsp;<a href="https://www.healthhub.sg/programmes/174/breast-cancer-screening" rel="noopener noreferrer nofollow" target="_blank">nationwide breast cancer screening programme</a>,
+breast cancer screening. In 2002, Singapore launched a nationwide breast cancer screening programme,
 yet these services remain underutilised nearly 20 years later.</p>
 <p>“Mammography screening has been proven to save lives by detecting the
 tumour early when it’s small and most treatable,” emphasised Dr Jingmei
