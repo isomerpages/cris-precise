@@ -36,7 +36,7 @@ closely with PRECISE and its network of researchers and clinicians to unlock
 more of such valuable opportunities.”</p>
 <h4><strong>Improving Clinical Outcomes with NPM Data Insights</strong></h4>
 <p>The first of the three-phase NPM roadmap was completed in 2021. The Phase
-I findings (from the <a href="https://www.npm.sg/news-and-events/editorial-features/sg10k-discoveries-from-mapping-10000-genomes/" rel="noopener noreferrer nofollow" target="_blank"><u>SG10K_Health</u></a> study)
+I findings (from the <a href="/sg10k-discoveries-from-mapping-10000-genomes/" rel="noopener noreferrer nofollow" target="_self">SG10K_Health</a> study)
 established a Singaporean reference database containing 10,000 genomes.
 It revealed important knowledge regarding genetic variations in disease
 risk and drug reactions among different ethnicities. Researchers and clinicians
