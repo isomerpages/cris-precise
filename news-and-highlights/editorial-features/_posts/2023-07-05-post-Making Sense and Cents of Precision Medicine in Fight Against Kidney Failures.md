@@ -75,7 +75,7 @@ is not consistently performed locally in patients who can benefit from
 it. While this is partly driven by the high costs of genetic tests, the
 low genetic literacy amongst kidney specialist doctors and the lack of
 a conducive genetic ecosystem in healthcare play an important part. Prof
-Matchar said, “That is why we are doing this&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>&nbsp;(CIP)
+Matchar said, “That is why we are doing this&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilot</a>&nbsp;(CIP)
 to enable our ecosystem and make it more conducive.”</p>
 <p>Kidney specialists are not able to order and interpret genetic tests because
 they have not been adequately trained. Plus, genetics has been such a rapidly
@@ -124,7 +124,7 @@ they go for their genetic counselling sessions. The hope is that these
 initiatives enable us to increase the uptake of genetic testing, as well
 as streamline processes so that they are less labour-intensive, and more
 sustainable and scalable in the future.”</p>
-<p><em>Click&nbsp;<a href="/genetic-testing-for-primary-glomerular-disease-life-changing/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read how A/Prof Ng and Prof Matchar first embarked on their first steps to study the clinical implementation of genetic testing for primary glomerular disease.</em>
+<p><em>Click&nbsp;<a href="/genetic-testing-for-primary-glomerular-disease-life-changing/" rel="noopener noreferrer nofollow" target="_self">here</a>&nbsp;to read how A/Prof Ng and Prof Matchar first embarked on their first steps to study the clinical implementation of genetic testing for primary glomerular disease.</em>
 </p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
