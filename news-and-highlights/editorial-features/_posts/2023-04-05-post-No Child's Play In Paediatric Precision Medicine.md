@@ -27,7 +27,7 @@ diagnose two to four patients a week. This has helped to better manage
 our patients with suspected genetic diseases. While we are able to identify
 the aetiology in ~40% of our patients now, there are also others where
 we see genetic changes that had never been identified in human diseases.</p>
-<p>“One such instance was&nbsp;<a href="/piecing-together-genetic-clues/" rel="noopener noreferrer nofollow" target="_self">this family that has two young girls with various developmental issues</a>.
+<p>“One such instance was&nbsp;<a href="/editorial-features/piecing-together-genetic-clues/" rel="noopener noreferrer nofollow" target="_self">this family that has two young girls with various developmental issues</a>.
 We couldn’t pin the cause down initially. Eventually, we identified the
 genetic change that was actually driving their clinical symptoms—and being
 the first person to have discovered it, the syndrome was named ‘Jamuar
