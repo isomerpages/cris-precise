@@ -26,7 +26,7 @@ is also essential for data-driven initiatives like precision medicine.</p>
 of large numbers of people to deliver better care and diagnosis for patients.
 Consequently, understanding the ethical issues surrounding precision medicine
 research, especially as perceived by the public, can elevate research and
-participation in initiatives like Singapore’s&nbsp;<a href="/our-story/" rel="noopener noreferrer nofollow" target="_blank">National Precision Medicine Programme</a>. Unveiling
+participation in initiatives like Singapore’s National Precision Medicine Programme. Unveiling
 the ethics surrounding precision medicine is a key focus of work by Assistant
 Professor Tamra Lysaght, Director of Research and Phase Director of the
 Health Ethics, Law and Professionalism programme at the Centre for Biomedical
@@ -54,7 +54,7 @@ at the&nbsp;<a href="https://medicine.nus.edu.sg/cbme/" rel="noopener noreferrer
 began collaborating with the scientific community at the Agency for Science,
 Technology and Research’s (A*STAR)&nbsp;<a href="https://www.a-star.edu.sg/gis" rel="noopener noreferrer nofollow" target="_blank">Genome Institute of Singapore</a>&nbsp;(GIS),
 which at the time was led by Prof Edison Lui. GIS is now under the leadership
-of Prof Patrick Tan, who is also the Executive Director of&nbsp;<a href="/patrick-tan/" rel="noopener noreferrer nofollow" target="_blank">PRECISE</a>.</p>
+of Prof Patrick Tan, who is also the Executive Director of&nbsp;<a href="/patrick-tan/" rel="noopener noreferrer nofollow" target="_self">PRECISE</a>.</p>
 <p><strong>2. Your research has explored ethical aspects from religious perspectives to perceptions of the terms used in precision medicine. Are there any other questions you hopes to address?</strong>
 </p>
 <p>I hope to understand more about the social and moral boundaries for using
