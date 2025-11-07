@@ -255,7 +255,7 @@ the applications.</p>
 within 2 years.</p>
 </li>
 <li>
-<p>Approved projects should provide yearly progress reports to the <a href="/phase-ii-precise-sg100k/#committee1" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
+<p>Approved projects should provide yearly progress reports to the <a href="/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
 <p>Applicants should ensure sufficient funding for their research activities
@@ -342,7 +342,7 @@ least 21 days in advance:</p>
 <h3><strong>Review Process</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/#committee1" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
+<p>All proposals will be reviewed by the <a href="/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_self">PRECISE-SG100K Scientific Committee</a>.</p>
 </li>
 <li>
 <p>The guiding principle adopted by the PRECISE-SG100K Scientific Committee
