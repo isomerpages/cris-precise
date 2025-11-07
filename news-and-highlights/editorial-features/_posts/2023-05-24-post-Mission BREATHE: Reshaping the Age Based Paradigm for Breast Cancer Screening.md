@@ -89,7 +89,7 @@ and doing buccal swabs and sending in DNA samples by themselves for analysis.
 We are piloting these processes before scaling them,” shares A/Prof Hartman.</p>
 <p><strong>BREATHE(ing) on</strong>
 </p>
-<p>A/Prof Hartman continues, “With this&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>,
+<p>A/Prof Hartman continues, “With this&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilot</a>,
 there are many moving parts—recruitment, testing, profiling, communication,
 follow-up, etc. With each, we are progressing and adjusting along the way.
 But there are a number of important solutions that we are still trying
@@ -105,11 +105,11 @@ to implement and subsidise risk-based breast cancer screening.”</p>
 <p>Dr Li rounds up, “With Healthier SG and the growing emphasis on customised
 health plans, I believe this is the right timing for BREATHE to encourage
 customised screening.”</p>
-<p>Read more about the research behind BREATHE&nbsp;<a href="/taking-breast-cancer-screening-beyond-standard-guidelines/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Read more about the research behind BREATHE&nbsp;<a href="/taking-breast-cancer-screening-beyond-standard-guidelines/" rel="noopener noreferrer nofollow" target="_self">here</a>.</p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
 <hr>
-<p><a href="https://www.npm.sg/mission-breathe-reshaping-the-age-based-paradigm-for-breast-cancer-screening/#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;Breast
+<p><a href="/mission-breathe-reshaping-the-age-based-paradigm-for-breast-cancer-screening/#_ftnref1" rel="noopener noreferrer nofollow" target="_self">[1]</a>&nbsp;Breast
 Cancer Foundation, Take Charge of Your Breast Health –&nbsp;Journeys of
 Young Women with Breast Cancer in Singapore.&nbsp;<a href="https://www.bcf.org.sg/take-charge-of-your-breast-health/" rel="noopener noreferrer nofollow" target="_blank">https://www.bcf.org.sg/take-charge-of-your-breast-health/</a>
 </p>
