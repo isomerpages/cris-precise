@@ -67,7 +67,7 @@ set up an ecosystem, comprising proper processes manned by trained and
 competent healthcare professionals, clear governance standards for institutions
 providing genomic medicine, and strong data and cybersecurity infrastructure
 to safeguard patient privacy and confidentiality.”</p>
-<p>That led to the set-up of a regulatory sandbox in 2022 which&nbsp;<a href="https://npm.sg/" rel="noopener noreferrer nofollow" target="_blank">Precision Health Research, Singapore (PRECISE)</a>,&nbsp;
+<p>That led to the set-up of a regulatory sandbox in 2022 which&nbsp;<a href="https://npm.sg/" rel="noopener noreferrer nofollow" target="_self">Precision Health Research, Singapore (PRECISE)</a>,&nbsp;
 <a href="https://trustplatform.sg/" rel="noopener noreferrer nofollow" target="_blank">Trusted Research and Real World-Data Utilisation and Sharing Tech (TRUST</a>)
 <a href="https://trustplatform.sg/#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>, healthcare institutions, insurance companies and genetic testing
 service providers were a part of.</p>
