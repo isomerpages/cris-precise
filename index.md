@@ -6,7 +6,11 @@ description: Precision Health Research, Singapore (PRECISE) is the central
   of Singapore’s National Precision Medicine (NPM) programme.
 image: /images/Logos/1_Email_Signature_Logo_10cm_72dpi.png
 permalink: /
-notification: ""
+notification: <b>Public healthcare officials will never ask you to transfer
+  money or disclose bank log-in details over a phone call.</b><br><br>Call the
+  24/7 ScamShield Helpline at 1799 to check if you are unsure if something is a
+  scam or visit <a target="_blank"
+  href="https://www.scamshield.gov.sg/">ScamShield</a> for more information.
 sections:
   - hero:
       title: Transforming Health in Singapore through Precision Medicine
