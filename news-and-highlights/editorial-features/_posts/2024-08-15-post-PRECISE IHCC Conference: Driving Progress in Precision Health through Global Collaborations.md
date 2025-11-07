@@ -98,5 +98,5 @@ from this Conference,” smiled Prof Afifi.</p>
 Conference to translate into actionable collaboration,” Mr Goodhand said.
 “Our ultimate goal is to make a positive impact within the global healthcare
 landscape.”</p>
-<p>To learn more about the conference, visit <a rel="noopener noreferrer nofollow" target="_blank">for.sg/preciseihcc</a>.</p>
+<p>To learn more about the conference, visit <a href="https://for.sg/preciseihcc" rel="noopener noreferrer nofollow" target="_blank">for.sg/preciseihcc</a>.</p>
 <p>&nbsp;</p>
