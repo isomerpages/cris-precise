@@ -1,6 +1,6 @@
 ---
 title: Prof Ivy Ng
-permalink: /bio/board-oversight-committee/ivy-ng/
+permalink: /ivy-ng/
 variant: tiptap
 description: Prof Ivy Ng
 image: /images/Bio/Board Oversight Committee/Prof_Ivy_Ng_600x400.jpg

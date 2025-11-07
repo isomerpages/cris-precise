@@ -1,6 +1,6 @@
 ---
 title: Mr Peter Ho
-permalink: /bio/board-oversight-committee/peter-ho/
+permalink: /peter-ho/
 variant: tiptap
 description: Mr Peter Ho
 image: /images/Bio/Board Oversight Committee/Leadership_600x400_Peter_Ho.png

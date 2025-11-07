@@ -1,6 +1,6 @@
 ---
 title: Dr Lisa Ooi
-permalink: /bio/board-oversight-committee/lisa-ooi/
+permalink: /lisa-ooi/
 variant: tiptap
 description: Dr Lisa Ooi
 image: /images/Bio/Board Oversight Committee/Dr_Lisa_Ooi_600x400.jpg

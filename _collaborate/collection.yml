@@ -1,5 +1,0 @@
-collections:
-  collaborate:
-    output: true
-    order:
-      - Partners.md

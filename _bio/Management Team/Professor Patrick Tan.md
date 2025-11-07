@@ -1,6 +1,6 @@
 ---
 title: Professor Patrick Tan
-permalink: /bio/management-team/patrick-tan/
+permalink: /patrick-tan/
 description: ""
 third_nav_title: Management Team
 variant: markdown

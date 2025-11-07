@@ -1,14 +1,12 @@
-logo: /images/Logos/precise logo - transparent.png
+logo: /images/Logos/1_Email_Signature_Logo_10cm_72dpi.png
 links:
   - title: About Us
     collection: about-us
-  - title: Research
-    collection: research
-  - title: Collaborate
-    collection: collaborate
-  - title: News and Events
+  - title: News and Highlights
     resource_room: true
-  - title: FAQs
-    url: /faqs
+  - title: For Everyone
+    collection: for-everyone
+  - title: For Collaborators
+    collection: for-collaborators
   - title: Contact Us
     url: /contact-us/

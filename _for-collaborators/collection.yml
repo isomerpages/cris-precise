@@ -1,0 +1,23 @@
+collections:
+  for-collaborators:
+    output: true
+    order:
+      - Call for Proposals (CFP)/.keep
+      - Call for Proposals (CFP)/Call for Proposals (CFP) 2026.md
+      - Call for Proposals (CFP)/FAQs.md
+      - Research Programmes/.keep
+      - Research Programmes/Overview.md
+      - "Research Programmes/Phase I: SG10K Health.md"
+      - "Research Programmes/Phase II: PRECISE SG100K.md"
+      - "Research Programmes/Phase III: SG INSIGHT.md"
+      - Research Programmes/GLOW (Gut Linked Outcomes in Wellbeing).md
+      - Research Programmes/CIP (Clinical Implementation Pilot).md
+      - Research Programmes/Long Read Sequencing.md
+      - Our Data Users/.keep
+      - Our Data Users/Flagship Projects for PRECISE SG100K.md
+      - Our Data Users/Driver Projects for PRECISE SG100K.md
+      - Resources/.keep
+      - Resources/Data Access to SG10K Health.md
+      - Resources/Data Access to PRECISE SG100K.md
+      - Resources/Data Access Principles (PRECISE SG100K).md
+      - Resources/Research Highlights.md

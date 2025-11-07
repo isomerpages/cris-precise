@@ -1,6 +1,6 @@
 ---
 title: Mr Gregory Vijayendran
-permalink: /bio/board-oversight-committee/gregory-vijayendran/
+permalink: /gregory-vijayendran/
 variant: tiptap
 description: Mr Gregory Vijayendran
 image: /images/Bio/Board Oversight Committee/Mr_Gregory_Vijayendran_600x400.jpg

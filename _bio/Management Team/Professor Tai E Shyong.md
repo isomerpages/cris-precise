@@ -1,8 +1,9 @@
 ---
 title: Professor Tai E Shyong
-permalink: /bio/management-team/tai-e-shyong/
+permalink: /tai-e-shyong/
 description: ""
 third_nav_title: Management Team
+variant: tiptap
 ---
 <img src="/images/Bio/Management%20Team/professor%20tai%20e%20shyong.jpg" align="center" style="width:200px">
 
