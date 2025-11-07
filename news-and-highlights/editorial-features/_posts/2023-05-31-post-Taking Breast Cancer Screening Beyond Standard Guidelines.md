@@ -112,7 +112,7 @@ can assess their risk using electronic means, and do their own buccal swabs
 to extract DNA samples for analysis? We do not have all the solutions yet—but
 we are working hard to transform breast cancer screening in Singapore with
 BREATHE.”</p>
-<p>Read more about the BREATHE programme&nbsp;<a href="/news-and-events/editorial-features/mission-breathe-reshaping-the-age-based-paradigm-for-breast/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Read more about the BREATHE programme&nbsp;<a href="/mission-breathe-reshaping-the-age-based-paradigm-for-breast/" rel="noopener noreferrer nofollow" target="_self">here</a>.</p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
 <hr>
