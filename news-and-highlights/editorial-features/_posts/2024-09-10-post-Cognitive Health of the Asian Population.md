@@ -21,7 +21,7 @@ adopted a multi-pronged approach to tackle mental health issues<sup>3</sup>.&nbs
 </div>
 <p>At the frontline of cognitive genomic precision medicine is Assistant
 Professor Max Lam, Deputy Science Director for Precision Health Research,
-Singapore (PRECISE)’s <a href="https://www.npm.sg/partners/precise-sg100k" rel="noopener noreferrer nofollow" target="_blank"><u>PRECISE-SG100K study</u></a><sup>4</sup>,
+Singapore (PRECISE)’s <a rel="noopener noreferrer nofollow" target="_self"><u>PRECISE-SG100K study</u></a><sup>4</sup>,
 and the Principal Investigator of the <u>CO</u>gnitive functio<u>N</u>&nbsp;in
 psy<u>C</u>hiatric <u>I</u>llnes<u>SE</u>s (CONCISE) mental health study
 at Institute of Mental Health. Also leading the PRECISE-SG100K Cognitive
