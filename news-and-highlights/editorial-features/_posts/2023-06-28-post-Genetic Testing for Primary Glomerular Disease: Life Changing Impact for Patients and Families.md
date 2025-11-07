@@ -26,7 +26,7 @@ to be instituted.</p>
 </p>
 <p>“Yes, I can help my patients—but there are other patients in Singapore
 who also need help but are not getting them. Therefore, I was naturally
-very interested when I came to know about the&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">Clinical Implementation Pilots</a>&nbsp;(CIP)
+very interested when I came to know about the&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">Clinical Implementation Pilots</a>&nbsp;(CIP)
 funded by PRECISE. I saw an opportunity to positively impact treatment
 for many more patients with primary glomerular diseases, their families
 and alter existing practices around genetic testing,” says A/Prof Ng.</p>
@@ -106,7 +106,7 @@ decades.”</p>
 to the genetic testing services, like chatbots, educational videos, etc.,”
 adds A/Prof Ng. “Today, we are building an ecosystem for our future generations
 of nephrologists and patients.”</p>
-<p><em>Click&nbsp;<a href="/making-sense-and-cents-of-precision-medicine/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read more about how A/Prof Ng and Prof Matchar makes sense and cents of precision medicine in the fight against kidney failures.</em>
+<p><em>Click&nbsp;<a href="/making-sense-and-cents-of-precision-medicine/" rel="noopener noreferrer nofollow" target="_self">here</a>&nbsp;to read more about how A/Prof Ng and Prof Matchar makes sense and cents of precision medicine in the fight against kidney failures.</em>
 </p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
