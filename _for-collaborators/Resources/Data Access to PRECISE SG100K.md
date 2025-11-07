@@ -20,7 +20,7 @@ period of priority to pursue research on these chronic conditions.</p>
 </li>
 <li>
 <p><strong>Call for Proposals.</strong> To enable research across a wide range of use cases beyond cardiovascular disease and diabetes, early access to the intermediate data release of 50,000 participants by Singapore public
-academic and clinical researchers was enabled through an open <a href="https:/call-for-proposals-2026/" rel="noopener nofollow" target="_self">Call for Proposals</a> (application closed in January 2024). The PRECISE-SG100K Scientific Committee selected 36 projects, comprising 8 Flagship Projects and 28 Driver Projects.</p>
+academic and clinical researchers was enabled through an open <a href="/call-for-proposals-2026/" rel="noopener nofollow" target="_self">Call for Proposals</a> (application closed in January 2024). The PRECISE-SG100K Scientific Committee selected 36 projects, comprising 8 Flagship Projects and 28 Driver Projects.</p>
 <p></p>
 </li>
 <li>
