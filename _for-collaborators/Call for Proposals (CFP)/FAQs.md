@@ -83,14 +83,13 @@ but may be included in future updates or data releases.</p>
 <p>Raw FASTQ files are not included in the standard data release due to significant
 storage and retrieval costs. However, if your research specifically requires
 access to the FASTQ files and there is dedicated funding for associated
-costs, please contact the PRECISE-SG100K Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>. &nbsp;</p>
+costs, please contact the PRECISE-SG100K Secretariat at <a href="research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.
+&nbsp;</p>
 <h3>Application Process</h3>
 <h4><strong>1. How should proposals to be submitted? Is there a specific format required?</strong></h4>
-<p>Please use the form available on the PRECISE <a href="https://www.npm.sg/research/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> from
-2 January 2026.</p>
-<p>Submissions are to be made via <a rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>;
-the Programme Management Team will confirm receipt of application within
-3 working days.</p>
+<p>Please use the form available on the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> from 2 January 2026.</p>
+<p>Submissions are to be made via <a href="research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>; the Programme
+Management Team will confirm receipt of application within 3 working days.</p>
 <h4><strong>2. What supporting documents are required as part of application?</strong></h4>
 <p>Submit the completed application template with necessary endorsements
 and CVs of key team members.</p>
@@ -123,7 +122,7 @@ Please note that additional documents will be required for this submission:</p>
 <h3>Proposal Scope</h3>
 <h4><strong>1. What kind of proposals are eligible?</strong></h4>
 <p>We welcome proposals aligned with objectives of the Call. Please refer
-to the PRECISE <a href="https://www.npm.sg/research/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for
+to the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 detailed eligibility criteria.</p>
 <h4><strong>2. Can I submit bulk analysis proposals like large-scale GWAS?</strong></h4>
 <p>Proposals seeking bulk analysis without clear scientific focus are unlikely
@@ -166,8 +165,7 @@ Management Team.</p>
 <p>The five evaluation criteria are as follows: Project Team quality, Scientific
 ambition/hypothesis, Project plan feasibility, Overlap assessment, and
 Commitments confirmation.</p>
-<p>Please refer to the PRECISE <a href="https://www.npm.sg/research/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for
-more details.</p>
+<p>Please refer to the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more details.</p>
 <h4><strong>3. Will feedback be provided to applicants?</strong></h4>
 <p>Brief feedback will be provided where appropriate.</p>
 <h3>Data Access &amp; Ethics</h3>
@@ -207,7 +205,7 @@ as well and researchers are encouraged to engage TRUST early.</p>
 <p>Publications must include specific PRECISE team members, use banner authorship,
 include approved acknowledgement text, and receive PRECISE-SG100K Scientific
 Committee approval before journal submission. Please refer to the PRECISE
-<a href="https://www.npm.sg/research/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a>for more details.</p>
+<a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a>for more details.</p>
 <h4><strong>3. How many publications are expected?</strong></h4>
 <p>Projects should aim to deliver at least one major scientific publication
 within 2 years.</p>
