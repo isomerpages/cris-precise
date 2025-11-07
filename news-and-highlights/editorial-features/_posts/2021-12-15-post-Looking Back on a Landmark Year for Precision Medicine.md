@@ -28,12 +28,12 @@ most significant developments in the field in the past year.</p>
 </p>
 </li>
 </ol>
-<p>Despite its small size, Singapore is home to around&nbsp;<a href="/thought-leader-feature-prof-john-chambers/" rel="noopener noreferrer nofollow" target="_blank">80 percent of Asia’s genetic diversity</a>&nbsp;thanks
+<p>Despite its small size, Singapore is home to around&nbsp;<a href="/thought-leader-feature-prof-john-chambers/" rel="noopener noreferrer nofollow" target="_self">80 percent of Asia’s genetic diversity</a>&nbsp;thanks
 to the three ethnic groups—Chinese, Malay and Indian—on its sunny shores.
 With Asian populations historically underrepresented in genomic databases,
 the ethnically diverse city-state is well-poised to drive advances in genomics
 research and precision medicine.</p>
-<p>Singapore has laid out a 10-year plan called the <a href="/singapore-launches-next-phase-of-national-precision-medicine/" rel="noopener noreferrer nofollow" target="_blank">National Precision Medicine (NPM) Strategy</a> .
+<p>Singapore has laid out a 10-year plan called the <a href="/singapore-launches-next-phase-of-national-precision-medicine/" rel="noopener noreferrer nofollow" target="_self">National Precision Medicine (NPM) Strategy</a> .
 Phase I, which took place from 2017 to 2019, culminated in the&nbsp;
 <a href="https://doi.org/10.1016/j.cell.2019.09.019" rel="noopener noreferrer nofollow" target="_blank">world’s largest genetic databank for multi-ethnic Asian populations</a>.
 Earlier this year in April, Phase II was launched to glean further insights
@@ -132,7 +132,7 @@ as well as detect, diagnose and manage disease for the better—so stay tuned!</
 <hr>
 <p>References:</p>
 <p>1&nbsp;Singapore launches next phase of National Precision Medicine Programme
-[Online].&nbsp;<a href="/singapore-launches-next-phase-of-national-precision-medicine/" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg/singapore-launches-next-phase-of-national-precision-medicine-programme/</a>
+[Online]. <a href="/singapore-launches-next-phase-of-national-precision-medicine/" rel="noopener noreferrer nofollow" target="_self">View here</a>.
 </p>
 <p>2&nbsp;Runcharoen C, Fukunaga F, Sensorn I, et al. Prevalence of pharmacogenomic
 variants in 100 pharmacogenes among Southeast Asian populations under the
