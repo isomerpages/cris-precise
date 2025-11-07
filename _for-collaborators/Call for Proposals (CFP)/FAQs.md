@@ -83,13 +83,14 @@ but may be included in future updates or data releases.</p>
 <p>Raw FASTQ files are not included in the standard data release due to significant
 storage and retrieval costs. However, if your research specifically requires
 access to the FASTQ files and there is dedicated funding for associated
-costs, please contact the PRECISE-SG100K Secretariat at <a href="research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.
+costs, please contact the PRECISE-SG100K Secretariat at <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>.
 &nbsp;</p>
 <h3>Application Process</h3>
 <h4><strong>1. How should proposals to be submitted? Is there a specific format required?</strong></h4>
 <p>Please use the form available on the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> from 2 January 2026.</p>
-<p>Submissions are to be made via <a href="research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>; the Programme
-Management Team will confirm receipt of application within 3 working days.</p>
+<p>Submissions are to be made via <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>; the
+Programme Management Team will confirm receipt of application within 3
+working days.</p>
 <h4><strong>2. What supporting documents are required as part of application?</strong></h4>
 <p>Submit the completed application template with necessary endorsements
 and CVs of key team members.</p>
