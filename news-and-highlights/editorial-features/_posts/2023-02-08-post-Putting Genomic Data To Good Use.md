@@ -29,7 +29,7 @@ with no signs of disease.</p>
 medicine programmes like Singapore’s National Precision Medicine Programme
 (NPM), launched in 2017. Designed to accelerate biomedical research and
 improve health outcomes, the programme began by generating an extensive
-genomic database among Singaporeans in the&nbsp;<a href="/partners/sg10k/" rel="noopener noreferrer nofollow" target="_blank">SG10K_Health</a>&nbsp;project.</p>
+genomic database among Singaporeans in the SG10K_Health&nbsp;project.</p>
 <p>Now as the NPM programme enters its second phase, researchers like Assistant
 Professor Adrian Teo, Principal Investigator at A*STAR’s Institute of Molecular
 and Cell Biology, are working closely with researchers at the National
