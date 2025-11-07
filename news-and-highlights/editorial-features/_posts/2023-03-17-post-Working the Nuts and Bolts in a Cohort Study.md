@@ -75,7 +75,7 @@ and data sharing among partner institutions. As we gain momentum on the
 SG100K study, we will continue to build on the learning and the infrastructure,
 and reinforce them. Particularly, we can look forward to larger and more
 diverse public and private partnerships, e.g., the establishment of the&nbsp;
-<a href="/precise-illumina-partnership-agreement/" rel="noopener noreferrer nofollow" target="_blank">PRECISE-Illumina partnership agreement</a>&nbsp;for the generation of
+<a href="/precise-illumina-partnership-agreement/" rel="noopener noreferrer nofollow" target="_self">PRECISE-Illumina partnership agreement</a>&nbsp;for the generation of
 whole genomes for SG100K.</p>
 <p>When we run cohorts, there is always something new—be it a new specimen
 type or a new dimension of data. Interestingly though, while we are collecting
