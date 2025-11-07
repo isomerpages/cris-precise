@@ -43,7 +43,7 @@ answer, solve the puzzle and provide parents with a more complete picture.</p>
 </p>
 <p>In 2016, before the National Precision Medicine program was established,
 there wasn’t enough local genomics data and we didn’t know what ‘normal’
-data for Asians looked like. Professor&nbsp;<a href="/editorial-features/powering-the-next-generation-of-biomedical-research/" rel="noopener noreferrer nofollow" target="_blank">Patrick Tan</a>,
+data for Asians looked like. Professor&nbsp;<a href="/powering-the-next-generation-of-biomedical-research/" rel="noopener noreferrer nofollow" target="_blank">Patrick Tan</a>,
 Director of PRISM, thus started PRISM with two aims. The first was to generate
 this normative data for the Asian individual. The second was—on the assumption
 that genomics will become integral to routine clinical care—to jumpstart
