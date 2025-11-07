@@ -130,7 +130,7 @@ the landscape of modern healthcare.</p>
 <p>For post-conference resources, visit <a href="/driving-progress-in-precision-health-through-global-collaborations/" rel="noopener noreferrer nofollow" target="_self">here</a>.</p>
 <p></p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Ahmed
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_self">[1]</a> Ahmed
 L, Constantinidou A, Chatzittofis A. Patients' perspectives related to
 ethical issues and risks in precision medicine: a systematic review. Front
 Med (Lausanne). 2023 Jun 15;10:1215663. doi: 10.3389/fmed.2023.1215663.
