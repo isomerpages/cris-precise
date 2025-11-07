@@ -34,7 +34,7 @@ for testing as these family members have a 50% chance of having FH too,”
 said Associate Professor Tavintharan Subramaniam, Senior Consultant, Department
 of Medicine, Khoo Teck Puat Hospital (KTPH).</p>
 <p>Add to that, genetic testing was not available in Singapore as a clinical
-standard of care before the rollout of the&nbsp;<a href="https://www.ktph.com.sg/healthprofessionals/Pages/clinical-research-highlights-publications.aspx" rel="noopener noreferrer nofollow" target="_blank">FHCARE programme</a>&nbsp;at
+standard of care before the rollout of the&nbsp;<a href="https://www.ktph.com.sg/healthprofessionals/Pages/clinical-research-highlights-publications.aspx" rel="noopener noreferrer nofollow" target="_blank">FHCARE</a> programme at
 KTPH. A/Prof Tavintharan explained, “We first started offering genetic
 testing as a means of FH diagnosis in 2015. In the beginning, we focused
 on referrals with high cholesterol levels from lipid clinics in KTPH. That
@@ -71,7 +71,7 @@ risk of their family members. But even when they are aware, family dynamics
 could pose barriers for communication with their family members. As a result,
 acceptance rates for cascade screening are impacted.</p>
 <p>A/Prof Tavinatharan said, “The good news is we are changing the conversation
-surrounding cascade screening with a&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>.
+surrounding cascade screening with a&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilot</a>.
 With the support of PRECISE, we have established partnership with an accredited
 sequencing partner locally. We hope the faster turnaround of reports, plus
 the 150-day window for first-degree family members to get free testing,
@@ -97,7 +97,7 @@ easily detected. But it all starts with better awareness and education
 around FH, and for probands and cascades to come forward and accept treatment
 early. Together, we can work towards delaying or even preventing the onset
 of coronary diseases.”</p>
-<p>Read more about PRECISE’s clinical implementation pilots&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Read more about PRECISE’s clinical implementation pilots&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">here</a>.</p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
 <hr>
