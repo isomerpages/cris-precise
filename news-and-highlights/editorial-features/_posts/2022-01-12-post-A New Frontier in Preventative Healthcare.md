@@ -53,7 +53,7 @@ in our DNA and their combinations—are the biggest determinants of our risk
 of diseases. Therefore, understanding every individual’s genetics could
 take the prevention strategies several notches higher by helping predict
 disease earlier and diagnose them more accurately.</p>
-<p>This is one of the promises of&nbsp;<a href="/what-precision-medicine-is-not/" rel="noopener noreferrer nofollow" target="_blank">precision medicine</a>, which factors
+<p>This is one of the promises of&nbsp;<a href="/what-precision-medicine-is-not/" rel="noopener noreferrer nofollow" target="_self">precision medicine</a>, which factors
 in variations in genetics, lifestyle and environment to offer diagnosis
 and treatment better tailored to specific patient groups. Like many countries
 around the world, Singapore has set up an action plan in the form of its
