@@ -12,11 +12,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Dr Geoffrey Ginsburg" src="/images/Resources/Editorial Features/2025/All_of_Us___Dr_Geoffrey_Ginsburg.jpg">
 </div>
 <p>Beginning recruitment in 2018, the <em>All of Us</em> Research Program has
-enrolled over 860,000 participants&nbsp;as of 1 May 2025. <a href="https://www.researchallofus.org/data-tools/data-snapshots/" rel="noopener nofollow" target="_blank">[1]</a> More
+enrolled over 860,000 participants&nbsp;as of 1 May 2025.<a href="https://www.researchallofus.org/data-tools/data-snapshots/" rel="noopener nofollow" target="_blank"><sup>[1]</sup></a> More
 than 633,000 participants have gone on to contribute data such as biosamples,
 data from wearables, and physical measurements. Over 414,000 whole genome
 sequences have also been made available as a research resource for researchers
-within the <em>All of Us</em> Researcher Workbench. <a href="https://support.researchallofus.org/hc/en-us/articles/30294451486356-Curated-Data-Repository-CDR-version-8-Release-Notes" rel="noopener nofollow" target="_blank">[2]</a>
+within the <em>All of Us</em> Researcher Workbench.<a href="https://support.researchallofus.org/hc/en-us/articles/30294451486356-Curated-Data-Repository-CDR-version-8-Release-Notes" rel="noopener nofollow" target="_blank"><sup>[2]</sup></a>
 </p>
 <p><em>All of Us</em> was conceived in 2015, with the goal of enrolling one
 million participants across the U.S. Health data collected from these participants
@@ -80,12 +80,14 @@ encrypted. &nbsp;</p>
 of the data <em>All of Us </em>has collected. As of June 2025, over 17,000
 researchers from more than 1,100 organisations worldwide have registered
 to use the <em>All of Us</em> data analysis platform, the Researcher Workbench.
-<a href="https://allofus.nih.gov/article/announcement-all-us-releases-new-cognitive-and-behavioral-health-data" rel="noopener nofollow" target="_blank">[3]</a><a href="https://www.researchallofus.org/institutional-agreements/" rel="noopener nofollow" target="_blank">[4]</a> The
+<a href="https://allofus.nih.gov/article/announcement-all-us-releases-new-cognitive-and-behavioral-health-data" rel="noopener nofollow" target="_blank"><sup>[3]</sup>
+</a><a href="https://www.researchallofus.org/institutional-agreements/" rel="noopener nofollow" target="_blank"><sup>[4]</sup></a> The
 Researcher Workbench is a secure, cloud-based platform that provides registered
 researchers access to a wide array of health data, including genomic, electronic
 health records, and survey data. It offers tools for data analysis and
 collaboration, facilitating research aimed at advancing precision medicine.
-<a href="https://researchallofus.org/data-tools/workbench/" rel="noopener nofollow" target="_blank">[5]</a>
+<a href="https://researchallofus.org/data-tools/workbench/" rel="noopener nofollow" target="_blank"><sup>[5]</sup>
+</a>
 </p>
 <p></p>
 <p>Dr Ginsburg said, “The goal was to have 10,000 researchers using our data
@@ -120,14 +122,3 @@ After all, we are just starting out on our journey to advance precision
 medicine and improve health in the U.S.—and hopefully, even beyond our
 borders,” Dr Ginsburg concluded.</p>
 <p></p>
-<hr>
-<p>[1] <a rel="noopener noreferrer nofollow" target="_blank">https://www.researchallofus.org/data-tools/data-snapshots/</a>
-</p>
-<p>[2] <a rel="noopener noreferrer nofollow" target="_blank">https://support.researchallofus.org/hc/en-us/articles/30294451486356-Curated-Data-Repository-CDR-version-8-Release-Notes</a>
-</p>
-<p>[3] <a rel="noopener noreferrer nofollow" target="_blank">https://allofus.nih.gov/article/announcement-all-us-releases-new-cognitive-and-behavioral-health-data</a>
-</p>
-<p>[4] <a rel="noopener noreferrer nofollow" target="_blank">https://www.researchallofus.org/institutional-agreements/</a>
-</p>
-<p>[5] <a rel="noopener noreferrer nofollow" target="_blank">https://researchallofus.org/data-tools/workbench/</a>
-</p>
