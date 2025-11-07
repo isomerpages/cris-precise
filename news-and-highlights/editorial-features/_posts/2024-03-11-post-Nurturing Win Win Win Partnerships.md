@@ -96,7 +96,7 @@ knowledge and strong business network in Asia.</p>
 Genomics acquired clinical genetic testing know-how while Ambry Genetics
 mitigated some of the risks associated with entering a new market, in this
 case, Singapore.</p>
-<p>Together, they provide genetic testing for three ongoing <a href="https://npm.sg/cip" rel="noopener noreferrer nofollow" target="_blank">Clinical Implementation Pilots (CIPs)</a> for
+<p>Together, they provide genetic testing for three ongoing <a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">Clinical Implementation Pilots (CIPs)</a> for
 patients with familial hypercholesterolemia, familial and hereditary cancers,
 and primary glomerular diseases. These CIPs, supported by PRECISE, facilitate
 the incorporation of genetic and genomic testing into clinical pathways
