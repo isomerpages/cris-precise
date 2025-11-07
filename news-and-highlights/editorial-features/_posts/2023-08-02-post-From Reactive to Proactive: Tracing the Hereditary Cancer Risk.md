@@ -30,7 +30,7 @@ Joanne Ngeow, Head and Senior Consultant, Cancer Genetics Service, National
 Cancer Centre Singapore and Associate Professor, Genomic Medicine, Lee
 Kong Chian School of Medicine, and Associate Professor Ken Redekop, Erasmus
 School of Health Policy and Management, Erasmus University Rotterdam, embarked
-on a&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>&nbsp;(CIP)
+on a&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilot</a>&nbsp;(CIP)
 together—despite a geographical divide and a six-hour time difference.</p>
 <p><strong>Changing the Focus from Treatment to Prevention</strong>
 </p>
@@ -78,8 +78,8 @@ information.”</p>
 </p>
 <p>Four other CIPs are running concurrent to this one. Among which, cascade
 screening is a recurring theme not only for hereditary cancer, but also
-for&nbsp;<a href="/getting-to-the-heart-of-the-matter/" rel="noopener noreferrer nofollow" target="_blank">familial hypercholesterolemia</a>&nbsp;and&nbsp;
-<a href="/genetic-testing-for-primary-glomerular-disease-life-changing/" rel="noopener noreferrer nofollow" target="_blank">primary glomerular diseases</a>. A/Prof Ngeow commented, “Indeed, this
+for&nbsp;<a href="/getting-to-the-heart-of-the-matter/" rel="noopener noreferrer nofollow" target="_self">familial hypercholesterolemia</a>&nbsp;and&nbsp;
+<a href="/genetic-testing-for-primary-glomerular-disease-life-changing/" rel="noopener noreferrer nofollow" target="_self">primary glomerular diseases</a>. A/Prof Ngeow commented, “Indeed, this
 is one of very few projects that brings together multiple institutions
 and disciplines to share resources and exchange expertise—in a systematic,
 coherent and cohesive manner—towards fostering a better healthcare system
@@ -96,7 +96,7 @@ there is definitely a huge potential for generalising the knowledge to
 other diseases—and even other countries and geographic regions. I am hopeful
 what we are doing now will benefit many people—and for many years ahead,”
 A/Prof Redekop smiled.&nbsp;&nbsp;</p>
-<p><em>Click <a href="/improving-access-to-hereditary-cancer-genetic-testing/" rel="noopener noreferrer nofollow" target="_blank">here</a> to read more about how A/Prof Ngeow and A/Prof Redekop are improving access for hereditary cancer genetic testing.</em>&nbsp;</p>
+<p><em>Click <a href="/improving-access-to-hereditary-cancer-genetic-testing/" rel="noopener noreferrer nofollow" target="_self">here</a> to read more about how A/Prof Ngeow and A/Prof Redekop are improving access for hereditary cancer genetic testing.</em>&nbsp;</p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
 <hr>
