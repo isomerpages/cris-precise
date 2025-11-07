@@ -16,7 +16,7 @@ system, the implication of a rapidly ageing population is significant.</p>
 <hr>
 <p>Professor Kenneth Mak, Director-General of Health (DGH), Ministry of Health,
 explains the intricacy involved in ensuring the resilience and robustness
-of Singapore’s healthcare system and how the&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">National Precision Medicine (NPM) programme</a>&nbsp;plays
+of Singapore’s healthcare system and how the&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">National Precision Medicine (NPM)</a> programme plays
 a part in this strategy.</p>
 <p></p>
 <p><strong>What are some opportunities precision medicine offers to Singapore’s healthcare system?</strong>
