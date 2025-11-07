@@ -99,7 +99,8 @@ and identify environmental, lifestyle and genetic factors associated with
 diseases such as diabetes, hypertension, and cancer. The PRECISE-SG100K
 study will be a significant resource for promoting health in Singapore
 and will yield globally significant results.</p>
-<p>For more information, visit&nbsp;<a href="https://www.boehringer-ingelheim.com/external-link?external=https%3A%2F%2Fwww.npm.sg%2Fcollaborate%2Fpartners%2Fsg100k%2F" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg/collaborate/partners/sg100k/</a>&nbsp;.</p>
+<p>For more information, visit <a href="https://healthforlife.sg/" rel="noopener nofollow" target="_blank">SG100K.</a>
+</p>
 <hr>
 <p><strong>For media queries, please contact:</strong>
 </p>
