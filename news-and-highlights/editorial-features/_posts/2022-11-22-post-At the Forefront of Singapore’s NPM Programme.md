@@ -22,7 +22,7 @@ the collection, storage and processing of genetic data for disease studies.</p>
 <p>The intricacies of this endeavour can be likened to the operation of a
 sophisticated machine, where stakeholders play different parts to ensure
 its functionality. Realising the complexity of this process, Professor
-Patrick Tan, Executive Director of&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_blank">Precision Health Research, Singapore (PRECISE)</a>&nbsp;and
+Patrick Tan, Executive Director of&nbsp;<a href="https://www.npm.sg/" rel="noopener noreferrer nofollow" target="_self">Precision Health Research, Singapore (PRECISE)</a>&nbsp;and
 GIS, enlisted the help of talents&nbsp;from a myriad of institutes within
 A*STAR, including Dr. Claire Bellis from GIS, clinicians and researchers
 located at major hospitals and universities in Singapore who literally
