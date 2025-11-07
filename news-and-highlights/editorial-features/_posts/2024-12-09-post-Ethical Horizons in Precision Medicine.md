@@ -127,7 +127,7 @@ conference held from 21 to 23 August 2024 in Singapore covered 17 topics
 in precision medicine, and sought to address challenges and opportunities
 in translating advances into tangible enhancements in patient care to reshape
 the landscape of modern healthcare.</p>
-<p>For post-conference resources, visit <a href="https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations/" rel="noopener noreferrer nofollow" target="_blank">https://www.npm.sg/driving-progress-in-precision-health-through-global-collaborations.</a>
+<p>For post-conference resources, visit <a href="/driving-progress-in-precision-health-through-global-collaborations/" rel="noopener noreferrer nofollow" target="_self">here.</a>
 </p>
 <p></p>
 <hr>
