@@ -128,6 +128,6 @@ function could be discovered in Singapore.”
 </p>
 <p>[3] <a href="https://www.straitstimes.com/singapore/health/s-pore-launches-national-mental-health-and-well-being-strategy" rel="noopener nofollow" target="_blank">S’pore launches national mental health and well-being strategy (The Straits Times, 6 Oct 2023)</a>
 </p>
-<p>[4] <a href="https://www.npm.sg/partners/precise-sg100k/" rel="noopener nofollow" target="_blank">PRECISE-SG100K</a>
+<p>[4] PRECISE-SG100K
 <br>
 </p>
