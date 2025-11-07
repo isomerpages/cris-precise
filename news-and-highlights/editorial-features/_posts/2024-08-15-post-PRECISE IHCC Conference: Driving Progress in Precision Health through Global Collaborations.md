@@ -21,7 +21,7 @@ from population health to research in limited resource settings and ethics
 and policy.</p>
 <p>Jointly organised by Precision Health Research, Singapore (PRECISE) and
 the International Health Cohorts Consortium (IHCC), the conference themed
-“<a href="https://www.preciseihcc-conference.sg/about/conference/" rel="noopener noreferrer nofollow" target="_blank">From Cohorts to Clinics: The New Landscape of Global Healthcare</a>”
+“<a href="/precise-ihcc-conference/" rel="noopener noreferrer nofollow" target="_self">From Cohorts to Clinics: The New Landscape of Global Healthcare</a>”
 will bring together more than 500 international thought leaders, clinicians,
 scientists, biotech experts, and patient advocacy associations at the forefront
 of precision medicine and public health innovation.</p>
