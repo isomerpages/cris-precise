@@ -37,7 +37,7 @@ based on PGx test results, the uptake remains low.”</p>
 <p>“Pre-emptive PGx testing is presently not widely adopted due to barriers
 such as a lack of awareness and guidance, long turnaround time, counter-intuitive
 workflows, and the additional costs of testing itself. Hence, our goal
-with this&nbsp;<a href="https://www.npm.sg/cip/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>&nbsp;(CIP)
+with this&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_blank">clinical implementation pilot</a>&nbsp;(CIP)
 is to find ways to navigate around these issues—and optimise drug therapy
 outcomes for patients at the same time,” said Dr Lo.</p>
 <p><strong>Tackling Cost Concerns</strong>
@@ -117,7 +117,7 @@ medicine tool.”</p>
 best drug and dose so that patients do not lose the chance of response
 or is subjected to a preventable toxicity, and yet they will receive the
 best potential therapeutic outcomes,” Prof Goh concluded.</p>
-<p><em>Click&nbsp;<a href="https://www.npm.sg/news-and-events/editorial-features/pre-emptive-pharmacogenomic-testing-what-is-in-it-for-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read how Prof Goh, A/Prof Wee and Dr Lo are transforming Singapore’s clinical practice to benefit us here.</em>
+<p><em>Click&nbsp;<a href="/pre-emptive-pharmacogenomic-testing-what-is-in-it-for-us/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to read how Prof Goh, A/Prof Wee and Dr Lo are transforming Singapore’s clinical practice to benefit us here.</em>
 </p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
