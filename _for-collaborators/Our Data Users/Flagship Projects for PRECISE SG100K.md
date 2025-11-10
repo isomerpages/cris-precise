@@ -120,7 +120,7 @@ conditions for under- represented Asian populations.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Duke-NUS Medical School, Lee Kong Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome Institute of Singapore, Singapore National Eye Centre, Tan Tock Seng Hospital, National University of Singapore, National Heart Centre Singapore, National Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological University</em>
 </p>
 <hr>
-<h3><strong>Identification of Asian-Specific Genetic Association with Fat and Lean Muscle Mass Distribution</strong></h3>
+<h3><strong>Identification of Asian-specific Genetic Association with Fat and Lean Muscle Mass Distribution</strong></h3>
 <blockquote>
 <p><strong>Topic: Fat and Lean Muscle Mass</strong>
 </p>
@@ -262,12 +262,12 @@ immune diseases and pharmacogenomic responses.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: A/Prof Yeo See Cheng, </strong>
+<p><strong>Lead PI: A/Prof Yeo See Cheng,</strong>
 </p>
 <p>Tan Tock Seng Hospital</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof John Chambers, </strong>
+<p><strong>Co-Lead PI: Prof John Chambers,</strong>
 </p>
 <p>Lee Kong Chian School of Medicine</p>
 <p></p>
@@ -322,12 +322,12 @@ in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Liu Jianjun, </strong>
+<p><strong>Lead PI: Prof Liu Jianjun,</strong>
 </p>
 <p>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin, </strong>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin,</strong>
 </p>
 <p>A*STAR Genome Institute of Singapore</p>
 </li>
@@ -379,7 +379,7 @@ neurological and neurocognitive disorders.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Janice Goh, </strong>
+<p><strong>Lead PI: Dr Janice Goh,</strong>
 </p>
 <p>A*STAR Bioinformatics Institute</p>
 </li>
@@ -388,7 +388,7 @@ neurological and neurocognitive disorders.</p>
 of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin, </strong>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin,</strong>
 </p>
 <p>A*STAR Genome Institute of Singapore</p>
 <p></p>
@@ -441,7 +441,7 @@ both known and novel drug-gene sets for clinical action to make dose recommendat
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Ong Sin Tiong, </strong>
+<p><strong>Lead PI: Prof Ong Sin Tiong,</strong>
 </p>
 <p>Duke-NUS Medical School</p>
 </li>
@@ -454,12 +454,12 @@ of Singapore</p>
 Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof John Chambers, </strong>
+<p><strong>Co-Lead PI: Prof John Chambers,</strong>
 </p>
 <p>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin, </strong>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin,</strong>
 </p>
 <p>A*STAR Genome Institute of Singapore</p>
 <p></p>
