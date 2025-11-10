@@ -27,7 +27,7 @@ brief schedule below and register your interest by signing up <a href="https://f
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date, Time</strong>
+<p><strong>Date</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
