@@ -62,7 +62,7 @@ traits.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, Nanyang Technological University, Institute of Mental Health, National Neuroscience Institute, A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h3><strong>The SG100K_Med Alliance - Clinical Genetics Researchers United for the Analysis of Mendelian Disease Variation in SG100K</strong></h3>
+<h3><strong>The SG100K_Med Alliance – Clinical Genetics Researchers United for the Analysis of Mendelian Disease Variation in SG100K</strong></h3>
 <blockquote>
 <p><strong>Topic: Mendelian Diseases</strong>
 </p>
@@ -228,7 +228,7 @@ in Asian populations.</p>
 for local reference and for global population comparisons.</p>
 </li>
 <li>
-<p>Conduct association analyses of HLAalleles in outcomes including auto
+<p>Conduct association analyses of HLA alleles in outcomes including auto
 immune diseases and pharmacogenomic responses.</p>
 </li>
 </ol>
@@ -239,9 +239,9 @@ immune diseases and pharmacogenomic responses.</p>
 <p><strong>I<em>nstitutions involved:</em></strong><em> National University of Singapore, Tan Tock Seng Hospital, Duke-NUS Medical School</em>
 </p>
 <hr>
-<h3><strong>Identification of Asian-specific Genetic Association with Fat and Lean Muscle Mass Distribution</strong></h3>
+<h3><strong>Unravelling the Determinants of Kidney Health in a Multi-Ethnic Asian Population</strong></h3>
 <blockquote>
-<p><strong>Topic: Fat and Lean Muscle Mass</strong>
+<p><strong>Topic: Kidney Disease</strong>
 </p>
 </blockquote>
 <table style="minWidth: 50px">
@@ -262,42 +262,40 @@ immune diseases and pharmacogenomic responses.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Asst Prof Liu Boxiang</strong>
-<br>National University of Singapore</p>
+<p><strong>Lead PI: A/Prof Yeo See Cheng, Tan Tock Seng Hospital</strong>
+</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: A/Prof Sim Xueling</strong>
-<br>National University of Singapore</p>
-</li>
-<li>
-<p><strong>Co-Lead PI: Prof Tai E Shyong</strong>
-<br>National University of Singapore</p>
+<p><strong>Co-Lead PI: Prof John Chambers, Lee Kong Chian School of Medicine</strong>
+</p>
+<p></p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Perform multi-ethnic meta-analysis of fat and lean muscle mass using SG100K
-and UKBB datasets.</p>
+<p>Determine prevalence of chronic kidney disease (CKD) among adults.</p>
 </li>
 <li>
-<p>Mendelian randomisation analysis to identify the contribution of fat and
-lean muscle mass to cardiometabolic diseases.</p>
+<p>Examine association of CKD with genetic, clinical and socio-behavioural
+predictors.</p>
 </li>
 <li>
-<p>Colocalisation analysis to identify risk genes affecting fat and lean
-muscle mass.</p>
+<p>Examine relative contribution of key predictors driving differences in
+CKD risks across different sub- population.</p>
 </li>
 <li>
-<p>Conduct functional validation studies of identified genetic loci.</p>
+<p>Develop and validate an integrated risk score for the development of CKD
+in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
+<p></p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+<p><strong><em>Institutions involved:</em></strong><em> Tan Tock Seng Hospital, Lee Kong Chian School of Medicine</em>
 </p>
 <hr>
 <h3><strong>HLA Alleles and its Association with Auto Immune Diseases and Pharmacogenomics in Multi-Ancestral Asian Populations</strong></h3>
