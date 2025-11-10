@@ -29,7 +29,7 @@ third_nav_title: Our Data Users
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Asst Prof Max Lam</strong>
-<br>Lee Kong Chian School of Medicine, Institute of Mental Health</p>
+<br>Lee Kong Chian School of Medicine Institute of Mental Health</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: A/Prof Jimmy Lee</strong>
@@ -37,7 +37,7 @@ third_nav_title: Our Data Users
 </li>
 <li>
 <p><strong>Co-Lead PI: Prof Liu Jianjun</strong>
-<br>Distinguished Principal Scientist, Genome Institute of Singapore</p>
+<br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
 </td>
@@ -262,12 +262,12 @@ immune diseases and pharmacogenomic responses.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: A/Prof Yeo See Cheng,</strong>
+<p><strong>Lead PI: A/Prof Yeo See Cheng</strong>
 </p>
 <p>Tan Tock Seng Hospital</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof John Chambers,</strong>
+<p><strong>Co-Lead PI: Prof John Chambers</strong>
 </p>
 <p>Lee Kong Chian School of Medicine</p>
 <p></p>
@@ -322,17 +322,17 @@ in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Liu Jianjun,</strong>
+<p><strong>Lead PI: Prof Liu Jianjun</strong>
 </p>
 <p>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin,</strong>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
 </p>
 <p>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Asst Prof Lim Weng Khong, </strong>Duke-NUS Medical
+<p><strong>Co-Lead PI: Asst Prof Lim Weng Khong </strong>Duke-NUS Medical
 School</p>
 <p></p>
 </li>
