@@ -8,8 +8,9 @@ third_nav_title: Call for Proposals (CFP)
 <p>Information sessions about the PRECISE-SG100K Resource and CFP 2026 will
 be held at each of our research partner institutes in November 2025. See
 brief schedule below and register your interest by signing up <a href="https://form.gov.sg/68de28af63340f0b0f80c7eb" rel="noopener nofollow" target="_blank">here</a>.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -30,6 +31,10 @@ brief schedule below and register your interest by signing up <a href="https://f
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>CFP 2026 Champion</strong>
 </p>
 </td>
@@ -43,6 +48,8 @@ brief schedule below and register your interest by signing up <a href="https://f
 </td>
 <td rowspan="1" colspan="1">
 <p>17 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2:00 – 3:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,6 +65,8 @@ brief schedule below and register your interest by signing up <a href="https://f
 </td>
 <td rowspan="1" colspan="1">
 <p>18 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1:00 – 2:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,6 +82,8 @@ brief schedule below and register your interest by signing up <a href="https://f
 </td>
 <td rowspan="1" colspan="1">
 <p>26 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>9:30 – 10:30 AM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,6 +99,8 @@ brief schedule below and register your interest by signing up <a href="https://f
 </td>
 <td rowspan="1" colspan="1">
 <p>27 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>9:30 – 10:30 AM</p>
 </td>
 <td rowspan="1" colspan="1">
