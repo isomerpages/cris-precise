@@ -85,15 +85,15 @@ traits.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Lim Weng Khong</strong>
+<p><strong>Lead PI: Asst Prof Lim Weng Khong</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Joanne Ngeow </strong>
+<p><strong>Co-Lead PI: A/Prof Joanne Ngeow </strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Saumya Jamuar </strong>
+<p><strong>Co-Lead PI: A/Prof Saumya Jamuar </strong>
 <br>KK Women's and Children's Hospital</p>
 </li>
 </ul>
@@ -143,11 +143,11 @@ conditions for under- represented Asian populations.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Liu Boxiang</strong>
+<p><strong>Lead PI: Asst Prof Liu Boxiang</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: A/P Sim Xueling</strong>
+<p><strong>Co-Lead PI: A/Prof Sim Xueling</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
@@ -266,7 +266,7 @@ immune diseases and pharmacogenomic responses.</p>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: A/P Sim Xueling</strong>
+<p><strong>Co-Lead PI: A/Prof Sim Xueling</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
