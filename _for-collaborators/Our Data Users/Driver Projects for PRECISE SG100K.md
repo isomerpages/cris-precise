@@ -1618,4 +1618,3 @@ and long COVID outcomes in our population.</p>
 </table>
 <p><strong><em>Institutions involved:</em></strong><em> Ministry of Health</em>
 </p>
-<p></p>
