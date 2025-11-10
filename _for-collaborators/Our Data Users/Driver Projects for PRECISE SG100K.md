@@ -1203,7 +1203,7 @@ status</p>
 <p><strong><em>Institutions involved:</em></strong><em> National Cancer Centre Singapore, SingHealth</em>
 </p>
 <hr>
-<h3><strong>Young - Onset Obesity and Determinants of Cancer Prevalence</strong></h3>
+<h3><strong>Young-onset Obesity and Determinants of Cancer Prevalence</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1259,7 +1259,7 @@ across ethnic groups and cancer sites.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine</em>
 </p>
 <hr>
-<h3><strong>Implications of Alternative Splicing of Voltagegated Calcium Channels in Schizophrenia</strong></h3>
+<h3><strong>Implications of Alternative Splicing of Voltage-gated Calcium Channels in Schizophrenia</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1373,10 +1373,14 @@ and CVDs.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.Determine the prevalence of autosomal dominant (AD), X-linked (XL),
-autosomal recessive (AR) and digenic Alport syndrome in Singapore; and
-differences in these prevalences among the Chines, Malay and Indian populations
-in Singapore.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Determine the prevalence of autosomal dominant (AD), X-linked (XL), autosomal
+recessive (AR) and digenic Alport syndrome in Singapore; and differences
+in these prevalences among the Chines, Malay and Indian populations in
+Singapore.</p>
+</li>
+</ol>
 <p>2a. Determine the penetrance of Kidney, eye and hearing phenotypes in
 AD Alport, XL male Alport and XL female Alport syndrome, stratified according
 to age groups and gender in Singapore.</p>
@@ -1473,11 +1477,11 @@ hearing loss based on an individual's genotype.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Andrea B. Maier</strong>
+<p><strong>Lead PI: Prof Andrea B. Maier</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Weilan Wang</strong>
+<p><strong>Co-Lead PI: Dr Weilan Wang</strong>
 <br>National University of Singapore</p>
 </li>
 </ul>
@@ -1524,15 +1528,15 @@ biological organ age.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Patrick Tan</strong>
+<p><strong>Lead PI: Prof Patrick Tan</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Lim Weng Khong</strong>
+<p><strong>Co-Lead PI: Asst Prof Lim Weng Khong</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
+<p><strong>Co-Lead PI: Dr Rajkumar s/o Dorajoo</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
@@ -1565,7 +1569,7 @@ these factors.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Duke-NUS Medical School, A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h3><strong>Genomic Associations of COVID - 19 Susceptibility &amp; Severity in Singapore</strong></h3>
+<h3><strong>Genomic Associations of COVID-19 Susceptibility &amp; Severity in Singapore</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1584,7 +1588,7 @@ these factors.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Kelvin Bryan Tan</strong>
+<p><strong>Lead PI: Adj A/Prof Kelvin Bryan Tan</strong>
 <br>Ministry of Health</p>
 </li>
 </ul>
