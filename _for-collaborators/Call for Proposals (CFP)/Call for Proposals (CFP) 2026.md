@@ -87,7 +87,7 @@ dietary patterns and nutrient intake</p>
 <p>HbA1C</p>
 </li>
 </ul>
-<p><em>Note:Imaging files and other raw data BLOBs are currently not available</em>
+<p><em>Note: Imaging files and other raw data BLOBs are currently not available</em>
 </p>
 <hr>
 <blockquote>
