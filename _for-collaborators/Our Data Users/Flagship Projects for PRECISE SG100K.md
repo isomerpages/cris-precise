@@ -120,6 +120,125 @@ conditions for under- represented Asian populations.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Duke-NUS Medical School, Lee Kong Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome Institute of Singapore, Singapore National Eye Centre, Tan Tock Seng Hospital, National University of Singapore, National Heart Centre Singapore, National Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological University</em>
 </p>
 <hr>
+<h3><strong>Identification of Asian-Specific Genetic Association with Fat and Lean Muscle Mass Distribution</strong></h3>
+<blockquote>
+<p><strong>Topic: Fat and Lean Muscle Mass</strong>
+</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: Asst Prof Liu Boxiang</strong>
+<br>National University of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: A/Prof Sim Xueling</strong>
+<br>National University of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Prof Tai E Shyong</strong>
+<br>National University of Singapore</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Perform multi-ethnic meta-analysis of fat and lean muscle mass using SG100K
+and UKBB datasets.</p>
+</li>
+<li>
+<p>Mendelian randomisation analysis to identify the contribution of fat and
+lean muscle mass to cardiometabolic diseases.</p>
+</li>
+<li>
+<p>Colocalisation analysis to identify risk genes affecting fat and lean
+muscle mass.</p>
+</li>
+<li>
+<p>Conduct functional validation studies of identified genetic loci.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+</p>
+<hr>
+<h3><strong>HLA Alleles and its Association with Auto Immune Diseases and Pharmacogenomics in Multi-Ancestral Asian Populations</strong></h3>
+<blockquote>
+<p><strong>Topic: Human Leukocyte Antigen</strong>
+</p>
+</blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Aims of Project</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead PI: A/Prof Sim Xueling</strong>
+<br>National University of Singapore</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Adj A/Prof Leong Khai Pang</strong>
+<br>Tan Tock Seng Hospital</p>
+</li>
+<li>
+<p><strong>Co-Lead PI: Dr Wharton Chan</strong>
+<br>Duke-NUS Medical School</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Generate a high-resolution human leukocyte antigen (HLA) reference panel
+in Asian populations.</p>
+</li>
+<li>
+<p>Generate frequencies of HLA alleles and haplotypes in Asian populations
+for local reference and for global population comparisons.</p>
+</li>
+<li>
+<p>Conduct association analyses of HLAalleles in outcomes including auto
+immune diseases and pharmacogenomic responses.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>I<em>nstitutions involved:</em></strong><em> National University of Singapore, Tan Tock Seng Hospital, Duke-NUS Medical School</em>
+</p>
+<hr>
 <h3><strong>Identification of Asian-specific Genetic Association with Fat and Lean Muscle Mass Distribution</strong></h3>
 <blockquote>
 <p><strong>Topic: Fat and Lean Muscle Mass</strong>
@@ -239,6 +358,8 @@ immune diseases and pharmacogenomic responses.</p>
 <p><strong>I<em>nstitutions involved:</em></strong><em> National University of Singapore, Tan Tock Seng Hospital, Duke-NUS Medical School</em>
 </p>
 <hr>
+<h3></h3>
+<p></p>
 <h3><strong>Advancing Precision Medicine for Cardiovascular Disease and Diabetes in Asian Populations</strong></h3>
 <blockquote>
 <p><strong>Topic: Cardiovascular and Metabolic Diseases</strong>
