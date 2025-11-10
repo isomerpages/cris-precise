@@ -201,15 +201,15 @@ ocular health.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Yew Yik Weng</strong>
+<p><strong>Lead PI: Dr Yew Yik Weng</strong>
 <br>National Skin Centre</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Steven Thng Tien Guan</strong>
+<p><strong>Co-Lead PI: Dr Steven Thng Tien Guan</strong>
 <br>National Skin Centre</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Marie Loh</strong>
+<p><strong>Co-Lead PI: Asst Prof Marie Loh</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 </ul>
@@ -257,16 +257,22 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Theresia Mina</strong>
-<br>Lee Kong Chian School of Medicine</p>
+<p><strong>Lead PI: Dr Kuang Ziyang</strong>
+</p>
+<p><strong>Jonathan</strong>
+</p>
+<p>Gastroenterology &amp; Hepatology</p>
+<p>Tan Tock Seng Hospital</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Jojn Chambers</strong>
-<br>Lee Kong Chian School of Medicine</p>
+<p><strong>Co-Lead PI: A/Prof Sunny Wong</strong>
+</p>
+<p>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Sim Xueling</strong>
-<br>National University of Singapore</p>
+<p><strong>Co-Lead PI: Dr Chen Kok Pun, </strong>Gastroenterology &amp; Hepatology</p>
+<p>Tan Tock Seng Hospital</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -311,7 +317,7 @@ precision medicine strategies.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Tan Tock Seng Hospital, Lee Kong Chian School of Medicine</em>
 </p>
 <hr>
-<h3><strong>The Contribution of Genetics to Dietary Habit and Its Relation to Adiposity and Cardiometabolic Diseases in Multiethnic Asian Population</strong></h3>
+<h3><strong>The Contribution of Genetics to Dietary Habit and its Relation to Adiposity and Cardiometabolic Diseases in Multi-Ethnic Asian Population</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -330,15 +336,15 @@ precision medicine strategies.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Theresia Mina</strong>
+<p><strong>Lead PI: Asst Prof Theresia Mina</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Jojn Chambers</strong>
+<p><strong>Co-Lead PI: Prof John Chambers</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Sim Xueling</strong>
+<p><strong>Co-Lead PI: A/Prof Sim Xueling</strong>
 <br>National University of Singapore</p>
 </li>
 </ul>
@@ -392,15 +398,15 @@ with relevant sensitivity analyses.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Joanna Tan Hui Juan</strong>
+<p><strong>Lead PI: Dr Joanna Tan Hui Juan</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Shyam Prabhakar</strong>
+<p><strong>Co-Lead PI: Dr Shyam Prabhakar</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Patrick Tan Boon Ooi</strong>
+<p><strong>Co-Lead PI: Prof Patrick Tan Boon Ooi</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
