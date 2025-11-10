@@ -111,7 +111,7 @@ metabolic disease.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University Hospital</em>
 </p>
 <hr>
-<h3><strong>Nonlinear Methods for Genomic Association Aanalysis of Eye Diseases</strong></h3>
+<h3><strong>Nonlinear Methods for Genomic Association Analysis of Eye Diseases</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -317,7 +317,7 @@ precision medicine strategies.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Tan Tock Seng Hospital, Lee Kong Chian School of Medicine</em>
 </p>
 <hr>
-<h3><strong>The Contribution of Genetics to Dietary Habit and its Relation to Adiposity and Cardiometabolic Diseases in Multi-Ethnic Asian Population</strong></h3>
+<h3><strong>The Contribution of Genetics to Dietary Habit and its Relation to Adiposity and Cardiometabolic Diseases in Multi-ethnic Asian Population</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -668,7 +668,7 @@ design.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Singapore Institute for Clinical Sciences</em>
 </p>
 <hr>
-<h3><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune - Mediated Disorders in the Singaporean Population</strong></h3>
+<h3><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune-mediated Disorders in the Singaporean Population</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
