@@ -24,15 +24,15 @@ third_nav_title: Our Data Users
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Li Jingmei</strong>
+<p><strong>Lead PI: Dr Li Jingmei</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
+<p><strong>Co-Lead PI: Dr Rajkumar s/o Dorajoo</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Khor Chiea Chuen </strong>A*STAR Genome Institute
+<p><strong>Co-Lead PI: Dr Khor Chiea Chuen </strong>A*STAR Genome Institute
 of Singapore</p>
 </li>
 </ul>
