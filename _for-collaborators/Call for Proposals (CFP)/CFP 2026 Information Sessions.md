@@ -36,7 +36,7 @@ brief schedule below and register your interest by signing up <a href="https://f
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A*STAR Matrix Codon A&amp;B rooms</p>
+<p><strong>A*STAR</strong> Matrix Codon A&amp;B rooms</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17 Nov 2025</p>
@@ -50,13 +50,13 @@ brief schedule below and register your interest by signing up <a href="https://f
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LKC-NTU Conference room level 7-1</p>
+<p><strong>LKC-NTU</strong> Conference room level 7-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13:00 – 14:00 PM</p>
+<p>13:00 – 14:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst Prof Theresia Mina</p>
@@ -64,7 +64,7 @@ brief schedule below and register your interest by signing up <a href="https://f
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Duke-NUS Meeting Room 7C</p>
+<p><strong>Duke-NUS</strong> Meeting Room 7C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26 Nov 2025</p>
@@ -78,7 +78,7 @@ brief schedule below and register your interest by signing up <a href="https://f
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NUS MD1 Seminar Room 1</p>
+<p><strong>NUS MD1</strong> Seminar Room 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27 Nov 2025</p>
