@@ -79,7 +79,7 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Mark Chan</strong>
+<p><strong>Lead PI: A/Prof Mark Chan</strong>
 <br>National University Hospital
 <br>Cardiology</p>
 </li>
@@ -130,24 +130,25 @@ metabolic disease.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Liu Dianbo</strong>
+<p><strong>Lead PI: Asst Prof Liu Dianbo</strong>
 <br>National University of Singapore
 <br>Ophthamology</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: A/P Wee Hwee Lin</strong>
-<br>National University of Singapore</p>
+<p><strong>Co-Lead PI: Prof Ching-Yu Cheng</strong>
+</p>
+<p>National University of Singapore Ophthamology</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
-<br>A*STAR Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Asst Prof Tham Yih Chung</strong> National University
+of Singapore Ophthamology</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Identify non-linear genetic associations contributing to \ the susceptibility
+<p>Identify non-linear genetic associations contributing to the susceptibility
 and manifestation of diverse eye diseases.</p>
 </li>
 <li>
