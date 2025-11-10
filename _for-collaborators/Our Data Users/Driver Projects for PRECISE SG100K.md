@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Data Users
 ---
-<h3><strong>Computation of Genome - Wide LD Scores and Matrices from the SG100K resource</strong></h3>
+<h3><strong>Computation of Genome-wide LD Scores and Matrices from the SG100K resource</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
