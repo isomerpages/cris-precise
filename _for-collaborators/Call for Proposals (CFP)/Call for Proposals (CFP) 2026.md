@@ -5,7 +5,7 @@ variant: tiptap
 description: Call for Proposals 2026 (CFP 2026)
 third_nav_title: Call for Proposals (CFP)
 ---
-<p><strong>(Anticipated Call Launch: 2 January 2026. Check this page for updates)</strong>
+<p><strong>(Call Launch: 2 January 2026. Check this page for updates)</strong>
 </p>
 <h3><strong>Introduction</strong></h3>
 <p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
@@ -16,7 +16,7 @@ research, in Singapore, Asia and the world.&nbsp;</p>
 access to the intermediate data release of 50,000 participants was enabled
 for Singapore public academic and clinical researchers. The PRECISE-SG100K
 Scientific Committee selected 37 projects, comprising 9 Flagship Projects
-and 28 Driver Projects (Details on the projects are available <a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>).</p>
+and 28 Driver Projects (Details on the projects are available <a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_10Nov2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>).</p>
 <p>Building on the success of CFP 2024, and in anticipation of releasing
 baseline data for all ~100,000 participants, PRECISE-SG100K is planning
 a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite
@@ -87,10 +87,9 @@ dietary patterns and nutrient intake</p>
 <p>HbA1C</p>
 </li>
 </ul>
-<p><em>Note:Imaging files and other raw data BLOBs are currently not available</em>
+<p><em>Note: Imaging files and other raw data BLOBs are currently not available</em>
 </p>
 <hr>
-<p></p>
 <blockquote>
 <p><strong>Genome Data</strong>
 </p>
@@ -120,7 +119,6 @@ and demand.</p>
 </li>
 </ul>
 <hr>
-<p></p>
 <blockquote>
 <p><strong>Clinical Data and other Health-related Data</strong>
 </p>
@@ -218,7 +216,7 @@ be supported.</p>
 </li>
 <li>
 <p>Submitted proposals should <strong>not overlap</strong> with<strong> existing </strong>approved
-<a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">projects</a><strong>.</strong>
+<a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_10Nov2025.pdf" rel="noopener noreferrer nofollow" target="_blank">projects</a><strong>.</strong>
 </p>
 </li>
 </ol>
@@ -380,10 +378,10 @@ related to Call for Proposals 2026.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Citeria</p>
+<p>Criteria</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Description of criteria</p>
+<p>Description of Criteria</p>
 </th>
 </tr>
 <tr>
@@ -407,7 +405,7 @@ related to Call for Proposals 2026.</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Scientific ambition/ hypothesis</strong>
+<p><strong>Scientific Ambition/ Hypothesis</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -432,7 +430,7 @@ related to Call for Proposals 2026.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Project plan</strong>
+<p><strong>Project Plan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
