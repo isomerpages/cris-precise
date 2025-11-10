@@ -70,7 +70,7 @@ sections:
       id: announcements
       subtitle: News and highlights
       announcement_items:
-        - title: Call for Proposals 2026
+        - title: Call for Proposals (CFP) 2026
           date: 31 October 2025
           announcement: "Anticipated call launch: 2 January 2026. More information will be
             provided soon."
@@ -82,4 +82,11 @@ sections:
             microbiomes and mental health.
           link_text: Read more
           link_url: /glow-gut-linked-outcomes-in-wellbeing/
+        - title: CFP 2026 Information Sessions
+          date: 10 November 2025
+          announcement: Information sessions about the PRECISE-SG100K Resource and CFP
+            2026 will be held at each of our research partner institutes in
+            November 2025.
+          link_text: Read more
+          link_url: /cfp-2026-information-sessions/
 ---
