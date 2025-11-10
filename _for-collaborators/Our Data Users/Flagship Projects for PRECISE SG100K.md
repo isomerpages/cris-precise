@@ -120,7 +120,7 @@ conditions for under- represented Asian populations.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Duke-NUS Medical School, Lee Kong Chian School of Medicine, KK Women's and Children's Hospital, A*STAR Genome Institute of Singapore, Singapore National Eye Centre, Tan Tock Seng Hospital, National University of Singapore, National Heart Centre Singapore, National Neuroscience Institute, Khoo Teck Puat Hospital, Nanyang Technological University</em>
 </p>
 <hr>
-<h3><strong>Identification of Asian - Specific Genetic Association with Fat and Lean Muscle Mass Distribution</strong></h3>
+<h3><strong>Identification of Asian-specific Genetic Association with Fat and Lean Muscle Mass Distribution</strong></h3>
 <blockquote>
 <p><strong>Topic: Fat and Lean Muscle Mass</strong>
 </p>
@@ -181,7 +181,7 @@ muscle mass.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h3><strong>HLA Alleles and its Association with Auto Immune Diseases and Pharmacogenomics in Multi - Ancestral Asian Populations</strong></h3>
+<h3><strong>HLA Alleles and its Association with Auto Immune Diseases and Pharmacogenomics in Multi-Ancestral Asian Populations</strong></h3>
 <blockquote>
 <p><strong>Topic: Human Leukocyte Antigen</strong>
 </p>
@@ -204,11 +204,11 @@ muscle mass.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: A/P Sim Xueling</strong>
+<p><strong>Lead PI: A/Prof Sim Xueling</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Leong Khai Pang</strong>
+<p><strong>Co-Lead PI: Adj A/Prof Leong Khai Pang</strong>
 <br>Tan Tock Seng Hospital</p>
 </li>
 <li>
