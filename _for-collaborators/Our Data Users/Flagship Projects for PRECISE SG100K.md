@@ -181,7 +181,7 @@ muscle mass.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h3><strong>HLA Alleles and its Association with Auto Immune Diseases and Pharmacogenomics in Multi-ancestral Asian Populations</strong></h3>
+<h3><strong>HLA Alleles and its Association with Auto-immune Diseases and Pharmacogenomics in Multi-ancestral Asian Populations</strong></h3>
 <blockquote>
 <p><strong>Topic: Human Leukocyte Antigen</strong>
 </p>
