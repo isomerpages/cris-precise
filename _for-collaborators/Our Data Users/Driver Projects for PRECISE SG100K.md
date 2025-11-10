@@ -528,15 +528,15 @@ nephropathy and retinopathy and diabetic foot ulcers.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Joanne Ngeow</strong>
+<p><strong>Lead PI: A/Prof Joanne Ngeow</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
+<p><strong>Co-Lead PI: Dr Rajkumar s/o Dorajoo</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Neerja Karnani</strong>
+<p><strong>Co-Lead PI: Dr Neerja Karnani</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
@@ -566,7 +566,7 @@ common cancer status (breast, colorectal, liver, lung, and prostate cancers).</p
 <p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine, A*STAR Genome Institute of Singapore, Bioinformatics Institute</em>
 </p>
 <hr>
-<h3><strong>Genetic Susceptibility of Age - Related Hearing Loss</strong></h3>
+<h3><strong>Genetic Susceptibility of Age-related Hearing Loss</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -585,15 +585,15 @@ common cancer status (breast, colorectal, liver, lung, and prostate cancers).</p
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Liu Jianjun</strong>
+<p><strong>Lead PI: Prof Liu Jianjun</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Nicolas Bertin</strong>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Lim Weng Khong</strong>
+<p><strong>Co-Lead PI: Asst Prof Lim Weng Khong</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 </ul>
@@ -616,7 +616,7 @@ neurological and neurocognitive disorders.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore, Duke-NUS Medical School</em>
 </p>
 <hr>
-<h3><strong>Evaluating the Promise and Perils of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist: A Deep Dive into Therapeutic Potentials and Adverse Effects</strong></h3>
+<h3><strong>Evaluating the Promise and Perils of Glucagon-like Peptide-1 (GLP-1) Receptor Agonist: A Deep Dive into Therapeutic Potentials and Adverse Effects</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -635,11 +635,11 @@ neurological and neurocognitive disorders.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Huang Jian</strong>
+<p><strong>Lead PI: Dr Huang Jian</strong>
 <br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dennis Wan</strong>
+<p><strong>Co-Lead PI: Prof Dennis Wang</strong>
 <br>A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute</p>
 </li>
 </ul>
@@ -687,15 +687,15 @@ design.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Sun</strong>ny Wong
+<p><strong>Lead PI: A/Prof Sunny Wong </strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Anselm Mak</strong>
+<p><strong>Co-Lead PI: Prof Anselm Mak</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Bernett Lee</strong>
+<p><strong>Co-Lead PI: Asst Prof Bernett Lee</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 </ul>
@@ -765,7 +765,7 @@ strategies.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Chew Fook Tim</strong>
+<p><strong>Lead PI: A/Prof Chew Fook Tim</strong>
 <br>National University of Singapore</p>
 </li>
 </ul>
@@ -773,7 +773,7 @@ strategies.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>Validate disease-associated genetic polymorphisms and enviromental factors
+<p>Validate disease-associated genetic polymorphisms and environmental factors
 that were previously identified and functionally characterised in the SMCGES
 cohort, using the PRECISE-SG100K dataset.</p>
 </li>
@@ -822,7 +822,7 @@ and progression of allergic diseases.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Ho Han Kiat</strong>
+<p><strong>Lead PI: A/Prof Ho Han Kiat</strong>
 <br>National University of Singapore</p>
 </li>
 </ul>
@@ -853,7 +853,7 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h3><strong>Multi - Omics Data Analysis for Novel Depression Mechanisms using Deep Learning Tools</strong></h3>
+<h3><strong>Multi-omics Data Analysis for Novel Depression Mechanisms using Deep Learning Tools</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -872,15 +872,15 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Mu Yuguang</strong>
+<p><strong>Lead PI: A/Prof Mu Yuguang</strong>
 <br>Nanyang Technological University</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Bernett Lee</strong>
+<p><strong>Co-Lead PI: Asst Prof Bernett Lee</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Geoffrey Tan Chern-Yee</strong>
+<p><strong>Co-Lead PI: Dr Geoffrey Tan Chern-Yee</strong>
 <br>Institute of Mental Health</p>
 </li>
 </ul>
@@ -911,7 +911,7 @@ learning.</p>
 <p><strong><em>Institutions involved:</em></strong><em> Nanyang Technological University, Lee Kong Chian School of Medicine, Institute of Mental Health</em>
 </p>
 <hr>
-<h3><strong>Asian - Specific Parkinson’s Disease - Linked Genetic Risk Variants and Systemic Clinical Outcomes</strong></h3>
+<h3><strong>Asian-specific Parkinson’s Disease-linked Genetic Risk Variants and Systemic Clinical Outcomes</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -930,15 +930,15 @@ learning.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Tan Eng King</strong>
+<p><strong>Lead PI: Prof Tan Eng King</strong>
 <br>National Neuroscience Institute</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Thomas Welton</strong>
+<p><strong>Co-Lead PI: Asst Prof Thomas Welton</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Chan Ling Ling</strong>
+<p><strong>Co-Lead PI: Prof Chan Ling Ling</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 </ul>
@@ -988,19 +988,19 @@ tissue microstructure between carriers and non- carriers.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Neerja Karnani</strong>
+<p><strong>Lead PI: Dr Neerja Karnani</strong>
 <br>A*STAR Bioinformatics Institute</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Joanne Ngeow</strong>
+<p><strong>Co-Lead PI: A/Prof Joanne Ngeow</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Brian Kennedy</strong>
+<p><strong>Co-Lead PI: Prof Brian Kennedy</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Rajkumar s/o Dorajoo</strong>
+<p><strong>Co-Lead PI: Dr Rajkumar s/o Dorajoo</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
@@ -1049,11 +1049,11 @@ health during aging</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Pierre-Alexis Goy</strong>
+<p><strong>Lead PI: Dr Pierre-Alexis Goy</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Li Jingmei</strong>
+<p><strong>Co-Lead PI: Dr Li Jingmei</strong>
 <br>A*STAR Genome Institute of Singapore</p>
 </li>
 </ul>
@@ -1099,7 +1099,7 @@ PRS in a Singapore context.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h3><strong>Advancing Asian - Centric Liver Disease Treatment: Machine Learning Applications in MASLD and MetALD Precision Medicine</strong></h3>
+<h3><strong>Advancing Asian-centric Liver Disease Treatment: Machine Learning Applications in MASLD and MetALD Precision Medicine</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1118,15 +1118,15 @@ PRS in a Singapore context.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Tan Nguan Soon</strong>
+<p><strong>Lead PI: A/Prof Tan Nguan Soon</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Yew Kuo Chao</strong>
+<p><strong>Co-Lead PI: Dr Yew Kuo Chao</strong>
 <br>Tan Tock Seng Hospital</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Cheng Hong Sheng</strong>
+<p><strong>Co-Lead PI: DR Cheng Hong Sheng</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 </ul>
@@ -1172,12 +1172,12 @@ of predictive markers for MASLD disease spectrum.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Teh Bin Tean</strong>
+<p><strong>Lead PI: Prof Teh Bin Tean</strong>
 <br>National Cancer Centre</p>
 <p>Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Frederick Koh Hong Xiang</strong>
+<p><strong>Co-Lead PI: A/Prof Frederick Koh Hong Xiang</strong>
 <br>SingHealth</p>
 </li>
 </ul>
@@ -1222,15 +1222,15 @@ status</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Yusuf Ali</strong>
+<p><strong>Lead PI: A/Prof Yusuf Ali</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Sunny Wong</strong>
+<p><strong>Co-Lead PI: A/Prof Sunny Wong</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Fan Xiuyi</strong>
+<p><strong>Co-Lead PI: Asst Prof Fan Xiuyi</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 </ul>
@@ -1278,7 +1278,7 @@ across ethnic groups and cancer sites.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Soong Tuck Wah</strong>
+<p><strong>Lead PI: Prof Soong Tuck Wah</strong>
 </p>
 </li>
 </ul>
@@ -1313,7 +1313,7 @@ in the SG100K cohort.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Tan Kar-Tong</strong>
+<p><strong>Lead PI: Asst Prof Tan Kar-Tong</strong>
 </p>
 </li>
 </ul>
@@ -1340,7 +1340,7 @@ and CVDs.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h3><strong>Alport Syndrome in the Singapore Population: An Under - Recognised Kidney Disease?</strong></h3>
+<h3><strong>Alport Syndrome in the Singapore Population: An Under-recognised Kidney Disease?</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1359,15 +1359,15 @@ and CVDs.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Ng Kar Hui</strong>
+<p><strong>Lead PI: A/Prof Ng Kar Hui</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: David Bryce Matchar</strong>
+<p><strong>Co-Lead PI: Prof David Bryce Matchar</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Jason Choo Chon Jun</strong>
+<p><strong>Co-Lead PI: A/Prof Jason Choo Chon Jun</strong>
 <br>Duke-NUS Medical School</p>
 </li>
 </ul>
@@ -1398,7 +1398,7 @@ in AD Alport subjects.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore, Duke-NUS Medical School</em>
 </p>
 <hr>
-<h3><strong>Risk Prediction for Congenital and Early - Onset Hearing Loss</strong></h3>
+<h3><strong>Risk Prediction for Congenital and Early-onset Hearing Loss</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1417,15 +1417,15 @@ in AD Alport subjects.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Joshua Tay</strong>
+<p><strong>Lead PI: Asst Prof Joshua Tay</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Tan Ene Choo</strong>
+<p><strong>Co-Lead PI: Adj&nbsp;A/Prof</strong>  <strong>Tan Ene Choo</strong>
 <br>KK Women's &amp; Children's Hospital</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Goh Xueying</strong>
+<p><strong>Co-Lead PI: Adj Asst Prof Goh Xueying</strong>
 <br>National University of Singapore</p>
 </li>
 </ul>
