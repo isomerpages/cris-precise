@@ -441,7 +441,7 @@ scRNA-seq data.</p>
 <p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
-<h3><strong>Genome - Wide Association Study and Population - Based Evaluation of Patients with Diabetic Foot Ulcers</strong></h3>
+<h3><strong>Genome-wide Association Study and Population-based Evaluation of Patients with Diabetic Foot Ulcers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -460,15 +460,15 @@ scRNA-seq data.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Joseph Lo</strong>
+<p><strong>Lead PI: Dr Joseph Lo</strong>
 <br>Woodlands Health</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Kavita Venkataraman</strong>
+<p><strong>Co-Lead PI: A/Prof Kavita Venkataraman</strong>
 <br>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Yusuf Ali</strong>
+<p><strong>Co-Lead PI: A/Prof Yusuf Ali</strong>
 <br>Lee Kong Chian School of Medicine</p>
 </li>
 </ul>
