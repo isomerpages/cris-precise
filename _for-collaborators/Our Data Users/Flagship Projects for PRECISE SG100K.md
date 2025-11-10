@@ -379,16 +379,16 @@ neurological and neurocognitive disorders.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Janice Goh,</strong>
+<p><strong>Lead PI: Dr Janice Goh</strong>
 </p>
 <p>A*STAR Bioinformatics Institute</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: A/Prof Wee Hwee Lin, </strong>National University
-of Singapore</p>
+<p><strong>Co-Lead PI: A/Prof Wee Hwee Lin </strong>National University of
+Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin,</strong>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
 </p>
 <p>A*STAR Genome Institute of Singapore</p>
 <p></p>
@@ -441,25 +441,26 @@ both known and novel drug-gene sets for clinical action to make dose recommendat
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Ong Sin Tiong,</strong>
+<p><strong>Lead PI: Prof Ong Sin Tiong</strong>
 </p>
 <p>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Ashok Venkitaraman, </strong>National University
-of Singapore</p>
+<p><strong>Co-Lead PI: Prof Ashok Venkitaraman</strong>
+</p>
+<p>National University of Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Chng Wee Joo, </strong>National University of
+<p><strong>Co-Lead PI: Prof Chng Wee Joo </strong>National University of
 Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof John Chambers,</strong>
+<p><strong>Co-Lead PI: Prof John Chambers</strong>
 </p>
 <p>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin,</strong>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
 </p>
 <p>A*STAR Genome Institute of Singapore</p>
 <p></p>
