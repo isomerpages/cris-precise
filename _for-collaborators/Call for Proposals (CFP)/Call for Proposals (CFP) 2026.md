@@ -90,7 +90,6 @@ dietary patterns and nutrient intake</p>
 <p><em>Note:Imaging files and other raw data BLOBs are currently not available</em>
 </p>
 <hr>
-<p></p>
 <blockquote>
 <p><strong>Genome Data</strong>
 </p>
@@ -120,7 +119,6 @@ and demand.</p>
 </li>
 </ul>
 <hr>
-<p></p>
 <blockquote>
 <p><strong>Clinical Data and other Health-related Data</strong>
 </p>
@@ -380,10 +378,10 @@ related to Call for Proposals 2026.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Citeria</p>
+<p>Criteria</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Description of criteria</p>
+<p>Description of Criteria</p>
 </th>
 </tr>
 <tr>
@@ -407,7 +405,7 @@ related to Call for Proposals 2026.</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Scientific ambition/ hypothesis</strong>
+<p><strong>Scientific Ambition/ Hypothesis</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -432,7 +430,7 @@ related to Call for Proposals 2026.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Project plan</strong>
+<p><strong>Project Plan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
