@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Call for Proposals (CFP)
 ---
 <p>Information sessions about the PRECISE-SG100K Resource and CFP 2026 will
-be held at each of our research partner institutes in November. See brief
-schedule below and register your interest by signing up <a href="https://form.gov.sg/68de28af63340f0b0f80c7eb" rel="noopener nofollow" target="_blank">here</a>.</p>
+be held at each of our research partner institutes in November 2025. See
+brief schedule below and register your interest by signing up <a href="https://form.gov.sg/68de28af63340f0b0f80c7eb" rel="noopener nofollow" target="_blank">here</a>.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -42,7 +42,7 @@ schedule below and register your interest by signing up <a href="https://form.go
 <p>Matrix Codon A&amp;B rooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Nov,</p>
+<p>17 Nov 2025,</p>
 <p>2:00 – 3:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ schedule below and register your interest by signing up <a href="https://form.go
 <p>LKC Conference room level 7-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 Nov,</p>
+<p>18 Nov 2025,</p>
 <p>1:00 – 2:00 PM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +72,7 @@ schedule below and register your interest by signing up <a href="https://form.go
 <p>Meeting Room 7C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Nov,</p>
+<p>26 Nov 2025,</p>
 <p>9:30 – 10:30 AM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ schedule below and register your interest by signing up <a href="https://form.go
 <p>MD1 Seminar Room 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Nov,</p>
+<p>27 Nov 2025,</p>
 <p>9:30 – 10:30 AM</p>
 </td>
 <td rowspan="1" colspan="1">
