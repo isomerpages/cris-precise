@@ -181,7 +181,7 @@ muscle mass.</p>
 <p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
-<h3><strong>HLA Alleles and its Association with Auto Immune Diseases and Pharmacogenomics in Multi-Ancestral Asian Populations</strong></h3>
+<h3><strong>HLA Alleles and its Association with Auto Immune Diseases and Pharmacogenomics in Multi-ancestral Asian Populations</strong></h3>
 <blockquote>
 <p><strong>Topic: Human Leukocyte Antigen</strong>
 </p>
@@ -239,7 +239,7 @@ immune diseases and pharmacogenomic responses.</p>
 <p><strong>I<em>nstitutions involved:</em></strong><em> National University of Singapore, Tan Tock Seng Hospital, Duke-NUS Medical School</em>
 </p>
 <hr>
-<h3><strong>Unravelling the Determinants of Kidney Health in a Multi-Ethnic Asian Population</strong></h3>
+<h3><strong>Unravelling the Determinants of Kidney Health in a Multi-ethnic Asian Population</strong></h3>
 <blockquote>
 <p><strong>Topic: Kidney Disease</strong>
 </p>
