@@ -40,8 +40,7 @@ workflows, and the additional costs of testing itself. Hence, our goal
 with this&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilot</a>&nbsp;(CIP)
 is to find ways to navigate around these issues—and optimise drug therapy
 outcomes for patients at the same time,” said Dr Lo.</p>
-<p><strong>Tackling Cost Concerns</strong>
-</p>
+<h4><strong>Tackling Cost Concerns</strong></h4>
 <p>In a study A/Prof Wee conducted in 2018 at the Singapore General Hospital,
 it was noted that the total cost of 81 admissions caused by adverse drug
 reactions (ADRs) was S$770,000. It was noted that the breakeven cost of
@@ -61,8 +60,7 @@ about 30 drug-gene pairs, the impact goes beyond 30 genes because many
 drugs are metabolised by just a few specific enzymes—so it is actually
 very economical. A multi-gene panel saves the trouble of patients having
 to go through multiple single-gene testing in their lives.”&nbsp;</p>
-<p><strong>Increasing Awareness Among Clinicians and Patients</strong>
-</p>
+<h4><strong>Increasing Awareness Among Clinicians and Patients</strong></h4>
 <p>“We found that when we are able to explain the merits of pre-emptive PGx
 testing, share the costs and assure patients that all we need is a simple
 blood draw, patients are usually quite receptive. And if the advice came
@@ -82,8 +80,7 @@ our focus now is to score some early wins so as to get the implementation
 off to a steady state. But as CIP investigators, we are also careful to
 set the right expectations and understanding. For example, pre-emptive
 PGx can help to reduce the odds of ADRs, but provided that it is used appropriately.”</p>
-<p><strong>Enabling Smoother Clinical Workflows</strong>
-</p>
+<h4><strong>Enabling Smoother Clinical Workflows</strong></h4>
 <p>As part of the CIP, the team is also thinking about the sustainability
 of pre-emptive PGx information as part of the clinical practice. Dr Lo
 explained, “Today, whenever a patient does a PGx test, the clinic not only
