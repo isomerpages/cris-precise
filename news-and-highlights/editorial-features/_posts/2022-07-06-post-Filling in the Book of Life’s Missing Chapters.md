@@ -39,8 +39,7 @@ head of the Genome Informatics Section at the&nbsp;<a href="https://www.genome.g
 and Miga, Assistant Research Scientist at University of California, Santa
 Cruz (UCSC) report their success in filling out the book of life’s missing
 chapters.</p>
-<p><strong>A tale of technological innovation</strong>
-</p>
+<h4><strong>A Tale of Technological Innovation</strong></h4>
 <p>Held back by the technological limits of its time, the Human Genome Project
 was only able to sequence about 90 percent of the human genome. In particular,
 the Project was only able to map out&nbsp;the loosely-condensed and gene-rich
@@ -75,8 +74,7 @@ impede, Phillippy organised a workshop at the NGHRI that would funnel expertise
 from different parts of the world. “Amazingly, and completely unexpectedly,
 we had gapless assemblies for all 23 chromosomes by the end of the summer,”
 Philippy candidly recalls.</p>
-<p><strong>Revealing the repeats</strong>
-</p>
+<h4><strong>Revealing the Repeats</strong></h4>
 <p>In their&nbsp;<em>Science</em>&nbsp;paper, the research team combined
 not just the latest PacBio and Nanopore technologies, but also other sequencing
 platforms from other companies. They also developed their own methods to
@@ -101,8 +99,7 @@ developed by our consortium, we simply didn’t have the tools necessary
 to assemble them.</p>
 <p>It was important to make sense of these common missing features as “<em>segmental duplications are a rich source of variation between humans and our nearest primate relatives, and so may hold clues to what makes us uniquely human”.</em>
 </p>
-<p><strong>‘Every genome is unique’</strong>
-</p>
+<h4><strong>‘Every Genome is Unique’</strong></h4>
 <p>In the same way that technological developments enabled Phillippy’s team
 to completely sequence the genome, he expects their findings to also set
 up future research teams for similar breakthroughs.</p>
@@ -125,5 +122,6 @@ the world.</p>
 from around the world will result in even bigger improvements and an even
 greater understanding of the genome,” he said.</p>
 <hr>
-<p>References:</p>
+<p><strong>References:</strong>
+</p>
 <p>–</p>
