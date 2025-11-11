@@ -36,11 +36,11 @@ is,” said Professor Yamamoto, adding that the biobank will also contribute
 to the restoration of medical services and revitalise related industries.
 “The megabank aims to deliver this to those who suffered from the earthquake
 and tsunami.”</p>
-<p><strong>Answering a collective need</strong>Precision medicine is an innovative
-approach to healthcare that combines genetic, lifestyle and environmental
-data to inform disease prevention and healthcare interventions. The success
-of this approach thus depends on the availability of data from large cohorts
-and diverse populations.</p>
+<p><strong>Answering a collective need </strong>Precision medicine is an
+innovative approach to healthcare that combines genetic, lifestyle and
+environmental data to inform disease prevention and healthcare interventions.
+The success of this approach thus depends on the availability of data from
+large cohorts and diverse populations.</p>
 <p>As such, long-term population studies, including longitudinal cohorts
 and biobanks, are essential for promoting precision medicine and healthcare.
 To this end, TMM first strategically established two large-scale prospective
@@ -60,8 +60,9 @@ to five years to undergo follow-up data collection and analyses, an approach
 that builds a continuous database of physiological changes over time that
 can be investigated at the genomic level to further inform medical decisions
 and precision medicine research.</p>
-<p><strong>Genomics for good</strong>
-<br>TMM has now assembled 50,000 whole genome sequences which will be used
+<p></p>
+<h4><strong>Genomics for Good</strong></h4>
+<p>TMM has now assembled 50,000 whole genome sequences which will be used
 in guiding clinical decisions, diagnosing and treating diseases and assisting
 in drug development. Using the TMM findings, ToMMo also hopes to add further
 value by attracting more medical practitioners to the area, promoting industry-academic
