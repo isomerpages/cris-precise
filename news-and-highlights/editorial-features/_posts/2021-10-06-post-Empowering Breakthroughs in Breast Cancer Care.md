@@ -14,8 +14,9 @@ variant: tiptap
 </p>
 <p>With Breast Cancer Awareness month commemorated every October, the pink
 ribbon has become a well-recognised symbol to urge the public to undergo
-breast cancer screening. In 2002, Singapore launched a nationwide breast cancer screening programme,
-yet these services remain underutilised nearly 20 years later.</p>
+breast cancer screening. In 2002, Singapore launched a nationwide breast
+cancer screening programme, yet these services remain underutilised nearly
+20 years later.</p>
 <p>“Mammography screening has been proven to save lives by detecting the
 tumour early when it’s small and most treatable,” emphasised Dr Jingmei
 Li, Group Leader at the Agency for Science, Technology and Research’s&nbsp;
@@ -52,8 +53,7 @@ to risk stratification will enhance screening accuracy and improve efficiency.</
 <p>“By adding genetic risk factors into a screening programme, we can identify
 many women who would later develop breast cancer yet might otherwise not
 be considered high risk,” Li explained.</p>
-<p><strong>A holistic approach to screening</strong>
-</p>
+<h4><strong>A Holistic Approach to Screening</strong></h4>
 <p>Beyond genes, breast cancer risk prediction is most effective when it
 takes into account non-genetic factors, such as the age at which mothers
 had their first child or a woman’s family history. Individuals whose family
@@ -72,8 +72,7 @@ relatives have similar genetics and are likely exposed to similar external
 contexts, encouraging first-degree relatives testing could help expand
 screening coverage and crucially reach those likely at risk for breast
 cancer.</p>
-<p><strong>Translating genetics for precision</strong>
-</p>
+<h4><strong>Translating Genetics for Precision</strong></h4>
 <p>While early detection is the first and a significant step towards saving
 lives, information from genes can similarly be a game-changer for the latter
 parts of the patient journey. Even with a similar breast cancer diagnosis,
