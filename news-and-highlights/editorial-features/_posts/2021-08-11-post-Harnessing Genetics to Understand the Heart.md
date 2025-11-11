@@ -31,8 +31,7 @@ and even lifestyle data for more accurate diagnosis and risk stratification.</p>
 <p>On local shores, clinician-scientists from the National Heart Centre Singapore
 (NHCS) have been pivotal in advancing the use of precision medicine in
 cardiology in recent years. Here are their stories.</p>
-<p><strong>A family affair</strong>
-</p>
+<h4><strong>A Family Affair</strong></h4>
 <p>When Peter was first referred to Clinical Assistant Professor Eric Lim,
 a Senior Consultant at the NHCS’ Inherited Cardiac Conditions (ICC) Clinic,
 the team found that everything—from family history, medical history to
@@ -61,8 +60,7 @@ monitoring her health in case she develops similar symptoms. By marrying
 clinical findings to genetics, Clin Asst Prof Lim was able to precisely
 explain the nature of the underlying condition and provide answers for
 Peter and his family.</p>
-<p><strong>Finding new uses for old drugs</strong>
-</p>
+<h4><strong>Finding New Uses for Old Drugs</strong></h4>
 <p>Not only can precision medicine provide answers for the individuals like
 Peter, but it can also provide potential solutions. There are over 20,000
 drugs approved by the US Food and Drug Administration (FDA), most of which
@@ -90,8 +88,7 @@ He was right.</p>
 long QT syndrome models. The next step is to test Orkambi in clinical trials.
 As Orkambi is FDA-approved, they can jump straight to phase 2 clinical
 trials, cutting out an expensive and time-consuming part of drug development.</p>
-<p><strong>Plenty of room for growth</strong>
-</p>
+<h4><strong>Plenty of Room for Growth</strong></h4>
 <p>While precision medicine in cardiology is still in its infancy, the work
 performed by Clin Asst Prof Lim and Asst Prof Ramachandra is cause for
 excitement. The drivers of precision medicine such as the lowering costs
