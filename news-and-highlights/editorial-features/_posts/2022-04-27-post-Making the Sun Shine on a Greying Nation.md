@@ -22,8 +22,7 @@ system. After all, ageing is associated with several chronic conditions,
 such as diabetes, osteoarthritis and various heart problems. As Singaporeans
 grow older, these diseases and many others will become increasingly common
 and pose a very real risk of overwhelming the country’s health system.</p>
-<p><strong>Banking on data from 10,000 Singaporeans</strong>
-</p>
+<h4><strong>Banking on Data from 10,000 Singaporeans</strong></h4>
 <p>By combining molecular-level genetic information with a patient’s medical
 history, lifestyle and family background, precision medicine could prove
 to be a formidable tool to prevent and treat ageing-related diseases—many
@@ -51,8 +50,7 @@ in Asia, particularly in Singapore,” he said, adding that biobanks in other
 countries might instead focus on racial diversity or rare congenital diseases,
 depending on what their needs may be. “Biobanks tell us a lot about the
 nation’s culture.”</p>
-<p><strong>HELIOS sets precision medicine in action</strong>
-</p>
+<h4><strong>HELIOS sets Precision Medicine in Action</strong></h4>
 <p>McGonigle, who has spent several years studying biobanks from an anthropological
 standpoint, explained that compared to some other biobanks around the world
 that have more fundamental and different research aims, HELIOS is more
@@ -77,8 +75,7 @@ follow stricter weight and exercise standards.</p>
 problems require a high-tech solution and much of the population can go
 a long way to avoid developing such diseases, just by making early-life
 interventions in lifestyle,” McGonigle added.</p>
-<p><strong>Boosting health for generations to come</strong>
-</p>
+<h4><strong>Boosting Health for Generations to Come</strong></h4>
 <p>Beyond its practical applications, McGonigle and colleagues found that
 HELIOS reveals the current prevailing cultural logic in Singapore, and
 how the country hopes to navigate the waters of its own future.</p>
@@ -100,7 +97,8 @@ in Singapore extend their lives and reduce the avoidable end-of-life suffering
 and burden on their families. This is what we mean by generational medicine,”
 he said.</p>
 <hr>
-<p>References:</p>
+<p><strong>References:</strong>
+</p>
 <p>1&nbsp;National Population and Talent Division, Strategy Group, Prime
 Minister’s Office (September 2021). Population in Brief 2021</p>
 <p>2&nbsp;Vimal, M., Devi, W.P., McGonigle, I. Generational Medicine in Singapore:
