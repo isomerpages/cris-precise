@@ -57,7 +57,7 @@ or similar. LD scores are also made available in LDSC-compatible flat files
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
+<p><strong><em>Institution involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
 <h3><strong>Chronic Liver Disease is a Significant Risk Factor for Adverse Cardiometabolic Outcomes</strong></h3>
@@ -108,7 +108,7 @@ metabolic disease.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> National University Hospital</em>
+<p><strong><em>Institution involved:</em></strong><em> National University Hospital</em>
 </p>
 <hr>
 <h3><strong>Nonlinear Methods for Genomic Association Analysis of Eye Diseases</strong></h3>
@@ -179,7 +179,7 @@ ocular health.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+<p><strong><em>Institution involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
 <h3><strong>Advancing the Understanding of Biological Mechanisms Influencing Chronic Inflammatory Skin Diseases</strong></h3>
@@ -235,7 +235,7 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> National skin Centre, Lee Kong Chian School of Medicine, A*STAR Skin Research Institute of Singapore</em>
+<p><strong><em>Institutions involved:</em></strong><em> National Skin Centre, Lee Kong Chian School of Medicine, A*STAR Skin Research Institute of Singapore</em>
 </p>
 <hr>
 <h3><strong>Mood and Diet in Patients with Irritable Bowel Syndrome (IBS) in Singapore</strong></h3>
@@ -270,7 +270,7 @@ co-morbidities and treatment outcomes using the TRUST dataset.</p>
 <p>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Chen Kok Pun, </strong>Gastroenterology &amp; Hepatology</p>
+<p><strong>Co-Lead PI: Dr Chen Kok Pun </strong>Gastroenterology &amp; Hepatology</p>
 <p>Tan Tock Seng Hospital</p>
 <p></p>
 </li>
@@ -438,7 +438,7 @@ scRNA-seq data.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
+<p><strong><em>Institution involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
 <h3><strong>Genome-wide Association Study and Population-based Evaluation of Patients with Diabetic Foot Ulcers</strong></h3>
@@ -665,7 +665,7 @@ design.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> A*STAR Singapore Institute for Clinical Sciences</em>
+<p><strong><em>Institution involved:</em></strong><em> A*STAR Singapore Institute for Clinical Sciences</em>
 </p>
 <hr>
 <h3><strong>Unravelling the Pathogenesis of Inflammatory Bowel Disease and Associated Immune-mediated Disorders in the Singaporean Population</strong></h3>
@@ -800,7 +800,7 @@ and progression of allergic diseases.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+<p><strong><em>Institution involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
 <h3><strong>Modulation of Cholesterol 7α-hydroxylase (CYP7A1) Activity as an Orthogonal Approach to the Management of Hypercholesterolemia</strong></h3>
@@ -850,7 +850,7 @@ and comedications, on the genotypes to discern the possibility of phenoconversio
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+<p><strong><em>Institution involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
 <h3><strong>Multi-omics Data Analysis for Novel Depression Mechanisms using Deep Learning Tools</strong></h3>
@@ -1096,7 +1096,7 @@ PRS in a Singapore context.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
+<p><strong><em>Institution involved:</em></strong><em> A*STAR Genome Institute of Singapore</em>
 </p>
 <hr>
 <h3><strong>Advancing Asian-centric Liver Disease Treatment: Machine Learning Applications in MASLD and MetALD Precision Medicine</strong></h3>
@@ -1256,7 +1256,7 @@ across ethnic groups and cancer sites.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> Lee Kong Chian School of Medicine</em>
+<p><strong><em>Institution involved:</em></strong><em> Lee Kong Chian School of Medicine</em>
 </p>
 <hr>
 <h3><strong>Implications of Alternative Splicing of Voltage-gated Calcium Channels in Schizophrenia</strong></h3>
@@ -1291,7 +1291,7 @@ in the SG100K cohort.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+<p><strong><em>Institution involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
 <h3><strong>Exploring the Impact and Origins of Somatic Mutagenesis in Cardiovascular Disease</strong></h3>
@@ -1337,7 +1337,7 @@ and CVDs.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+<p><strong><em>Institution involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
 <h3><strong>Alport Syndrome in the Singapore Population: An Under-recognised Kidney Disease?</strong></h3>
@@ -1506,7 +1506,7 @@ biological organ age.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore</em>
+<p><strong><em>Institution involved:</em></strong><em> National University of Singapore</em>
 </p>
 <hr>
 <h3><strong>Identification of Risk Factors for Gastrointestinal Cancers through Analysis of Genetic and Phenotypic Data</strong></h3>
@@ -1616,5 +1616,5 @@ and long COVID outcomes in our population.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Institutions involved:</em></strong><em> Ministry of Health</em>
+<p><strong><em>Institution involved:</em></strong><em> Ministry of Health</em>
 </p>
