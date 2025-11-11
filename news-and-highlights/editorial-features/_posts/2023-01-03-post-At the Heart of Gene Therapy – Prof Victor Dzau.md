@@ -12,8 +12,10 @@ variant: tiptap
 </div>
 <p><em>With a career spanning four decades, Professor Victor Dzau is spearheading the use of gene therapy for treating cardiovascular diseases</em>&nbsp;<em>and explains the need to translate medical research from the bench to the bedside.</em>
 </p>
-<p><strong><em>“From my childhood experience and life journey, beginning in post-war China, advancing global health and equity has always been a passion and commitment of mine”</em></strong><em>,</em>&nbsp;reflects
+<blockquote>
+<p><em>“From my childhood experience and life journey, beginning in post-war China, advancing global health and equity has always been a passion and commitment of mine”,</em>&nbsp;reflects
 Dzau in his interview with the Virchow Foundation.</p>
+</blockquote>
 <p>Dzau focused on&nbsp;discovering molecular and genetic mechanisms of diseases
 and translating these discoveries into clinical applications.&nbsp;His
 work has made a significant impact and improved health and medicine globally.&nbsp;In
@@ -22,8 +24,7 @@ of honour bestowed to a foreign citizen conferred by the President of Singapore,
 for his contributions to the country’s health development.</p>
 <p><strong>[In this Q&amp;A, Dzau shares with PRECISE his journey into academia and how it has shaped his research interests, alongside his experience developing a well-integrated and collaborative research programme involving public health and research institutions.]</strong>
 </p>
-<p><strong>Could you walk us through your research journey and what led you to apply gene therapy in</strong>&nbsp;<strong>cardiovascular disease research?</strong>
-</p>
+<h4><strong>Could you walk us through your research journey and what led you to apply gene therapy in</strong>&nbsp;<strong>cardiovascular disease research?</strong></h4>
 <p>I was fortunate enough to go to McGill University in Canada for an undergraduate
 biology major, and then medical school. This is where my journey started.
 In medical school, I found the physiology course on cardiovascular physiology
@@ -40,8 +41,7 @@ regenerative medicine.&nbsp;There are multiple genetic contributors to
 cardiovascular diseases. It is important that we elucidate the genetic
 basis and mechanisms of the diseases so we can find better treatments or
 even cures.</p>
-<p><strong>Why was it important to explore the possibility of effective gene therapy specifically for cardiovascular disease?</strong>
-</p>
+<h4><strong>Why was it important to explore the possibility of effective gene therapy specifically for cardiovascular disease?</strong></h4>
 <p>There are multiple genetic abnormalities related to cardiovascular disease.
 It is important that we find markers to have better cures for cardiovascular
 diseases.&nbsp;When I went to Stanford in 1990, I became very interested
@@ -59,8 +59,7 @@ in phase I and phase II. We continued the work on gene therapy and developed
 the concept of protecting the ischemic myocardium, a method of maintaining
 optimum blood flow to the heart, which is still relevant today. More recently,
 my lab has been working on cardiac regeneration using microRNA.</p>
-<p><strong>Research does not always get translated into bedside applications. Can you provide insights on how to successfully transition discoveries in the lab into technologies that relate to public health?</strong>
-</p>
+<h4><strong>Research does not always get translated into bedside applications. Can you provide insights on how to successfully transition discoveries in the lab into technologies that relate to public health?</strong></h4>
 <p>In 2010, I published in Lancet the concept of “Bench to Bedside to Population”
 which highlighted the continuum of basic to translational research to clinical
 implementation in public and population health.&nbsp; Translating research
@@ -72,23 +71,21 @@ to prove the efficacy of the treatment in humans and get FDA approval.</p>
 so that one can implement preventive measures and early interventions.
 There is a lot of interest in applying technologies such as genomics to
 public health through the new field of Precision Public Health.</p>
-<p><strong>You have supported the idea of academic health centres (AHCs) as critical infrastructure in transforming medicine through innovation in an article published in</strong>&nbsp;<strong><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61082-5/fulltext" rel="noopener noreferrer nofollow" target="_blank">The Lancet</a>. In your opinion, how can the research infrastructure in Singapore’s research institutions be further strengthened and streamlined to support the NPM programme?</strong>
-</p>
+<h4><strong>You have supported the idea of academic health centres (AHCs) as critical infrastructure in transforming medicine through innovation in an article published in</strong>&nbsp;<strong><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61082-5/fulltext" rel="noopener noreferrer nofollow" target="_blank">The Lancet</a>. In your opinion, how can the research infrastructure in Singapore’s research institutions be further strengthened and streamlined to support the NPM programme?</strong></h4>
 <p>Singapore has made critical investments in biomedical research, AHC and
-public health. By investing in national initiatives like PRECISE,
-in cooperation with AHCs like&nbsp;<a href="https://duke-nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Duke NUS</a>&nbsp;and&nbsp;<a href="https://www.singhealth.com.sg/" rel="noopener noreferrer nofollow" target="_blank">SingHealth</a>&nbsp;and
+public health. By investing in national initiatives like PRECISE, in cooperation
+with AHCs like&nbsp;<a href="https://duke-nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Duke NUS</a>&nbsp;and&nbsp;<a href="https://www.singhealth.com.sg/" rel="noopener noreferrer nofollow" target="_blank">SingHealth</a>&nbsp;and
 other research institutions, there is significant potential for making
 major scientific discoveries and clinical impacts.</p>
 <p>Through the National Precision Medicine (NPM), PRECISE is leading the
 effort by studying existing and new cohorts, collecting biospecimens and
 data, and sequencing the genome. By designing studies at a national scale,
-such as SG100K important
-findings will emerge that can shape the future of medicine and public health.
-It is this type of strategic approach to national projects, broad collaborations
-between research projects and institutions and the investment in science
-and technology that positions Singapore for success.</p>
-<p><strong>You have been instrumental in initiating the Qatar Genome Project and, recently, the Qatar Precision Medicine Institute.</strong>&nbsp;<strong>What is unique about Singapore’s program in Precision Medicine?</strong>
-</p>
+such as SG100K important findings will emerge that can shape the future
+of medicine and public health. It is this type of strategic approach to
+national projects, broad collaborations between research projects and institutions
+and the investment in science and technology that positions Singapore for
+success.</p>
+<h4><strong>You have been instrumental in initiating the Qatar Genome Project and, recently, the Qatar Precision Medicine Institute.</strong>&nbsp;<strong>What is unique about Singapore’s program in Precision Medicine?</strong></h4>
 <p>Singapore’s unique strength in population genomics research is that it
 is a multicultural country with three major ethnicities that are understudied.&nbsp;The
 data would be representative of the diversity in Singapore and the wider
