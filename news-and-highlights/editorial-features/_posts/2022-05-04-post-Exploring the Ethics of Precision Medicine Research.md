@@ -26,16 +26,15 @@ is also essential for data-driven initiatives like precision medicine.</p>
 of large numbers of people to deliver better care and diagnosis for patients.
 Consequently, understanding the ethical issues surrounding precision medicine
 research, especially as perceived by the public, can elevate research and
-participation in initiatives like Singapore’s National Precision Medicine Programme. Unveiling
-the ethics surrounding precision medicine is a key focus of work by Assistant
-Professor Tamra Lysaght, Director of Research and Phase Director of the
-Health Ethics, Law and Professionalism programme at the Centre for Biomedical
-Ethics at the Yong Loo Lin School of Medicine, National University of Singapore.
-Here, she discusses her research exploring the ethical aspects of precision
-medicine in Asia as well as how governments can gain widespread trust and
-acceptance of national programmes.</p>
-<p><strong>1. What sparked your interest in biomedical ethics?</strong>
-</p>
+participation in initiatives like Singapore’s National Precision Medicine
+Programme. Unveiling the ethics surrounding precision medicine is a key
+focus of work by Assistant Professor Tamra Lysaght, Director of Research
+and Phase Director of the Health Ethics, Law and Professionalism programme
+at the Centre for Biomedical Ethics at the Yong Loo Lin School of Medicine,
+National University of Singapore. Here, she discusses her research exploring
+the ethical aspects of precision medicine in Asia as well as how governments
+can gain widespread trust and acceptance of national programmes.</p>
+<h4><strong>1. What sparked your interest in biomedical ethics?</strong></h4>
 <p>When I was doing my degree in biotechnology, I had to do a compulsory
 bioethics course. I found it fascinating because it wasn’t talking about
 what we can do with science, but what we&nbsp;<em>should</em>&nbsp;do.
@@ -55,8 +54,7 @@ began collaborating with the scientific community at the Agency for Science,
 Technology and Research’s (A*STAR)&nbsp;<a href="https://www.a-star.edu.sg/gis" rel="noopener noreferrer nofollow" target="_blank">Genome Institute of Singapore</a>&nbsp;(GIS),
 which at the time was led by Prof Edison Lui. GIS is now under the leadership
 of Prof Patrick Tan, who is also the Executive Director of&nbsp;<a href="/patrick-tan/" rel="noopener noreferrer nofollow" target="_self">PRECISE</a>.</p>
-<p><strong>2. Your research has explored ethical aspects from religious perspectives to perceptions of the terms used in precision medicine. Are there any other questions you hopes to address?</strong>
-</p>
+<h4><strong>2. Your research has explored ethical aspects from religious perspectives to perceptions of the terms used in precision medicine. Are there any other questions you hopes to address?</strong></h4>
 <p>I hope to understand more about the social and moral boundaries for using
 precision medicine data, the sort of research that falls within those boundaries
 and importantly, what falls outside those moral boundaries. This is because&nbsp;any
@@ -74,8 +72,7 @@ of research people in Singapore will be comfortable or uncomfortable with,
 which is why I am keen to further explore this line of research.</p>
 <p>All these are the basics of what needs to be put in place to establish
 a social license.</p>
-<p><strong>3. What is a social licence and why is it important?</strong>
-</p>
+<h4><strong>3. What is a social licence and why is it important?</strong></h4>
 <p>Having a&nbsp;social licence means that society has granted an organisation
 or profession to operate or practice in privileged ways that others are
 not. For precision medicine, it means having societal support to operate
@@ -87,8 +84,7 @@ may result in loss of trust and support for the programme.&nbsp;Therefore,
 establishing a social license will require a much more fine-grained look
 at what precision medicine research purposes are acceptable, and which
 are not.</p>
-<p><strong>4. What has your research revealed about Asia-specific cultural perceptions on precision medicine?</strong>
-</p>
+<h4><strong>4. What has your research revealed about Asia-specific cultural perceptions on precision medicine?</strong></h4>
 <p>I’m always reluctant to engage in broad stroke generalisations about a
 region where three billion people live. I think it’s important to be specific
 about what part of Asia we are discussing. Different countries with their
@@ -101,8 +97,7 @@ which we found was the most trusted agency for storing and using precision
 medicine data. We don’t know whether this is particular to Singapore or
 something more general about Asian cultures, and it would be interesting
 to explore in future studies.</p>
-<p><strong>5. Given that the success of precision medicine relies on population-wide data collection, what can national precision medicine programmes do to gain widespread trust and acceptance from the public?</strong>
-</p>
+<h4><strong>5. Given that the success of precision medicine relies on population-wide data collection, what can national precision medicine programmes do to gain widespread trust and acceptance from the public?</strong></h4>
 <p>I think you must have the basics, such as ensuring the highest levels
 of data security are in place, and that there are processes to minimise
 any kind of harm when there is a security breach. Keeping these factors
@@ -115,5 +110,6 @@ that they do not systematically disadvantage minority groups. If people
 sign up to precision medicine programmes, it’s more than likely that they’re
 investing trust in the institution that’s asking them to do so.</p>
 <hr>
-<p>References:</p>
+<p><strong>References:</strong>
+</p>
 <p>–</p>
