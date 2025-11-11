@@ -42,8 +42,7 @@ percent of rare diseases are genetic in origin. Mucolipidosis, the diagnosis
 that started Pei Shan’s long odyssey, is an example of this. Other rare
 diseases develop alongside infections or cancers, though as in Pei Shan’s
 case, the exact causes often are never identified.</p>
-<p><strong>Making diagnoses possible</strong>
-</p>
+<h4><strong>Making Diagnoses Possible</strong></h4>
 <p>Fortunately, recent advances in precision medicine has finally made conclusive
 diagnoses possible for more and more rare diseases.</p>
 <p>Rather than focus solely on symptoms, precision medicine looks at rare
@@ -78,8 +77,7 @@ in the future—or any problem genes that they may pass on to their kids7,8.</p>
 over 2,000 people since its inception in 2018. Many have been referred
 to specialists to help manage risks, while others have received further
 counselling regarding future family plans.</p>
-<p><strong>The start of another odyssey</strong>
-</p>
+<h4><strong>The Start of another Odyssey</strong></h4>
 <p>Though precision medicine can shorten the diagnostic odyssey for rare
 disease patients, it often marks the start of another one: the therapeutic
 odyssey. After all, there are more than 7,000 known rare diseases, of which
