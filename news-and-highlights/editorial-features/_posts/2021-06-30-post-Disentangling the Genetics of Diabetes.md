@@ -46,7 +46,7 @@ all help keep the disease at bay.</p>
 <h4><strong>Working through Complexity</strong></h4>
 <p>With so many diabetes subtypes to consider and so many factors to look
 at, delivering an accurate diagnosis is a herculean task. Thankfully,&nbsp;
-<a href="/singapore-s-national-precision-medicine-programme/" rel="noopener noreferrer nofollow" target="_blank">precision medicine</a>&nbsp;can help tease apart the complexity of diabetes.</p>
+<a href="/singapore-s-national-precision-medicine-programme/" rel="noopener noreferrer nofollow" target="_self">precision medicine</a>&nbsp;can help tease apart the complexity of diabetes.</p>
 <p>Rather than fixating just on sugar, precision medicine looks at diabetes
 holistically. Through&nbsp;traditional laboratory techniques, along with
 cutting-edge gene sequencing and computing technologies, doctors can take&nbsp;stock
@@ -75,7 +75,7 @@ clear where the Singaporean government stands. “Tackling diabetes is a
 major priority for Singapore,” he said. In a bid to beat the disease, parks
 and fitness facilities have sprouted all throughout the island nation,
 and regulations around sugary drinks have tightened.</p>
-<p>The&nbsp;<a href="/singapore-s-national-precision-medicine-programme/" rel="noopener noreferrer nofollow" target="_blank">National Precision Medicine (NPM)</a>&nbsp;project
+<p>The&nbsp;<a href="/singapore-s-national-precision-medicine-programme/" rel="noopener noreferrer nofollow" target="_self">National Precision Medicine (NPM)</a>&nbsp;project
 is another frontier in this battle. Singapore recognises the immense value
 precision medicine can bring to its hospitals and thus has set lofty goals
 for itself. Through a 10-year whole-of-government development roadmap,
