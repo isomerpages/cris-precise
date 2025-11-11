@@ -20,8 +20,7 @@ leading to better long-term outcomes. In the long run, it has the potential
 to decrease the burden of kidney failure in our society. Yet, despite these
 benefits of precision medicine, genetic testing is currently not commonly
 or consistently offered in local nephrology clinics.</p>
-<p><strong>Missed Opportunities in Fight Against Kidney Failures</strong>
-</p>
+<h4><strong>Missed Opportunities in Fight Against Kidney Failures</strong></h4>
 <p>“For patients with nephrotic syndrome, genetic testing is typically performed
 only after the second or third line of immunosuppressants have been empirically
 administered and proven ineffective,” said Associate Professor Ng Kar Hui,
@@ -68,8 +67,7 @@ to be instituted early. These include avoidance of drugs that may damage
 kidneys, vigilant blood pressure control, surveillance for other kidney
 insults like diabetes mellitus, avoidance of smoking and obesity and possibly
 early initiation of medicines with kidney-protecting effects.</p>
-<p><strong>Infrastructure for Primary Glomerular Disease Genetic Testing</strong>
-</p>
+<h4><strong>Infrastructure for Primary Glomerular Disease Genetic Testing</strong></h4>
 <p>Poor accessibility to genetic tests is a big reason why genetic testing
 is not consistently performed locally in patients who can benefit from
 it. While this is partly driven by the high costs of genetic tests, the
@@ -86,8 +84,7 @@ before a genetic test is ordered and after the genetic result is available.
 In addition, there is a general lack of local genetic sequencing laboratories
 and experts to analyse genetic data, suitable data storage capabilities
 and healthcare financing structures.”</p>
-<p><strong>Garnering Support from Clinicians, Patients and Families, Genetic Experts</strong>
-</p>
+<h4><strong>Garnering Support from Clinicians, Patients and Families, Genetic Experts</strong></h4>
 <p>To make genetic testing more accessible, the relevant stakeholders must
 come together and recognise the need to change things. “For example, nephrologists
 need to be educated about genetics, so that they can articulate benefits
