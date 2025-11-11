@@ -60,7 +60,7 @@ retention.</p>
 <h4><strong>How has NovogeneAIT Genomics’ partnership with NPM benefited Singapore?</strong></h4>
 <p>The partnership between NPM and NovogeneAIT Genomics has facilitated the
 establishment of a large-scale commercial sequencing facility which supports
-the local biotech ecosystem. Prior to the <a href="https://www.npm.sg/partners/sg10k/" rel="noopener noreferrer nofollow" target="_blank"><u>SG10K_Health project</u></a> and
+the local biotech ecosystem. Prior to the <a href="https://npm.sg/phase-i-sg10k-health/" rel="noopener noreferrer nofollow" target="_blank"><u>SG10K_Health project</u></a> and
 the establishment of our sequencing facility, many local research organisations
 and universities could only send their samples to GIS or sequencing facilities
 in other countries.</p>
