@@ -36,8 +36,7 @@ commonplace for some time now, yet is very rarely applied to the bedside.
 for breast cancer”, Dr. Li muses. “My personal hope is that the results
 from breast cancer risk prediction tools will be commonplace in health
 screening reports.”, she adds.</p>
-<p><strong>Early detection saves lives</strong>
-</p>
+<h4><strong>Early Detection Saves Lives</strong></h4>
 <p>In 2002, the Singapore government launched the&nbsp;<a href="https://www.singhealth.com.sg/news/medical-news-singhealth/landscape-breast-cancer-screening-treatment-singapore" rel="noopener noreferrer nofollow" target="_blank">BreastScreen</a>&nbsp;Singapore
 campaign. This national campaign advocates the early detection of breast
 cancer in women aged 50-69. A&nbsp;<a href="https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0265965" rel="noopener noreferrer nofollow" target="_blank">study</a>&nbsp;reports
@@ -71,8 +70,7 @@ a big role in controlling the breast cancer burden”, Dr. Li notes.</p>
 setting up cues. Invitations to screen, reminders, specific appointments,
 and promotional flyers may alter the behaviour and attitude of women towards
 screening procedures, which are worth exploring.</p>
-<p><strong>Painting the town pink</strong>
-</p>
+<h4><strong>Painting the Town Pink</strong></h4>
 <p>“Am I at a higher risk of developing breast cancer than my peers?” One
 wonders, while Dr. Li works to uncover these predispositions.&nbsp;In the
 grand scheme of things, science has always looked for ways to trump diseases.
