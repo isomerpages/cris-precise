@@ -10,8 +10,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial%20Features/2021/kol-feature_weng-khong-lim_wtfinal.jpg">
 </div>
-<p><em>By analysing vast amounts of biomedical data, bioinformaticians play a crucial role in translating insights to clinical impact in precision medicine, says Assistant Professor Lim Weng Khong, Director of Bioinformatics at the SingHealth Duke-NUS Genomic Medicine Centre.</em>
-</p>
+<p></p>
+<blockquote>
+<p>By analysing vast amounts of biomedical data, bioinformaticians play a
+crucial role in translating insights to clinical impact in precision medicine,
+says Assistant Professor Lim Weng Khong, Director of Bioinformatics at
+the SingHealth Duke-NUS Genomic Medicine Centre.</p>
+</blockquote>
 <p>When it comes to data, our genetic codes are a veritable treasure trove.
 According to the National Human Genome Research Institute1, just a single
 human genome sequence takes up approximately 200 gigabytes (GB)—that’s
@@ -26,8 +31,7 @@ a population-level scale, bioinformaticians play a crucial role in drawing
 crucial insights that can help clinicians stratify patients according to
 disease risk. In this feature, learn about how Lim got his start in bioinformatics
 and how he intends to further the field in Singapore and beyond.</p>
-<p><strong>1. What first drew you to computational biology and bioinformatics in the context of biomedicine?</strong>
-</p>
+<h4><strong>1. What first drew you to computational biology and bioinformatics in the context of biomedicine?</strong></h4>
 <p>My Computer Science background gave me tremendous freedom in choosing
 the area to hone my skills on. In fact, apart from bioinformatics, I have
 previously done data science work in the semiconductor and transportation
@@ -35,8 +39,7 @@ industries. However, I feel that bioinformatics is the area where my expertise
 will not only have a lasting impact in terms of scientific discoveries
 but also directly influence healthcare outcomes—in particular, how patients
 with genetic diseases are managed.</p>
-<p><strong>2. Could you give us an example of how bioinformatics helps with precision medicine initiatives?</strong>
-</p>
+<h4><strong>2. Could you give us an example of how bioinformatics helps with precision medicine initiatives?</strong></h4>
 <p>Genomics has progressed significantly over the past ten years, and we
 are generating vast amounts of biomedical data. This includes whole-genome
 sequencing, biomedical imaging and electronic health records. Skilled bioinformaticians
@@ -45,8 +48,7 @@ useful information that can then be acted upon by the clinical team. Meanwhile,
 bioinformaticians can analyse large-scale population genomics data to identify
 genetic disorders prevalent in our population, thus guiding genomic medicine
 implementation efforts.</p>
-<p><strong>3. You have been working to set up a genome analytics platform at the Institute of Precision Medicine (PRISM) since 2016. Which genomic medicine initiatives does it support and how?</strong>
-</p>
+<h4><strong>3. You have been working to set up a genome analytics platform at the Institute of Precision Medicine (PRISM) since 2016. Which genomic medicine initiatives does it support and how?</strong></h4>
 <p>My team and I play a key role in genomic medicine, both at the institutional
 and national level. At the institutional level, I lead the bioinformatics
 division of the SingHealth Duke-NUS Genomic Medicine Centre, which aims
@@ -55,8 +57,7 @@ Academic Medical Centre. We do so by providing not only clinical genetics
 services and genetics training to the clinical community, but also bioinformatics
 analysis capabilities at the highest level to ensure that patients get
 accurate results from their genome sequencing tests.</p>
-<p><strong>4. Could you tell us more about the precision cardiovascular medicine platform you are building at Singapore’s National Heart Centre?</strong>
-</p>
+<h4><strong>4. Could you tell us more about the precision cardiovascular medicine platform you are building at Singapore’s National Heart Centre?</strong></h4>
 <p>Together with our colleagues at the National Heart Centre Singapore, we
 developed a proof-of-concept Precision Cardiovascular Medicine Platform
 (PCMP) that enabled us to comprehensively analyse genomic data from both
@@ -66,8 +67,7 @@ and clinicians to perform complex analysis on genomic and phenotypic data
 through user-friendly interfaces. Our experience with this proof-of-concept
 project provided very useful information for national-level initiatives
 for genomic data analysis platforms.</p>
-<p><strong>5. What is your role in PRISM’s contributions to international data sharing projects? Why are such projects important?</strong>
-</p>
+<h4><strong>5. What is your role in PRISM’s contributions to international data sharing projects? Why are such projects important?</strong></h4>
 <p>PRISM shares data with the global genomics community through several channels.
 First, we are members of an&nbsp;international initiative aimed at furthering
 data sharing and interoperability at an international level. On that basis,
@@ -79,10 +79,9 @@ which then helps other clinical genomics teams when they encounter the
 same variants. We have likewise benefited from variant submissions that
 have been made by other teams.</p>
 <p>Finally, we take part in expert workgroups run by the&nbsp;<a href="https://clinicalgenome.org/" rel="noopener noreferrer nofollow" target="_blank">Clinical Genome Resource (ClinGen)</a>&nbsp;to
-establish gene-disease associations and guidelines that have been&nbsp;
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7280024/" rel="noopener noreferrer nofollow" target="_blank">published</a>&nbsp;and are being used in the clinic.</p>
-<p><strong>6. What are your hopes for the future of data science in Singapore’s precision medicine initiatives?</strong>
-</p>
+establish gene-disease associations and guidelines that have been <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7280024/" rel="noopener noreferrer nofollow" target="_blank">published</a>&nbsp;and
+are being used in the clinic.</p>
+<h4><strong>6. What are your hopes for the future of data science in Singapore’s precision medicine initiatives?</strong></h4>
 <p>I hope that Singapore will do better at attracting and retaining data
 science talent in the biomedical sector. To this end, we not only need
 greater awareness of the role data science plays in biomedicine—and particularly
