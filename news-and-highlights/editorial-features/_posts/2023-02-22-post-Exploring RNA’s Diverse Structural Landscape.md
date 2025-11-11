@@ -23,8 +23,7 @@ At&nbsp;<a href="https://www.a-star.edu.sg/gis" rel="noopener noreferrer nofollo
 Associate Director Yue Wan and her lab are developing new genomic tools
 to support RNA structuromics, shedding new light on how RNAs work in pathogens
 and mammalian systems.</p>
-<p><strong>1. Structuromics is quite a fresh name in the field of omics research. Can you tell us more about it and what it aims to achieve from a public health perspective?</strong>
-</p>
+<h4><strong>1. Structuromics is quite a fresh name in the field of omics research. Can you tell us more about it and what it aims to achieve from a public health perspective?</strong></h4>
 <p>“Structuromics” is a field whereby thousands of molecular structures can
 be studied together as opposed to individually, granting a large-scale
 understanding of their structural and functional features. Consider animal
@@ -36,8 +35,7 @@ might bind to it, inhibiting its function. It also uncovers certain structural
 features that increase protein production and stability, or regulate RNA
 life cycles, which can be used when designing RNA for specific therapeutic
 purposes.</p>
-<p><strong>2. What hidden insights can be deduced from studying RNA structure that could contribute to therapeutics and precision medicine?</strong>
-</p>
+<h4><strong>2. What hidden insights can be deduced from studying RNA structure that could contribute to therapeutics and precision medicine?</strong></h4>
 <p>Over decades, people have grown to appreciate how RNAs can fold into complex
 structures with various functions, just like proteins. The 1989 Nobel Prize
 in Chemistry was awarded to Sidney Altman and Thomas Cech for discovering
@@ -48,8 +46,7 @@ form structures that interact with and regulate other cellular factors.</p>
 which opens a vast novel therapeutic space where drugs could be designed
 for RNAs as well as proteins. Also, that structural knowledge means we
 can create customised RNA vaccines and gene replacement therapies.</p>
-<p><strong>3. How did RNA structuromics become your research focus?</strong>
-</p>
+<h4><strong>3. How did RNA structuromics become your research focus?</strong></h4>
 <p>I started working on RNA in 2007 as a graduate student in Howard Chang’s
 lab in Stanford University. Messenger RNAs (mRNAs) had then been extensively
 studied, but long noncoding RNAs (lncRNAs) were still mysterious. Unlike
@@ -73,8 +70,7 @@ by mapping RNA-small molecule interactions, and a method to map intra-
 and inter-molecular RNA-RNA interactions in RNA viruses. More recently,
 we have ventured into the realm of single cells and molecules to assess
 RNA structural dynamics, regulation and heterogeneity within each cell.</p>
-<p><strong>4. Why should Singapore be excited about research in mRNA therapeutics? What other research is the Wan Lab currently focusing on?</strong>
-</p>
+<h4><strong>4. Why should Singapore be excited about research in mRNA therapeutics? What other research is the Wan Lab currently focusing on?</strong></h4>
 <p>It’s a new field with great potential and a lot of room for discovery
 and innovation. Nucleic acids can be rapidly engineered to encode transcripts
 of medical interest. RNA is also considered a safer therapeutic platform
@@ -83,8 +79,7 @@ RNA structure, our lab is also engineering circular RNAs (circRNAs) to
 be better payloads for vaccines and gene replacement therapies. CircRNAs
 degrade differently from mRNAs; they are usually more stable and can produce
 proteins for a long time.</p>
-<p><strong>5. What do the usual structuromics research methodologies look like?</strong>
-</p>
+<h4><strong>5. What do the usual structuromics research methodologies look like?</strong></h4>
 <p>In general, there are two strategies to high throughput structure probing.
 The first tells you the “landscape” of RNA: whether bases are paired or
 otherwise. This is typically achieved by chemicals or enzymes that recognise
@@ -99,8 +94,7 @@ disrupted in disease.&nbsp; Beyond standard lab equipment, we rely heavily
 on deep sequencing. Extending this to a larger, population-level cohort
 will allow us to identify structural features unique to individuals, highlight
 RNA structure biomarkers, and eventually target RNA structures for treatment.</p>
-<p><strong>6. How might targeted genomics and therapeutics research be successfully translated to clinical applications?</strong>
-</p>
+<h4><strong>6. How might targeted genomics and therapeutics research be successfully translated to clinical applications?</strong></h4>
 <p>As every person is unique, a one-size-fits-all approach might not work
 for different diseases. With growing understandings of individual genetics,
 medicine is becoming personalised as we can treat each patient according
@@ -110,8 +104,7 @@ To this point, PRECISE and the Genome Institute of Singapore have set up
 an automated lab to process thousands of patient samples for genome sequencing.&nbsp;
 Automation allows consistency in our experimental procedure and increased
 reliability in the data that is collected in the different patients.</p>
-<p><strong>7. What is your vision for the Wan Lab from the perspective of Singapore’s National Precision Medicine Programme?</strong>
-</p>
+<h4><strong>7. What is your vision for the Wan Lab from the perspective of Singapore’s National Precision Medicine Programme?</strong></h4>
 <p>Through studying RNA structures in healthy individuals and those with
 disease, we aim to uncover a structural basis of disease and find ways
 to better target RNA with drugs based on their structures, ultimately enabling
