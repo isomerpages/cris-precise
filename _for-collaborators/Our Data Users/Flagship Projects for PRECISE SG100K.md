@@ -236,7 +236,7 @@ immune diseases and pharmacogenomic responses.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>I<em>nstitutions involved:</em></strong><em> National University of Singapore, Tan Tock Seng Hospital, Duke-NUS Medical School</em>
+<p><strong><em>Institutions involved:</em></strong><em> National University of Singapore, Tan Tock Seng Hospital, Duke-NUS Medical School</em>
 </p>
 <hr>
 <h3><strong>Unravelling the Determinants of Kidney Health in a Multi-ethnic Asian Population</strong></h3>
@@ -353,7 +353,7 @@ neurological and neurocognitive disorders.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>I<em>nstitutions involved:</em></strong><em> A*STAR Genome Institute of Singapore, Duke-NUS Medical School, National Neuroscience Institute</em>
+<p><strong><em>Institutions involved:</em></strong><em> A*STAR Genome Institute of Singapore, Duke-NUS Medical School, National Neuroscience Institute</em>
 </p>
 <hr>
 <h3><strong>An Integrated Pharmacoeconomic- Pharmacokinetic Framework for Prioritising and Testing Clinically Important Drug-Gene Interactions</strong></h3>
@@ -493,7 +493,7 @@ in the AIDA scRNA-seq dataset.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>I<em>nstitutions involved:</em></strong><em> Duke-NUS Medical School, National University of Singapore, Lee Kong Chian School of Medicine, A*STAR Genome Institute of Singapore, National University Hospital, Singapore General Hospital</em>
+<p><strong><em>Institutions involved:</em></strong><em> Duke-NUS Medical School, National University of Singapore, Lee Kong Chian School of Medicine, A*STAR Genome Institute of Singapore, National University Hospital, Singapore General Hospital</em>
 </p>
 <hr>
 <h3><strong>Advancing Precision Medicine for Cardiovascular Disease and Diabetes in Asian Populations</strong></h3>
