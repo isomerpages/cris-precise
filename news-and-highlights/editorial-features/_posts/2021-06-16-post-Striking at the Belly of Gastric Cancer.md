@@ -60,7 +60,7 @@ test with follow-up gastroscopy is a practice-changing healthcare innovation
 which can be implemented for cost-effective gastric cancer screening.”</p>
 <p>This approach of adjusting medical decisions to a particular patient’s
 context—their lifestyle risk factors, medical history and genetic predisposition—is
-called&nbsp;<a href="/about-us/why-we-do-it/" rel="noopener noreferrer nofollow" target="_blank">precision medicine</a>.
+called precision medicine.
 Powered by advanced gene sequencing technologies and powerful analytics
 software, precision medicine doesn’t only allow doctors to catch cancers
 early, it also helps them tailor treatment.</p>
