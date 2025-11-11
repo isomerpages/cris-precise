@@ -68,7 +68,7 @@ around the globe.</p>
 <p>Far from simply satisfying our deep curiosity about where we come from,
 understanding our ancestry can tell us how we have evolved into the people
 we are today, and in turn allow us to make predictions for the future,
-said Liu, who was recently awarded the&nbsp;<a href="/from-fruit-fly-scientist-to-founder-of-a-biotech-start-up/" rel="noopener noreferrer nofollow" target="_blank">President’s Science Award</a>&nbsp;for
+said Liu, who was recently awarded the&nbsp;<a href="/from-fruit-fly-scientist-to-founder-of-a-biotech-start-up/" rel="noopener noreferrer nofollow" target="_self">President’s Science Award</a>&nbsp;for
 his contributions to genetics research in Asian population.</p>
 <p>In Singapore’s three major ethnic groups, the SG10K pilot study identified
 20 locations on chromosomes—known as loci—where gene sequences may have
