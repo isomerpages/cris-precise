@@ -91,7 +91,7 @@ could energise research and accelerate the development of treatments that
 are effective even in patients of different racial and socioeconomic backgrounds.</p>
 <p>Singapore’s National Precision Medicine (NPM) strategy seeks to do exactly
 this. Indeed, NPM has already established the world’s largest genetic database
-for a multi-ethnic Asian population, containing&nbsp;<a href="/singapore-s-national-precision-medicine-programme/" rel="noopener noreferrer nofollow" target="_blank">10,000 genomes of healthy Singaporeans</a>.</p>
+for a multi-ethnic Asian population, containing&nbsp;<a href="/singapore-s-national-precision-medicine-programme/" rel="noopener noreferrer nofollow" target="_self">10,000 genomes of healthy Singaporeans</a>.</p>
 <p>Over the next 10 years, teams across Singapore will deepen this database,
 encouraging more research into rare disease. Hopefully not long after,
 families like Pei Shan’s will get to see their beloved babies live happy
