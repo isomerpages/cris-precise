@@ -26,8 +26,7 @@ at the minimum.&nbsp;With&nbsp;<a href="https://doi.org/10.3322/caac.21660" rel=
 much work is urgently needed to enable access to potentially life-saving
 medical services. “The goal is to empower women with data-driven, patient-centric
 and value-based care,” Li said.</p>
-<p><strong>Adding genes into the equation</strong>
-</p>
+<h4><strong>Adding Genes into the Equation</strong></h4>
 <p>Unlike normal cells, cancer cells grow and multiply when they are not
 supposed to, even spreading to and wreaking havoc on other sites of the
 body. This abnormal behavior often boils down to genetic mutations, which
