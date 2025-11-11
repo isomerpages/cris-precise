@@ -31,8 +31,7 @@ the few studies that include ethnic and racial minorities have been performed
 mostly on ethnic communities living abroad, and thus do not capture the
 full rich genetic diversity and unique health needs of those communities
 back home.</p>
-<p><strong>Complex causes, crippling consequences</strong>
-</p>
+<h4><strong>Complex Causes, Crippling Consequences</strong></h4>
 <p>The reasons underlying the stark ethnic disparity in genomic research
 are plenty and complicated, according to Kuchenbaecker and Fatumo, but
 much can be explained by systemic inequalities and historical injustices.</p>
@@ -63,8 +62,7 @@ Asians, and nearly five times less so in people of African descent.</p>
 <p>Ultimately, such an imbalance in genomic research translates to healthcare
 that may not account for the unique and diverse health needs of minority
 populations.</p>
-<p><strong>A genuine willingness for change</strong>
-</p>
+<h4><strong>A Genuine Willingness for Change</strong></h4>
 <p>The good news is that there is still hope, say the researchers. Leveraging
 their extensive experience running genomic research programmes in diverse
 communities, they proposed a list of recommendations to improve diversity
@@ -96,7 +94,8 @@ in traits and disease risk.</p>
 <p>“We have to fundamentally alter the way we do research,” Kuchenbaecker
 and Fatumo wrote. “Only then can all benefit from the genomic revolution.”</p>
 <hr>
-<p>References:</p>
+<p><strong>References:</strong>
+</p>
 <p>1&nbsp;Fatumo, S., Chikowore, T., Choudhury, A., Ayub, M., Martin, A.R.,
 Kuchenbaecker, K. A roadmap to increase diversity in genomic studies.&nbsp;<em>Nat Med</em>&nbsp;28:243-250
 (2022)</p>
