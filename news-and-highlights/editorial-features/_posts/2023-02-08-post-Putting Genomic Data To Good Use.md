@@ -37,8 +37,7 @@ University of Singapore (NUS)’s Yong Loo Lin School of Medicine to charge
 onward. In support of the NPM, the Yong Loo Lin School of Medicine has
 launched the NUS Precision Medicine&nbsp;<a href="https://medicine.nus.edu.sg/bch/precision-medicine/" rel="noopener noreferrer nofollow" target="_blank">Translational Research Program</a>&nbsp;(TRP),
 of which Teo and colleagues are a part, to&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fdgth.2022.845405/full" rel="noopener noreferrer nofollow" target="_blank">drive precision medicine for the future</a>.</p>
-<p><strong>Genomic insights: from bench to clinic</strong>
-</p>
+<h4><strong>Genomic Insights: From Bench to Clinic</strong></h4>
 <p>The TRP brings together a multidisciplinary team of experts, including
 clinician scientists, geneticists, proteomics scientists and bioinformaticians,
 to facilitate the pipeline required for precision medicine programmes.</p>
@@ -67,8 +66,7 @@ variants that cause disease in Asians,” Teo shared.</p>
 <p>The team’s initial area of focus is diabetes and metabolic diseases. “This
 is a strong yet niche area at NUS compared to the Singapore NPM programme’s
 broader aspects,” explained Teo.</p>
-<p><strong>Roadblocks to precision medicine</strong>
-</p>
+<h4><strong>Roadblocks to Precision Medicine</strong></h4>
 <p>Writing in&nbsp;<a href="https://www.frontiersin.org/articles/10.3389/fdgth.2022.845405/full" rel="noopener noreferrer nofollow" target="_blank">a perspective article</a>&nbsp;published
 in&nbsp;<em>Frontiers in Digital Health</em>&nbsp;in 2022, Teo and other
 collaborators identified several challenges to precision medicine programmes
