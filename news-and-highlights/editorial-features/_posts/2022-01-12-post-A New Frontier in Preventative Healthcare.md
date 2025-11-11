@@ -22,8 +22,7 @@ as many as 70% of those breast cancer cases in 2018 were diagnosed at Stage
 I and II. This is a clear case of how preventative healthcare strategies
 like screening, or timely detection of diseases, can potentially save thousands
 of lives when applied to populations.</p>
-<p><strong>Prevention is better than cure</strong>
-</p>
+<h4><strong>Prevention is Better than Cure</strong></h4>
 <p>At its core, preventative healthcare involves identifying individuals
 who may be at risk of diseases that can be avoided through lifestyle changes
 or other preventive measures. The concept is divided into three categories:
@@ -46,8 +45,7 @@ ageing population. In fact, “<a href="https://eservice.nlb.gov.sg/data2/BookSG
 was the mantra of the National Healthcare Plan (NHP) in 1983. Today, the
 Ministry of Health continues to invest in the strategy, having&nbsp;
 <a href="https://www.moh.gov.sg/news-highlights/details/preventive-care-spending-and-impact" rel="noopener noreferrer nofollow" target="_blank">allocated $720 million</a>&nbsp;to preventative healthcare in 2021.</p>
-<p><strong>Enhancing prevention with precision</strong>
-</p>
+<h4><strong>Enhancing Prevention with Precision</strong></h4>
 <p>Alongside the environment, our genes—specifically the mutations found
 in our DNA and their combinations—are the biggest determinants of our risk
 of diseases. Therefore, understanding every individual’s genetics could
@@ -71,8 +69,7 @@ diseases such as cancer and stroke. Just as glucose levels are measured
 to indicate diabetes risk, measuring the expression levels of different
 disease-specific miRNAs could be a quick and inexpensive way to determine
 a person’s risk of developing that disease.</p>
-<p><strong>Taking it to the clinic</strong>
-</p>
+<h4><strong>Taking it to the Clinic</strong></h4>
 <p>To pass on the benefits of precision medicine to patients, the crucial
 next step is to take the technology from the laboratory to the clinic—a
 major goal of Phase II of the NPM, which began in 2021. Clinical partners
