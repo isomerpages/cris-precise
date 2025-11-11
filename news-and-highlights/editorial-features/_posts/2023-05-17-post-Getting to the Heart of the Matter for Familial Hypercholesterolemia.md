@@ -29,8 +29,7 @@ pilot PRECISE offers, I was very interested to put up the economic case
 for it. I got in touch with Tavin—and here we are,” smiles Associate Professor
 Wee Hwee Lin, Saw Swee Hock School of Public Health, National University
 of Singapore.</p>
-<p><strong>Not for the fainthearted</strong>
-</p>
+<h4><strong>Not for the Fainthearted</strong></h4>
 <p>“Well, FH has always been an area of interest for me. I have been leading&nbsp;
 <a href="https://www.ktph.com.sg/healthprofessionals/Pages/clinical-research-highlights-publications.aspx" rel="noopener noreferrer nofollow" target="_blank">FHCARE</a>—a clinical research programme—since its initiation in KTPH
 in 2015. It is now actively supported by endocrinologists, cardiologists
@@ -52,8 +51,7 @@ That’s what we want to find out in this pilot.”</p>
 <p>A/Prof Wee chimes in, “Yes—from an economic perspective, this translates
 into more productive years for the economy as well as less economic burden
 to the society.”</p>
-<p><strong>Keeping a finger on the pulse of scalability</strong>
-</p>
+<h4><strong>Keeping a Finger on the Pulse of Scalability</strong></h4>
 <p>A/Prof Wee says, “There’s really no question about the relevance of a
 FH programme from a clinical standpoint. Tavin has done a great job with
 generating the clinical evidence. Question is, how do we integrate this
@@ -65,8 +63,7 @@ up and implement the programme nationwide in a cost-efficient manner.”</p>
 is to put up a convincing economic case for FH. Although FH may be a health
 issue, but it has economic implications on manpower and our economy.” A/Prof
 Wee adds.</p>
-<p><strong>It is both hard work and heart work</strong>
-</p>
+<h4><strong>It is both Hard Work and Heart Work</strong></h4>
 <p>Almost a year into the pilot now, the pair has registered early wins—particularly
 on the clinical front. A/Prof Tavintharan says, “Before this pilot, we
 processed the genetic samples primarily at our lab in KTPH. Comparatively,
@@ -94,7 +91,6 @@ A/Prof Wee concludes.</p>
 <p>A/Prof Tavintharan says, “On the bright side, I think most stakeholders
 do see what we see—but it is up to us to prove to them that the numbers
 also add up!”</p>
-<p>Read more about the research behind FH&nbsp;<a href="/a-family-affair-familial-hypercholesterolemia-and-the-need/" rel="noopener noreferrer nofollow" target="_self">here</a>.
-</p>
+<p>Read more about the research behind FH&nbsp;<a href="/a-family-affair-familial-hypercholesterolemia-and-the-need/" rel="noopener noreferrer nofollow" target="_self">here</a>.</p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
