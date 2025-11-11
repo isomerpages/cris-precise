@@ -99,8 +99,10 @@ it helps the family who share the same genetic composition to ascertain
 and understand their risks. For example, for a young couple planning to
 start a family, it helps them to know if their child has a 2%, 25%, or
 50% risk of inheriting the disease.</p>
+<blockquote>
 <p>“Foreseeably, precision medicine is what the future of medicine will look
 like,” injects Dr. Jamuar.</p>
+</blockquote>
 <hr>
 <p><a href="/no-childs-play-in-paediatric-precision-medicine/#_ftnref1" rel="noopener noreferrer nofollow" target="_self">[1]</a>&nbsp;Costain
 G, Cohn RD, Malkin D. Precision Child Health: an Emerging Paradigm for
