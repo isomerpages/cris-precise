@@ -133,6 +133,7 @@ between the skin microbiome and epigenome in atopic dermatitis. At the
 same time, she is also a Senior Research Scientist at the National Skin
 Centre and an Honorary Senior Lecturer at Imperial College London.</p>
 <hr>
-<p>References:</p>
+<p><strong>References:</strong>
+</p>
 <p>1&nbsp;Largest genetic study on Parkinson’s disease in Asians reveals
 two genetic risk factors [Online]. https://www.sgh.com.sg/news/tomorrows-medicine/largest-genetic-study-on-parkinsons-disease-in-asians-reveals-two-genetic-risk-factors</p>
