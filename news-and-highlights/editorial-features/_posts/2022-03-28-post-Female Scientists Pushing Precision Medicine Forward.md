@@ -35,8 +35,7 @@ for more representative and accurate treatment. In Singapore, several women
 have been contributing to the precision medicine landscape. In celebration
 of International Women’s Day, we take a look at seven of them and the impact
 of their work.</p>
-<p><strong>Yasmin Bylstra</strong>
-</p>
+<h4><strong>Yasmin Bylstra</strong></h4>
 <p>For over two decades, genetic counsellor Yasmin Bylstra has been interpreting
 and explaining genetic results to&nbsp;<a href="/making-genetics-a-family-affair/" rel="noopener noreferrer nofollow" target="_blank">individuals and their families</a>&nbsp;who
 are at risk of genetic diseases. As the Principal Genetic Counsellor at
@@ -48,8 +47,7 @@ data for identifying patients at risk of genetic diseases. Working closely
 with patients and managing genome sequencing results, Yasmin brings precision
 medicine approaches to the clinic as a patient-focused healthcare solution
 rather than a solely academic pursuit.</p>
-<p><strong>Li Jingmei</strong>
-</p>
+<h4><strong>Li Jingmei</strong></h4>
 <p>Dr Li Jingmei is currently the Group Leader at A*STAR’s Genome Institute
 of Singapore’s (GIS) Women’s Health and Genetics laboratory. At GIS, Li
 and her team are committed to driving Singapore’s women’s health research
@@ -63,8 +61,7 @@ differences that can be found in a person’s genome—pointing to a more accura
 indication of risk. Over the course of her career, Li has been awarded
 the 2017 Singapore Young Scientist Award as well as a 2014 L’Oréal-UNESCO
 For Women in Science International Fellowship.</p>
-<p><strong>Claire Bellis</strong>
-</p>
+<h4><strong>Claire Bellis</strong></h4>
 <p>As the Senior Programme Manager for the&nbsp;<a href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/npm" rel="noopener noreferrer nofollow" target="_blank">National Precision Medicine (NPM) Programme</a>,
 Dr Claire Bellis plays a key role in driving Singapore’s major precision
 medicine efforts. Through the programme, Bellis and her team intend to
@@ -78,8 +75,7 @@ The study sequenced the genomes of almost 5,000 Singaporeans—providing
 significant insights into the genetic diversity of Asian populations and
 validating the programme’s proof-of-concept while demonstrating the capabilities
 of A*STAR’s GIS and wider NPM ecosystem.</p>
-<p><strong>Sonia Davila</strong>
-</p>
+<h4><strong>Sonia Davila</strong></h4>
 <p>Professor Sonia Davila, Deputy Director of the SingHealth Duke-NUS Institute
 of Precision Medicine (PRISM) and Director of Research at the SingHealth
 Duke-NUS Genomic Medicine Centre, has identified genetic mutations involved
@@ -92,8 +88,7 @@ focused specifically on identifying disease risk in Asian patients. Davila
 hopes to advance genomic medicine and precision medicine as a practical
 clinical tool capable of benefitting patients across the globe—no matter
 how rare their disease.</p>
-<p><strong>Foo Jia Nee</strong>
-</p>
+<h4><strong>Foo Jia Nee</strong></h4>
 <p>Professor Foo Jia Nee is the Nanyang Assistant Professor at the Lee Kong
 Chian School of Medicine at Nanyang Technological University. Foo is also
 a Senior Research Scientist at A*STAR’s GIS where her team looks at genetic
@@ -107,8 +102,7 @@ and a consortium of researchers across East Asia. The people of Han Chinese
 ethnicity make up almost a fifth of the world’s population, thus a better
 understanding of how genomic differences affect their risk of Parkinson’s
 disease can greatly advance precise therapies and diagnosis in East Asia.</p>
-<p><strong>Neerja Karnani</strong>
-</p>
+<h4><strong>Neerja Karnani</strong></h4>
 <p>Neerja Karnani is a Senior Principal Investigator and the Head of Clinical
 Data Engagement at A*STAR’s Bioinformatics Institute. She and her team
 use integrated omics approaches and clinical data science to improve diagnostics
@@ -123,8 +117,7 @@ of obesity. This year, Karnani aims to create customized health apps powered
 by next generation diagnostic tests that combine precision medicine research
 and electronic health records with real-world data from the public health
 sector.</p>
-<p><strong>Marie Loh</strong>
-</p>
+<h4><strong>Marie Loh</strong></h4>
 <p>Assistant Professor Marie Loh from the Lee Kong Chian School of Medicine
 at Nanyang Technological University, Singapore is an award-winning molecular
 epidemiologist. As part of the&nbsp;<a href="https://www.ntu.edu.sg/medicine/research/research-programmes/population-health" rel="noopener noreferrer nofollow" target="_blank">Population and Global Health research programme</a>,
