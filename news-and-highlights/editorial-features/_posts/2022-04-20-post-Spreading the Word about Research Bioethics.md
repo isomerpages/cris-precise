@@ -34,8 +34,7 @@ and researchers.&nbsp;In the penultimate chapter of a 20th&nbsp;anniversary
 commemorative BAC publication titled “The Future of Bioethics in Singapore”1,
 Cole, who has hosted several events on bioethics in Singapore, discussed
 the importance of public engagement in the country’s bioethics landscape.</p>
-<p><strong>Making bioethics everyone’s business</strong>
-</p>
+<h4><strong>Making Bioethics Everyone’s Business</strong></h4>
 <p>The BAC’s main missions are to educate and raise awareness of bioethics-related
 issues, procure feedback on views held by the public and provide recommendations
 to policy-makers. Counsel from the BAC has also set the groundwork for
@@ -50,8 +49,7 @@ could have lasting impact on new endeavours. “By building trust with its
 stakeholders, the biomedical research sector can generate both practical
 and moral support for its activities and move forward with confidence,”
 Cole said.</p>
-<p><strong>An evolving landscape</strong>
-</p>
+<h4><strong>An Evolving Landscape</strong></h4>
 <p>Bioethical concerns in Singapore, as in many countries, have followed
 emerging biomedical advances and their applications, said Cole. For example,
 in the early 2000s, human stem cell research raised questions about the
@@ -75,8 +73,7 @@ to contribute their personal information. From this, Cole noted that traditional
 public engagement methods like focus groups could be useful strategies
 to gather nuanced opinions on the complex ethical issues surrounding biomedical
 research.</p>
-<p><strong>A new generation of engagement</strong>
-</p>
+<h4><strong>A New Generation of Engagement</strong></h4>
 <p>Just as scientific discoveries continue to morph bioethics, Cole highlights
 that changes in the way we communicate will also affect how organisations
 like the BAC should engage the public in bioethics.&nbsp;&nbsp;For example,
@@ -98,7 +95,8 @@ said Cole.&nbsp;“Bioethics as a field of inquiry has matured to the extent
 that it has found a more established place within the public consciousness,
 which I think is a sign of progress,” he concluded.</p>
 <hr>
-<p>References:</p>
+<p><strong>References:</strong>
+</p>
 <p>1Bioethics Advisory Committee.&nbsp;The Future of Bioethics in Singapore.
 (2021) https://file.go.gov.sg/bac20thanniversarypublication.pdf</p>
 <p>2Lysaght T., Ballantyne A., Xafis V., Ong S., Schaefer GO., et al. “Who
