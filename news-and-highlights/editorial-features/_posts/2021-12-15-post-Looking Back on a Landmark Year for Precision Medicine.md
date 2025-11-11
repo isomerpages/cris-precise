@@ -22,12 +22,7 @@ of genetics, environment and lifestyle on populations and individuals.</p>
 <p>It’s no wonder then that 2021 has seen numerous genomics and precision
 medicine initiatives come into the fore. Here’s a recap of some of the
 most significant developments in the field in the past year.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Singaporean genomes in the spotlight</strong>
-</p>
-</li>
-</ol>
+<h4><strong>1. Singaporean genomes in the spotlight</strong></h4>
 <p>Despite its small size, Singapore is home to around&nbsp;<a href="/thought-leader-feature-prof-john-chambers/" rel="noopener noreferrer nofollow" target="_self">80 percent of Asia’s genetic diversity</a>&nbsp;thanks
 to the three ethnic groups—Chinese, Malay and Indian—on its sunny shores.
 With Asian populations historically underrepresented in genomic databases,
@@ -43,12 +38,7 @@ II will also see the pilot implementation of precision medicine in clinical
 practices and focus on creating new economic opportunities that leverage
 new findings from genetic studies—transforming healthcare in the country
 for the better.</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Predicting drug responses in Southeast Asian populations</strong>
-</p>
-</li>
-</ol>
+<h4><strong>2. Predicting drug responses in Southeast Asian populations</strong></h4>
 <p>In the precision medicine approach to therapeutic treatment, it’s all
 about delivering the right drug to the right patient at the right time.
 Regionally, researchers are striving to achieve this goal through efforts
@@ -62,12 +52,7 @@ variations at 100 genetic locations, contributing to differences in drug
 responses among populations within and between countries. While this study
 is only preliminary, further research may someday help local physicians
 prescribe drugs more likely to be effective in their respective populations.</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Illuminating immunity across Asia</strong>
-</p>
-</li>
-</ol>
+<h4><strong>3. Illuminating immunity across Asia</strong></h4>
 <p>From the lush tropics of India to the mountains of South Korea, Asia is
 home to a dizzying array of stunning environments and unique wildlife.
 Despite the diversity of its 4.5 billion-strong population, the region’s
@@ -83,12 +68,7 @@ of the immune system in health individuals—allowing the identification
 of abnormalities across diverse immune-related diseases, metabolic disorders
 and cancers. The project is funded by the Chan Zuckerberg Initiative grant,
 with similar atlases also in the works in Latin America and North America.</p>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><strong>Rebuilding Tohoku’s genomic infrastructure</strong>
-</p>
-</li>
-</ol>
+<h4><strong>4. Rebuilding Tohoku’s genomic infrastructure</strong></h4>
 <p>In March 2011, Japan’s northeast coast was jolted by the largest recorded
 earthquake in the country’s history: a magnitude-9.0 event that triggered
 a massive tsunami reaching up to 40 metres in height—flatlining buildings
@@ -102,12 +82,7 @@ medical and genome information. 2021 marked the start of the biobank project’s
 third stage and will focus on carrying out a long-term health survey in
 the areas impacted by the earthquake ten years prior, as well as the building
 up of a biobank with information from 150,000 individuals.</p>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p><strong>Diagnosing rare diseases with whole genome sequencing</strong>
-</p>
-</li>
-</ol>
+<h4><strong>5. Diagnosing rare diseases with whole genome sequencing</strong></h4>
 <p>For individuals with rare disease, diagnosis is often elusive—with years
 of unnecessary and costly tests building up to what is called a ‘diagnostic
 odyssey.’ However, recent results from the&nbsp;<a href="https://www.genomicsengland.co.uk/about-genomics-england/the-100000-genomes-project/" rel="noopener noreferrer nofollow" target="_blank">UK’s 100,000 Genomes Project</a>&nbsp;indicate
@@ -130,10 +105,10 @@ system driven by precision medicine. In the years to come, it is clear
 that insights from these efforts will shape the way we approach health
 as well as detect, diagnose and manage disease for the better—so stay tuned!</p>
 <hr>
-<p>References:</p>
-<p>1&nbsp;Singapore launches next phase of National Precision Medicine Programme
-[Online]. <a href="/singapore-launches-next-phase-of-national-precision-medicine/" rel="noopener noreferrer nofollow" target="_self">View here</a>.
+<p><strong>References:</strong>
 </p>
+<p>1&nbsp;Singapore launches next phase of National Precision Medicine Programme
+[Online]. <a href="/singapore-launches-next-phase-of-national-precision-medicine/" rel="noopener noreferrer nofollow" target="_self">View here</a>.</p>
 <p>2&nbsp;Runcharoen C, Fukunaga F, Sensorn I, et al. Prevalence of pharmacogenomic
 variants in 100 pharmacogenes among Southeast Asian populations under the
 collaboration of the Southeast Asian Pharmacogenomics Research Network
