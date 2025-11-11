@@ -33,8 +33,7 @@ studies can inform public health strategies by identifying the genetic
 factors that make some populations more susceptible than others to a particular
 disease. In this feature, we look at some notable diseases with a known
 genetic basis in Asian populations.</p>
-<p><strong>X-linked dystonia-parkinsonism</strong>
-</p>
+<h4><strong>X-linked Dystonia-Parkinsonism</strong></h4>
 <p>One intriguing example of a population-specific genetic disease is X-linked
 dystonia-parkinsonism (XDP), an extremely rare and debilitating movement
 disorder characterised by tremors, disturbed balance and involuntary muscle
@@ -50,8 +49,7 @@ could be explained by a pathogenic haplotype, a set of gene alterations
 that are passed down together from parent to child. A precision public
 health approach could target genetic counselling to people who carry this
 haplotype.</p>
-<p><strong>Thalassaemia</strong>
-</p>
+<h4><strong>Thalassaemia</strong></h4>
 <p>Southeast Asia, one of the world’s most ethnically diverse regions, is
 also home to more than 60 different thalassaemia syndromes2.&nbsp;Thalassaemia
 is a heritable disease caused by gene mutations that lower the body’s production
@@ -68,8 +66,7 @@ focusing on the most common mutations in individual countries and communities,
 rather than a whole-of-region approach, precision public health strategies
 could one day lead to stronger thalassaemia prevention and control in Southeast
 Asia.</p>
-<p><strong>Diabetes</strong>
-</p>
+<h4><strong>Diabetes</strong></h4>
 <p>Even across geographic borders, precision public health can lead to more
 effective interventions. Take the East Asian population, a highly diverse
 group that encompasses individuals of Japanese, Chinese and Korean descent.
