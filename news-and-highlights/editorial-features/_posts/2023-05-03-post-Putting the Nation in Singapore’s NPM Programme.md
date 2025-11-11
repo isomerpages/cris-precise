@@ -159,5 +159,5 @@ of&nbsp;irresponsible use of precision medicine and new genomic technologies.</p
 <p></p>
 <p></p>
 <hr>
-<p>[1]&nbsp;Population in Brief 2022 (September 2022).&nbsp;<a href="https://www.strategygroup.gov.sg/files/media-centre/publications/Population-in-Brief-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.strategygroup.gov.sg/files/media-centre/publications/Population-in-Brief-2022.pdf</a>
+<p>[1]&nbsp;Population in Brief 2022 (September 2022).&nbsp;<a href="https://www.population.gov.sg/media-centre/articles/permalink/" rel="noopener noreferrer nofollow" target="_blank">Population in Brief 2022: Key Trends</a>
 </p>
