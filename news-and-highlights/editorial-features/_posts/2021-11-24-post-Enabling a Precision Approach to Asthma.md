@@ -29,8 +29,7 @@ accounting for&nbsp;medical history and environmental exposures. One such
 genetic factor is the presence of single-nucleotide polymorphisms (SNPs),
 common variations found in DNA sequences that may demarcate regions of
 disease relevance.</p>
-<p><strong>The unusual suspects</strong>
-</p>
+<h4><strong>The Unusual Suspects</strong></h4>
 <p>“Identifying the genes, disease-associated SNPs are associated helps us
 understand the mechanism and potential interventions for altering disease,”
 said Dr Anand Kumar Andiappan, a Principal Investigator who studies biomarkers
@@ -63,8 +62,7 @@ response.</p>
 <p>“We believe this has not been reported before although the role of monocytes
 and pDCs in asthma has been suggested,” said Andiappan. “Hence, our future
 work should look at the immune regulation in these cell types.”</p>
-<p><strong>Asthma’s balancing act</strong>
-</p>
+<h4><strong>Asthma’s Balancing Act</strong></h4>
 <p>Aside from finding these two new potential players in asthma, the team
 also discovered that the rs2427837 SNP affected monocytes and pDCs differently
 depending on their genotype.&nbsp;“Genotype refers to the combination of
