@@ -15,8 +15,7 @@ of new healthcare services and technologies?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial%20Features/2023/ddghhrg-raymond-chua.jpeg">
 </div>
-<p><strong>Staying ahead of the curve is important</strong>
-</p>
+<h4><strong>Staying Ahead of the Curve is Important</strong></h4>
 <p>Adjunct Associate Professor Raymond Chua, Deputy Director-General of Health
 (Health Regulation Group), Ministry of Health (MOH), answered, “It’s indeed
 a challenge trying to balance this. As a regulator, MOH’s main objective
@@ -35,8 +34,7 @@ regularly, we stay plugged in to what is new or in the pipeline. That enables
 us to get a head start on reviewing our regulatory policies and tools,
 and in some instances, opportunities to study the relevance of regulatory
 measures other countries have put in place in our country.”</p>
-<p><strong>Safety is the top priority—always</strong>
-</p>
+<h4><strong>Safety is the Top Priority—Always</strong></h4>
 <p>By 2030, around one in four Singaporeans, will be aged 65 and above, according
 to the&nbsp;<a href="https://www.strategygroup.gov.sg/files/media-centre/publications/Population-in-Brief-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Population in Brief 2022</a>.&nbsp;A/Prof
 Chua pointed out that, as we prepare for a ‘super-aged’ society, we expect
@@ -57,8 +55,7 @@ data driven innovation?” He said this is particularly relevant to precision
 medicine, which involves a lot of individualised data to empower learning
 and insights, so as to enhance precision and nudge individuals towards
 healthier lifestyles.</p>
-<p><strong>Sandboxing as a means to explore enabling innovative services</strong>
-</p>
+<h4><strong>Sandboxing as a Means to Explore Enabling Innovative Services</strong></h4>
 <p>A/Prof Chua continued,&nbsp;“Slowly but surely, genomic medicine is transforming
 our healthcare system at different points of the care pathway to enable
 more personalised healthcare advice and treatment, earlier interventions,
@@ -85,8 +82,7 @@ effectiveness of regulations and enhance further. We are also analysing
 findings from the sandbox providers to review how we can translate them
 into policies, standards, and a set of laws that any clinic or hospital
 providing genomic medicine will have to come under.”</p>
-<p><strong>Balancing different forces and motion</strong>
-</p>
+<h4><strong>Balancing Different Forces and Motion</strong></h4>
 <p>“Nonetheless, we are cognisant that the landscape is fast-changing and
 what matters to service providers and consumers can be very different.
 Thus, as much as we try to keep the equilibrium through regular stakeholder
