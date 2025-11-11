@@ -22,8 +22,7 @@ event happens.</p>
 outcome if detected and treated early—because effective pharmacological
 therapies are available. They can significantly reduce low density lipoproteins
 cholesterol (LDL-C) levels and prevent cardiovascular disease development.</p>
-<p><strong>The case for genetic testing</strong>
-</p>
+<h4><strong>The Case for Genetic Testing</strong></h4>
 <p>“Most doctors are familiar with FH clinical diagnostic criteria such as
 the Simon Broome Diagnostic Criteria and the Dutch Lipid Clinic Network
 Criteria. However, the application of these involves taking a number of
@@ -34,8 +33,8 @@ for testing as these family members have a 50% chance of having FH too,”
 said Associate Professor Tavintharan Subramaniam, Senior Consultant, Department
 of Medicine, Khoo Teck Puat Hospital (KTPH).</p>
 <p>Add to that, genetic testing was not available in Singapore as a clinical
-standard of care before the rollout of the&nbsp;<a href="https://www.ktph.com.sg/healthprofessionals/Pages/clinical-research-highlights-publications.aspx" rel="noopener noreferrer nofollow" target="_blank">FHCARE</a> programme at
-KTPH. A/Prof Tavintharan explained, “We first started offering genetic
+standard of care before the rollout of the&nbsp;<a href="https://www.ktph.com.sg/healthprofessionals/Pages/clinical-research-highlights-publications.aspx" rel="noopener noreferrer nofollow" target="_blank">FHCARE</a> programme
+at KTPH. A/Prof Tavintharan explained, “We first started offering genetic
 testing as a means of FH diagnosis in 2015. In the beginning, we focused
 on referrals with high cholesterol levels from lipid clinics in KTPH. That
 allowed us to build up capabilities and confidence in genetic testing.
@@ -51,8 +50,7 @@ in a sustainable and cost efficient manner. This goes beyond the specialists
 to include FH coordinators and even family physicians in the primary care
 network. With the clinical implementation pilot under PRECISE, we want
 to address how we can do that without burdening the healthcare system.”</p>
-<p><strong>The push for cascade screening</strong>
-</p>
+<h4><strong>The Push for Cascade Screening</strong></h4>
 <p>Familial hypercholesterolemia is a genetic condition that is passed down
 in families. Hence, identifying and diagnosing the proband—the first person
 to be diagnosed with FH in a family is just the beginning. Family cascade
@@ -77,8 +75,7 @@ sequencing partner locally. We hope the faster turnaround of reports, plus
 the 150-day window for first-degree family members to get free testing,
 will make family members of probands more receptive to come forward for
 cascade screening.”</p>
-<p><strong>A sustainable effort in navigating FH challenges</strong>
-</p>
+<h4><strong>A Sustainable Effort in Navigating FH Challenges</strong></h4>
 <p>“Indeed, we have made some good headway with the pilot. Over the past
 few months, we have engaged clinicians in meaningful discussions on support
 needed for scaling up the pilot. We are also very encouraged by the good
