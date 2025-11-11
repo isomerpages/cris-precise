@@ -21,8 +21,7 @@ Head &amp; Senior Consultant, Genetics Service, KK Women’s and Children’s
 Hospital (KKH), and Deputy Chief Medical Officer at PRECISE, offers insights
 on Singapore’s paediatrics landscape today—and how precision medicine can
 make a difference to children, families, and the Singapore population.</p>
-<p><strong>Precision medicine is not a young practice in paediatrics</strong>
-</p>
+<h4><strong>Precision Medicine is not a Young Practice in Paediatrics</strong></h4>
 <p>Associate Professor Tan shares, “Precision medicine at its core really
 just means the use of one’s genomic information for health purposes. For
 over 30 years now, our team at KKH has been providing clinical care to
@@ -36,8 +35,7 @@ one in 2,000 individuals. These conditions are rare individually. But if
 you look at them as a group, they are actually more common than you think.
 Because these conditions are lesser known, the public knowledge is understandably
 low.”</p>
-<p><strong>Paediatrics before next generation sequencing</strong>
-</p>
+<h4><strong>Paediatrics before next Generation Sequencing</strong></h4>
 <p>Before the emergence of next generation sequencing in mid-2000s, genetic
 sequencing was costly and only one fragment of the gene could be sequenced
 at a time. Associate Professor Tan says, “It used to cost about S$2,000
@@ -56,8 +54,7 @@ it means a lot for the family to know what is causing the problem or simply
 be able to put a name to the condition. It helps them to accept what is
 happening, prepare for the future, and connect with others with the same
 genetic condition.”</p>
-<p><strong>An important developmental milestone of precision medicine in paediatrics</strong>
-</p>
+<h4><strong>An Important Developmental Milestone of Precision Medicine in Paediatrics</strong></h4>
 <p>It is clear that precision medicine has contributed greatly to paediatrics
 as a diagnostics tool. Particularly, it complements the newborn screening
 programme at KKH, which aligns with goals outlined in the Healthier SG
@@ -79,8 +76,7 @@ no direct treatment is available. But simply because we know the likelihood
 of disease occurrence, we can take preventive steps and apply therapy early—basically
 being more prepared to handle the medical complications,” Associate Professor
 Tan explains.</p>
-<p><strong>Ensuring a healthy growth trajectory for precision medicine</strong>
-</p>
+<h4><strong>Ensuring a Healthy Growth Trajectory for Precision Medicine</strong></h4>
 <p>Associate Professor Tan elaborates, “We are not far from realising some
 of these opportunities precision medicine offers. Like the use of genomic
 screening for newborns—the technology is already there, and some countries
