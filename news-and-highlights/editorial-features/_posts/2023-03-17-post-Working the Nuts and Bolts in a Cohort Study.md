@@ -21,8 +21,7 @@ Saw Swee Hock School of Public Health shares insights on what it is like
 to be running&nbsp;<a href="https://blog.nus.edu.sg/sphs/" rel="noopener noreferrer nofollow" target="_blank">Singapore Population Health Study</a>&nbsp;which
 is part of Singapore’s largest longitudinal study—SG100K, the progress
 thus far, and her hopes for it.</p>
-<p><strong>What is the thinking behind SG100K?</strong>
-</p>
+<h4><strong>What is the Thinking behind SG100K?</strong></h4>
 <p>Human beings are generally quite similar. But there are exceptions where
 we see disease occurring more often in some than others. With cohort studies,
 we are trying to see these similarities and differences between populations
@@ -33,20 +32,18 @@ to half the world. It also offers an opportunity to compare our findings
 against that of other international cohort studies. Hopefully, this puts
 us in a position to better predict health risks—and possibly, prevent and
 delay them from happening.</p>
-<p><strong>What does a successful cohort study look like?</strong>
-</p>
-<p>One of the earliest cohort studies in the world was the&nbsp;<a href="https://www.framinghamheartstudy.org/participants/" rel="noopener noreferrer nofollow" target="_blank">Framingham Heart Study</a>.
-It was started in 1948, Massachusetts, with a cohort size of approximately
-5,200 men and women. The cardiovascular risk prediction model which was
-first built from the study is still in use today.</p>
+<h4><strong>What does a Successful Cohort Study look like?</strong></h4>
+<p>One of the earliest cohort studies in the world was the&nbsp;Framingham
+Heart Study. It was started in 1948, Massachusetts, with a cohort size
+of approximately 5,200 men and women. The cardiovascular risk prediction
+model which was first built from the study is still in use today.</p>
 <p>There is a certain intricacy to ensuring that the cohort size is sufficiently
 large—because if there are only 100 persons in the research, estimates
 are less precise and it is hard to tell if this group of people coincidentally
 shares the same predisposition. That probability is reduced when the sample
 size is bigger. Also, having a certain size helps buffer against dropouts.
 Cross-checking against other similar studies provides a good gauge.</p>
-<p><strong>What does it take to run a successful cohort?</strong>
-</p>
+<h4><strong>What does it take to run a Successful Cohort?</strong></h4>
 <p>Running&nbsp;a cohort has many moving parts. Besides recruiting participants
 and inviting them back every five years, we need to put in place an infrastructure
 where data collected is comparable across different time periods and useful
@@ -65,8 +62,7 @@ with us by using the data we have collected and suggesting to us what other
 data they might be interested in. For this to happen, we need to first
 make sure that our data is curated, reusable, and easily accessible. Data
 sharing rules and principles are also clearly outlined.</p>
-<p><strong>What are some outcomes we can expect from SG100K?</strong>
-</p>
+<h4><strong>What are some outcomes we can expect from SG100K?</strong></h4>
 <p><a href="https://www.framinghamheartstudy.org/participants/" rel="noopener noreferrer nofollow" target="_blank">SG100K</a>&nbsp;is
 a central part of the National Precision Medicine (NPM) Phase II with PRECISE.
 In the last five years, some of the SG100K cohorts were part of the NPM
