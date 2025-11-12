@@ -28,7 +28,7 @@ third_nav_title: Our Data Users
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Asst Prof Max Lam</strong>
+<p><strong>Lead PI: Adj Asst Prof Max Lam</strong>
 <br>Lee Kong Chian School of Medicine Institute of Mental Health</p>
 </li>
 <li>
