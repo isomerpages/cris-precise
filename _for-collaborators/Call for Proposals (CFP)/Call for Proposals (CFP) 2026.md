@@ -216,7 +216,7 @@ be supported.</p>
 </li>
 <li>
 <p>Submitted proposals should <strong>not overlap</strong> with<strong> existing </strong>approved
-<a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_10Nov2025.pdf" rel="noopener noreferrer nofollow" target="_blank">projects</a><strong>.</strong>
+<a href="/files/PRECISE_SG100K_Flagship_and_Driver_Projects_10Nov2025.pdf" rel="noopener nofollow" target="_blank">projects</a><strong>.</strong>
 </p>
 </li>
 </ol>
