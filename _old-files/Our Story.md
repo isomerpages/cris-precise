@@ -57,9 +57,7 @@ research, improve health outcomes and enhance opportunities for economic
 value across sectors.</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/Our%20Story/our%20story.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -85,9 +83,6 @@ Ultimately, doctors and scientists can use these valuable resources to
 reach a deeper understanding of how diseases develop, and discover better
 ways to prevent and treat them.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Story/NPM_Phases.png">
-</div>
 <h3><strong>Video: Singapore's National Precision Medicine Strategy</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZrEv0cmGFUE?si=gvYS5nFUi-ayAgIE"></iframe>
