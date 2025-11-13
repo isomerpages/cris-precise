@@ -13,27 +13,7 @@ The objectives of the CIP grant call were to:
 
 PRECISE has awarded 5 CIPs in :&nbsp;**Breast Cancer, Hereditary &amp; Familial Cancers, Familial Hypercholesterolemia, Primary Glomerular Diseases and Pharmacogenomics.**&nbsp;These CIPs will seek to embed clinical application of genetic/genomic tests to diagnose, manage and/or treat a particular patient cohort(s) and/or population for their specific conditions or disease phenotypes.
 
-<table>
-	<tbody>
-		<tr>
-			<td style="width:20%">
-				<img src="/images/Research/Clinical%20Implementation%20Pilots/hc-image.jpg">
-			</td>
-			<td style="width:20%">
-				<img src="/images/Research/Clinical%20Implementation%20Pilots/bcs-image.jpg">
-			</td>
-			<td style="width:20%">
-				<img src="/images/Research/Clinical%20Implementation%20Pilots/hafc-image.jpg">
-			</td>
-			<td style="width:20%">
-				<img src="/images/Research/Clinical%20Implementation%20Pilots/kd-image.jpg">
-			</td>
-			<td style="width:20%">
-				<img src="/images/Research/Clinical%20Implementation%20Pilots/dr-image.jpg">
-			</td>
-		</tr>
-	</tbody>
-	</table>
+
 	
 <table>
 	<tbody>
