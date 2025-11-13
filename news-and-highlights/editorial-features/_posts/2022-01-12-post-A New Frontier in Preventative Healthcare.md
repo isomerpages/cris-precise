@@ -85,8 +85,7 @@ number of clinical laboratories.</p>
 by Singaporean researchers in 2020 to guide the design, development and
 evaluation of miRNA-based assays are already leading to the development
 of commercial “point-of-care” testing devices. Validated tests for gastric
-and lung cancers and even multiple cancers at once are nearing&nbsp;
-<a href="/news-and-events/editorial-features/pushing-the-boundaries-of-cancer-care/" rel="noopener noreferrer nofollow" target="_blank">commercial availability</a>.</p>
+and lung cancers and even multiple cancers at once are nearing <a href="/editorial-features/pushing-the-boundaries-of-cancer-care/" rel="noopener noreferrer nofollow" target="_blank">commercial availability</a>.</p>
 <p>Bringing the reality of precision medicine to Singapore is a long-term
 strategy, and NPM is steadily moving toward that goal. As researchers continue
 to gain understanding of the genetic basis of specific diseases and clinicians

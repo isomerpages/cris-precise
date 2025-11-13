@@ -53,7 +53,7 @@ of Singapore’s (GIS) Women’s Health and Genetics laboratory. At GIS, Li
 and her team are committed to driving Singapore’s women’s health research
 through a variety of efforts—from genetic sequencing to assessing the general
 public’s attitudes toward breast cancer screening. &nbsp;In particular,
-Li’s work focuses on the&nbsp;<a href="/empowering-breakthroughs-in-breast-cancer-care/" rel="noopener noreferrer nofollow" target="_self">prevention and early detection of breast cancer</a>.
+Li’s work focuses on the&nbsp;<a href="/editorial-features/empowering-breakthroughs-in-breast-cancer-care/" rel="noopener noreferrer nofollow" target="_self">prevention and early detection of breast cancer</a>.
 Typically, family history remains the primary measurement for breast cancer
 risk, but Li and her team have noticed that such information is becoming
 more difficult to obtain. Through her research, she hopes to identify genetic

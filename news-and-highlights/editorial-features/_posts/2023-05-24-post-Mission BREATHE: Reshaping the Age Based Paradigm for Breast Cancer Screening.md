@@ -10,7 +10,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial%20Features/2023/precise-banner9_1400x800.jpg">
 </div>
-<p><em>Finding a lump in her right breast was the last thing 50-year-old Juvina Lee expected when she signed up for the&nbsp;<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265965" rel="noopener noreferrer nofollow" target="_blank">BREAst screening Tailored for Her (BREATHE) study</a>&nbsp;in March 2023. And her story is not unique. One in six breast cancer cases in Singapore are diagnosed in women under 45 years old, and it is one of the most common cancers in women aged 15 to 34.<a href="https://www.npm.sg/mission-breathe-reshaping-the-age-based-paradigm-for-breast-cancer-screening/#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a></em>
+<p><em>Finding a lump in her right breast was the last thing 50-year-old Juvina Lee expected when she signed up for the&nbsp;<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265965" rel="noopener noreferrer nofollow" target="_blank">BREAst screening Tailored for Her (BREATHE) study</a>&nbsp;in March 2023. And her story is not unique. One in six breast cancer cases in Singapore are diagnosed in women under 45 years old, and it is one of the most common cancers in women aged 15 to 34.</em>
+<a href="https://www.bcf.org.sg/take-charge-of-your-breast-health/" rel="noopener noreferrer nofollow" target="_blank"><sup>[1]</sup>
+</a>
 </p>
 <p>“As far as breast cancer treatment is concerned, we have gone through
 transformational progress over the years. It used to be that a large proportion
@@ -106,7 +108,7 @@ customised screening.”</p>
 <p><em>This project is supported by the National Research Foundation, Singapore, through the Singapore Ministry of Health’s National Medical Research Council and the Precision Health Research, Singapore (PRECISE), under PRECISE’s Clinical Implementation Pilot grant scheme.</em>
 </p>
 <hr>
-<p><a href="/mission-breathe-reshaping-the-age-based-paradigm-for-breast-cancer-screening/#_ftnref1" rel="noopener noreferrer nofollow" target="_self">[1]</a>&nbsp;Breast
+<p><a href="https://www.bcf.org.sg/take-charge-of-your-breast-health/" rel="noopener noreferrer nofollow" target="_self">[1]</a>&nbsp;Breast
 Cancer Foundation, Take Charge of Your Breast Health –&nbsp;Journeys of
 Young Women with Breast Cancer in Singapore.&nbsp;<a href="https://www.bcf.org.sg/take-charge-of-your-breast-health/" rel="noopener noreferrer nofollow" target="_blank">https://www.bcf.org.sg/take-charge-of-your-breast-health/</a>
 </p>

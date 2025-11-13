@@ -1,10 +1,10 @@
 ---
 title: "Research in the Real World: Taking Precision Medicine to Patients"
 permalink: /research-in-the-real-world-taking-precision-medicine-to-patients/
-date: 2025-10-31
+date: 2025-11-13
 layout: post
-description: ""
-image: ""
+description: "Research in the Real World: Taking Precision Medicine to Patients"
+image: /images/Resources/Editorial Features/2025/NPM_phase_III_thumbnail_v2_1.png
 variant: markdown
 ---
 <p>When Singapore launched its National Precision Medicine (NPM) initiative
