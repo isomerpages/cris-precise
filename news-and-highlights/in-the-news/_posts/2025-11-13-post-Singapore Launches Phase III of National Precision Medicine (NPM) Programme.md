@@ -8,9 +8,8 @@ description: Singapore Launches Phase III of National Precision Medicine (NPM)
 image: ""
 variant: tiptap
 ---
-<p><strong>&nbsp;</strong>
-</p>
-<h4><strong>Singapore Launches Phase III of National Precision Medicine (NPM) Programme Forming Strategic Partnerships for Better Health</strong></h4>
+<h3><strong>Singapore Launches Phase III of National Precision Medicine (NPM) Programme Forming Strategic Partnerships for Better Health</strong></h3>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>Phase III of the National Precision Medicine (NPM) Programme was launched today</em> with
@@ -45,7 +44,7 @@ of using genomic information in healthcare when scaled beyond pilots to
 population levels. These insights will help guide how genomic information
 could, in future, be responsibly integrated into healthcare to support
 physicians and patients in preventive and more targeted care.</p>
-<p><strong>NPM Phase III: From research insights to real-world impact</strong>
+<p><strong>NPM Phase III: From Research Insights to Real-World Impact</strong>
 </p>
 <p><strong>“We are pleased to work with our colleagues from the healthcare clusters to launch Phase III and research partners in A*STAR and the ecosystem,” said Professor Patrick Tan, Executive Director of PRECISE</strong>.
 “In Phase II, we studied healthy cohorts to contribute to population health
@@ -62,7 +61,7 @@ of how genes and genomic background can predispose some individuals to
 inherited conditions could encourage more preventive and timely healthcare,
 helping individuals make informed choices earlier. Insights from one patient's
 data could, in turn, guide better care for the next."</p>
-<p><strong>Building on strong foundations</strong>
+<p><strong>Building on Strong Foundations</strong>
 </p>
 <p>Precision medicine is a key strategic priority under Singapore's Research,
 Innovation and Enterprise (RIE) 2025 plan, and is recognised by the Ministry
@@ -73,7 +72,7 @@ with our hospital partners and MOH, we are working systematically to assess
 clinical utility, population health impact, system readiness, and patient
 perspectives of more disease areas so as to guide these innovations through
 the appropriate pathways for clinical adoption.”</p>
-<p><strong>Contributing to research that can shape the future of healthcare</strong>
+<p><strong>Contributing to Research that Can Shape the Future of Healthcare</strong>
 </p>
 <p>To date, the NPM programme has sequenced over 100,000 Singapore citizens
 and Permanent Residents, driven innovations in screening and diagnosis,
