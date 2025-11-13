@@ -97,7 +97,7 @@ will be securely stored and handled.</p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">trixie.teo@cris.sg</a>
 </p>
 <p></p>
-<p>For more information, visit: <a rel="noopener noreferrer nofollow" target="_blank">www.npm.sg</a>
+<p>For more information, visit: <a href="https://for.sg/npmphase3" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/npmphase3</a>
 </p>
 <hr>
 <p></p>
