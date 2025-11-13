@@ -37,7 +37,7 @@ after me, but that we found an answer for that family.”</p>
 <p>The question remains. If whole exome sequencing and whole genome sequencing
 can improve the yield of primary diagnostic findings in children with suspected
 genetic disorders, why are they used as ‘last resort’ tests after a prolonged
-diagnostic odyssey<a href="/no-childs-play-in-paediatric-precision-medicine/#_ftnref1" rel="noopener noreferrer nofollow" target="_self">[1]</a>?</p>
+diagnostic odyssey<a href="https://doi.org/10.1007/s40746-020-00207-2" rel="noopener noreferrer nofollow" target="_self"><sup>[1]</sup></a>?</p>
 <p>Dr. Jamuar explains, “Globally, paediatric genetic disorders are classified
 as rare diseases. But there is increasing realisation that while these
 diseases may be rare individually, there are over 7,000 of them collectively.
@@ -63,12 +63,13 @@ control over. More importantly, that allows us to ask the next question,
 <p>The odds of diagnosing a rare genetic disease have increased over the
 years—thanks to next-generation sequencing technology. But more than half
 of patients with suspected rare genetic disease remain without a definite
-diagnosis<a href="/no-childs-play-in-paediatric-precision-medicine/#_ftnref1" rel="noopener noreferrer nofollow" target="_self">[2]</a>&nbsp;“Families
-of children with undiagnosed genetic diseases often go through a diagnostic
-odyssey which involves journeying through multiple doctors, multiple hospitals
-and multiple tests before they arrive at an answer. This is a long-drawn
-process that takes about 7.6 years on average, and at least two to three
-different diagnoses or misdiagnoses,” Dr. Jamuar says.</p>
+diagnosis<a href="https://doi.org/10.1007/s12687-020-00500-5" rel="noopener noreferrer nofollow" target="_self"><sup>[2]</sup></a>.
+“Families of children with undiagnosed genetic diseases often go through
+a diagnostic odyssey which involves journeying through multiple doctors,
+multiple hospitals and multiple tests before they arrive at an answer.
+This is a long-drawn process that takes about 7.6 years on average, and
+at least two to three different diagnoses or misdiagnoses,” Dr. Jamuar
+says.</p>
 <p>“Today, next-generation sequencing enables us to find answers to some
 of these genetic disorders. But as a scientific community, we are increasingly
 probing further to seek out other complementary technologies that can potentially
@@ -85,7 +86,8 @@ in the next decade or so.”</p>
 <p>Precision medicine, integrated into healthcare, has the potential to yield
 more precise diagnoses, predict disease risk before symptoms occur, and
 design customised treatment plans that maximise safety and efficacy.
-<a href="/no-childs-play-in-paediatric-precision-medicine/#_ftnref2" rel="noopener noreferrer nofollow" target="_self">[3]</a>
+<a href="https://doi.org/10.1111/cts.12884" rel="noopener noreferrer nofollow" target="_self"><sup>[3]</sup>
+</a>
 </p>
 <p>Dr. Jamuar says, “Our current clinical narrative goes like this—someone
 falls ill, sees the doctor, gets the diagnosis and receives medicine to
@@ -104,16 +106,16 @@ start a family, it helps them to know if their child has a 2%, 25%, or
 like,” injects Dr. Jamuar.</p>
 </blockquote>
 <hr>
-<p><a href="/no-childs-play-in-paediatric-precision-medicine/#_ftnref1" rel="noopener noreferrer nofollow" target="_self">[1]</a>&nbsp;Costain
+<p><a href="https://doi.org/10.1007/s40746-020-00207-2" rel="noopener noreferrer nofollow" target="_self">[1]</a>&nbsp;Costain
 G, Cohn RD, Malkin D. Precision Child Health: an Emerging Paradigm for
 Paediatric Quality and Safety. Curr Treat Options Peds. 2020;6(4):317–24.
 doi: 10.1007/s40746-020-00207-2. Epub 2020 Aug 25. PMCID: PMC7445109.</p>
-<p><a href="/no-childs-play-in-paediatric-precision-medicine/#_ftnref1" rel="noopener noreferrer nofollow" target="_self">[2]</a>&nbsp;Vinkšel
+<p><a href="https://doi.org/10.1007/s12687-020-00500-5" rel="noopener noreferrer nofollow" target="_self">[2]</a>&nbsp;Vinkšel
 M, Writzl K, Maver A, Peterlin B. Improving diagnostics of rare genetic
 diseases with NGS approaches. J Community Genet. 2021 Apr;12(2):247-256.
 doi: 10.1007/s12687-020-00500-5. Epub 2021 Jan 15. PMID: 33452619; PMCID:
 PMC8141085.</p>
-<p><a href="/no-childs-play-in-paediatric-precision-medicine/#_ftnref2" rel="noopener noreferrer nofollow" target="_self">[3]</a>&nbsp;Johnson
+<p><a href="https://doi.org/10.1111/cts.12884" rel="noopener noreferrer nofollow" target="_self">[3]</a>&nbsp;Johnson
 KB, Wei WQ, Weeraratne D, Frisse ME, Misulis K, Rhee K, Zhao J, Snowdon
 JL. Precision Medicine, AI, and the Future of Personalized Health Care.
 Clin Transl Sci. 2021 Jan;14(1):86-93. doi: 10.1111/cts.12884. Epub 2020
