@@ -85,16 +85,16 @@ will be securely stored and handled.</p>
 <hr>
 <p><strong>Media Contact:</strong>
 </p>
-<p>Charlene Tan</p>
-<p>Manager, Corporate Communications</p>
-<p>Consortium for Clinical Research and Innovation, Singapore</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">charlene.tan@cris.sg</a>
+<p><strong>Charlene Tan</strong>
+<br>Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore
+<br><a rel="noopener noreferrer nofollow" target="_blank">charlene.tan@cris.sg</a>
 </p>
 <p></p>
-<p>Trixie Teo</p>
-<p>Assistant Manager, Corporate Communications</p>
-<p>Consortium for Clinical Research and Innovation, Singapore</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">trixie.teo@cris.sg</a>
+<p><strong>Trixie Teo</strong>
+<br>Assistant Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore
+<br><a rel="noopener noreferrer nofollow" target="_blank">trixie.teo@cris.sg</a>
 </p>
 <p></p>
 <p>For more information, visit: <a rel="noopener noreferrer nofollow" target="_blank">www.npm.sg</a>
