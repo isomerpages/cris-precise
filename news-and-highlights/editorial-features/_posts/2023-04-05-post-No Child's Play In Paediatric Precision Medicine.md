@@ -5,7 +5,7 @@ date: 2023-04-05
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial%20Features/2023/precise-banner5_1400x800_saumya.jpg">
@@ -33,8 +33,7 @@ genetic change that was actually driving their clinical symptoms—and being
 the first person to have discovered it, the syndrome was named ‘Jamuar
 Syndrome’. That was significant—not so much because the syndrome is named
 after me, but that we found an answer for that family.”</p>
-<p><strong>Growing pains in applying precision medicine in diagnosis</strong>
-</p>
+<h4><strong>Growing Pains in Applying Precision Medicine in Diagnosis</strong></h4>
 <p>The question remains. If whole exome sequencing and whole genome sequencing
 can improve the yield of primary diagnostic findings in children with suspected
 genetic disorders, why are they used as ‘last resort’ tests after a prolonged
@@ -60,8 +59,7 @@ testing comes in. If we can give a name to the condition, we can know for
 certain that the condition results from a genetic change that no one has
 control over. More importantly, that allows us to ask the next question,
 ‘What can we do to help them manage or get better?’”</p>
-<p><strong>Baby steps towards embracing precision medicine in paediatrics</strong>
-</p>
+<h4><strong>Baby steps towards Embracing Precision Medicine in Paediatrics</strong></h4>
 <p>The odds of diagnosing a rare genetic disease have increased over the
 years—thanks to next-generation sequencing technology. But more than half
 of patients with suspected rare genetic disease remain without a definite
@@ -83,8 +81,7 @@ a gene therapy that can target the non-working gene and change its genetic
 configuration back to a normal copy. This is a new and exciting area—and
 we can be certain that the body of knowledge and application will expand
 in the next decade or so.”</p>
-<p><strong>The future of precision medicine in paediatrics and medicine</strong>
-</p>
+<h4><strong>The Future of Precision Medicine in Paediatrics and Medicine</strong></h4>
 <p>Precision medicine, integrated into healthcare, has the potential to yield
 more precise diagnoses, predict disease risk before symptoms occur, and
 design customised treatment plans that maximise safety and efficacy.
@@ -102,8 +99,10 @@ it helps the family who share the same genetic composition to ascertain
 and understand their risks. For example, for a young couple planning to
 start a family, it helps them to know if their child has a 2%, 25%, or
 50% risk of inheriting the disease.</p>
+<blockquote>
 <p>“Foreseeably, precision medicine is what the future of medicine will look
 like,” injects Dr. Jamuar.</p>
+</blockquote>
 <hr>
 <p><a href="/no-childs-play-in-paediatric-precision-medicine/#_ftnref1" rel="noopener noreferrer nofollow" target="_self">[1]</a>&nbsp;Costain
 G, Cohn RD, Malkin D. Precision Child Health: an Emerging Paradigm for

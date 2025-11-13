@@ -6,7 +6,7 @@ date: 2023-06-28
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p><em>Among adults and children with primary glomerular diseases, about 14-26%[1]&nbsp;are due to genetic causes. But because genetic testing is not part of the routine diagnostic evaluation for primary glomerular diseases locally, patients with genetic causes are often misdiagnosed or diagnosed late.</em>
 </p>
@@ -22,8 +22,7 @@ of his kidney function. For another patient, her decisive recommendation
 for genetic testing and cascade screening enabled the family to identify
 Alport Syndrome as the underlying cause, and for appropriate treatment
 to be instituted.</p>
-<p><strong>Taking First Steps towards Realising Opportunities</strong>
-</p>
+<h4><strong>Taking First Steps towards Realising Opportunities</strong></h4>
 <p>“Yes, I can help my patients—but there are other patients in Singapore
 who also need help but are not getting them. Therefore, I was naturally
 very interested when I came to know about the&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">Clinical Implementation Pilots</a>&nbsp;(CIP)
@@ -48,8 +47,7 @@ this is a good area to focus on.”</p>
 involving various Co-Principal Investigators (PIs)—Associate Professor
 Jason Choo, Dr Lim Ru Sin, Dr Chan Gek Cher and Dr Esther Leow—and their
 teams.</p>
-<p><strong>Building Interest within the Healthcare Community</strong>
-</p>
+<h4><strong>Building Interest within the Healthcare Community</strong></h4>
 <p>Although the utility of genetic testing in primary glomerular diseases
 has long been established in many international studies, it is seldom implemented
 in the local clinical settings. This CIP is unique in that it aims to clinically
@@ -87,8 +85,7 @@ we are currently doing. We may be laying the foundation for genetic testing
 for primary glomerular disease—but let’s not forget that there are many
 other diseases that could also benefit from genetic testing. And the infrastructure
 that we are establishing now will be the prototype for these other diseases.”</p>
-<p><strong>Advocating Genetic Testing among Patients and their Families</strong>
-</p>
+<h4><strong>Advocating Genetic Testing among Patients and their Families</strong></h4>
 <p>The lack of a standard workflow is one of the reasons why genetic testing
 is not commonly or consistently offered to patients with primary glomerular
 disease. However, when it is offered to patients, they are not always receptive

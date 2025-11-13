@@ -50,8 +50,7 @@ messenger RNA and proteins, ncRNA research has a pretty short history,”
 he shares. “While it is an emerging field, at its very nascent stage, we
 want to get to know ncRNAs better**—**what they do and how they control
 normal cellular processes in our body.”</p>
-<p><strong>Peering through a black hole</strong>
-</p>
+<h4><strong>Peering through a Black Hole</strong></h4>
 <p>Today, scientists understand that the&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/16651366/" rel="noopener noreferrer nofollow" target="_blank">ncRNA</a>&nbsp;is a collective
 term for a group of genetic moieties that do not get translated into a
 protein. “They come in different forms, including microRNA (miRNA), long
@@ -73,8 +72,7 @@ region in the CK1α transcript recruits RNA-binding proteins to regulate
 protein translation of CK1α in mutant RAS-driven cancers,” he adds. RAS
 genes are a family of genes involved in modulating cell growth and apoptosis,
 with their mutations accounting for a&nbsp;<a href="https://www.cancer.gov/research/key-initiatives/ras/about#:~:text=Initiative%20Advisory%20Groups-,The%20Problem%20with%20RAS%20Genes,by%20mutations%20in%20RAS%20genes." rel="noopener noreferrer nofollow" target="_blank">third of all human cancers</a>.</p>
-<p><strong>The dawn of ncRNA biomarkers</strong>
-</p>
+<h4><strong>The Dawn of ncRNA Biomarkers</strong></h4>
 <p>In the paper&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9499633/" rel="noopener noreferrer nofollow" target="_blank">Noncoding RNome as Enabling Biomarkers for Precision Health</a>,
 Dr. Cheong and his collaborators proposed ncRNA-based liquid biopsy as
 a non-invasive alternative to standard surgical biopsies for informing
@@ -102,8 +100,7 @@ of gastric cancer.</p>
 diagnostics (IVD) medical device that is currently undergoing registration
 trials in China and Japan. Aside from promising better healthcare outcomes,
 the project has also cemented Singapore as a leader in the ncRNA sphere.</p>
-<p><strong>A bright future in precision medicine</strong>
-</p>
+<h4><strong>A Bright Future in Precision Medicine</strong></h4>
 <p>In 2020, as a result of the growing prominence of ncRNA research, Singapore
 hosted a global ncRNA Symposium. The event not only became a venue for
 clinical researchers to share their groundbreaking work, but more importantly,

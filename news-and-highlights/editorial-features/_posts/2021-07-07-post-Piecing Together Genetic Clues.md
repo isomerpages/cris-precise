@@ -5,7 +5,7 @@ date: 2021-07-07
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial%20Features/2021/precision-meds_breakthrough-in-rare-childhood-diseases.jpg">
@@ -29,8 +29,7 @@ SingHealth Duke-NUS Academic Medical Centre. He is also the Principal Investigat
 pf the Singapore Childhood Undiagnosed Disease Program,&nbsp;<a href="https://www.singhealthdukenus.com.sg/acp/paediatrics/clinical-overview-and-objectives" rel="noopener noreferrer nofollow" target="_blank">Bringing Research Innovations in Diagnosis of Genetic Diseases in Singapore (BRIDGES).</a>&nbsp;In
 this interview, he shares his journey into the burgeoning field of genomic
 medicine and his views on its future.</p>
-<p><strong>Why did you become a paediatric geneticist?</strong>
-</p>
+<h4><strong>Why did you become a paediatric geneticist?</strong></h4>
 <p>Growing up, I loved solving jigsaw puzzles, putting seemingly unrelated
 pieces together to build a complete picture. The beauty of that was always
 very enthralling and captivating to me. In medical school, I was fascinated
@@ -39,18 +38,16 @@ their positive energy, all of which drew me to paediatrics. As a paediatrician,
 I saw the anguish of parents of children with undiagnosed genetic disorders.
 Specialising in Genetics gave me the opportunity to provide them with the
 answer, solve the puzzle and provide parents with a more complete picture.</p>
-<p><strong>Can you share the key aims of PRISM and some of the biggest challenges you’ve faced in setting it up?</strong>
-</p>
+<h4><strong>Can you share the key aims of PRISM and some of the biggest challenges you’ve faced in setting it up?</strong></h4>
 <p>In 2016, before the National Precision Medicine program was established,
 there wasn’t enough local genomics data and we didn’t know what ‘normal’
-data for Asians looked like. Professor&nbsp;<a href="/powering-the-next-generation-of-biomedical-research/" rel="noopener noreferrer nofollow" target="_blank">Patrick Tan</a>,
+data for Asians looked like. Professor&nbsp;<a href="/powering-the-next-generation-of-biomedical-research/" rel="noopener noreferrer nofollow" target="_self">Patrick Tan</a>,
 Director of PRISM, thus started PRISM with two aims. The first was to generate
 this normative data for the Asian individual. The second was—on the assumption
 that genomics will become integral to routine clinical care—to jumpstart
 and put in place a clinical sandbox, where we can explore how genetics
 can be integrated into standard clinical care.</p>
-<p><strong>What is your vision for Precision Medicine in the clinics as well as paediatric care in Singapore?</strong>
-</p>
+<h4><strong>What is your vision for Precision Medicine in the clinics as well as paediatric care in Singapore?</strong></h4>
 <p>In paediatric genetics, we are getting better at making diagnoses, but
 still lagging in treating patients. I am hoping that we are able to leverage
 new technologies to accelerate how we develop therapies in the coming decades.
@@ -65,8 +62,7 @@ and clinicians can be paired with researchers who are doing cutting edge
 therapeutic research to bring the benefits directly to the patient. When
 it started in 2014, the program focused on diagnostics but now we are expanding
 into therapeutics.</p>
-<p><strong>You have a syndrome—Jamuar Syndrome—named after you. How did this come about?</strong>
-</p>
+<h4><strong>You have a syndrome—Jamuar Syndrome—named after you. How did this come about?</strong></h4>
 <p>In 2015, a family came into my clinic for evaluation. They had two girls
 who had various developmental issues: they walked slower than other children,
 were not talking and had seizures. They had some basic tests done, but

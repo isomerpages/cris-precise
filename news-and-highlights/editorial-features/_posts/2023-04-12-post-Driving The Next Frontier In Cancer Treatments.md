@@ -5,7 +5,7 @@ date: 2023-04-12
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial%20Features/2023/precise-banner4_1400x800_chng.jpg">
@@ -31,8 +31,7 @@ and high throughput sequencing technology we have now, we can identify
 abnormalities in different cancer types in a very precise and sensitive
 manner. That enables us to develop drugs that target a specific mutated
 gene or a specific signalling pathway,”&nbsp;Professor Chng says.</p>
-<p><strong>Setting up a robust translational cancer research platform</strong>
-</p>
+<h4><strong>Setting up a Robust Translational Cancer Research Platform</strong></h4>
 <p>To further gains in these areas by empowering more synergistic cancer
 research and translational capabilities, STCC was set up in 2020. Professor
 Chng says, “Since our founding, STCC has achieved notable milestones in
@@ -51,8 +50,7 @@ institutions to form a Singapore Cancer Data Commons. Both initiatives
 offer a lot of potential—from the perspective of research value, opportunities
 for collaboration, and advancing healthcare for cancer patients,” Professor
 Chng elaborates.</p>
-<p><strong>Looking to precision medicine for cancer prediction</strong>
-</p>
+<h4><strong>Looking to Precision Medicine for Cancer Prediction</strong></h4>
 <p>"<a href="https://www.stcc.sg/mirxes-strengthens-global-fight-against-cancer-with-launch-of-worlds-first-research-project-for-a-multi-cancer-screening-test-using-microrna-and-multi-omics-technology/" rel="noopener noreferrer nofollow" target="_blank">Project CADENCE (CAncer Detected Early caN be CurEd)</a>&nbsp;is
 another STCC milestone that has the potential to transform how care is
 delivered to cancer patients in Singapore. Through applying the microRNA
@@ -78,8 +76,7 @@ This presents an opportunity for STCC to leverage the ecosystem—whether
 it is to import relevant capabilities or attracting like-minded international
 researchers and industry partners. These conditions create a favourable
 environment for STCC to springboard our efforts.”</p>
-<p><strong>Tapping into precision oncology for more targeted treatments</strong>
-</p>
+<h4><strong>Tapping into Precision Oncology for more Targeted Treatments</strong></h4>
 <p>Besides disease prediction, the ability to offer appropriate and effective
 therapy with minimal side effects is also a key tenet of precision oncology.
 That is why there is growing focus to not only develop drugs targeting

@@ -7,7 +7,7 @@ description: Singapore is making significant progress through Phase II of the
   National Precision Medicine (NPM) programme, which is slated for completion in
   2025.
 image: /images/Resources/Editorial Features/2023/precise_feature_weiling.jpg
-variant: markdown
+variant: tiptap
 ---
 <p><em>Singapore is making significant progress through Phase II of the National Precision Medicine (NPM) programme, which is slated for completion in 2025. Thus far, it has reached a milestone of recruiting over 80,000 consented participants and completed 50,000 genomes sequenced as part of the PRECISE-SG100K study. Dr Zheng Weiling, Senior Business Development Lead, PRECISE, attributes these achievements to the collective efforts of like-minded partners.</em>
 </p>

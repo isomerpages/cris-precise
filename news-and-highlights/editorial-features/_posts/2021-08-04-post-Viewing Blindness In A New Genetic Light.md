@@ -28,8 +28,7 @@ turned to a more focused approach: whole exome sequencing.</p>
 the exome, or the genome’s protein-coding regions. In this feature, study
 co-author Khor Chiea Chuen, Senior Principal Investigator at GIS, details
 how the team finally found the missing genetic link for exfoliation syndrome.</p>
-<p><strong>Narrowing the sequencing scope</strong>
-</p>
+<h4><strong>Narrowing the Sequencing Scope</strong></h4>
 <p>For all its complexity, the nucleotide sequences that make up our genome
 can be classified as either exons or introns. Exons are composed of the
 segments of DNA that are directly translated into proteins; meanwhile,
@@ -49,8 +48,7 @@ technology, exome sequencing directly interrogates all possible genetic
 variation in the exome,” explained Khor. “Because of this depth, the technique
 can detect instances of protein-changing genetic variants occurring in
 just a single person.”</p>
-<p><strong>Finding the needle in the haystack</strong>
-</p>
+<h4><strong>Finding the Needle in the Haystack</strong></h4>
 <p>To identify the rare genetic variants linked to exfoliation syndrome,
 Khor and collaborators embarked on a wide-ranging global study. Sequencing
 the exomes of individuals with and without exfoliation syndrome across

@@ -5,7 +5,7 @@ date: 2023-07-12
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p><em>Did you know—adverse drug reactions (ADRs) cause Singapore patients to spend an extrapolated 48,000 extra days a year in hospitals[1]? According to a study done by a team of researchers at the Agency of Science, Technology and Research (A*STAR) and the Singapore General Hospital (SGH), about 30% of ADRs admitted to SGH were caused by at least one drug with a clinical annotation in the Pharmacogenomics KnowledgeBase (PharmGKB), suggesting that some of these ADRs could have been pre-empted by pharmacogenomic testing.[2]</em>
 </p>
@@ -30,8 +30,7 @@ a broad panel of about 16 genes for 30 drugs, through pre-emptive PGx testing
 and store this information in our linked electronic medical records, a
 clinician would be able to prescribe the required medication promptly and
 confidently rather than wait several days for PGx results to be returned.”</p>
-<p><strong>A Safeguard Against Adverse Drug Events</strong>
-</p>
+<h4><strong>A Safeguard Against Adverse Drug Events</strong></h4>
 <p>In August 2013, the Ministry of Health and Health Sciences Authority issued
 a joint guideline to announce the genotyping of the human leukocyte antigen
 B gene’s 1502 allele (HLA-B*1502) prior to the initiation of carbamazepine
@@ -57,8 +56,7 @@ of ADRs. In a 2018 study conducted&nbsp;at&nbsp;the Singapore General Hospital,
 we found that the total cost of 81 admissions caused by ADRs was S$770,0004.
 Higher incremental laboratory costs were also incurred due to ADRs causing
 or being present at admission.”</p>
-<p><strong>A Guide for Optimising Prescriptions</strong>
-</p>
+<h4><strong>A Guide for Optimising Prescriptions</strong></h4>
 <p>Availability of PGx testing results at the point of care can impact prescribing
 decisions in a practical way. Even when patients are already taking drugs
 which have&nbsp;<a href="https://cpicpgx.org/genes-drugs/" rel="noopener noreferrer nofollow" target="_blank">Clinical Pharmacogenetics Implementation Consortium (CPIC) Evidence level A or B</a>,
@@ -77,8 +75,7 @@ pre-emptive PGx testing, the goal is to help doctors select the best drug
 with the most optimal dose so that patients do not lose a chance of response
 or are subjected to toxicity that could have otherwise been prevented—and
 yet enjoy the best therapeutic outcomes.”</p>
-<p><strong>A Building Block for Population Health</strong>
-</p>
+<h4><strong>A Building Block for Population Health</strong></h4>
 <p>Despite the increasing accessibility of clinical grade PGx testing, the
 PGx-guided prescribing approach in the current clinical ecosystem is highly
 dependent on a number of factors. These include the attending clinicians’

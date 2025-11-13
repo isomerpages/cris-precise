@@ -12,7 +12,7 @@ description: About one in 150 Singaporeans has an underlying risk of hereditary
   implementation pilot supported by Precision Health Research, Singapore
   (PRECISE) is seeking to address this gap.
 image: /images/Resources/Editorial Features/2023/PRECISE_Banner14_1400x800_3.jpg
-variant: markdown
+variant: tiptap
 ---
 <p><em>About one in 150 Singaporeans has an underlying risk of hereditary breast and ovarian cancer (HBOC) and one in 500 has an underlying risk of Lynch syndrome (LS) according to the recently published findings of SG10K_Health study by PRECISE<sup>[1]</sup>.&nbsp;However, only the costs of cancer diagnosis and treatment are being subsidised currently while diagnostic testing for probands and their first-degree relatives (FDRs) are not. A clinical implementation pilot supported by Precision Health Research, Singapore (PRECISE) is seeking to address this gap.</em>
 </p>
@@ -32,8 +32,7 @@ Kong Chian School of Medicine, and Associate Professor Ken Redekop, Erasmus
 School of Health Policy and Management, Erasmus University Rotterdam, embarked
 on a&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilot</a>&nbsp;(CIP)
 together—despite a geographical divide and a six-hour time difference.</p>
-<p><strong>Changing the Focus from Treatment to Prevention</strong>
-</p>
+<h4><strong>Changing the Focus from Treatment to Prevention</strong></h4>
 <p>“For most cancers, when patients go from pre-disease to disease, they
 increasingly have more symptoms. As a medical oncologist, it is not unusual
 that I only see them then. By the time their diagnosis is confirmed, I
@@ -50,7 +49,7 @@ current 10% to 15% to 30%<sup>[2]</sup> —given our observation and understandi
 of current clinical practices? With this CIP, all hands are on deck to
 produce data that provides good, solid evidence on how we can do this in
 a safe and cost-efficient manner.”</p>
-<p><strong>Creating the Playbook for Hereditary Cancer Cascade Screening</strong>&nbsp;</p>
+<h4><strong>Creating the Playbook for Hereditary Cancer Cascade Screening</strong>&nbsp;</h4>
 <p>Agreeing, A/Prof Redekop said, “Exactly—this CIP is unique in that it
 doesn’t stop at research, data collection and analysis. It goes all the
 way to include implementation specifics. And if we think about it, that
@@ -74,16 +73,14 @@ healthcare personnel will help reach out and discuss implications of germline
 cascade screening with at-risk relatives—reducing reliance on the proband
 to disseminate genetic test results while ensuring the accuracy of disseminated
 information.”</p>
-<p><strong>Going Beyond Genetic Testing for Hereditary Cancer</strong>
-</p>
+<h4><strong>Going Beyond Genetic Testing for Hereditary Cancer</strong></h4>
 <p>Four other CIPs are running concurrent to this one. Among which, cascade
 screening is a recurring theme not only for hereditary cancer, but also
-for&nbsp;<a href="/getting-to-the-heart-of-the-matter/" rel="noopener noreferrer nofollow" target="_self">familial hypercholesterolemia</a>&nbsp;and&nbsp;
-<a href="/genetic-testing-for-primary-glomerular-disease-life-changing/" rel="noopener noreferrer nofollow" target="_self">primary glomerular diseases</a>. A/Prof Ngeow commented, “Indeed, this
-is one of very few projects that brings together multiple institutions
-and disciplines to share resources and exchange expertise—in a systematic,
-coherent and cohesive manner—towards fostering a better healthcare system
-for everyone.”&nbsp;</p>
+for&nbsp;familial hypercholesterolemia&nbsp;and&nbsp; primary glomerular
+diseases. A/Prof Ngeow commented, “Indeed, this is one of very few projects
+that brings together multiple institutions and disciplines to share resources
+and exchange expertise—in a systematic, coherent and cohesive manner—towards
+fostering a better healthcare system for everyone.”&nbsp;</p>
 <p>A/Prof Ngeow summed up, “It has been exciting and enriching thus far—we
 get to learn from one another’s experiences and find synergy in our proposed
 solutions. But at the end of the day, it only counts if we can take all

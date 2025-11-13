@@ -34,8 +34,7 @@ taking the guesswork out of the equation.</p>
 <p>In this feature, we look at two local enterprises putting precision oncology
 to the test. Way ahead of the curve and utilising cutting-edge technologies,
 these companies are blazing a trail toward better cancer care in Singapore.</p>
-<p><strong>The apex of timely precision oncology</strong>
-</p>
+<h4><strong>The Apex of Timely Precision Oncology</strong></h4>
 <p>Before doctors can prescribe a management regimen for cancer, they need
 to know what they’re up against. Tumour characteristics—such as its size
 or the mutations they harbour—all influence treatment choice. To obtain
@@ -64,8 +63,7 @@ CEO Zhou Lihan. “Therefore, we are expanding from early cancer detection
 to precision oncology to provide more complete solutions in the care continuum
 of cancer patients.”&nbsp;To this end, timely and precise treatment guidance
 from APEX will be vital.</p>
-<p><strong>Sensing a tumour’s weakness</strong>
-</p>
+<h4><strong>Sensing a Tumour’s Weakness</strong></h4>
 <p>As APEX demonstrates, a precision approach offers the opportunity to improve
 cancer treatment and, consequently, patient outcomes. However, precision
 oncology has been largely focused on genes and might be missing out on

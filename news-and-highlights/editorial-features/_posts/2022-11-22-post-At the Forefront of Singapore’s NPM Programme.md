@@ -5,7 +5,7 @@ date: 2022-11-22
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial%20Features/2022/sample-header-image-2_precise-2-1024x586.png">

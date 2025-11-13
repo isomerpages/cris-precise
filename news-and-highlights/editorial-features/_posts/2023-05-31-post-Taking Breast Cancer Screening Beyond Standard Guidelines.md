@@ -5,7 +5,7 @@ date: 2023-05-31
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial%20Features/2023/precise-banner10_1400x800.jpg">
@@ -29,8 +29,7 @@ breast cancer screening is significantly less than that for chronic illnesses
 such as diabetes and cardiovascular diseases. Why doesn’t awareness translate
 into positive outcomes? What is the missing link? We are trying to answer
 these questions in the BREAst screening Tailored for Her (BREATHE) study.”</p>
-<p><strong>Standard Guidelines for Breast Cancer Screening</strong>
-</p>
+<h4><strong>Standard Guidelines for Breast Cancer Screening</strong></h4>
 <p>Worldwide, mammography screening recommendations are age-based—and these
 guidelines have largely remained unchanged for the past four decades. In
 Singapore, the Ministry of Health Clinical Practice Guidelines 1/2010 recommends
@@ -56,8 +55,7 @@ survival benefit is much higher among younger women.<a href="#references" rel="n
 it is potentially economical to screen women at younger ages. The problem
 is—recommendations on early screening and diagnosis strategies are lacking
 in Asia<a href="#references" rel="noopener noreferrer nofollow" target="_blank">[6]</a>.”</p>
-<p><strong>Tailored Approach to Breast Cancer Screening</strong>
-</p>
+<h4><strong>Tailored Approach to Breast Cancer Screening</strong></h4>
 <p>Advantages of breast cancer screening are not lost to the Singapore Government.
 In a bid to capture the long-term benefits of reduction in breast cancer
 mortality at the population level, a national mammography screening programme
@@ -88,8 +86,7 @@ overly anxious? We are still in the midst of refining these. We are also
 trying to learn from the experiences of the cardiovascular teams who have
 significantly higher screening attendance—according to the National Population
 Health Surveys.”</p>
-<p><strong>In the Making: From Age-Based to Risk-Based</strong>
-</p>
+<h4><strong>In the Making: From Age-Based to Risk-Based</strong></h4>
 <p>Dr Li added, “Early results do suggest that we are on the right track
 with BREATHE. Risk-based recommendations work better than general ones.
 However, we are still calibrating what a breast cancer risk report should

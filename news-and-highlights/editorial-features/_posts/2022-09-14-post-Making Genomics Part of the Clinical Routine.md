@@ -33,8 +33,7 @@ country. This study is called&nbsp;<a href="https://www.mackenziesmission.org.au
 and has recently completed reproductive carrier screening of over 9000
 couples from around Australia., using genomic testing and screening of
 over 1200 genes for disorders that cause severe disability or early mortality.</p>
-<p><strong>Making the case for clinical genomics</strong>
-</p>
+<h4><strong>Making the Case for Clinical Genomics</strong></h4>
 <p>Mackenzie’s Mission was the first research program funded through the
 Australian Government’s $AUD500M investment in genomic research (the Genomics
 Health Futures Mission). This investment followed on from the establishment
@@ -74,8 +73,7 @@ likely genetic in nature.</p>
 technologies more accessible to patients—and of the potential to do the
 same for other diseases. “We do that by demonstrating that it’s clinically
 useful,” she said, “but also by demonstrating how cost-effective it is.”</p>
-<p><strong>A philosophy of integration</strong>
-</p>
+<h4><strong>A Philosophy of Integration</strong></h4>
 <p>“The goal of Australian Genomics&nbsp;is to demonstrate the clinical effectiveness
 and the cost-effectiveness of genomics,” North added, “and to also work
 out the practical strategies of how we can integrate it into our health

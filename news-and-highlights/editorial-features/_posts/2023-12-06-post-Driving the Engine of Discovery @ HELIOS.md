@@ -5,7 +5,7 @@ date: 2023-12-06
 layout: post
 description: ""
 image: /images/Resources/Editorial Features/2023/Helios_Linkedin_post_1200x627px.png
-variant: markdown
+variant: tiptap
 ---
 <p>Precision medicine offers an effective means of translating research into
 more efficient healthcare delivery systems and better health outcomes for

@@ -5,7 +5,7 @@ date: 2023-05-24
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Editorial%20Features/2023/precise-banner9_1400x800.jpg">
@@ -20,8 +20,7 @@ not surviving. But the key is we need to find better ways to discover it
 early because traditionally only women above 50 years old are encouraged
 to do mammographic screening,” says&nbsp;Associate Professor Mikael Hartman,
 Department of Surgery, National University Hospital.</p>
-<p><strong>Many hands make light work</strong>
-</p>
+<h4><strong>Many Hands make Light Work</strong></h4>
 <p>Dr Li Jingmei, Group Leader, A*STAR’s Genome Institute of Singapore (GIS)
 elaborates,&nbsp;“That is what we are trying to do with the BREATHE clinical
 implementation project. With Mikael’s vast experiences as a breast cancer
@@ -53,8 +52,7 @@ from a medical doctor to a full-time researcher—and he said ‘As a doctor,
 I treat one patient at a time, but as a scientist, my findings can potentially
 benefit millions’. That is exactly what Mikael, Wang Yi and I are trying
 to achieve with BREATHE!”</p>
-<p><strong>The team who works together, wins together</strong>
-</p>
+<h4><strong>The Team who Works Together, Wins Together</strong></h4>
 <p>Dr Li goes on, “With BREATHE, we are hoping to answer some important questions
 about breast cancer screening. There is a gap between awareness of breast
 cancer screening and actually doing it—we want to know how we can bridge
@@ -87,8 +85,7 @@ in the community with the general practitioners and at the polyclinics.
 Or can we enable women to assess their own risk using electronic means,
 and doing buccal swabs and sending in DNA samples by themselves for analysis.
 We are piloting these processes before scaling them,” shares A/Prof Hartman.</p>
-<p><strong>BREATHE(ing) on</strong>
-</p>
+<h4><strong>BREATHE(ing) On</strong></h4>
 <p>A/Prof Hartman continues, “With this&nbsp;<a href="/clinical-implementation-pilot/" rel="noopener noreferrer nofollow" target="_self">clinical implementation pilot</a>,
 there are many moving parts—recruitment, testing, profiling, communication,
 follow-up, etc. With each, we are progressing and adjusting along the way.

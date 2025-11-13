@@ -38,8 +38,7 @@ diabetes to understand population differences in the development of type
 2 diabetes,” said corresponding author Xueling Sim, Assistant Professor
 at the National University of Singapore’s Saw Swee Hock School of Public
 Health.</p>
-<p><strong>Small changes, big impact</strong>
-</p>
+<h4><strong>Small Changes, Big Impact</strong></h4>
 <p>At our core, humans are more similar than we are different. The genome
 of all humans, for instance, contains about three billion base pairs and
 20,000 protein-coding genes. While we all harbour genetic variants, or
@@ -60,8 +59,7 @@ certain genetic variants predisposing to type 2 diabetes risk have arisen
 and occur at higher frequency in East Asian individuals that are very rare
 in Europeans,” Sim explained. This highlights the importance of studying
 diverse populations so as to better understand the cause of the disease.</p>
-<p><strong>A growing resource</strong>
-</p>
+<h4><strong>A Growing Resource</strong></h4>
 <p>Aside from comparing common variants, the researchers took advantage of
 their large-scale study—which included 433,540 East Asian individuals from
 China, Hong Kong, Japan, Korea, Philippines, Singapore, Taiwan and USA—to

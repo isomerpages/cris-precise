@@ -31,8 +31,7 @@ immune landscapes of tumour samples from 68 angiosarcoma patients in Singapore1.
 team combined approaches such as next-generation multiomic sequencing and
 immune profiling to classify angiosarcoma into three distinct subtypes,
 each characterised by their own unique mutational, genomic and immune signatures.</p>
-<p><strong>Explaining the Asian angiosarcoma connection</strong>
-</p>
+<h4><strong>Explaining the Asian Angiosarcoma Connection</strong></h4>
 <p>One curious aspect of angiosarcoma that has long intrigued researchers
 is its increased prevalence in Asian populations compared to Western ones.&nbsp;In
 Asian patients, the angiosarcomas predominantly occur in the head and neck
@@ -63,8 +62,7 @@ damage.</p>
 <p>“Taken together, HHV-7 may play a major role in angiosarcoma development
 in Asian populations, and could explain why this disease is more prevalent
 amongst them,” said Chan.</p>
-<p><strong>Sorting sarcoma into subtypes</strong>
-</p>
+<h4><strong>Sorting Sarcoma into Subtypes</strong></h4>
 <p>In addition to the tumours’ genomic profiles, the team also wanted to
 look at the associated immune responses for a fuller picture. Using the
 NanoString profiling panel to measure gene expression in tumours, the team
@@ -85,8 +83,7 @@ the highly expressed oncogenic pathways of the cluster 2 subtype suggest
 they may be amenable to targeted therapies. Besides treatment, the subtype
 classification system may also prove useful in selecting angiosarcoma patients
 for appropriate clinical trials.</p>
-<p><strong>Expanding the approach</strong>
-</p>
+<h4><strong>Expanding the Approach</strong></h4>
 <p>Since the publication of their results in October 2020, the research team
 has continued to investigate angiosarcoma, exploring its epigenetic aspects
 and molecular landscape at the single-cell level.</p>
