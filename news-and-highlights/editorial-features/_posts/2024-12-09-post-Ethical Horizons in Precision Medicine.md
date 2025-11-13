@@ -143,5 +143,5 @@ Precision Medicine: A National Survey of Singapore. <em>J Pers Med</em>.
 Kaya, Melanie Goisauf, Gillian M. Martin, Michaela Th. Mayrhofer, Stella
 Antoniou, Georgia Charalambidou, Constantinos Deltas, Apostolos Malatras,
 Gregory Papagregoriou, Charalambos Stefanou, and Mariel Voutounou. 2024.&nbsp;
-<a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1397156/full" rel="noopener noreferrer nofollow" target="_blank">“Risk mapping for better governance in biobanking: the case of </a><a rel="noopener noreferrer nofollow" target="_blank">biobank cy</a><a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1397156/full" rel="noopener noreferrer nofollow" target="_blank">”</a>&nbsp;Frontiers
+<a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1397156/full" rel="noopener noreferrer nofollow" target="_blank">“Risk mapping for better governance in biobanking: the case of </a><a rel="noopener noreferrer nofollow" target="_blank">biobank.cy</a><a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1397156/full" rel="noopener noreferrer nofollow" target="_blank">”</a>&nbsp;Frontiers
 in Genetics 15. doi: 10.3389/fgene.2024.1397156.&nbsp;Open access</p>
