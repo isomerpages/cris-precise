@@ -25,7 +25,7 @@ rather than just treatment, is a timely initiative.</p>
 </li>
 </ul>
 <hr>
-<p>SINGAPORE, 10 OCTOBER 2025 – A new research initiative, GLOW (Gut Linked
+<p><b>SINGAPORE, 10 OCTOBER 2025</b> – A new research initiative, GLOW (Gut Linked
 Outcomes in Wellbeing) will be launched in Singapore to investigate how
 the human gut microbiome—often described as the body’s “second genome”—influences
 mental health.</p>
@@ -318,7 +318,7 @@ by the National Research Foundation, Singapore (NRF) under the RIE2020
 White Space (MOH-000588 and MOH-001264) and administered by the Singapore
 Ministry of Health through the National Medical Research Council (NMRC)
 Office, MOH Holdings Pte Ltd.</p>
-<p>For more information, pls visit <a href="https://www.npm.sg" rel="noopener nofollow" target="_self">PRECISE</a> website.</p>
+<p>For more information, visit <a href="https://www.npm.sg" rel="noopener nofollow" target="_self">PRECISE</a> website.</p>
 <h3><strong>About PRECISE-SG100K</strong></h3>
 <p>The PRECISE-SG100K study is a long-term project focusing on the health
 and wellbeing of Singapore's diverse, multi-ethnic population. The study
