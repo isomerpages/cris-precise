@@ -94,7 +94,7 @@ traits.</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: A/Prof Saumya Jamuar </strong>
-<br>KK Women's and Children's Hospital</p>
+<br>Duke-NUS Medical School</p>
 </li>
 </ul>
 </td>
