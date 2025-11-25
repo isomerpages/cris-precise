@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>Precision Health Research, Singapore (PRECISE) Announces Landmark Partnership with Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk to Advance Asian Precision Medicine Research </strong></h3>
+<h3><strong>Precision Health Research, Singapore (PRECISE) Announces Landmark Partnership with Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk to Advance Asian Precision Medicine Research</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>Precision Health Research, Singapore (PRECISE</em>) <em>has established a significant partnership with Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk to collaborate on Asian precision medicine research. The joint research will benefit Singapore by driving advancements and healthcare solutions in precision medicine tailored to Asian populations.</em>
