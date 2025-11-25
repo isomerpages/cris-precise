@@ -133,7 +133,8 @@ population and global communities. This public-private partnership exemplifies
 the power of collaboration between academia, industry, and healthcare providers,
 combining complementary expertise to drive healthcare innovation, biomedical
 excellence and enhancing the local economy for Singapore.</p>
-<p></p>
+<p>For more information, visit: <a href="https://for.sg/precisepcc" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/precisepcc</a>
+</p>
 <hr>
 <p>[1] The term ‘pre-competitive’ refers to a research collaboration agreement
 where participating members align and jointly focus on pre-agreed research
