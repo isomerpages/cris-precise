@@ -1,6 +1,6 @@
 title: Precision Health Research, Singapore (PRECISE)
 url: https://npm.sg
-favicon: /images/Logos/favicon.png
+favicon: /images/Logos/favicon_phaseIII.png
 colors:
   primary-color: "#584199"
   secondary-color: "#bb2029"
@@ -15,9 +15,9 @@ colors:
       color: "#5ec2ac"
     - title: media-color-five
       color: "#213966"
-description: Precision Health Research, Singapore (PRECISE) is the central
-  entity set up to coordinate a whole-of-government effort to implement Phase 2
-  of Singapore’s National Precision Medicine (NPM) programme.
+description: Precision Health Research, Singapore (PRECISE) is the national
+  central entity coordinating Singapore’s multi-phase National Precision
+  Medicine (NPM) programme.
 permalink: none
 baseurl: ""
 exclude:
