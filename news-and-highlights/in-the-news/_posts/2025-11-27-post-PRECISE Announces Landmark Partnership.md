@@ -120,7 +120,7 @@ consent from PRECISE-SG100K study participants for industry to use their
 donated anonymised data for research by both academic and industry researchers,
 who will be granted controlled access in compliance with Singapore’s regulations.
 Additionally, the researchers will not be downloading any datasets. PRECISE
-also works closely with the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">Trust platform</a>,
+also works closely with the <a href="https://trustplatform.sg/" rel="noopener nofollow" target="_blank">TRUST platform</a>,
 a tool that enables health data analytics and innovation, to ensure strong
 data governance and security, and to safeguard participant privacy and
 maintain public trust.”</p>
