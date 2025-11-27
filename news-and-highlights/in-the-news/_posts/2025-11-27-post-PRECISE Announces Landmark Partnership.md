@@ -8,7 +8,8 @@ image: /images/Resources/Press
   Releases/2_Advancing_Global_Knowledge_of_Precision_Medicine.jpg
 variant: tiptap
 ---
-<h4><strong>Precision Health Research, Singapore (PRECISE) Announces Landmark Partnership with Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk to Advance Asian Precision Medicine Research</strong></h4>
+<h3><strong>Precision Health Research, Singapore (PRECISE) Announces Landmark Partnership with Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk to Advance Asian Precision Medicine Research</strong></h3>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>Precision Health Research, Singapore (PRECISE</em>) <em>has established a significant partnership with Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk to collaborate on Asian precision medicine research. The joint research will benefit Singapore by driving advancements and healthcare solutions in precision medicine tailored to Asian populations.</em>
@@ -29,10 +30,11 @@ Research, Singapore (PRECISE) is pleased to announce a landmark partnership
 with companies Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk, under
 Phase II of Singapore’s National Precision Medicine (NPM) programme.</p>
 <p>This pioneering initiative marks Singapore as the first country in Asia
-to establish a pre-competitive<sup>[1]</sup> collaboration with leading
-pharmaceutical companies,<em> </em>contributing to a vibrant precision
-health ecosystem and reaffirming Singapore as a leading hub for precision
-medicine innovation in Asia.</p>
+to establish a pre-competitive collaboration with leading pharmaceutical
+companies,<em> </em>contributing to a vibrant precision health ecosystem
+and reaffirming Singapore as a leading hub for precision medicine innovation
+in Asia.<sup>[1]</sup>
+</p>
 <p>By leveraging Singapore’s unique multi-ancestry Asian population, the
 collaboration will advance insights into Asian genetics and beyond to tailor
 new precision medicines worldwide based on the specific insights from this
@@ -132,10 +134,9 @@ combining complementary expertise to drive healthcare innovation, biomedical
 excellence and enhancing the local economy for Singapore.</p>
 <p></p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> The
-term ‘pre-competitive’ refers to a research collaboration agreement where
-participating members align and jointly focus on pre-agreed research areas
-to collaborate and ultimately benefit patients worldwide.</p>
+<p>[1] The term ‘pre-competitive’ refers to a research collaboration agreement
+where participating members align and jointly focus on pre-agreed research
+areas to collaborate and ultimately benefit patients worldwide.</p>
 <hr>
 <p><strong>Media Contact:</strong>
 </p>
