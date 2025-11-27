@@ -602,7 +602,7 @@ registering as a TRUST Member)</p>
 User Support Materials</p>
 </li>
 <li>
-<p><a href="https://trustplatform.sg/member-dashboard/chargingframework/charging-general/" rel="noopener noreferrer nofollow" target="_blank">Charging framework</a>
+<p><a href="https://trustplatform.sg/member-dashboard/chargingframework/charging-general/" rel="noopener noreferrer nofollow" target="_blank">TRUST Charging Framework</a>
 </p>
 </li>
 </ul>
