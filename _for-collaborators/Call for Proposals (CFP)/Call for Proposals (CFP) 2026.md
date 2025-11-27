@@ -22,11 +22,20 @@ baseline data for all ~100,000 participants, PRECISE-SG100K is planning
 a second Call for Proposals (CFP 2026). Upon launch of this Call, we invite
 researchers in Singapore to submit proposals that make use of the unique
 PRECISE-SG100K dataset to advance scientific knowledge and clinical translation.</p>
-<p><strong>Important Update for Existing Projects</strong>: Current Flagship
-and Driver Projects approved under CFP 2024 will directly receive access
-to the PRECISE-SG100K baseline data release comprising all 100,000 participants.
-No additional application is required for the approved research scope.
-All existing terms and conditions will continue to apply.</p>
+<p><strong>Important Updates for Existing Projects</strong>:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Current Flagship and Driver Projects approved under CFP 2024 will directly
+receive access to the PRECISE-SG100K baseline data release comprising all
+100,000 participants. No additional application is required for the approved
+research scope. All existing terms and conditions will continue to apply.</p>
+</li>
+<li>
+<p>PIs of existing CFP 2024 Flagship and Driver Projects are eligible to
+apply for CFP 2026 if they have completed (manuscript submitted for) their
+existing CFP 2024 Projects.</p>
+</li>
+</ol>
 <h3><strong>Brief Description of PRECISE-SG100K Resource</strong></h3>
 <p>All approved projects will have access to the standard PRECISE-SG100K
 Resource linked to Clinical Data. The linked Resource includes:</p>
@@ -593,7 +602,7 @@ registering as a TRUST Member)</p>
 User Support Materials</p>
 </li>
 <li>
-<p><a href="https://trustplatform.sg/member-dashboard/chargingframework/charging-general/" rel="noopener noreferrer nofollow" target="_blank">Charging framework</a>
+<p><a href="https://trustplatform.sg/member-dashboard/chargingframework/charging-general/" rel="noopener noreferrer nofollow" target="_blank">TRUST Charging Framework</a>
 </p>
 </li>
 </ul>
