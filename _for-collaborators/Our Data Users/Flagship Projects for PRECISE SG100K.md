@@ -441,7 +441,7 @@ both known and novel drug-gene sets for clinical action to make dose recommendat
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Ong Sin Tiong</strong>
+<p><strong>Lead PI: Prof Ong Sin Tiong </strong>
 </p>
 <p>Duke-NUS Medical School</p>
 </li>
@@ -520,11 +520,13 @@ in the AIDA scRNA-seq dataset.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Prof John Chambers</strong>
-<br>Lee Kong Chian School of Medicine</p>
+</p>
+<p>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: A/Prof Sim Xueling</strong>
-<br>National University of Singapore</p>
+</p>
+<p>National University of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Prof Chen Ching-Yu</strong>
