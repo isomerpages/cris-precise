@@ -29,7 +29,7 @@ third_nav_title: Our Data Users
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Adj Asst Prof Max Lam</strong>
-<br>Lee Kong Chian School of Medicine Institute of Mental Health</p>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: A/Prof Jimmy Lee</strong>
