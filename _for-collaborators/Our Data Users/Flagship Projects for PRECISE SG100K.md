@@ -322,14 +322,12 @@ in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Liu Jianjun</strong>
-</p>
-<p>A*STAR Genome Institute of Singapore</p>
+<p><strong>Lead PI: Prof Liu Jianjun </strong>A*STAR Genome Institute of
+Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
-</p>
-<p>A*STAR Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin </strong>A*STAR Genome Institute
+of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Asst Prof Lim Weng Khong </strong>Duke-NUS Medical
@@ -441,7 +439,7 @@ both known and novel drug-gene sets for clinical action to make dose recommendat
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Ong Sin Tiong </strong>
+<p><strong>Lead PI: Prof Ong Sin Tiong</strong>
 </p>
 <p>Duke-NUS Medical School</p>
 </li>
