@@ -29,7 +29,7 @@ third_nav_title: Our Data Users
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lead PI: Adj Asst Prof Max Lam</strong>
-<br>Lee Kong Chian School of Medicine Institute of Mental Health</p>
+<br>Lee Kong Chian School of Medicine</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: A/Prof Jimmy Lee</strong>
@@ -262,14 +262,11 @@ immune diseases and pharmacogenomic responses.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: A/Prof Yeo See Cheng</strong>
-</p>
-<p>Tan Tock Seng Hospital</p>
+<p><strong>Lead PI: A/Prof Yeo See Cheng </strong>Tan Tock Seng Hospital</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof John Chambers</strong>
-</p>
-<p>Lee Kong Chian School of Medicine</p>
+<p><strong>Co-Lead PI: Prof John Chambers </strong>Lee Kong Chian School
+of Medicine</p>
 <p></p>
 </li>
 </ul>
@@ -322,14 +319,12 @@ in a representative multi-ethnic Asian population-based cohort in Singapore.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Liu Jianjun</strong>
-</p>
-<p>A*STAR Genome Institute of Singapore</p>
+<p><strong>Lead PI: Prof Liu Jianjun </strong>A*STAR Genome Institute of
+Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
-</p>
-<p>A*STAR Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin </strong>A*STAR Genome Institute
+of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Asst Prof Lim Weng Khong </strong>Duke-NUS Medical
@@ -379,18 +374,15 @@ neurological and neurocognitive disorders.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Dr Janice Goh</strong>
-</p>
-<p>A*STAR Bioinformatics Institute</p>
+<p><strong>Lead PI: Dr Janice Goh </strong>A*STAR Bioinformatics Institute</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: A/Prof Wee Hwee Lin </strong>National University of
 Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
-</p>
-<p>A*STAR Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin </strong>A*STAR Genome Institute
+of Singapore</p>
 <p></p>
 </li>
 </ul>
@@ -441,28 +433,23 @@ both known and novel drug-gene sets for clinical action to make dose recommendat
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof Ong Sin Tiong</strong>
-</p>
-<p>Duke-NUS Medical School</p>
+<p><strong>Lead PI: Prof Ong Sin Tiong </strong>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Ashok Venkitaraman</strong>
-</p>
-<p>National University of Singapore</p>
+<p><strong>Co-Lead PI: Prof Ashok Venkitaraman </strong>National University
+of Singapore</p>
 </li>
 <li>
 <p><strong>Co-Lead PI: Prof Chng Wee Joo </strong>National University of
 Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof John Chambers</strong>
-</p>
-<p>Lee Kong Chian School of Medicine</p>
+<p><strong>Co-Lead PI: Prof John Chambers </strong>Lee Kong Chian School
+of Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Dr Nicolas Bertin</strong>
-</p>
-<p>A*STAR Genome Institute of Singapore</p>
+<p><strong>Co-Lead PI: Dr Nicolas Bertin </strong>A*STAR Genome Institute
+of Singapore</p>
 <p></p>
 </li>
 </ul>
@@ -519,20 +506,18 @@ in the AIDA scRNA-seq dataset.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Lead PI: Prof John Chambers</strong>
-<br>Lee Kong Chian School of Medicine</p>
+<p><strong>Lead PI: Prof John Chambers </strong>Lee Kong Chian School of
+Medicine</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: A/Prof Sim Xueling</strong>
-<br>National University of Singapore</p>
+<p><strong>Co-Lead PI: A/Prof Sim Xueling </strong>National University of
+Singapore</p>
 </li>
 <li>
-<p><strong>Co-Lead PI: Prof Chen Ching-Yu</strong>
-<br>Duke-NUS Medical School</p>
+<p><strong>Co-Lead PI: Prof Chen Ching-Yu </strong>Duke-NUS Medical School</p>
 </li>
 <li>
-<p><strong>Lead PI: Prof Yeo Khung Keong</strong>
-<br>National Heart Centre Singapore</p>
+<p><strong>Lead PI: Prof Yeo Khung Keong </strong>National Heart Centre Singapore</p>
 </li>
 </ul>
 </td>
