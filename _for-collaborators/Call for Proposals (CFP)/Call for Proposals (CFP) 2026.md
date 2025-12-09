@@ -489,7 +489,7 @@ related to Call for Proposals 2026.</p>
 <p>No industry involvement</p>
 </li>
 </ul>
-<p><em>(applicants must respond to these as Yes/No questions on the cover page of the application)</em>
+<p><em>(Applicants must respond to these as Yes/No questions on the cover page of the application.)</em>
 </p>
 </td>
 </tr>
