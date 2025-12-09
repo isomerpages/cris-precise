@@ -43,7 +43,7 @@ sections:
       title: NPM Phase III
       id: infopic
       button: READ MORE
-      url: /phase-iii-sg-insight/
+      url: /npm-phase-iii-sg-insight/
       image: /images/Homepage/PhaseIII_info.png
       alt: Image alt text
       subtitle: Research Programme
