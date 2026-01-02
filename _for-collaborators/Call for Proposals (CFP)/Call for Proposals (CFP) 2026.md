@@ -571,9 +571,8 @@ related to Call for Proposals 2026.</p>
 </p>
 <p><em>**Projects that do not submit to TRUST by December 2026 may be ended, to enable others to pursue similar work in CFP 2027.</em>
 </p>
-<p>Please submit completed CFP 2026 application forms via FormSG (link will
-be provided on 2 Jan 2026)&nbsp;by 14 Feb 2026. Late or incomplete application
-forms will not be entertained.</p>
+<p>Please submit completed CFP 2026 application forms via this<strong> <a href="https://form.gov.sg/admin/form/690dd0103deab4b8f5c6bc46" rel="noopener nofollow" target="_blank">link</a></strong>&nbsp;by
+14 Feb 2026. Late or incomplete application forms will not be entertained.</p>
 <h3><strong>Resources</strong></h3>
 <p><strong>Dataset</strong>
 </p>
@@ -587,10 +586,9 @@ forms will not be entertained.</p>
 </p>
 </li>
 </ul>
-<p><strong>CFP 2026 application form </strong>- will be available for download
-from 2 January 2026. The application form will be similar to the TRUST
-Data Request (TDR) form to ensure subsequent streamlined application to
-TRUST DAC.</p>
+<p><strong>CFP 2026 application form </strong>- available for download <strong><a href="https://for.sg/cfp2026-tdrform" rel="noopener nofollow" target="_blank">here</a></strong>.
+This application form is the same as the TRUST Data Request (TDR) form
+to ensure subsequent streamlined application to TRUST DAC.</p>
 <p><strong>TRUST </strong>(available on the <a href="https://trustplatform.sg/member-login/" rel="noopener nofollow" target="_blank">TRUST Member's Portal</a> after
 registering as a TRUST Member)</p>
 <ul data-tight="true" class="tight">
