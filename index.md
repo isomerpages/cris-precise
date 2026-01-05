@@ -70,6 +70,12 @@ sections:
       id: announcements
       subtitle: News and highlights
       announcement_items:
+        - title: Call for Proposals (CFP) 2026
+          date: 31 October 2025
+          announcement: "Call launch: 2 January 2026. Please check the 'Resources' section
+            on our CFP 2026 page to download the application form."
+          link_text: Read more
+          link_url: /call-for-proposals-2026/
         - title: CFP 2026 Information Sessions
           date: 10 November 2025
           announcement: Information sessions about the PRECISE-SG100K Resource and CFP
@@ -77,12 +83,6 @@ sections:
             November 2025.
           link_text: Read more
           link_url: /cfp-2026-information-sessions/
-        - title: Call for Proposals (CFP) 2026
-          date: 31 October 2025
-          announcement: "Call launch: 2 January 2026. More information will be provided
-            soon."
-          link_text: Read more
-          link_url: /call-for-proposals-2026/
         - title: GLOW
           date: 10 October 2025
           announcement: Singapore to embark on study exploring links between Asian gut
