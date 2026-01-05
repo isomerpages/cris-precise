@@ -71,7 +71,7 @@ sections:
       subtitle: News and highlights
       announcement_items:
         - title: Call for Proposals (CFP) 2026
-          date: 31 October 2025
+          date: 02 January 2026
           announcement: "Call launch: 2 January 2026. Please check the 'Resources' section
             on our CFP 2026 page to download the application form."
           link_text: Read more
