@@ -42,7 +42,7 @@ upload your files and submit the application.</p>
 successfully submitted.</p>
 <p></p>
 <h4>What to expect after registering?</h4>
-<p>All submitted proposals will be reviewed by the <a href="https://www.npm.sg/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_self"><u>PRECISE-SG100K Scientific Committee</u></a>.
-Final selection and approval outcomes will be communicated by May 2026.</p>
+<p>All submitted proposals will be reviewed by the <a href="https://www.npm.sg/phase-ii-precise-sg100k/" rel="noopener nofollow" target="_self"><u>PRECISE-SG100K Scientific Committee</u></a>.</p>
+<p>Final selection and approval outcomes will be communicated by May 2026.</p>
 <p></p>
 <p></p>
