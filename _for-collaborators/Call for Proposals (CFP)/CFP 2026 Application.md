@@ -12,10 +12,10 @@ open.</p>
 <p>Launched on <strong>2 January 2026</strong>, this CFP invites researchers
 to submit proposals that leverage the unique multi-ancestry PRECISE-SG100K
 dataset.</p>
-<p><strong>Interested to join? Follow the steps below to register:</strong>
+<p><strong>Interested to join? Follow the steps below to apply:</strong>
 </p>
 <h4>Step 1: Documents to Prepare:</h4>
-<p>As part of the registration process, we require the following documents
+<p>As part of the application process, we require the following documents
 to be uploaded onto our online form:</p>
 <ul data-tight="true" class="tight">
 <li>
