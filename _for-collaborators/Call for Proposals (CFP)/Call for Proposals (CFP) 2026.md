@@ -5,8 +5,8 @@ variant: tiptap
 description: Call for Proposals 2026 (CFP 2026)
 third_nav_title: Call for Proposals (CFP)
 ---
-<p><strong>Call Launch: 2 January 2026. To apply, please refer to this page</strong>
-</p>
+<p>CFP 2026 is now open (launched 2 January 2026). Please refer to <strong><a href="https://npm.sg/cfp-2026-application/" rel="noopener nofollow" target="_blank">this page</a></strong> for
+application details.</p>
 <hr>
 <h3><strong>Introduction</strong></h3>
 <p>The PRECISE-SG100K resource is a unique multi-ancestry Asian population
