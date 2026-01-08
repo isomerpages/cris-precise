@@ -5,7 +5,8 @@ variant: tiptap
 description: Call for Proposals 2026 (CFP 2026)
 third_nav_title: Call for Proposals (CFP)
 ---
-<p><strong>CFP 2026 is now open (launched 2 January 2026). Please refer to <a href="https://npm.sg/cfp-2026-application/" rel="noopener nofollow" target="_blank">this page</a> for application details.</strong>
+<p><strong>CFP 2026 is now open (launched 2 January 2026). </strong>
+<br><strong>Please refer to <a href="https://npm.sg/cfp-2026-application/" rel="noopener nofollow" target="_blank">this page</a> for application details.</strong>
 </p>
 <hr>
 <h3><strong>Introduction</strong></h3>
