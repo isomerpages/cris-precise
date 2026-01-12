@@ -16,8 +16,9 @@ that leverage the unique multi-ancestry PRECISE-SG100K dataset.</p>
 <p><strong>Ready to Apply? Follow These Steps:</strong>
 </p>
 <h4>Step 1: Complete the TRUST Data Request Form</h4>
-<p>Download and complete the TRUST Data Request Form using [<strong><a href="https://for.sg/cfp2026-tdrform" rel="noopener nofollow" target="_blank">this link</a></strong>].
-This form allows you to describe your proposed research activities.</p>
+<p>Download the TRUST Data Request Form using [<strong><a href="https://for.sg/cfp2026-tdrform" rel="noopener nofollow" target="_blank">this link</a></strong>]
+and complete it. This form allows you to describe your proposed research
+activities.</p>
 <h4>Step 2: Prepare Your Documents</h4>
 <p>Please prepare the following documents for upload:</p>
 <ul data-tight="true" class="tight">
