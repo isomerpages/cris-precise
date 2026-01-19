@@ -9,15 +9,16 @@ third_nav_title: Call for Proposals (CFP)
 </p>
 <hr>
 <h3><strong>Call for Proposals 2026 Now Open!</strong></h3>
-<p>We're excited to announce that the Call For Proposals (CFP) 2026 for the
+<p>We're excited to announce that the Call for Proposals (CFP) 2026 for the
 PRECISE-SG100K research programme is now open.</p>
 <p>Launched on 2 January 2026, this CFP invites researchers to submit proposals
 that leverage the unique multi-ancestry PRECISE-SG100K dataset.</p>
 <p><strong>Ready to Apply? Follow These Steps:</strong>
 </p>
-<h4>Step 1: Complete the TRUST Data Request Form</h4>
-<p>Download and complete the TRUST Data Request Form using [<strong><a href="https://for.sg/cfp2026-tdrform" rel="noopener nofollow" target="_blank">this link</a></strong>].
-This form allows you to describe your proposed research activities.</p>
+<h4>Step 1: Complete the TRUST Data Request (TDR) form</h4>
+<p>Download the TRUST Data Request form using [<strong><a href="https://for.sg/cfp2026-tdrform" rel="noopener nofollow" target="_blank">this link</a></strong>]
+and complete it. This form allows you to describe your proposed research
+activities.</p>
 <h4>Step 2: Prepare Your Documents</h4>
 <p>Please prepare the following documents for upload:</p>
 <ul data-tight="true" class="tight">
@@ -31,6 +32,11 @@ This form allows you to describe your proposed research activities.</p>
 <p>Completed TRUST Data Request Form (from Step 1)</p>
 </li>
 </ul>
+<p><strong>PLEASE NOTE</strong>: You do not need to prepare the documents
+listed on the Checklist (page 3) of the TRUST Data Request form for the
+application at this point. The additional documents such as IRB approval,
+Personal Undertaking forms etc. are ONLY required after your proposal has
+been selected.</p>
 <h4>Step 3: Submit Your Application</h4>
 <p>Upload your documents and submit your application through our [<strong><a href="https://form.gov.sg/690dd0103deab4b8f5c6bc46" rel="noopener nofollow" target="_blank">online portal</a></strong>].
 You will receive a confirmation email once your application has been successfully
