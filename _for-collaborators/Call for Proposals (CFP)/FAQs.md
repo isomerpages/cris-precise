@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Call for Proposals (CFP)
 ---
 <blockquote>
-<p>The FAQs below are updated as of 4 November 2025.</p>
+<p>The FAQs below are updated as of 4 November 2025. Please contact <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a> if
+you have any questions that have not been answered here.</p>
 </blockquote>
 <h3>General Information</h3>
 <h4><strong>1. When will CFP 2026 be launched and what are the key dates?</strong></h4>
@@ -87,7 +88,8 @@ costs, please contact the PRECISE-SG100K Secretariat at <a href="mailto:research
 &nbsp;</p>
 <h3>Application Process</h3>
 <h4><strong>1. How should proposals to be submitted? Is there a specific format required?</strong></h4>
-<p>Please use the form available on the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> from 2 January 2026.</p>
+<p>Please use the form available on PRECISE <a href="https://www.npm.sg/cfp-2026-application/" rel="noopener nofollow" target="_blank">website</a> from 2 January
+2026.</p>
 <p>Submissions are to be made via <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>; the
 Programme Management Team will confirm receipt of application within 3
 working days.</p>
@@ -123,7 +125,7 @@ Please note that additional documents will be required for this submission:</p>
 <h3>Proposal Scope</h3>
 <h4><strong>1. What kind of proposals are eligible?</strong></h4>
 <p>We welcome proposals aligned with objectives of the Call. Please refer
-to the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for
+to PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 detailed eligibility criteria.</p>
 <h4><strong>2. Can I submit bulk analysis proposals like large-scale GWAS?</strong></h4>
 <p>Proposals seeking bulk analysis without clear scientific focus are unlikely
@@ -133,7 +135,7 @@ rationale.</p>
 <p>No, preliminary results are not required. However, you may include them
 if they strengthen your proposal.</p>
 <h4><strong>4. How can I avoid overlap with existing projects?</strong></h4>
-<p>Please review existing Flagship and Driver projects <a href="https://www.npm.sg/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please review existing Flagship and Driver projects <a href="https://www.npm.sg/files/PRECISE_SG100K_Flagship_and_Driver_Projects_10Nov2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 ensure your proposal does not overlap. The PRECISE-SG100K Scientific Committee
 may encourage convergence with overlapping proposals or partnership with
 existing activities.</p>
@@ -166,7 +168,8 @@ Management Team.</p>
 <p>The five evaluation criteria are as follows: Project Team quality, Scientific
 ambition/hypothesis, Project plan feasibility, Overlap assessment, and
 Commitments confirmation.</p>
-<p>Please refer to the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more details.</p>
+<p>Please refer to PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more
+details.</p>
 <h4><strong>3. Will feedback be provided to applicants?</strong></h4>
 <p>Brief feedback will be provided where appropriate.</p>
 <h3>Data Access &amp; Ethics</h3>
@@ -194,7 +197,7 @@ analyses.</p>
 <h4><strong>2. What costs should I budget for?</strong></h4>
 <p>Budget for research activities and compute-related costs including analyses
 on the TRUST platform. For TRUST costs, please refer to TRUST website for
-the <a href="https://trustplatform.sg/member-dashboard/chargingframework/charging-general/" rel="noopener noreferrer nofollow" target="_blank">Charging Framework</a> (available
+their <a href="https://trustplatform.sg/member-dashboard/chargingframework/charging-general/" rel="noopener noreferrer nofollow" target="_blank">Charging Framework</a> (available
 after registering as a TRUST member).</p>
 <h3>Publication Requirements</h3>
 <h4><strong>1. What publications require review?</strong></h4>
@@ -205,8 +208,9 @@ as well and researchers are encouraged to engage TRUST early.</p>
 <h4><strong>2. What are the authorship requirements for publications?</strong></h4>
 <p>Publications must include specific PRECISE team members, use banner authorship,
 include approved acknowledgement text, and receive PRECISE-SG100K Scientific
-Committee approval before journal submission. Please refer to the PRECISE
-<a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a>for more details.</p>
+Committee approval before journal submission.</p>
+<p>Please refer to PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more
+details.</p>
 <h4><strong>3. How many publications are expected?</strong></h4>
 <p>Projects should aim to deliver at least one major scientific publication
 within 2 years.</p>
