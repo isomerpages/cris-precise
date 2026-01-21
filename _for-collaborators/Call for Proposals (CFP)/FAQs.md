@@ -209,7 +209,7 @@ as well and researchers are encouraged to engage TRUST early.</p>
 <p>Publications must include specific PRECISE team members, use banner authorship,
 include approved acknowledgement text, and receive PRECISE-SG100K Scientific
 Committee approval before journal submission. Please refer to the PRECISE
-<a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener nofollow" target="_blank">website</a>for more details.</p>
+<a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a>for more details.</p>
 <h4><strong>3. How many publications are expected?</strong></h4>
 <p>Projects should aim to deliver at least one major scientific publication
 within 2 years.</p>
