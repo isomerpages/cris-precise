@@ -125,7 +125,7 @@ Please note that additional documents will be required for this submission:</p>
 <h3>Proposal Scope</h3>
 <h4><strong>1. What kind of proposals are eligible?</strong></h4>
 <p>We welcome proposals aligned with objectives of the Call. Please refer
-to the PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for
+to PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 detailed eligibility criteria.</p>
 <h4><strong>2. Can I submit bulk analysis proposals like large-scale GWAS?</strong></h4>
 <p>Proposals seeking bulk analysis without clear scientific focus are unlikely
@@ -168,7 +168,7 @@ Management Team.</p>
 <p>The five evaluation criteria are as follows: Project Team quality, Scientific
 ambition/hypothesis, Project plan feasibility, Overlap assessment, and
 Commitments confirmation.</p>
-<p>Please refer to the PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more
+<p>Please refer to PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more
 details.</p>
 <h4><strong>3. Will feedback be provided to applicants?</strong></h4>
 <p>Brief feedback will be provided where appropriate.</p>
@@ -209,7 +209,7 @@ as well and researchers are encouraged to engage TRUST early.</p>
 <p>Publications must include specific PRECISE team members, use banner authorship,
 include approved acknowledgement text, and receive PRECISE-SG100K Scientific
 Committee approval before journal submission.</p>
-<p>Please refer to the PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more
+<p>Please refer to PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more
 details.</p>
 <h4><strong>3. How many publications are expected?</strong></h4>
 <p>Projects should aim to deliver at least one major scientific publication
