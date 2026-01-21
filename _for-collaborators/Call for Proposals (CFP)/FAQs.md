@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Call for Proposals (CFP)
 ---
 <blockquote>
-<p>The FAQs below are updated as of 4 November 2025.</p>
+<p>The FAQs below are updated as of 4 November 2025. Please contact <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a> if
+you have any questions that have not been answered here.</p>
 </blockquote>
 <h3>General Information</h3>
 <h4><strong>1. When will CFP 2026 be launched and what are the key dates?</strong></h4>
@@ -87,7 +88,8 @@ costs, please contact the PRECISE-SG100K Secretariat at <a href="mailto:research
 &nbsp;</p>
 <h3>Application Process</h3>
 <h4><strong>1. How should proposals to be submitted? Is there a specific format required?</strong></h4>
-<p>Please use the form available on the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> from 2 January 2026.</p>
+<p>Please use the form available on PRECISE <a href="https://www.npm.sg/cfp-2026-application/" rel="noopener nofollow" target="_blank">website</a> from 2 January
+2026.</p>
 <p>Submissions are to be made via <a href="mailto:research@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank">research@precise.cris.sg</a>; the
 Programme Management Team will confirm receipt of application within 3
 working days.</p>
@@ -194,7 +196,7 @@ analyses.</p>
 <h4><strong>2. What costs should I budget for?</strong></h4>
 <p>Budget for research activities and compute-related costs including analyses
 on the TRUST platform. For TRUST costs, please refer to TRUST website for
-the <a href="https://trustplatform.sg/member-dashboard/chargingframework/charging-general/" rel="noopener noreferrer nofollow" target="_blank">Charging Framework</a> (available
+their <a href="https://trustplatform.sg/member-dashboard/chargingframework/charging-general/" rel="noopener noreferrer nofollow" target="_blank">Charging Framework</a> (available
 after registering as a TRUST member).</p>
 <h3>Publication Requirements</h3>
 <h4><strong>1. What publications require review?</strong></h4>
