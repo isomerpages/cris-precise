@@ -125,7 +125,7 @@ Please note that additional documents will be required for this submission:</p>
 <h3>Proposal Scope</h3>
 <h4><strong>1. What kind of proposals are eligible?</strong></h4>
 <p>We welcome proposals aligned with objectives of the Call. Please refer
-to the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for
+to the PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 detailed eligibility criteria.</p>
 <h4><strong>2. Can I submit bulk analysis proposals like large-scale GWAS?</strong></h4>
 <p>Proposals seeking bulk analysis without clear scientific focus are unlikely
@@ -135,7 +135,7 @@ rationale.</p>
 <p>No, preliminary results are not required. However, you may include them
 if they strengthen your proposal.</p>
 <h4><strong>4. How can I avoid overlap with existing projects?</strong></h4>
-<p>Please review existing Flagship and Driver projects <a href="https://www.npm.sg/files/PRECISE_SG100K_Flagship_and_Driver_Projects_revised.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please review existing Flagship and Driver projects <a href="https://www.npm.sg/files/PRECISE_SG100K_Flagship_and_Driver_Projects_10Nov2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 ensure your proposal does not overlap. The PRECISE-SG100K Scientific Committee
 may encourage convergence with overlapping proposals or partnership with
 existing activities.</p>
@@ -168,7 +168,8 @@ Management Team.</p>
 <p>The five evaluation criteria are as follows: Project Team quality, Scientific
 ambition/hypothesis, Project plan feasibility, Overlap assessment, and
 Commitments confirmation.</p>
-<p>Please refer to the PRECISE <a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more details.</p>
+<p>Please refer to the PRECISE <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a> for more
+details.</p>
 <h4><strong>3. Will feedback be provided to applicants?</strong></h4>
 <p>Brief feedback will be provided where appropriate.</p>
 <h3>Data Access &amp; Ethics</h3>
@@ -208,7 +209,7 @@ as well and researchers are encouraged to engage TRUST early.</p>
 <p>Publications must include specific PRECISE team members, use banner authorship,
 include approved acknowledgement text, and receive PRECISE-SG100K Scientific
 Committee approval before journal submission. Please refer to the PRECISE
-<a href="/call-for-proposals-2026/" rel="noopener noreferrer nofollow" target="_blank">website</a>for more details.</p>
+<a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener nofollow" target="_blank">website</a>for more details.</p>
 <h4><strong>3. How many publications are expected?</strong></h4>
 <p>Projects should aim to deliver at least one major scientific publication
 within 2 years.</p>
