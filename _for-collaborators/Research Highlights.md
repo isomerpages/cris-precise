@@ -144,7 +144,7 @@ prevention, diagnosis and treatment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cover page for Nature Metabolism Volume 8, January 2026 Issue" src="/images/Research Programmes/Research Highlights/Nature_Metabolism_Volume_8_Issue_1_v2.png">
 </div>
-<p><strong><a href="https://www.nature.com/articles/s42255-025-01441-4" rel="noopener nofollow" target="_blank">Adversity, adiposity, nutrition and metabolic well-being in multi-ethnic Asia</a></strong>
+<p><strong><a href="https://www.npm.sg/files/2026_NatMetab_adverDietHealthAsia.pdf" rel="noopener nofollow" target="_blank">Adversity, adiposity, nutrition and metabolic well-being in multi-ethnic Asia</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
