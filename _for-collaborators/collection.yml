@@ -2,7 +2,6 @@ collections:
   for-collaborators:
     output: true
     order:
-      - Research Highlights.md
       - Call for Proposals (CFP)/.keep
       - Call for Proposals (CFP)/Call for Proposals (CFP) 2026.md
       - Call for Proposals (CFP)/CFP 2026 Application.md
@@ -18,6 +17,7 @@ collections:
       - Our Data Users/.keep
       - Our Data Users/Flagship Projects for PRECISE SG100K.md
       - Our Data Users/Driver Projects for PRECISE SG100K.md
+      - Research Highlights.md
       - Resources/.keep
       - Resources/Data Access to SG10K Health.md
       - Resources/Data Access to PRECISE SG100K.md
