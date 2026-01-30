@@ -3,7 +3,6 @@ title: Research Highlights
 permalink: /research-highlights/
 variant: tiptap
 description: ""
-third_nav_title: Resources
 ---
 <h3><strong>Precision Medicine Research is Part of Singapore’s RIE2025 Strategic Goal to Transform and Protect the Health of Every Singaporean</strong></h3>
 <p>Our research will focus on accelerating health research by combining genetic,
@@ -142,7 +141,11 @@ prevention, diagnosis and treatment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cover page for Nature Metabolism Volume 8, January 2026 Issue" src="/images/Research Programmes/Research Highlights/Nature_Metabolism_Volume_8_Issue_1_v2.png">
+</div>
+<p><strong><a href="/files/Research Highlights/2026_NatMetab_adverDietHealthAsia.pdf" rel="noopener noreferrer nofollow" target="_blank">Adversity, adiposity, nutrition and metabolic well-being in multi-ethnic Asia</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
