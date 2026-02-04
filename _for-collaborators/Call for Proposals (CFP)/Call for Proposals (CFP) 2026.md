@@ -44,12 +44,12 @@ Resource linked to Clinical Data. The linked Resource includes:</p>
 <p><strong>Research Phenotype Data</strong>
 </p>
 </blockquote>
-<p><strong>Questionaire Data include:</strong>
+<p><strong>Questionnaire Data include:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Detailed health and lifestyle information, including medical histroy,
-medications, behavioural risk factors, mental health , and socio-economic
+<p>Detailed health and lifestyle information, including medical history,
+medications, behavioural risk factors, mental health, and socio-economic
 status</p>
 </li>
 <li>
