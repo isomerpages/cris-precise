@@ -13,7 +13,7 @@ image: /images/Resources/Events/240417_Exec_Cert_in_Clinical_Genomics_2024.png
 variant: tiptap
 ---
 <p><strong>NOTE:</strong> 
-<br>Applications have now closed. Please refer to the <a href="https://www.singhealth.com.sg/our-specialties/genomic-medicine-centre/education" rel="noopener nofollow" target="_blank">SingHealth Genomic Medicine website</a> for
+<br>Applications have now closed. Please refer to the <a href="https://www.singhealth.com.sg/our-specialties/genomic-medicine-centre/education" rel="noopener nofollow" target="_blank">SingHealth Genomic Medicine Centre website</a> for
 updates on the next application round.</p>
 <hr>
 <p>Jointly organised by <strong>SingHealth Duke-NUS Genomic Medicine Centre</strong> and
