@@ -510,7 +510,7 @@ related to Call for Proposals 2026.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Anticipated Call Launch</strong>
+<p><strong>Call Launch</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
