@@ -5,7 +5,7 @@ variant: tiptap
 description: Call for Proposals 2026 (CFP 2026)
 third_nav_title: Call for Proposals (CFP)
 ---
-<p><strong>CFP 2026 is now open (launched 2 January 2026).</strong>
+<p><strong>Applications for CFP 2026 is now closed (deadline 14 February 2026).</strong>
 </p><a class="isomer-image-wrapper" href="https://npm.sg/cfp-2026-application/"><img style="width: 100%" height="auto" width="100%" alt="Call For Proposals 2026 promotional graphic" src="/images/Research Programmes/Call for Proposals/CFP_2026_FINAL_v3_3.jpg"></a>
 <hr>
 <h3><strong>Introduction</strong></h3>
@@ -510,7 +510,7 @@ related to Call for Proposals 2026.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Anticipated Call Launch</strong>
+<p><strong>Call Launch</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

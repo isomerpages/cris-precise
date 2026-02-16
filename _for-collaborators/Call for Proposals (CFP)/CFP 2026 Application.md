@@ -8,9 +8,9 @@ third_nav_title: Call for Proposals (CFP)
 <p><strong>For full details on the CFP 2026 programme, please refer to <a href="https://www.npm.sg/call-for-proposals-2026/" rel="noopener nofollow" target="_blank">this page</a>.</strong>
 </p>
 <hr>
-<h3><strong>Call for Proposals 2026 Now Open!</strong></h3>
-<p>We're excited to announce that the Call for Proposals (CFP) 2026 for the
-PRECISE-SG100K research programme is now open.</p>
+<h3><strong>Applications for Call for Proposals 2026 Now Closed</strong></h3>
+<p>Thank you for your applications! Applications for Call for Proposals (CFP)
+2026 for the PRECISE-SG100K research programme is now closed.</p>
 <p>Launched on 2 January 2026, this CFP invites researchers to submit proposals
 that leverage the unique multi-ancestry PRECISE-SG100K dataset.</p>
 <p><strong>Ready to Apply? Follow These Steps:</strong>
