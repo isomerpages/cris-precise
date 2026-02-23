@@ -82,4 +82,15 @@ population. In doing so, Singapore is not only preparing its own healthcare
 system for the future, but also showing what is possible when small countries
 are guided by a clear strategy, strong governance and a focus on citizens,
 offering a model that others may look to as they chart their own path forward.</p>
+<hr>
+<p><strong>Media Contact:</strong>
+</p>
+<p><strong>Charlene Tan</strong>
+<br>Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore<a href="mailto:Singapore￼charlene.tan@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>charlene.tan@cris.sg</u></a>
+</p>
 <p></p>
+<p><strong>Trixie Teo</strong>
+<br>Assistant Manager, Corporate Communications
+<br>Consortium for Clinical Research and Innovation, Singapore<a href="mailto:Singapore￼trixie.teo@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>trixie.teo@cris.sg</u></a>
+</p>
