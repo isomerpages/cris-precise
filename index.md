@@ -32,7 +32,7 @@ sections:
       alignment: left
   - infopic:
       title: Healthcare That's Fit For The Future
-      subtitle: IN THE NEWS
+      subtitle: WHAT'S NEW
       id: infopic
       description: Singapore’s National Precision Medicine Programme has won the 2026
         Global Future Fit Seal Award for setting the standard in data-driven
