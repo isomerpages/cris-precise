@@ -31,6 +31,17 @@ sections:
       backgroundColor: gray
       alignment: left
   - infopic:
+      title: Healthcare That's Fit For The Future
+      subtitle: WHAT'S NEW
+      id: infopic
+      description: Singapore’s National Precision Medicine Programme has won the 2026
+        Global Future Fit Seal Award for setting the standard in data-driven
+        healthcare.
+      button: READ MORE
+      url: https://npm.sg/globalfuturefitsealaward2026/
+      image: /images/Resources/In The News/Global_Future_Fit_Seal_Award.jpg
+      alt: Image alt text
+  - infopic:
       title: Taking Precision Medicine to Patients
       id: infopic
       button: Read more
@@ -89,15 +100,4 @@ sections:
             microbiomes and mental health.
           link_text: Read more
           link_url: /glow-gut-linked-outcomes-in-wellbeing/
-  - infopic:
-      title: Healthcare That's Fit For The Future
-      subtitle: IN THE NEWS
-      id: infopic
-      description: Singapore’s National Precision Medicine Programme has won the 2026
-        Global Future Fit Seal Award for setting the standard in data-driven
-        healthcare.
-      button: READ MORE
-      url: https://npm.sg/globalfuturefitsealaward2026/
-      image: /images/Resources/In The News/Global_Future_Fit_Seal_Award.jpg
-      alt: Image alt text
 ---
