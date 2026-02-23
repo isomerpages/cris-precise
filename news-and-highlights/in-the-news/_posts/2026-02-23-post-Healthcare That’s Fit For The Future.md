@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>Singapore’s National Precision Medicine Programme has won the 2026 Global Future Fit Seal Award for setting the standard in data-driven healthcare.</strong></h4>
+<h3><strong>Singapore’s National Precision Medicine Programme has won the 2026 Global Future Fit Seal Award for setting the standard in data-driven healthcare.</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PRECISE receives the Global Future Fit Seal Award" src="/images/Resources/In The News/Global_Future_Fit_Seal_Award.jpg">
 </div>
@@ -32,7 +32,7 @@ and impact. Two other countries were also conferred the award, namely the
 Republic of Albania for Diella, an AI-powered minister supporting decision
 making across government processes, and the Republic of Korea for the automation
 of Busan Port.&nbsp;</p>
-<h4><strong>Celebrating Singapore’s long-term vision for healthcare</strong></h4>
+<h3><strong>Celebrating Singapore’s long-term vision for healthcare</strong></h3>
 <p>At its core, precision health is about predicting risk and intervening
 early to prevent disease, all while accounting for the factors that make
 each individual unique, from their genetics to their environment and lifestyle.
@@ -65,7 +65,7 @@ recognising the strength and rigour of our research, and for highlighting
 the importance of long-term, future-ready investments in healthcare,” says
 Dr Seow Shih Wee, Senior Director of Corporate Services at Precision Health
 Research Singapore (PRECISE).</p>
-<h4><strong>From global validation to citizen outcomes</strong></h4>
+<h3><strong>From global validation to citizen outcomes</strong></h3>
 <p>While international recognition validates Singapore’s approach to precision
 medicine, the ultimate measure of success lies closer to home: better health
 outcomes for Singaporeans and a healthcare system that remains sustainable
