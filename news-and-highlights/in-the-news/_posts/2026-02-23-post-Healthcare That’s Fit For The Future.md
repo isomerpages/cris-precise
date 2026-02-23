@@ -92,6 +92,6 @@ offering a model that others may look to as they chart their own path forward.</
 <p></p>
 <p><strong>Trixie Teo</strong>
 <br>Assistant Manager, Corporate Communications
-<br>Consortium for Clinical Research and Innovation, Singapor<a href="mailto:Singapore￼trixie.teo@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>trixie.teo@cris.sg</u></a>
+<br>Consortium for Clinical Research and Innovation, Singapore<a href="mailto:Singapore￼trixie.teo@cris.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>trixie.teo@cris.sg</u></a>
 </p>
 <p></p>
