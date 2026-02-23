@@ -89,4 +89,15 @@ sections:
             microbiomes and mental health.
           link_text: Read more
           link_url: /glow-gut-linked-outcomes-in-wellbeing/
+  - infopic:
+      title: Healthcare That's Fit For The Future
+      subtitle: IN THE NEWS
+      id: infopic
+      description: Singapore’s National Precision Medicine Programme has won the 2026
+        Global Future Fit Seal Award for setting the standard in data-driven
+        healthcare.
+      button: READ MORE
+      url: https://www.npm.sg/globalfuturefitsealaward2026
+      image: /images/Resources/In The News/Global_Future_Fit_Seal_Award.jpg
+      alt: Image alt text
 ---
