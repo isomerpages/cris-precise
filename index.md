@@ -97,7 +97,7 @@ sections:
         Global Future Fit Seal Award for setting the standard in data-driven
         healthcare.
       button: READ MORE
-      url: https://www.npm.sg/globalfuturefitsealaward2026
+      url: https://npm.sg/globalfuturefitsealaward2026/
       image: /images/Resources/In The News/Global_Future_Fit_Seal_Award.jpg
       alt: Image alt text
 ---
