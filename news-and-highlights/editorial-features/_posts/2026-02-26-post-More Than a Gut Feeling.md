@@ -42,8 +42,7 @@ at the Institute of Mental Health.</p>
 with concrete hypotheses that can be tested, validated, and ultimately
 put into practice.</p>
 <p></p>
-<p><strong>The Complexity Challenge</strong>
-</p>
+<h3><strong>The Complexity Challenge</strong></h3>
 <p></p>
 <p>The challenge, however, is two-fold. Firstly, the human gastrointestinal
 tract hosts trillions of microbes from thousands of species, many of which
@@ -81,8 +80,7 @@ of data, from genetics and metabolism to brain imaging and, increasingly,
 the gut microbiome.</p>
 <p></p>
 <p></p>
-<p><strong>Tackling Complexity with Collaboration</strong>
-</p>
+<h3><strong>Tackling Complexity with Collaboration</strong></h3>
 <p>The solution to this complexity, Lee and Wong argue, is to measure it
 more carefully and more comprehensively. On the human side, GLOW combines
 human genetic data with detailed mental health assessments that capture
