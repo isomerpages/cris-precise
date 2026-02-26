@@ -50,6 +50,8 @@ sections:
       image: /images/Research Programmes/Microbiomes and Mental
         Health/Glow_Jimmy_Sunny_thumbnail_V4.png
       alt: Article Thumbnail
+      description: Interdisciplinary collaboration is the key to unravelling the
+        complex relationship between mental health and the gut...
   - infopic:
       title: Taking Precision Medicine to Patients
       id: infopic
