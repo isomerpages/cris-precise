@@ -42,6 +42,15 @@ sections:
       image: /images/Resources/In The News/Global_Future_Fit_Seal_Award.jpg
       alt: Image alt text
   - infopic:
+      title: More Than a Gut Feeling
+      subtitle: WHAT'S NEW
+      id: infopic
+      button: READ MORE
+      url: npm.sg
+      image: /images/Research Programmes/Microbiomes and Mental
+        Health/Glow_Jimmy_Sunny_thumbnail_V4.png
+      alt: Article Thumbnail
+  - infopic:
       title: Taking Precision Medicine to Patients
       id: infopic
       button: Read more
