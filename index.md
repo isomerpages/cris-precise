@@ -46,7 +46,7 @@ sections:
       subtitle: WHAT'S NEW
       id: infopic
       button: READ MORE
-      url: npm.sg
+      url: https://npm.sg/more-than-a-gut-feeling/
       image: /images/Research Programmes/Microbiomes and Mental
         Health/Glow_Jimmy_Sunny_thumbnail_V4.png
       alt: Article Thumbnail
