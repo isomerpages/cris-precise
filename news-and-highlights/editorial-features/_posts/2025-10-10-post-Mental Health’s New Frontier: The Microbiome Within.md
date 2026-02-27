@@ -150,11 +150,11 @@ solutions,” Chambers adds.&nbsp;&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.npm.sg/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_blank">← Back to GLOW</a>
+<p><strong><a href="https://www.npm.sg/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_blank">← Back to GLOW</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Next: More Than a Gut Feeling →</strong>
+<p><strong><a href="https://npm.sg/more-than-a-gut-feeling/" rel="noopener nofollow" target="_blank">Next: More Than a Gut Feeling →</a></strong>
 </p>
 </td>
 </tr>
