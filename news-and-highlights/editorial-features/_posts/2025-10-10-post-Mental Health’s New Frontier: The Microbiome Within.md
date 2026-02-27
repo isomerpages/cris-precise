@@ -142,4 +142,22 @@ solutions,” Chambers adds.&nbsp;&nbsp;</p>
 </blockquote>
 <p></p>
 <hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.npm.sg/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_blank">← Back to GLOW</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Next: More Than a Gut Feeling →</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
