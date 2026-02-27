@@ -126,3 +126,40 @@ science to understand the mechanisms, identifying what will work, and knowing
 why,” says Lee. By sharpening that focus, GLOW seeks to turn complexity
 into clarity, laying the groundwork for advances that are not only scientifically
 robust, but meaningful for the public, patients, and clinicians alike.</p>
+<hr>
+<p></p>
+<p></p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.npm.sg/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_blank">← Back to GLOW</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
