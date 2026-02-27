@@ -6,7 +6,7 @@ layout: post
 description: Could the key to tackling rising mental health challenges lie in
   the microbiome? Researchers at GLOW are leading the charge to find out.
 image: /images/Resources/Editorial Features/2025/Glow_thumbnail_John_and_Patrick.png
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mental health's new frontier: The microbiome within" src="/images/Resources/Editorial Features/2025/Glow_thumbnail_John_and_Patrick.png">
@@ -142,7 +142,39 @@ solutions,” Chambers adds.&nbsp;&nbsp;</p>
 </blockquote>
 <p></p>
 <hr>
-<p><em>Next feature coming soon - stay tuned for the next GLOW release!&nbsp;</em>
+<p></p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.npm.sg/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_blank">← Back to GLOW</a></strong>
 </p>
-<p>Back to <a href="/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_self">GLOW</a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://npm.sg/more-than-a-gut-feeling/" rel="noopener nofollow" target="_blank">Next: More Than a Gut Feeling →</a></strong>
 </p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
