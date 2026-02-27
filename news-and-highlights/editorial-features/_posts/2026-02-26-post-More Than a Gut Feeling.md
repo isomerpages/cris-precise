@@ -8,6 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h4><strong>Interdisciplinary collaboration is the key to unravelling the complex relationship between mental health and the gut, say experts in psychiatry and gastroenterology.</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Thumbnail for article" src="/images/Research Programmes/Microbiomes and Mental Health/Glow_Jimmy_Sunny_thumbnail_V4.png">
 </div>
