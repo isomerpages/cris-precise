@@ -5,3 +5,39 @@ variant: tiptap
 description: ""
 third_nav_title: Voices and Stories
 ---
+<h4><strong>Patient Story: Finding the Right Medication Through Pharmacogenomics</strong>&nbsp;</h4>
+<blockquote>
+<p><strong><em>“Genetic testing ensures you receive the most effective medication without unnecessary delays — especially when it is needed the most.”</em></strong>&nbsp;</p>
+</blockquote>
+<p>After a heart attack, <em>Mr Tan (not his real name)</em> was prescribed
+medication but soon experienced troubling breathlessness. At first, it
+was not clear whether the symptoms were due to the heart condition or the
+treatment itself.&nbsp;</p>
+<p>That was when pharmacogenomics (PGx) testing provided the answer.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/Voices and Stories/02_Patient_Story_PGx_Patient_image.png">
+</div>
+<p>The transition was not just about switching medication — it was about
+clarity and confidence. While the genetic report itself was technical,
+pharmacists took the time to explain what the results meant in everyday
+terms.&nbsp;</p>
+<p>For the patient, it was eye-opening:&nbsp;</p>
+<p>“Genetic testing equips doctors with more precise information to make
+better treatment decisions.”&nbsp;</p>
+<p>Today, this experience has changed the way the patient views healthcare.
+Instead of trial-and-error, genetic testing now ensures the right drug,
+first time.&nbsp;</p>
+<p>And his message to others?&nbsp;</p>
+<p>“Concerns about genetic privacy are personal. But if you are not overly
+worried, testing is worth it. The benefits far outweigh the risks — for
+you and your loved ones.”&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Everyone/Voices and Stories/02_Patient_Story_PGx_infographic.png">
+</div>
+<p></p>
+<hr>
+<h4><strong>How can I share my story?</strong>&nbsp;</h4>
+<p>You can email us at <a href="mailto:contact@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@precise.cris.sg</u></a> with
+a short summary of your experience or interest. Our communications team
+will follow up with you to guide the process.&nbsp;</p>
+<p></p>
