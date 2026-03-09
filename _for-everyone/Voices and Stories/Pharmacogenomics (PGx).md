@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Voices and Stories
 ---
-<h4><strong>Patient Story: Finding the Right Medication Through Pharmacogenomics</strong>&nbsp;</h4>
+<h3><strong>Patient Story: Finding the Right Medication Through Pharmacogenomics</strong>&nbsp;</h3>
 <blockquote>
-<p><strong><em>“Genetic testing ensures you receive the most effective medication without unnecessary delays — especially when it is needed the most.”</em></strong>&nbsp;</p>
+<p><em>“Genetic testing ensures you receive the most effective medication without unnecessary delays — especially when it is needed the most.”</em>&nbsp;</p>
 </blockquote>
 <p>After a heart attack, <em>Mr Tan (not his real name)</em> was prescribed
 medication but soon experienced troubling breathlessness. At first, it
@@ -36,7 +36,7 @@ you and your loved ones.”&nbsp;</p>
 </div>
 <p></p>
 <hr>
-<h4><strong>How can I share my story?</strong>&nbsp;</h4>
+<h3><strong>How can I share my story?</strong>&nbsp;</h3>
 <p>You can email us at <a href="mailto:contact@precise.cris.sg" rel="noopener noreferrer nofollow" target="_blank"><u>contact@precise.cris.sg</u></a> with
 a short summary of your experience or interest. Our communications team
 will follow up with you to guide the process.&nbsp;</p>
