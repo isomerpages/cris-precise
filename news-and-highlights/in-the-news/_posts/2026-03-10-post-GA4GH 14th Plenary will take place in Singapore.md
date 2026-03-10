@@ -7,10 +7,8 @@ description: ""
 image: /images/Resources/In The News/14th_Plenary_KV__11_Feb_2026___1_.jpg
 variant: tiptap
 ---
-<p><strong>The Global Alliance for Genomics and Health (GA4GH) will hold its 14th Plenary meeting from 28 September to 2 October 2026 in Singapore. </strong>
-</p>
-<p><strong>Co-hosted by Precision Health Research, Singapore (PRECISE), the meeting will gather participants from across the health and biomedical ecosystem to advance topics in global genomic and health data sharing.</strong>
-</p>
+<h4>The Global Alliance for Genomics and Health (GA4GH) will hold its 14th Plenary meeting from 28 September to 2 October 2026 in Singapore.</h4>
+<h4>Co-hosted by Precision Health Research, Singapore (PRECISE), the meeting will gather participants from across the health and biomedical ecosystem to advance topics in global genomic and health data sharing.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Key visual of the GA4GH 14th Plenary. The 14th Plenary will take place on 28 Sep to 2 Oct 2026." src="/images/Resources/In The News/14th_Plenary_KV__11_Feb_2026___1_.jpg">
@@ -26,12 +24,12 @@ marking GA4GH’s first plenary held in Asia. <a href="https://broadinstitute.sw
 <p>Seow Shih Wee, Conference Programme Co-Chair and Senior Director, PRECISE,
 said, “By any global measure, Singapore is a small country, yet in the
 fast-moving field of precision medicine, we have been able to contribute
-in ways that are internationally recognised, built on</p>
-<p>sustained public trust, long-term commitment, and a whole-of-nation effort
-to do things carefully and transparently. We are privileged to co-organise
-the GA4GH Plenary in Singapore — and in Asia for the first time — underscoring
-the importance of global representation and collaboration in shaping a
-more inclusive, future-ready genomic ecosystem.”</p>
+in ways that are internationally recognised, built on sustained public
+trust, long-term commitment, and a whole-of-nation effort to do things
+carefully and transparently. We are privileged to co-organise the GA4GH
+Plenary in Singapore — and in Asia for the first time — underscoring the
+importance of global representation and collaboration in shaping a more
+inclusive, future-ready genomic ecosystem.”</p>
 <p>The plenary meeting will convene people from across the health and biomedical
 ecosystem, including clinicians, researchers, scientists, healthcare professionals,
 policymakers, and representatives of genomic initiatives, among others.</p>
@@ -69,9 +67,8 @@ advances more inclusive genomic medicine worldwide.”</p>
 <p>The week-long conference will culminate with the GA4GH Connect meeting,
 two days of collaborative working sessions during which participants will
 delve into topics that advance GA4GH product development and implementation.
-Participants will engage in brainstorming</p>
-<p>sessions, hands-on workshops and hackathons, identification of shared
-challenges, and collective problem-solving.</p>
+Participants will engage in brainstorming sessions, hands-on workshops
+and hackathons, identification of shared challenges, and collective problem-solving.</p>
 <p>Registration for the GA4GH 14th Plenary meeting is now available. Please
 refer to the <a href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020" rel="noopener nofollow" target="_blank">event website</a> for
 more information about registration tiers, Early-Bird pricing, location,
