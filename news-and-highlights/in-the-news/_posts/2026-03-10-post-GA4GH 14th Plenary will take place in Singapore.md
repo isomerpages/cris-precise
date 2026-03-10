@@ -100,7 +100,7 @@ event.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ticket Sales</div>
+<div class="isomer-card-title">Event Registration</div>
 <div class="isomer-card-link">Purchase Tickets →</div>
 </div>
 </a>
