@@ -88,9 +88,9 @@ industry partners to advance genomics, foster Singapore’s biomedical innovatio
 and improve human health outcomes. PRECISE is co-hosting the GA4GH 14th
 Plenary meeting, providing local expertise, and helping to steward a meaningful
 event.</p>
+<p></p>
 <hr>
-<p><strong>Event Quick Links:</strong>
-</p>
+<h4><strong>Event Quick Links:</strong></h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Event Information</div><div class="isomer-card-link">View Event Info →</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.gevme.com/GA4GH_14th_Plenary" class="isomer-card">
