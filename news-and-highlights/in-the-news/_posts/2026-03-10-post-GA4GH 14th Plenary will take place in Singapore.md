@@ -95,11 +95,11 @@ event.</p>
 <hr>
 <h4><strong>Event Quick Links:</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resources/In The News/14th_Plenary_Website_Thumbnail_event_info.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Event Information</div><div class="isomer-card-link">View Event Info →</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resources/In The News/2_1__14th_Plenary_Website_Thumbnail_event_info.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Event Information</div><div class="isomer-card-link">View Event Info →</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.gevme.com/GA4GH_14th_Plenary" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resources/In The News/14th_Plenary_Website_Thumbnail_event_registration.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resources/In The News/2_1__14th_Plenary_Website_Thumbnail_event_registration.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
