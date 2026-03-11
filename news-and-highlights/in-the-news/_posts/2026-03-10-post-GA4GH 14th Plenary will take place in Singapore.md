@@ -104,7 +104,7 @@ event.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Event registration</div>
-<div class="isomer-card-description">Register and purchase tickets for the GA4GH 14th Plenary. Early Bird pricing
+<div class="isomer-card-description">Register and purchase tickets for the 14th Plenary. Early Bird pricing
 available until 14 May 2026!</div>
 <div class="isomer-card-link">Save your spot →</div>
 </div>
