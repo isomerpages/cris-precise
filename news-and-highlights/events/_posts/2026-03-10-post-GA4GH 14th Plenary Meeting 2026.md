@@ -37,7 +37,7 @@ data sharing, clinical implementation, policy frameworks, and emerging
 innovations.</p>
 <p><strong>GA4GH Connect</strong>
 <br>Collaborative working sessions including workshops, brainstorming sessions,
-and hackathons focused on advancing GA4GH standards and tools. [insert
-Stephanie’s graphic in the prospectus]</p>
+and hackathons focused on advancing GA4GH standards and tools.</p>
+<p></p>
 <p><strong>Registration [insert registration details as per your edm]</strong>
 </p>
