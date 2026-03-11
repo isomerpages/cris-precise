@@ -28,7 +28,7 @@ sections:
           url: /call-for-proposals-2026/
         - title: GA4GH 14th Plenary
           description: ""
-          url: https://npm.sg/ga4gh-14th-plenary-meeting-2026/
+          url: /ga4gh-14th-plenary-meeting-2026/
       variant: floating
       size: md
       backgroundColor: gray
