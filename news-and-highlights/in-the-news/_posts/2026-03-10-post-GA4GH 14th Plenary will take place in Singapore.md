@@ -7,9 +7,12 @@ description: ""
 image: /images/Resources/In The News/14th_Plenary_KV__11_Feb_2026___1_.jpg
 variant: tiptap
 ---
-<h4>The Global Alliance for Genomics and Health (GA4GH) will hold its 14th Plenary meeting from 28 September to 2 October 2026 in Singapore.</h4>
-<h4>Co-hosted by Precision Health Research, Singapore (PRECISE), the meeting will gather participants from across the health and biomedical ecosystem to advance topics in global genomic and health data sharing.</h4>
-<h4></h4>
+<p>The Global Alliance for Genomics and Health (GA4GH) will hold its 14th
+Plenary meeting from 28 September to 2 October 2026 in Singapore.</p>
+<p>Co-hosted by Precision Health Research, Singapore (PRECISE), the meeting
+will gather participants from across the health and biomedical ecosystem
+to advance topics in global genomic and health data sharing.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Key visual of the GA4GH 14th Plenary. The 14th Plenary will take place on 28 Sep to 2 Oct 2026." src="/images/Resources/In The News/14th_Plenary_KV__11_Feb_2026___1_.jpg">
 </div>
