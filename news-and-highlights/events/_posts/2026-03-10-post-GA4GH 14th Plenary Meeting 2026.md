@@ -39,5 +39,28 @@ innovations.</p>
 <br>Collaborative working sessions including workshops, brainstorming sessions,
 and hackathons focused on advancing GA4GH standards and tools.</p>
 <p></p>
-<p><strong>Registration [insert registration details as per your edm]</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="About GA4GH Plenary" src="/images/Resources/Events/About_GA4GH_Plenary.png">
+</div>
+<p></p>
+<hr>
+<p></p>
+<h4><strong>Quick Links</strong></h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Event Information" src="/images/Resources/In The News/14th_Plenary_Website_Thumbnail_event_info.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Event information</div><div class="isomer-card-description">View the programme details, accommodation options, and FAQs for the GA4GH 14th Plenary.</div><div class="isomer-card-link">View event info →</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Resources/In The News/14th_Plenary_Website_Thumbnail_event_registration.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Event registration</div>
+<div class="isomer-card-description">Register and purchase tickets for the GA4GH 14th Plenary. Early Bird pricing
+available until 14 May 2026!</div>
+<div class="isomer-card-link">Save your spot →</div>
+</div>
+</a>
+</div>
+<p></p>
+<p></p>
