@@ -77,19 +77,19 @@ sections:
       id: announcements
       subtitle: News and highlights
       announcement_items:
+        - title: GA4GH 14th Plenary
+          date: 12 March 2026
+          announcement: The Global Alliance for Genomics and Health (GA4GH) will hold its
+            14th Plenary meeting from 28 September to 2 October 2026 in
+            Singapore.
+          link_text: Read more
+          link_url: /cfp-2026-information-sessions/
         - title: Call for Proposals (CFP) 2026
           date: 02 January 2026
           announcement: "Call launch: 2 January 2026. Please check the 'Resources' section
             on our CFP 2026 page to download the application form."
           link_text: Read more
           link_url: /call-for-proposals-2026/
-        - title: CFP 2026 Information Sessions
-          date: 10 November 2025
-          announcement: Information sessions about the PRECISE-SG100K Resource and CFP
-            2026 will be held at each of our research partner institutes in
-            November 2025.
-          link_text: Read more
-          link_url: /cfp-2026-information-sessions/
         - title: GLOW
           date: 10 October 2025
           announcement: Singapore to embark on study exploring links between Asian gut
