@@ -47,7 +47,7 @@ sections:
       title: Finding the Right Medication
       id: infopic
       button: Read more
-      url: /research-in-the-real-world-taking-precision-medicine-to-patients/
+      url: /finding-the-right-medicine/
       image: /images/For Everyone/Voices and
         Stories/02_Patient_Story_PGx_Patient_image.png
       alt: Image alt text
@@ -83,7 +83,7 @@ sections:
             14th Plenary meeting from 28 September to 2 October 2026 in
             Singapore.
           link_text: Read more
-          link_url: /cfp-2026-information-sessions/
+          link_url: /ga4gh-14th-plenary-meeting-2026/
         - title: Call for Proposals (CFP) 2026
           date: 02 January 2026
           announcement: "Call launch: 2 January 2026. Please check the 'Resources' section
