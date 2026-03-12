@@ -44,6 +44,17 @@ sections:
       image: /images/Resources/In The News/14th_Plenary_KV__11_Feb_2026___1_.jpg
       alt: Image alt text
   - infopic:
+      title: Finding the Right Medication
+      id: infopic
+      button: Read more
+      url: /research-in-the-real-world-taking-precision-medicine-to-patients/
+      image: /images/For Everyone/Voices and
+        Stories/02_Patient_Story_PGx_Patient_image.png
+      alt: Image alt text
+      subtitle: WHAT'S NEW
+      description: “Genetic testing ensures you receive the most effective medication
+        without unnecessary delays — especially when it is needed the most.”
+  - infopic:
       title: More Than a Gut Feeling
       subtitle: WHAT'S NEW
       id: infopic
@@ -54,34 +65,6 @@ sections:
       alt: Article Thumbnail
       description: Interdisciplinary collaboration is the key to unravelling the
         complex relationship between mental health and the gut...
-  - infopic:
-      title: Taking Precision Medicine to Patients
-      id: infopic
-      button: Read more
-      url: /research-in-the-real-world-taking-precision-medicine-to-patients/
-      image: /images/Resources/Editorial
-        Features/2025/NPM_phase_III_thumbnail_v2_1.png
-      alt: Image alt text
-      subtitle: Editorial Feature
-  - infopic:
-      title: NPM Phase III
-      id: infopic
-      button: READ MORE
-      url: /npm-phase-iii-sg-insight/
-      image: /images/Homepage/PhaseIII_info.png
-      alt: Image alt text
-      subtitle: Research Programme
-  - infopic:
-      title: GLOW
-      id: infopic
-      description: Singapore to embark on study exploring links between Asian gut
-        microbiomes and mental health.
-      button: Read more
-      url: /glow-gut-linked-outcomes-in-wellbeing/
-      image: /images/Research Programmes/Microbiomes and Mental
-        Health/IMG_0707_3x2.jpg
-      alt: Image alt text
-      subtitle: Research Programme
   - infopic:
       title: Singapore's National Precision Medicine Strategy
       id: infopic
