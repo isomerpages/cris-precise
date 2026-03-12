@@ -1,9 +1,9 @@
 ---
-title: Voices and Stories
-permalink: /voices-and-stories/
+title: Living with High Cholesterol
+permalink: /living-with-high-cholesterol/
 variant: tiptap
 description: ""
-third_nav_title: Everyday Genomics
+third_nav_title: Voices and Stories
 ---
 <h3><strong>Patient Story: Living with Familial Hypercholesterolemia</strong></h3>
 <blockquote>

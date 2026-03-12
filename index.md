@@ -26,20 +26,22 @@ sections:
         - title: Call for Proposals
           description: ""
           url: /call-for-proposals-2026/
+        - title: GA4GH 14th Plenary
+          description: ""
+          url: /ga4gh-14th-plenary-meeting-2026/
       variant: floating
       size: md
       backgroundColor: gray
       alignment: left
   - infopic:
-      title: Healthcare That's Fit For The Future
+      title: GA4GH 14th Plenary Meeting 2026
       subtitle: WHAT'S NEW
       id: infopic
-      description: Singapore’s National Precision Medicine Programme has won the 2026
-        Global Future Fit Seal Award for setting the standard in data-driven
-        healthcare.
+      description: The Global Alliance for Genomics and Health (GA4GH) will hold its
+        14th Plenary meeting from 28 September to 2 October 2026 in Singapore.
       button: READ MORE
-      url: https://npm.sg/globalfuturefitsealaward2026/
-      image: /images/Resources/In The News/Global_Future_Fit_Seal_Award.jpg
+      url: /ga4gh-14th-plenary-will-take-place-in-singapore/
+      image: /images/Resources/In The News/14th_Plenary_KV__11_Feb_2026___1_.jpg
       alt: Image alt text
   - infopic:
       title: More Than a Gut Feeling

@@ -4,8 +4,10 @@ collections:
     order:
       - Everyday Genomics/.keep
       - Everyday Genomics/Singapore's Big Health Project.md
-      - Everyday Genomics/Voices and Stories.md
       - "Everyday Genomics/NPM Phase III: SG INSIGHT.md"
+      - Voices and Stories/Finding the Right Medicine.md
+      - Voices and Stories/Living with High Cholesterol.md
+      - Voices and Stories/.keep
       - Our Data Users/.keep
       - Our Data Users/Flagship Projects for PRECISE SG100K.md
       - Our Data Users/Driver Projects for PRECISE SG100K.md
