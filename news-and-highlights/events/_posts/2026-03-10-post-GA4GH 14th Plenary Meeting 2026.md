@@ -19,30 +19,34 @@ the first time the GA4GH Plenary will be held in Asia.</p>
 will bring together leaders from across the global genomics and healthcare
 ecosystem to discuss the responsible and effective use of genomic and health
 data to improve human health.</p>
+<p>The event will broaden international representation and strengthen collaboration
+across regions, providing a platform to exchange insights on global standards,
+data sharing frameworks, and the clinical implementation of genomic medicine.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="About GA4GH Plenary" src="/images/Resources/Events/About_GA4GH_Plenary.png">
 </div>
 <p></p>
-<p>The event will broaden international representation and strengthen collaboration
-across regions, providing a platform to exchange insights on global standards,
-data sharing frameworks, and the clinical implementation of genomic medicine.</p>
 <hr>
 <h4><strong>Event Overview</strong></h4>
 <p><strong>Date:</strong> 28 September – 2 October 2026
 <br><strong>Location:</strong> One Farrer Hotel, Singapore</p>
 <hr>
 <h4><strong>Programme Highlights</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="14th Plenary Schedule" src="/images/Resources/Events/v2__14th_Plenary_Prospectus__1_.png">
+</div>
 <p><strong>National Initiatives Forum (NIF)</strong>
-<br>A full-day convening of leaders from national genomics programmes to share
-experiences in implementing genomic medicine at population scale.</p>
+<br>National genomic data initiatives convene to share best practices and
+discuss the implementation of genomics into healthcare.</p>
 <p><strong>Plenary Sessions</strong>
-<br>Two days of keynote talks and expert panels exploring topics such as genomic
-data sharing, clinical implementation, policy frameworks, and emerging
-innovations.</p>
+<br>The global genomics and health community convenes for presentations and
+panels regarding key updates and progress on genomic and health data sharing.</p>
 <p><strong>GA4GH Connect</strong>
-<br>Collaborative working sessions including workshops, brainstorming sessions,
-and hackathons focused on advancing GA4GH standards and tools.</p>
+<br>The GA4GH community convenes for workshops, working meetings, and discussions
+to further the development and implementation of data sharing standards
+and policy frameworks.</p>
 <p></p>
 <p></p>
 <hr>
