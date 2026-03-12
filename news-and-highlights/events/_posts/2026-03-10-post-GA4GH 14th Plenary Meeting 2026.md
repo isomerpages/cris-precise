@@ -19,6 +19,9 @@ the first time the GA4GH Plenary will be held in Asia.</p>
 will bring together leaders from across the global genomics and healthcare
 ecosystem to discuss the responsible and effective use of genomic and health
 data to improve human health.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="About GA4GH Plenary" src="/images/Resources/Events/About_GA4GH_Plenary.png">
+</div>
 <p>The event will broaden international representation and strengthen collaboration
 across regions, providing a platform to exchange insights on global standards,
 data sharing frameworks, and the clinical implementation of genomic medicine.</p>
@@ -39,9 +42,6 @@ innovations.</p>
 <br>Collaborative working sessions including workshops, brainstorming sessions,
 and hackathons focused on advancing GA4GH standards and tools.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="About GA4GH Plenary" src="/images/Resources/Events/About_GA4GH_Plenary.png">
-</div>
 <p></p>
 <hr>
 <p></p>
