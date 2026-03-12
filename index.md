@@ -40,7 +40,7 @@ sections:
       description: The Global Alliance for Genomics and Health (GA4GH) will hold its
         14th Plenary meeting from 28 September to 2 October 2026 in Singapore.
       button: READ MORE
-      url: https://npm.sg/ga4gh-14th-plenary-will-take-place-in-singapore/
+      url: /ga4gh-14th-plenary-will-take-place-in-singapore/
       image: /images/Resources/In The News/14th_Plenary_KV__11_Feb_2026___1_.jpg
       alt: Image alt text
   - infopic:
