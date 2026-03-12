@@ -44,6 +44,17 @@ sections:
       image: /images/Resources/In The News/14th_Plenary_KV__11_Feb_2026___1_.jpg
       alt: Image alt text
   - infopic:
+      title: Finding the Right Medication
+      id: infopic
+      button: Read more
+      url: /finding-the-right-medicine/
+      image: /images/For Everyone/Voices and
+        Stories/02_Patient_Story_PGx_Patient_image.png
+      alt: Image alt text
+      subtitle: WHAT'S NEW
+      description: “Genetic testing ensures you receive the most effective medication
+        without unnecessary delays — especially when it is needed the most.”
+  - infopic:
       title: More Than a Gut Feeling
       subtitle: WHAT'S NEW
       id: infopic
@@ -54,34 +65,6 @@ sections:
       alt: Article Thumbnail
       description: Interdisciplinary collaboration is the key to unravelling the
         complex relationship between mental health and the gut...
-  - infopic:
-      title: Taking Precision Medicine to Patients
-      id: infopic
-      button: Read more
-      url: /research-in-the-real-world-taking-precision-medicine-to-patients/
-      image: /images/Resources/Editorial
-        Features/2025/NPM_phase_III_thumbnail_v2_1.png
-      alt: Image alt text
-      subtitle: Editorial Feature
-  - infopic:
-      title: NPM Phase III
-      id: infopic
-      button: READ MORE
-      url: /npm-phase-iii-sg-insight/
-      image: /images/Homepage/PhaseIII_info.png
-      alt: Image alt text
-      subtitle: Research Programme
-  - infopic:
-      title: GLOW
-      id: infopic
-      description: Singapore to embark on study exploring links between Asian gut
-        microbiomes and mental health.
-      button: Read more
-      url: /glow-gut-linked-outcomes-in-wellbeing/
-      image: /images/Research Programmes/Microbiomes and Mental
-        Health/IMG_0707_3x2.jpg
-      alt: Image alt text
-      subtitle: Research Programme
   - infopic:
       title: Singapore's National Precision Medicine Strategy
       id: infopic
@@ -94,19 +77,19 @@ sections:
       id: announcements
       subtitle: News and highlights
       announcement_items:
+        - title: GA4GH 14th Plenary
+          date: 12 March 2026
+          announcement: The Global Alliance for Genomics and Health (GA4GH) will hold its
+            14th Plenary meeting from 28 September to 2 October 2026 in
+            Singapore.
+          link_text: Read more
+          link_url: /ga4gh-14th-plenary-meeting-2026/
         - title: Call for Proposals (CFP) 2026
           date: 02 January 2026
           announcement: "Call launch: 2 January 2026. Please check the 'Resources' section
             on our CFP 2026 page to download the application form."
           link_text: Read more
           link_url: /call-for-proposals-2026/
-        - title: CFP 2026 Information Sessions
-          date: 10 November 2025
-          announcement: Information sessions about the PRECISE-SG100K Resource and CFP
-            2026 will be held at each of our research partner institutes in
-            November 2025.
-          link_text: Read more
-          link_url: /cfp-2026-information-sessions/
         - title: GLOW
           date: 10 October 2025
           announcement: Singapore to embark on study exploring links between Asian gut
