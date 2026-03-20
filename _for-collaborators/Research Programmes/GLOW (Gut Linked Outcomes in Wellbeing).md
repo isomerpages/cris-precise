@@ -56,32 +56,70 @@ or microbial therapies. &nbsp;</p>
 </a>
 </div>
 <hr>
-<h3>PRECISE Extends GLOW Programme Through New International Collaboration with University of Wisconsin-Madison</h3>
-<p>In December 2025, PRECISE extended the <strong>GLOW (<a href="https://www.npm.sg/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener noreferrer nofollow" target="_blank"><u>Gut Linked Outcomes in Wellbeing</u></a>) </strong>programme
-beyond Asia through a new international collaboration with the University
-of Wisconsin-Madison (UW-Madison). The partnership marks a significant
-step in PRECISE's efforts to advance global precision medicine and mental
-health research.</p>
-<p>Together with researchers at UW-Madison’s Wisconsin Institute for Discovery
-and Centre for Healthy Minds, PRECISE will complement its Singapore cohort
-with an additional 1,500 participants recruited from the U.S. This cross-population
-study will analyse gut microbial composition and human genomic data to
-identify biological links between the gut microbiome and mental health,
-of which the latter constitutes a leading cause of disability worldwide.</p>
-<p>The collaboration also opens a novel line of inquiry into the gut-brain
-axis: how mindfulness and meditation influence the microbiome, drawing
-on data from wearable devices and digital health tools alongside biological
-sampling. These findings will be analysed alongside the Singapore cohort
-data, strengthening the cross-population dimension of the study and enabling
-researchers to identify both shared and population-specific links between
-the gut microbiome and mental health.</p>
-<p>By bringing together world-class expertise in genomics, data science,
-clinical psychology and behavioural health, this international partnership
-reflects PRECISE's commitment to advancing precision medicine in Singapore
-and globally, through interdisciplinary research into depression and the
-microbiome across diverse populations.</p>
-<p><a href="https://wid.wisc.edu/researchers-at-uw-madison-receive-major-grant-to-study-the-link-between-mental-health-and-the-microbiome/" rel="noopener noreferrer nofollow" target="_blank"><u>Read the full announcement from the University of Wisconsin-Madison here.</u></a>
-</p>
+<h3>Microbiomes and Mental Health</h3>
+<p>The gut microbiome plays a powerful role not just in physical health,
+but in brain function and mental well-being. Growing evidence shows a deep
+connection between the gut and brain through complex biochemical and neural
+pathways, yet little is known about how diet and lifestyles influence mental
+health, mood and behaviour. &nbsp;</p>
+<p>In October 2025, GLOW (Gut Linked Outcomes in Wellbeing) was launched
+as multi-institutional &nbsp; research initiative including:</p>
+<ul>
+<li>
+<p>Precision Health Research, Singapore (PRECISE)</p>
+</li>
+<li>
+<p>Duke-NUS Medical School</p>
+</li>
+<li>
+<p>Agency for Science, Technology and Research (A*STAR)</p>
+</li>
+<li>
+<p>Genome Institute of Singapore (A*STAR GIS)</p>
+</li>
+<li>
+<p>NHG Health’s Institute of Mental Health (IMH)</p>
+</li>
+<li>
+<p>NHG Polyclinics and Tan Tock Seng Hospital (TTSH)</p>
+</li>
+<li>
+<p>Lee Kong Chian School of Medicine (LKCMedicine) at Nanyang Technological
+University, Singapore</p>
+</li>
+<li>
+<p>National University of Singapore (NUS).&nbsp;</p>
+</li>
+</ul>
+<p>The multi-institutional effort is focused on a landmark study exploring
+the links between Asian gut microbiomes and mental health. This initiative
+comes at a time where the prevalence of poor mental health is increasing,
+making it a priority for Singapore.&nbsp;</p>
+<p>Building on the National Precision Medicine (NPM) programme's PRECISE-SG100K
+cohort, the study will recruit over 6,000 participants, including individuals
+living with mental health conditions. Researchers will collect biological
+samples (stool, skin, blood) and conduct psychological assessments to gather
+data on participant mental health status, use multi-omics technologies
+to identify characteristics of the microbial communities inhabiting in
+participants, making this one of the largest Asian mental health-microbiome
+cohorts.&nbsp;&nbsp;</p>
+<p>In December 2025, PRECISE extended GLOW beyond Asia through a new collaboration
+with the University of Wisconsin-Madison (UW-Madison). Researchers at UW-Madison’s
+Wisconsin Institute for Discovery and Centre for Healthy Minds will recruit
+1,500 U.S. participants to complement the Singapore cohort, enabling cross-population
+analysis of the gut microbiome and mental health. The collaboration also
+opens a novel line of inquiry into the gut-brain axis: how mindfulness
+and meditation influence the microbiome, drawing on data from wearable
+devices and digital health tools alongside biological sampling. This international
+partnership reflects PRECISE's commitment to advancing precision mental
+health research through interdisciplinary collaboration across diverse
+populations.</p>
+<p>Ultimately, the goal is to uncover how interactions between host DNA (genetics)
+and gut microbes shape mood, cognition, and mental well-being, identify
+microbial signatures and biomarkers, and ultimately inform the development
+of more precise and locally relevant interventions. In the future, these
+findings could potentially leading to more targeted care, new dietary interventions
+or microbial therapies.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Research Programmes/Microbiomes and Mental Health/MindOverMicrobes_infographic_final_150dpi_reduced_size.png">
