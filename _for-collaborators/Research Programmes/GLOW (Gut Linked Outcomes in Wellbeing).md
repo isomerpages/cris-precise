@@ -24,7 +24,6 @@ The multi-institutional effort is focused on a landmark study exploring
 the links between Asian gut microbiomes and mental health. This initiative
 comes at a time where the prevalence of poor mental health is increasing,
 making it a priority for Singapore.&nbsp;</p>
-<hr>
 <p>Building on the National Precision Medicine (NPM) programme's PRECISE-SG100K
 cohort, the study will recruit over 6,000 participants, including individuals
 living with mental health conditions. Researchers will collect biological
