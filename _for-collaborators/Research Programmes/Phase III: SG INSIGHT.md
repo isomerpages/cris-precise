@@ -48,10 +48,6 @@ phenotypic data to drive research and clinical outcomes.</p>
 <li>
 <p>Build a community of engaged patient participants who actively contribute
 to genomic research and healthcare innovation.</p>
-<p></p>
-<h3><strong>Our Ecosystem Partners</strong></h3>
-<p>&lt;INSERT PARTNER LOGOS&gt;</p>
 </li>
 </ol>
-<p></p>
 <p></p>
