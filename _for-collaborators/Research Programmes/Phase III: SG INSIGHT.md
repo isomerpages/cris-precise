@@ -23,7 +23,7 @@ early to late-stage disease, in real-world settings.</p>
 <p>Furthermore, the falling costs of genetic sequencing and information technology
 may mean that it may soon make economic and clinical sense for each patient’s
 entire genome to be sequenced once and analysed as needed across their
-lifetime, a concept we team as SOAR (Sequence Once, Analyse Repeatedly).</p>
+lifetime, a concept we term as SOAR (Sequence Once, Analyse Repeatedly).</p>
 <h3><strong>Phase III Goals</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
