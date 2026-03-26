@@ -31,11 +31,11 @@ lifetime, a concept we term as SOAR (Sequence Once, Analyse Repeatedly).</p>
 </li>
 <li>
 <p>Establish Genomic Innovation Hubs in each healthcare cluster to identify
-genetic conditions that may be suitable for eventual mainstreaming</p>
+genetic conditions that may be suitable for eventual mainstreaming.</p>
 </li>
 <li>
 <p>Demonstrate large-scale whole genome sequencing clinical utility, starting
-with pharmacogenomics and expanding to other use-cases as evidence emerges</p>
+with pharmacogenomics and expanding to other use-cases as evidence emerges.</p>
 </li>
 <li>
 <p>Advance the PRECISE-SG100K (Phase II) resource with new multi-omic, imaging
