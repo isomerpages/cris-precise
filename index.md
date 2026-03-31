@@ -65,6 +65,19 @@ sections:
       alt: Article Thumbnail
       description: Interdisciplinary collaboration is the key to unravelling the
         complex relationship between mental health and the gut...
+  - textcards:
+      title: Upcoming Events
+      id: textcards
+      description: Explore our latest events and register your interest!
+      cards:
+        - title: GLOW Symposium
+          description: Integrative Perspectives on the Host Microbiome and Mental Well-Being
+          linktext: Learn more →
+          url: /integrative-perspectives-on-the-host-microbiome-and-mental-wellbeing/
+        - title: GA4GH 14th Plenary
+          description: GA4GH's first Asia plenary — Singapore, 28 Sep–2 Oct 2026.
+          linktext: Learn more →
+          url: /ga4gh-14th-plenary-meeting-2026/
   - infopic:
       title: Singapore's National Precision Medicine Strategy
       id: infopic
