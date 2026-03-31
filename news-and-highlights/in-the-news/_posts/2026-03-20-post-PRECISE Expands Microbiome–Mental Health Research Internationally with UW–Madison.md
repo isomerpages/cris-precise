@@ -35,7 +35,7 @@ microbiome across diverse populations.</p>
 </p>
 <hr>
 <h3><strong>Quick Links</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/integrative-perspectives-on-the-host-microbiome-and-mental-wellbeing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GLOW Symposium 2026" src="/images/Resources/Events/GLOW_event_KV_widescreen_small.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GLOW Symposium 2026</div><div class="isomer-card-description">The GLOW x UW-Madison collab begins here. Join us and be part of this new chapter in microbiome and mental health research.</div><div class="isomer-card-link">Save your spot →</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/integrative-perspectives-on-the-host-microbiome-and-mental-wellbeing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GLOW Symposium 2026" src="/images/Resources/Events/GLOW_event_KV_widescreen_small.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GLOW Symposium 2026</div><div class="isomer-card-description">The first joint symposium between GLOW and UW–Madison. Join us to learn more about microbiome and mental health research.</div><div class="isomer-card-link">Save your spot →</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/glow-gut-linked-outcomes-in-wellbeing/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
