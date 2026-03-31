@@ -7,7 +7,22 @@ description: ""
 image: /images/Resources/Events/GLOW_event_KV_widescreen_small.jpg
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://for.sg/glow-wissing-meeting-2026"><img style="width: 100%" height="auto" width="100%" alt="WisSing Symposium 2026" src="/images/Resources/Events/GLOW_WisSing_Project_Meeting_EDM.jpg"></a>
+<h3><strong>About the Symposium</strong></h3>
+<p>The gut microbiome and brain are deeply interconnected regulators of mental
+health. This symposium brings together researchers across disciplines to
+explore how microbial signals shape brain function, behaviour, and psychiatric
+risk, and what this means for preventing and treating mental illness.</p>
+<p>Featuring two landmark initiatives: the <a href="/precise-extends-glow-with-new-collaboration-with-university-of-wisconsin-madison/" class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" rel="noopener noreferrer nofollow" target="_blank">GLOW (Gut Linked Outcomes in Wellbeing)</a> cohort
+study, one of Asia's largest investigations into the gut microbiome and
+mental health, and the LUCIDA Project at University of Wisconsin–Madison,
+which examines gut-depression links across diverse populations using genomic
+and digital phenotyping approaches. Together, these initiatives aim to
+deepen our understanding of microbiome-brain interactions and to inform
+innovative strategies for the prevention and treatment of mental illness.</p>
+<h3><strong>Programme Details</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WisSing Symposium 2026" src="/images/Resources/Events/No_Synopsis__GLOW_WisSing_Project_Meeting_EDM.jpg">
+</div>
 <hr>
 <h3><strong>Quick Links</strong></h3>
 <p></p>
