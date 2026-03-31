@@ -75,7 +75,7 @@ sections:
           linktext: Learn more →
           url: /integrative-perspectives-on-the-host-microbiome-and-mental-wellbeing/
         - title: GA4GH 14th Plenary
-          description: GA4GH's first plenary in Asia — Singapore, 28 Sep–2 Oct 2026.
+          description: GA4GH's first plenary in Asia — Singapore, 28 Sep to 2 Oct 2026.
           linktext: Learn more →
           url: /ga4gh-14th-plenary-meeting-2026/
   - infopic:
