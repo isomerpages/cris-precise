@@ -12,9 +12,9 @@ variant: tiptap
 health. This symposium brings together researchers across disciplines to
 explore how microbial signals shape brain function, behaviour, and psychiatric
 risk, and what this means for preventing and treating mental illness. At
-the heart of this symposium is an international collaboration spanning
-Singapore and the United States.</p>
-<p>The <a href="/precise-extends-glow-with-new-collaboration-with-university-of-wisconsin-madison/" class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" rel="noopener noreferrer nofollow" target="_blank">GLOW (Gut Linked Outcomes in Wellbeing)</a> cohort
+the heart of this symposium is an <a href="/precise-extends-glow-with-new-collaboration-with-university-of-wisconsin-madison/" rel="noopener nofollow" target="_blank">international collaboration spanning Singapore and the United States.</a>
+</p>
+<p>The <a href="/glow-gut-linked-outcomes-in-wellbeing/" class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" rel="noopener noreferrer nofollow" target="_blank">GLOW (Gut Linked Outcomes in Wellbeing)</a> cohort
 study is one of Asia's largest investigations into the gut microbiome and
 mental health. Complementing this, the LUCIDA Project at University of
 Wisconsin–Madison examines gut-depression links across diverse populations,
