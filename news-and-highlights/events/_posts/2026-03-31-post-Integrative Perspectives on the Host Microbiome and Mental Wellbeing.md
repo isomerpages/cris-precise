@@ -22,10 +22,7 @@ innovative strategies for the prevention and treatment of mental illness.</p>
 <p>As the first joint symposium between <a href="/precise-expands-microbiome-mental-health-research-internationally-with-uw-madison/" rel="noopener nofollow" target="_blank">GLOW and UW-Madison</a>,
 we invite you to join us in shaping the future of microbiome and mental
 health research. Find out more about the programme below.</p>
-<h3><strong>Programme Details</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WisSing Symposium 2026" src="/images/Resources/Events/No_Synopsis__GLOW_WisSing_Project_Meeting_EDM.jpg">
-</div>
+<h3><strong>Programme Details</strong></h3><a class="isomer-image-wrapper" href="https://for.sg/glow-wissing-meeting-2026"><img style="width: 100%" height="auto" width="100%" alt="WisSing Symposium 2026" src="/images/Resources/Events/No_Synopsis__GLOW_WisSing_Project_Meeting_EDM.jpg"></a>
 <hr>
 <h3><strong>Quick Links</strong></h3>
 <p></p>
