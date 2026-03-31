@@ -12,16 +12,16 @@ variant: tiptap
 health. This symposium brings together researchers across disciplines to
 explore how microbial signals shape brain function, behaviour, and psychiatric
 risk.</p>
-<p>At the heart of this symposium is an <a href="/precise-expands-microbiome-mental-health-research-internationally-with-uw-madison/" rel="noopener nofollow" target="_blank">international collaboration spanning Singapore and the United States.</a>
-</p>
-<p>The <a href="/glow-gut-linked-outcomes-in-wellbeing/" class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" rel="noopener noreferrer nofollow" target="_blank">GLOW (Gut Linked Outcomes in Wellbeing)</a> cohort
+<p>The <strong>GLOW</strong>  <a href="/glow-gut-linked-outcomes-in-wellbeing/" rel="noopener nofollow" target="_blank">(Gut Linked Outcomes in Wellbeing)</a> cohort
 study is one of Asia's largest investigations into the gut microbiome and
-mental health. Complementing this, the LUCIDA Project at University of
-Wisconsin–Madison examines gut-depression links across diverse populations,
-using genomic, behavioural, and digital phenotyping approaches. Together,
-these initiatives aim to deepen our understanding of microbiome-brain interactions
-and to inform innovative strategies for the prevention and treatment of
-mental illness.</p>
+mental health. Complementing this, the <strong>LUCIDA Project at University of Wisconsin–Madison</strong> examines
+gut-depression links across diverse populations, using genomic, behavioural,
+and digital phenotyping approaches. Together, these initiatives aim to
+deepen our understanding of microbiome-brain interactions and to inform
+innovative strategies for the prevention and treatment of mental illness.</p>
+<p>As the first joint symposium between <a href="/precise-expands-microbiome-mental-health-research-internationally-with-uw-madison/" rel="noopener nofollow" target="_blank">GLOW and UW-Madison</a>,
+we invite you to join us in shaping the future of microbiome and mental
+health research. Find out more about the programme below.</p>
 <h3><strong>Programme Details</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WisSing Symposium 2026" src="/images/Resources/Events/No_Synopsis__GLOW_WisSing_Project_Meeting_EDM.jpg">
