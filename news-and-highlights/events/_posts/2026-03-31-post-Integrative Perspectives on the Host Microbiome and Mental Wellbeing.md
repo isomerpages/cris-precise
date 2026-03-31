@@ -15,7 +15,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="/glow-gut-linked-outcomes-in-wellbeing/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GLOW programme" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="GLOW programme" src="/images/Resources/Events/Microbiome_KV.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
