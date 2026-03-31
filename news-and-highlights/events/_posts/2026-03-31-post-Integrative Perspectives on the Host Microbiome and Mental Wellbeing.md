@@ -18,10 +18,10 @@ risk.</p>
 study is one of Asia's largest investigations into the gut microbiome and
 mental health. Complementing this, the LUCIDA Project at University of
 Wisconsin–Madison examines gut-depression links across diverse populations,
-using genomic and digital phenotyping approaches. Together, these initiatives
-aim to deepen our understanding of microbiome-brain interactions and to
-inform innovative strategies for the prevention and treatment of mental
-illness.</p>
+using genomic, behavioural, and digital phenotyping approaches. Together,
+these initiatives aim to deepen our understanding of microbiome-brain interactions
+and to inform innovative strategies for the prevention and treatment of
+mental illness.</p>
 <h3><strong>Programme Details</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WisSing Symposium 2026" src="/images/Resources/Events/No_Synopsis__GLOW_WisSing_Project_Meeting_EDM.jpg">
