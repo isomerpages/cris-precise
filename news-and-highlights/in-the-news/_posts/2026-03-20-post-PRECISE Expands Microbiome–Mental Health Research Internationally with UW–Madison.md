@@ -1,7 +1,7 @@
 ---
-title: PRECISE extends GLOW through new international collaboration with
-  University of Wisconsin–Madison
-permalink: /precise-extends-glow-with-new-collaboration-with-university-of-wisconsin-madison/
+title: PRECISE Expands Microbiome–Mental Health Research Internationally with
+  UW–Madison
+permalink: /precise-expands-microbiome-mental-health-research-internationally-with-uw-madison/
 date: 2026-03-20
 layout: post
 description: ""
@@ -33,3 +33,21 @@ and globally, through interdisciplinary research into depression and the
 microbiome across diverse populations.</p>
 <p><a href="https://wid.wisc.edu/researchers-at-uw-madison-receive-major-grant-to-study-the-link-between-mental-health-and-the-microbiome/" rel="noopener noreferrer nofollow" target="_blank"><u>Read the full announcement from the University of Wisconsin-Madison here →</u></a>
 </p>
+<hr>
+<h3><strong>Quick Links</strong></h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/integrative-perspectives-on-the-host-microbiome-and-mental-wellbeing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GLOW Symposium 2026" src="/images/Resources/Events/GLOW_event_KV_widescreen_small.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GLOW Symposium 2026</div><div class="isomer-card-description">The first joint symposium between GLOW and UW–Madison. Join us to learn more about microbiome and mental health research.</div><div class="isomer-card-link">Save your spot →</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/glow-gut-linked-outcomes-in-wellbeing/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GLOW programme" src="/images/Resources/Events/Microbiome_KV.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GLOW programme</div>
+<div class="isomer-card-description">Discover how gut microbiome interact with genetic and lifestyle factors
+to shape mood, cognition, and mental health outcomes.</div>
+<div class="isomer-card-link">Learn more →</div>
+</div>
+</a>
+</div>
+<p></p>
