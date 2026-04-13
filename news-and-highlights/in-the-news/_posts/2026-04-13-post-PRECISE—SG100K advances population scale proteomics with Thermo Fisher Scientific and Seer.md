@@ -24,18 +24,18 @@ to catalyse opportunities beyond its immediate research scope.</p>
 <hr>
 <h4><strong>Read more here:</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Expands-Global-Biobank-Leadership-Through-Strategic-Collaboration-with-PRECISE-SG100K-Singapore-to-Advance-Population-Scale-Proteomics/default.aspx" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Announcement from Thermo Fisher Scientific" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Announcement from Thermo Fisher Scientific</div><div class="isomer-card-link">Read more →</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Expands-Global-Biobank-Leadership-Through-Strategic-Collaboration-with-PRECISE-SG100K-Singapore-to-Advance-Population-Scale-Proteomics/default.aspx" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Announcement from Thermo Fisher Scientific" src="/images/Resources/In The News/SG100K_Press_Release_Thumbnails_01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Announcement from Thermo Fisher Scientific</div><div class="isomer-card-link">Read more →</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://investor.seer.bio/node/10081/pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Announcement from Seer" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Announcement from Seer" src="/images/Resources/In The News/SG100K_Press_Release_Thumbnails_02.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Announcement from Seer</div>
 <div class="isomer-card-link">Read more →</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.prnewswire.com/apac/news-releases/novogeneait-genomics-appointed-as-service-provider-to-advance-large-scale-proteomics-for-precise-sg100k-cohort-in-singapore-302739022.html?tc=eml_cleartime" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Announcement from NovogeneAIT" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Announcement from NovogeneAIT</div><div class="isomer-card-link">Read more →</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.prnewswire.com/apac/news-releases/novogeneait-genomics-appointed-as-service-provider-to-advance-large-scale-proteomics-for-precise-sg100k-cohort-in-singapore-302739022.html?tc=eml_cleartime" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Announcement from NovogeneAIT" src="/images/Resources/In The News/SG100K_Press_Release_Thumbnails_03.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Announcement from NovogeneAIT</div><div class="isomer-card-link">Read more →</div></div></a>
 </div>
 <p></p>
 <hr>
