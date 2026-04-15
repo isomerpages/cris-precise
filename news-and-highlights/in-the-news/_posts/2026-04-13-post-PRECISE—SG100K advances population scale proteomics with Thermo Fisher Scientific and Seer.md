@@ -39,6 +39,3 @@ to catalyse opportunities beyond its immediate research scope.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://www.prnewswire.com/apac/news-releases/novogeneait-genomics-appointed-as-service-provider-to-advance-large-scale-proteomics-for-precise-sg100k-cohort-in-singapore-302739022.html?tc=eml_cleartime" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Announcement from NovogeneAIT" src="/images/Resources/In The News/SG100K_Press_Release_Thumbnails_03.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Announcement from NovogeneAIT</div><div class="isomer-card-link">Read more →</div></div></a>
 </div>
 <p></p>
-<hr>
-<p></p>
-<p></p>
