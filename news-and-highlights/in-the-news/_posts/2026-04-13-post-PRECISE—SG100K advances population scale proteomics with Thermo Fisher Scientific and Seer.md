@@ -8,19 +8,21 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>PRECISE has established partnerships to build an integrated, multi-layered
-proteomics analysis across one of the largest and most diverse Asian population
-health cohorts.</p>
-<p>The partnerships with Thermo Fisher and Seer will add a proteomics layer
-to strengthen the PRECISE-SG100K cohort’s ability to translate genomic
-insights into biological and clinical understanding. By combining targeted
-and discovery-based approaches, it will generate protein data to help elucidate
-disease mechanisms and identify clinically relevant biomarkers.</p>
+<p>PRECISE has partnered with Thermo Fisher and Seer to add advanced protein
+analysis to one of the largest and most diverse Asian population health
+cohorts – PRECISE-SG100K.</p>
+<p>The partnerships with Thermo Fisher and Seer will deploy targeted, high-sensitivity,
+protein measurement with deep, unbiased discovery proteomics. Taken together,
+the advanced protein analysis will strengthen the PRECISE-SG100K cohort's
+ability to harness genomic variations, other health-related data and real-time
+biological insights to help elucidate disease mechanisms and identify clinically
+relevant biomarkers.</p>
 <p>This work also supports the broader Singapore ecosystem. While Thermo
 Fisher Scientific’s platforms underpin the analysis, delivery at scale
 engages regional service capabilities, with NovogeneAIT Genomics supporting
 implementation as a vendor partner—reflecting how PRECISE-SG100K continues
 to catalyse opportunities beyond its immediate research scope.</p>
+<p></p>
 <hr>
 <h4><strong>Read more here:</strong></h4>
 <p></p>
