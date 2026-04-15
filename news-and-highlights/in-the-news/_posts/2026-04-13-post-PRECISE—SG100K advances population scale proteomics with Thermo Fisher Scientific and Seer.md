@@ -22,6 +22,7 @@ Fisher Scientific’s platforms underpin the analysis, delivery at scale
 engages regional service capabilities, with NovogeneAIT Genomics supporting
 implementation as a vendor partner—reflecting how PRECISE-SG100K continues
 to catalyse opportunities beyond its immediate research scope.</p>
+<p></p>
 <hr>
 <h4><strong>Read more here:</strong></h4>
 <p></p>
