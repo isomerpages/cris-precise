@@ -89,17 +89,17 @@ support, and knowledge transfer and workforce development.&nbsp;</p>
 <hr>
 <h4>You might also be interested in:</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/precise-sg100k-advances-population-scale-proteomics-with-thermo-fisher-scientific-and-seer/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PRECISE-SG100K advances population scale proteomics with...</div><div class="isomer-card-link">Read more →</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/precise-sg100k-advances-population-scale-proteomics-with-thermo-fisher-scientific-and-seer/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Proteomics" src="/images/Resources/In The News/Website_Cards_Thumbnails_proteomics.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PRECISE-SG100K advances population scale proteomics with...</div><div class="isomer-card-link">Read more →</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/precise-expands-microbiome-mental-health-research-internationally-with-uw-madison/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Microbiome" src="/images/Resources/In The News/Website_Cards_Thumbnails_Microbiome.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">PRECISE Expands Microbiome–Mental Health Research...</div>
 <div class="isomer-card-link">Read more →</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/ga4gh-14th-plenary-will-take-place-in-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GA4GH 14th Plenary will take place in Singapore</div><div class="isomer-card-link">Read more →</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/ga4gh-14th-plenary-will-take-place-in-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GA4GH 14th Plenary" src="/images/Resources/In The News/Website_Cards_Thumbnails_14thPlenary.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GA4GH 14th Plenary will take place in Singapore</div><div class="isomer-card-link">Read more →</div></div></a>
 </div>
 <p></p>
