@@ -7,7 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>GSK’s participation in the PRECISE–SG100K Pharma Pre Competitive Consortium (PCC) reflects growing industry recognition of Singapore’s National Precision Medicine (NPM) and the PRECISE- SG100K project, as a strategic platform for collaboration in advancing national population health and strengthening Singapore’s position as a trusted hub for precision medicine research in Asia.</h4>
+<h3><strong>GSK’s participation in the PRECISE–SG100K Pharma Pre Competitive Consortium (PCC) reflects growing industry recognition of Singapore’s National Precision Medicine (NPM) and the PRECISE- SG100K project, as a strategic platform for collaboration in advancing national population health and strengthening Singapore’s position as a trusted hub for precision medicine research in Asia.</strong></h3>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>GSK joins as the newest member of PRECISE-SG100K PCC, alongside Alnylam,
