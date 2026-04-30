@@ -7,20 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>GSK’s participation reflects growing industry recognition of Singapore’s
-National Precision Medicine (NPM) and the PRECISE- SG100K project, as a
-strategic platform for collaboration in advancing national population health
-and strengthening Singapore’s position as a trusted hub for precision medicine
-research in Asia.</p>
-<hr>
-<h4><strong>Bullet point overview:</strong></h4>
+<h4>GSK’s participation in the PRECISE–SG100K Pharma Pre Competitive Consortium (PCC) reflects growing industry recognition of Singapore’s National Precision Medicine (NPM) and the PRECISE- SG100K project, as a strategic platform for collaboration in advancing national population health and strengthening Singapore’s position as a trusted hub for precision medicine research in Asia.</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>GSK joins as the newest member of PRECISE-SG100K Pharma Pre-competitive
-Consortium, alongside Alnylam, Bayer, Boehringer Ingelheim and Novo Nordisk.</p>
+<p>GSK joins as the newest member of PRECISE-SG100K PCC, alongside Alnylam,
+Bayer, Boehringer Ingelheim and Novo Nordisk.</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>As Asia’s first pharma pre-competitive consortium of its kind, the collaboration
 positions Singapore as a convening centre for global pharmaceutical partners
@@ -35,10 +27,11 @@ research focused on Asian populations.</p>
 </li>
 </ul>
 <hr>
-<p>(SINGAPORE, 05-MAY-2026) Precision Health Research, Singapore (PRECISE)
-today announced that GSK has joined the PRECISE-SG100K Pharma Pre-competitive
-Consortium, becoming the fifth global pharmaceutical company to participate
-in this collaboration, anchored on the PRECISE-SG100K dataset. &nbsp;</p>
+<p><strong>SINGAPORE, 5 MAY 2026 -</strong> Precision Health Research, Singapore
+(PRECISE) today announced that GSK has joined the PRECISE-SG100K Pharma
+Pre-competitive Consortium, becoming the fifth global pharmaceutical company
+to participate in this collaboration, anchored on the PRECISE-SG100K dataset.
+&nbsp;</p>
 <p>The growing Consortium also includes Alnylam, Bayer, Boehringer Ingelheim
 and Novo Nordisk. Built on the PRECISE-SG100K dataset, GSK's participation
 underscores the growing strategic importance of Asian genomic data. Under
@@ -67,21 +60,21 @@ medicine research in a careful and systematic way. By enabling secure and
 governed access to the PRECISE-SG100K dataset and working with partners
 across the ecosystem, we can generate evidence on how genetic, clinical
 and lifestyle factors interact in Asian populations, and support research
-into disease risk, progression and treatment response over time.” said
+into disease risk, progression and treatment response over time,” said
 Prof Patrick Tan, Executive Director, PRECISE.</p>
 <p>“This is a pivotal step in generating Asian-specific genomic insights
 and R&amp;D partnership in Singapore for GSK. Through the high-quality
 PRECISE-SG100K dataset, combined with other global datasets, we are continuing
 to deepen our understanding of human biology and disease and to translate
 those insights to discover, develop and deliver new medicines for patients
-in the region and around the world.” said Robert Scott, Vice President
+in the region and around the world,” said Robert Scott, Vice President
 of R&amp;D Translational Sciences at GSK.</p>
 <p>“The exciting partnership of GSK with PRECISE marks a significant milestone
 in GSK’s journey of advancing R&amp;D in Asia, leveraging the strength
 of Singapore in global healthcare innovation and driving continued development
-of local ecosystems and talent growth.” said Beulah Ji, Vice President,
+of local ecosystems and talent growth,” said Beulah Ji, Vice President,
 Head of GSK Asia R&amp;D.</p>
-<p>GSK's addition to the Pre-competitive Consortium will deepen collaboration
+<p>GSK's addition to the Pre-Competitive Consortium will deepen collaboration
 between academia, healthcare and industry, strengthening Singapore's biomedical
 ecosystem through enhanced data science capabilities, translational research
 support, and knowledge transfer and workforce development.&nbsp;</p>
