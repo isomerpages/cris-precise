@@ -87,7 +87,7 @@ support, and knowledge transfer and workforce development.&nbsp;</p>
 <a rel="noopener noreferrer nofollow" href="/precise-announces-landmark-partnership/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Partnership" src="/images/Resources/In The News/Website_Cards_Thumbnails_default_partnership.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Partnership" src="/images/Resources/In The News/Website_Cards_Thumbnails_default_PRECISE.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
