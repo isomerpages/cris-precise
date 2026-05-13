@@ -15,8 +15,8 @@ third_nav_title: Resources
 </li>
 </ul>
 <p>Interested applicants are highly recommended to read through the data
-access policies and data access forms via the the <a href="https://npm.a-star.edu.sg/help/" rel="noopener noreferrer nofollow" target="_blank"><u>SG10K_Health portal.</u></a>
+access policies and data access forms via the the <a href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/npm/data-access/" rel="noopener noreferrer nofollow" target="_blank"><u>SG10K_Health portal.</u></a>
 </p>
-<p>For more information on the list of approved studies, please visit this
-<a href="https://npm.a-star.edu.sg" rel="noopener nofollow" target="_blank">website</a>
+<p>For more information on the SG10K_Health dataset, please visit this
+<a href="https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/npm" rel="noopener nofollow" target="_blank">website</a>.
 </p>
