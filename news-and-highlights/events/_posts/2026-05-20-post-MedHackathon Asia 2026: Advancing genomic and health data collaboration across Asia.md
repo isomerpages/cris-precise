@@ -8,19 +8,16 @@ description: ""
 image: /images/Resources/Events/medhackathon_logo.png
 variant: tiptap
 ---
-<h3><strong>Overview </strong></h3>
+<h3><strong>Overview</strong></h3>
 <p>MedHackathon Asia is a regional meeting for researchers, clinicians, bioinformaticians,
 data stewards, and precision medicine leaders working to strengthen genomic
 and health data collaboration across Asia.</p>
-<p>The 2026 edition builds on the discussions and project outcomes documented
-after <a href="https://medhackathon.github.io/2025/" rel="noopener noreferrer nofollow" target="_blank">MedHackathon Asia 2025</a>.
-The shared objective is to unlock the scientific and clinical value of
-Asian genomic diversity through practical collaboration on biobanks, data
-standards, computational workflows, and responsible governance.</p>
+<p>Supported by PRECISE (Precision Health Research, Singapore), the 2026
+edition builds on the discussions and project outcomes documented after
+<a href="https://medhackathon.github.io/2025/" rel="noopener noreferrer nofollow" target="_blank">MedHackathon Asia 2025</a>. The shared objective is to unlock the scientific
+and clinical value of Asian genomic diversity through practical collaboration
+on biobanks, data standards, computational workflows, and responsible governance.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Events/download.jpg">
-</div>
 <h4>Who should join?</h4>
 <p>This event is intended for participants working in human genetics, medical
 informatics, biobanking, clinical genomics, bioinformatics, data governance,
@@ -78,6 +75,9 @@ reporting</p>
 </li>
 </ul>
 <h4>Event Venue</h4>
+<p>The meeting takes place at <strong>D’MARQUEE in Downtown East, Pasir Ris, Singapore</strong>,
+locally hosted by PRECISE (Precision Health Research, Singapore). Attendee
+check-in is at the venue reception on Monday 27 July from 12:00.</p>
 <p><strong>Location</strong>: D’MARQUEE at Downtown East 1 Pasir Ris Close,
 Singapore 519599</p>
 <p><strong>Getting there</strong>:</p>
@@ -115,7 +115,4 @@ form: <a href="https://forms.gle/WcKWEFwJk8w3P3e79" rel="noopener noreferrer nof
 <p>For any enquiries, please join the Google group at <a href="https://groups.google.com/u/4/g/medhackathon-asia" rel="noopener noreferrer nofollow" target="_blank">MedHackathon Asia</a> or
 email the organisers at <a href="mailto:admin-medhackathon-asia@googlegroups.com" rel="noopener noreferrer nofollow" target="_blank">admin-medhackathon-asia@googlegroups.com</a>.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Resources/Events/download__2_.jpg">
-</div>
 <p></p>
