@@ -75,11 +75,11 @@ reporting</p>
 </li>
 </ul>
 <h4>Event Venue</h4>
-<p>The meeting takes place at <strong>D’MARQUEE in Downtown East, Pasir Ris, Singapore</strong>,
+<p>The meeting takes place at <strong>Begonia Pavilion in Downtown East, Pasir Ris, Singapore</strong>,
 locally hosted by PRECISE (Precision Health Research, Singapore). Attendee
 check-in is at the venue reception on Monday 27 July from 12:00.</p>
-<p><strong>Location</strong>: D’MARQUEE at Downtown East 1 Pasir Ris Close,
-Singapore 519599</p>
+<p><strong>Location</strong>: Begonia Pavilion at Downtown East 1 Pasir Ris
+Close, Singapore 519599</p>
 <p><strong>Getting there</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -98,9 +98,9 @@ minutes.</p>
 </li>
 </ul>
 <h4>Accommodation</h4>
-<p>D’Resort, co-located with D’MARQUEE at Downtown East, is the on-site option.
-Confirmed participants receive a list of alternative hotels nearby, with
-indicative travel times, in the registration confirmation email. Participants
+<p>D’Resort, co-located with Begonia Pavilion at Downtown East, is the on-site
+option. Confirmed participants receive a list of alternative hotels nearby,
+with indicative travel times, in the registration confirmation email. Participants
 book their own rooms.</p>
 <h4>Registration</h4>
 <p>MedHackathon Asia 2026 is a small working meeting, and venue capacity
