@@ -18,10 +18,7 @@ variant: tiptap
 condition that significantly increases cancer risk, affects about 1 in
 530 people locally, with a higher prevalence among Chinese individuals
 at about 1 in 420. The condition has no direct symptoms and can only be
-diagnosed through genetic testing.
-<br>
-<br>
-</p>
+diagnosed through genetic testing.</p>
 <p>Data from Singapore’s National Precision Medicine (NPM) programme, which
 analysed the genomes of 10,000 Singaporeans, showed that Chinese individuals
 are more likely to carry Lynch syndrome-related genetic variants and face
