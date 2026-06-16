@@ -46,7 +46,8 @@ to recruit at least 400,000 participants over the next five years for genome
 sequencing. The goal is to better understand population health and disease
 risk factors, with findings ultimately being translated into routine clinical
 care and preventive healthcare for Singapore’s population.</p>
-<p>&nbsp;</p>
 <hr>
 <p>Read the original article here: <a href="https://www.zaobao.com.sg/news/singapore/story20260613-8929072" rel="noopener noreferrer nofollow" target="_blank">华人患遗传性林奇综合征概率较高 患癌风险增高 | 联合早报</a>
 </p>
+<p></p>
+<p></p>
